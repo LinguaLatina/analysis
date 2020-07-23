@@ -1,2 +1,7 @@
 # analysis
-Libraries and utiltiy scripts for analyzing texts
+
+Libraries and utility scripts for analyzing texts.
+
+See <https://lingualatina.github.io/analysis/>.
+
+
