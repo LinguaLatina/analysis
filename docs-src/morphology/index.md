@@ -17,14 +17,14 @@ val corpus = CorpusSource.fromUrl(url, cexHeader = true)
 val chapter = corpus ~~ CtsUrn("urn:cts:latinLit:stoa1263.stoa001.hc:108a")
 ```
 
-```scala mdoc:silent
+```scala mdoc:invisible
 // From orthography and tokenizing page:
 import edu.holycross.shot.mid.orthography._
 import edu.holycross.shot.latin._
 val tokenizable = TokenizableCorpus(chapter, Latin23Alphabet)
 ```
 
-```scala mdoc
+```scala mdoc:silent
 import edu.holycross.shot.latincorpus._
 import scala.io.Source
 val fstUrl = "https://lingualatina.github.io/analysis/data/c108.fst"

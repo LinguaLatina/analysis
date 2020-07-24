@@ -8,9 +8,13 @@ nav_order: 3
 # Working with morphological analyses
 
 
+
 ```scala
-// From orthography and tokenizing page:
-import edu.holycross.shot.mid.orthography._
-import edu.holycross.shot.latin._
-val tokenizable = TokenizableCorpus(chapter, Latin23Alphabet)
+import edu.holycross.shot.latincorpus._
+import scala.io.Source
+val fstUrl = "https://lingualatina.github.io/analysis/data/c108.fst"
+val fstLines = Source.fromURL(fstUrl).getLines.toVector
+
+val lat23orthogaphy: MidOrthography = Latin23Alphabet
+val latc = LatinCorpus.fromFstLines(chapter,lat23orthogaphy, fstLines, strict=false)
 ```
