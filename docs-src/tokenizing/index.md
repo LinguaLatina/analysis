@@ -39,7 +39,7 @@ Two common activities in analyzing a corpus:
 1. Generate a word list
 2. Create a tokenized corpus:
 
-```scala mdoc
+```scala mdoc:silent
 tokenizable.wordList
 tokenizable.tokenizedCorpus
 ```
