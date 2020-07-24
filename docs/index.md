@@ -11,7 +11,7 @@ nav_order: 0
 
 - [citable texts](./citable/)
 - [orthography and tokenization](./tokenizing/)
-- working with morphological analyses
+- [working with morphological analyses](./morphology/)
 
 ## Utilities in this repository
 
