@@ -2,6 +2,7 @@
 title: Formatting a CEX file
 layout: page
 parent: Building editions
+nav_order: 1
 ---
 
 
@@ -9,7 +10,6 @@ parent: Building editions
 
 
 See pages on this site for how to build a `LatinCorpus` using data accessible from URLs like this:
-
 
 ```scala
 // From citable corpus page:
@@ -44,6 +44,7 @@ The `LatinCorpus` can generate a CEX-formatted summary of each analysis.
 We need to create a `UrnManager` than can expand the abbreviated URNs used in `tabulae`'s output to full URNs.
 
 ```scala
+import edu.holycross.shot.latincorpus._
 import edu.holycross.shot.tabulae._
 val abbreviations = Vector(
   "abbr#full",

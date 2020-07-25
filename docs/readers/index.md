@@ -12,3 +12,5 @@ We're collaborating with Christopher Blackwell to define a data model for simple
 
 
 Step 1:  [generate a CITE Collection](./cex/) recording every analysis for every token.
+
+Step 2:  [labelling information for morphological forms](./labelled-forms/)
