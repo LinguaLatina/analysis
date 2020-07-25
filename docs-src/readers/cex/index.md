@@ -47,7 +47,7 @@ We need to create a `UrnManager` than can expand the abbreviated URNs used in `t
 import edu.holycross.shot.tabulae._
 val abbreviations = Vector(
   "abbr#full",
-  s"ls#urn:cite2:tabulae:ls.v1:"
+  "ls#urn:cite2:tabulae:ls.v1:"
 )
 val urnManager = UrnManager(abbreviations)
 ```
