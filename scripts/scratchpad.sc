@@ -1,5 +1,5 @@
 
-// From citable corpus page:
+// From citable corpus page: make a ctiable corpus
 import edu.holycross.shot.cite._
 import edu.holycross.shot.ohco2._
 
@@ -7,20 +7,22 @@ val url = "https://raw.githubusercontent.com/LinguaLatina/texts/master/texts/lat
 val corpus = CorpusSource.fromUrl(url, cexHeader = true)
 val chapter = corpus ~~ CtsUrn("urn:cts:latinLit:stoa1263.stoa001.hc:108a")
 
-// From orthography and tokenizing page:
+// From orthography and tokenizing page:  make a tokenizable corpus
 import edu.holycross.shot.mid.orthography._
 import edu.holycross.shot.latin._
 val tokenizable = TokenizableCorpus(chapter, Latin23Alphabet)
 
 
+
+// From morphology page:  make a parsed LatinCorpus
 import edu.holycross.shot.latincorpus._
 import edu.holycross.shot.tabulae._
 import scala.io.Source
 val fstUrl = "https://lingualatina.github.io/analysis/data/c108.fst"
 val fstLines = Source.fromURL(fstUrl).getLines.toVector
 
-val lat23orthogaphy: MidOrthography = Latin23Alphabet
-val latc = LatinCorpus.fromFstLines(chapter,lat23orthogaphy, fstLines, strict=false)
+val lat23orthography: MidOrthography = Latin23Alphabet
+val latc = LatinCorpus.fromFstLines(chapter,lat23orthography, fstLines, strict=false)
 
 val ls =  "urn:cite2:tabulae:ls.v1:"
 val morph = "urn:cite2:tabulae:morphforms.v1:"
@@ -31,21 +33,8 @@ val abbrs = Vector(
 val umgr = UrnManager(abbrs)
 
 
-def cexToken(tkn: LatinToken, umgr: UrnManager) : Vector[String] = {
-  if (tkn.analyses.isEmpty) {
-    Vector(Vector(tkn.urn,tkn.text,ls + "null", morph + "null").mkString("#"))
-  } else {
-    val lines = for (a <- tkn.analyses) yield {
-      umgr.urn(a.lemmaId) match {
-        case None => Vector(tkn.urn,tkn.text,ls + "null", a.formUrn).mkString("#")
-        case Some(u) => Vector(tkn.urn,tkn.text,u,a.formUrn).mkString("#")
-      }
-    }
-    lines
-  }
-}
 
-val cexLines = latc.tokens.map(t => cexToken(t, umgr))
+/// PUT THIS IN LATIN CORPUS
 
 
 import java.time.LocalDate
@@ -62,3 +51,7 @@ def makeCollection(collBase: String, cex: Vector[String]) = {
   }
   citable
 }
+
+val analysisUrns = latc.tokens.map(_.analysisUrns(umgr)).flatten
+val analysisCex = analysisUrns.map(_.cex())
+val citable = makeCollection("urn:cite2:linglat:tkns.v1:",analysisCex )
