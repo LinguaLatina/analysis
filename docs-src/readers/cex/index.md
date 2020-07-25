@@ -8,7 +8,10 @@ parent: Building editions
 # Formatting a CEX file
 
 
-```scala mdoc:invisible
+See pages on this site for how to build a `LatinCorpus` using data accessible from URLs like this:
+
+
+```scala mdoc:silent
 // From citable corpus page:
 import edu.holycross.shot.cite._
 import edu.holycross.shot.ohco2._
@@ -18,14 +21,13 @@ val corpus = CorpusSource.fromUrl(url, cexHeader = true)
 val chapter = corpus ~~ CtsUrn("urn:cts:latinLit:stoa1263.stoa001.hc:108a")
 ```
 
-```scala mdoc:invisible
+```scala mdoc:silent
 // From orthography and tokenizing page:
 import edu.holycross.shot.mid.orthography._
 import edu.holycross.shot.latin._
 val tokenizable = TokenizableCorpus(chapter, Latin23Alphabet)
 ```
 
-See pages on this site for how to build a `LatinCorpus` like this:
 
 ```scala mdoc:silent
 import edu.holycross.shot.latincorpus._

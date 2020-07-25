@@ -8,9 +8,26 @@ parent: Building editions
 # Formatting a CEX file
 
 
+See pages on this site for how to build a `LatinCorpus` using data accessible from URLs like this:
 
 
-See pages on this site for how to build a `LatinCorpus` like this:
+```scala
+// From citable corpus page:
+import edu.holycross.shot.cite._
+import edu.holycross.shot.ohco2._
+
+val url = "https://raw.githubusercontent.com/LinguaLatina/texts/master/texts/latin23/hyginus.cex"
+val corpus = CorpusSource.fromUrl(url, cexHeader = true)
+val chapter = corpus ~~ CtsUrn("urn:cts:latinLit:stoa1263.stoa001.hc:108a")
+```
+
+```scala
+// From orthography and tokenizing page:
+import edu.holycross.shot.mid.orthography._
+import edu.holycross.shot.latin._
+val tokenizable = TokenizableCorpus(chapter, Latin23Alphabet)
+```
+
 
 ```scala
 import edu.holycross.shot.latincorpus._
@@ -71,5 +88,5 @@ val header = "#!ctsdata\nurn#label#passage#text#lexeme#form\n"
 // """
 new PrintWriter("token-analyses.cex"){
   write(header + cexLines.mkString("\n")); close;}
-// res0: PrintWriter = repl.Session$App$$anon$1@35c78fdf
+// res0: PrintWriter = repl.Session$App$$anon$1@7e487264
 ```
