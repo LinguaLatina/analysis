@@ -83,10 +83,6 @@ Write the results to a local file if you like:
 ```scala
 import java.io.PrintWriter
 val header = "#!ctsdata\nurn#label#passage#text#lexeme#form\n"
-// header: String = """#!ctsdata
-// urn#label#passage#text#lexeme#form
-// """
 new PrintWriter("token-analyses.cex"){
   write(header + cexLines.mkString("\n")); close;}
-// res0: PrintWriter = repl.Session$App$$anon$1@7e487264
 ```

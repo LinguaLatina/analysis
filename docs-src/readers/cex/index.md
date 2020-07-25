@@ -62,7 +62,7 @@ val cexLines = latc.citeCollectionLines(urnManager)
 
 Write the results to a local file if you like:
 
-```scala mdoc
+```scala mdoc:silent
 import java.io.PrintWriter
 val header = "#!ctsdata\nurn#label#passage#text#lexeme#form\n"
 new PrintWriter("token-analyses.cex"){
