@@ -12,6 +12,7 @@ nav_order: 0
 - [citable texts](./citable/)
 - [orthography and tokenization](./tokenizing/)
 - [working with morphological analyses](./morphology/)
+- [building editions for low-friction reading](./readers/)
 
 ## Utilities in this repository
 

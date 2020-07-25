@@ -25,7 +25,7 @@ import edu.holycross.shot.latin._
 val tokenizable = TokenizableCorpus(chapter, Latin23Alphabet)
 ```
 
-See how to build a `LatinCorpus`.
+See pages on this site for how to build a `LatinCorpus` like this:
 
 ```scala mdoc:silent
 import edu.holycross.shot.latincorpus._
@@ -37,4 +37,32 @@ val lat23orthogaphy: MidOrthography = Latin23Alphabet
 val latc = LatinCorpus.fromFstLines(chapter,lat23orthogaphy, fstLines, strict=false)
 ```
 
-Then cycle through its tokens, and for each token, cycle through its analyses.
+The `LatinCorpus` can generate a CEX-formatted summary of each analysis.
+
+We need to create a `UrnManager` than can expand the abbreviated URNs used in `tabulae`'s output to full URNs.
+
+```scala mdoc:silent
+import edu.holycross.shot.tabulae._
+val abbreviations = Vector(
+  "abbr#full",
+  s"ls#urn:cite2:tabulae:ls.v1:"
+)
+val urnManager = UrnManager(abbreviations)
+```
+
+
+With that in hand, we can generate a CEX description for each analysis of each token.
+
+```scala mdoc
+val cexLines = latc.citeCollectionLines(urnManager)
+```
+
+
+Write the results to a local file if you like:
+
+```scala mdoc
+import java.io.PrintWriter
+val header = "#!ctsdata\nurn#label#passage#text#lexeme#form\n"
+new PrintWriter("token-analyses.cex"){
+  write(header + cexLines.mkString("\n")); close;}
+```

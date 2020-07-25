@@ -33,25 +33,4 @@ val abbrs = Vector(
 val umgr = UrnManager(abbrs)
 
 
-
-/// PUT THIS IN LATIN CORPUS
-
-
-import java.time.LocalDate
-import java.time.format.DateTimeFormatter
-val formatter = DateTimeFormatter.ofPattern("yyyy_MM_dd")
-val todayFormatted = LocalDate.now.format(formatter)
-
-def makeCollection(collBase: String, cex: Vector[String]) = {
-  val citable = for ( (ln, i) <- cex.zipWithIndex) yield {
-    val recordId = todayFormatted + "_" + i
-    val urnStr = collBase + recordId
-    val label = "Record " + recordId
-    urnStr + "#" + label + "#" + ln
-  }
-  citable
-}
-
-val analysisUrns = latc.tokens.map(_.analysisUrns(umgr)).flatten
-val analysisCex = analysisUrns.map(_.cex())
-val citable = makeCollection("urn:cite2:linglat:tkns.v1:",analysisCex )
+//latc.citeCollectionLines(umgr)
