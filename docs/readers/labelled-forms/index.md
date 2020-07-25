@@ -18,4 +18,4 @@ val data = Source.fromURL(url).getLines.toVector
 ```
 
 
->!WARNING! The current version is just a permutation of all possible values for each morphological property and therefore does not yet exclude impossible combinations such as first-person imperative finite verbs, or perfect active participles.
+>**WARNING** *The current version is just a permutation of all possible values for each morphological property and therefore does not yet exclude impossible combinations such as first-person imperative finite verbs, or perfect active participles.*
