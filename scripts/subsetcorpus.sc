@@ -7,12 +7,16 @@ import edu.holycross.shot.ohco2._
 // list of passages in Shelton
 val passageList = "data/shelton.txt"
 val passageUrns = Source.fromFile(passageList).getLines.toVector.map(psg => CtsUrn(psg))
+// full text of Pliny's letters
 val textUrl = "https://raw.githubusercontent.com/LinguaLatina/texts/master/texts/latin24/pliny-letters.cex"
 val corpus = CorpusSource.fromUrl(textUrl, cexHeader = true)
 
 // recursively extract  all passages in list
-// and concatenate to create  a new corpus
-
+// and concatenate to create  a new corpus.
+//
+// psgUrns: list of passages to add
+// srcCorpus: full corpus to draw from
+// newCorpus: resulting recursively concatenated corpus
 def extract(psgUrns: Vector[CtsUrn], srcCorpus: Corpus, newCorpus: Corpus = Corpus(Vector.empty[CitableNode])) :  Corpus = {
 
   if (psgUrns.isEmpty) {
@@ -27,10 +31,10 @@ def extract(psgUrns: Vector[CtsUrn], srcCorpus: Corpus, newCorpus: Corpus = Corp
   }
 }
 
+
+// tell 'em how to do it'
 def usage = {
   println("\n\nTo extract all passages in Shelton from full text of Pliny:\n")
   println("\textract(passageUrns, corpus)")
 }
-
-
 usage
