@@ -4,6 +4,9 @@
 import scala.io.Source
 import edu.holycross.shot.cite.CtsUrn
 import edu.holycross.shot.ohco2._
+import java.io.PrintWriter
+
+
 // list of passages in Shelton
 val passageList = "data/shelton.txt"
 val passageUrns = Source.fromFile(passageList).getLines.toVector.map(psg => CtsUrn(psg))
@@ -32,9 +35,22 @@ def extract(psgUrns: Vector[CtsUrn], srcCorpus: Corpus, newCorpus: Corpus = Corp
 }
 
 
+
+// write corpus to file in CEX format
+def writeCorpus(outputFile: String = "shelton.cex"): Unit = {
+  val shelton = extract(passageUrns, corpus)
+  new PrintWriter(outputFile){write(shelton.cex());close}
+  println("Wrote new corpus to " + outputFile)
+}
+
 // tell 'em how to do it'
 def usage = {
-  println("\n\nTo extract all passages in Shelton from full text of Pliny:\n")
-  println("\textract(passageUrns, corpus)")
+  println("\n\nUSAGE:")
+  println("=====\n")
+  println("Extract all passages in Shelton from full text of Pliny")
+  println("as a new citable corpus:\n")
+  println("\tval shelton = extract(passageUrns, corpus)\n")
+  println("Write Shelton corpus to a file in CEX format:\n")
+  println("\twriteCorpus(\"FILENAME\")")
 }
 usage
