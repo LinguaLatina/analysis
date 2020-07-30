@@ -47,7 +47,10 @@ def writeCorpus(outputFile: String = "shelton.cex"): Unit = {
 def usage = {
   println("\n\nUSAGE:")
   println("=====\n")
-  println("Extract all passages in Shelton from full text of Pliny")
+  println("Data already loaded as named values:\n")
+  println("- `corpus` is a full corpus of Pliny's letters")
+  println("- `passageUrns` is a list of URNs for letters in Shelton's selection")
+  println("\nTo extract all passages in Shelton from full text of Pliny")
   println("as a new citable corpus:\n")
   println("\tval shelton = extract(passageUrns, corpus)\n")
   println("Write Shelton corpus to a file in CEX format:\n")
