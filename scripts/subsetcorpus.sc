@@ -8,7 +8,7 @@ import java.io.PrintWriter
 
 
 // list of passages in Shelton
-val passageList = "data/shelton.txt"
+val passageList = "data/shelton-urns.txt"
 val passageUrns = Source.fromFile(passageList).getLines.toVector.map(psg => CtsUrn(psg))
 // full text of Pliny's letters
 val textUrl = "https://raw.githubusercontent.com/LinguaLatina/texts/master/texts/latin24/pliny-letters.cex"
