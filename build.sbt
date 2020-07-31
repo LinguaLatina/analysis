@@ -22,6 +22,7 @@ ThisBuild / turbo := true
 lazy val root = (project in file("."))
   .settings(
   resolvers += Resolver.jcenterRepo,
+  resolvers += Resolver.bintrayRepo("neelsmith", "maven"),
   libraryDependencies ++= Seq(
     "org.scalatest" %% "scalatest" % "3.1.2" % "test",
     "org.wvlet.airframe" %% "airframe-log" % "20.5.2",
