@@ -59,22 +59,22 @@ With that in hand, we can generate a CEX description for each analysis of each t
 ```scala
 val cexLines = latc.citeCollectionLines(urnManager)
 // cexLines: Vector[String] = Vector(
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_0#Record 2020_07_25_0#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.title.0#EQUUS#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_1#Record 2020_07_25_1#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.title.1#TROIANUS#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_2#Record 2020_07_25_2#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.title.1_0#.#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_3#Record 2020_07_25_3#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.0#Achiui#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_4#Record 2020_07_25_4#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.1#cum#urn:cite2:tabulae:ls.v1:n11872#urn:cite2:tabulae:morphforms.v1:00000000",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_5#Record 2020_07_25_5#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.2#per#urn:cite2:tabulae:ls.v1:n34595#urn:cite2:tabulae:morphforms.v1:00000000",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_6#Record 2020_07_25_6#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.3#decem#urn:cite2:tabulae:ls.v1:n12432#urn:cite2:tabulae:morphforms.v1:00000000",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_7#Record 2020_07_25_7#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.4#annos#urn:cite2:tabulae:ls.v1:n2698#urn:cite2:tabulae:morphforms.v1:01000110",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_8#Record 2020_07_25_8#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.4#annos#urn:cite2:tabulae:ls.v1:n2698#urn:cite2:tabulae:morphforms.v1:02000140",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_9#Record 2020_07_25_9#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.5#Troiam#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_10#Record 2020_07_25_10#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.6#capere#urn:cite2:tabulae:ls.v1:n6614#urn:cite2:tabulae:morphforms.v1:21112000",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_11#Record 2020_07_25_11#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.6#capere#urn:cite2:tabulae:ls.v1:n6614#urn:cite2:tabulae:morphforms.v1:00101000",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_12#Record 2020_07_25_12#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.7#non#urn:cite2:tabulae:ls.v1:n31151#urn:cite2:tabulae:morphforms.v1:00000001",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_13#Record 2020_07_25_13#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.8#possent#urn:cite2:tabulae:ls.v1:n37193#urn:cite2:tabulae:morphforms.v1:32221000",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_14#Record 2020_07_25_14#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.8_0#,#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
-//   "urn:cite2:linglat:tkns.v1:2020_07_25_15#Record 2020_07_25_15#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.9#Epeus#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_0#Record 2020_08_02_0#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.title.0#EQUUS#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_1#Record 2020_08_02_1#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.title.1#TROIANUS#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_2#Record 2020_08_02_2#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.title.1_0#.#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_3#Record 2020_08_02_3#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.0#Achiui#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_4#Record 2020_08_02_4#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.1#cum#urn:cite2:tabulae:ls.v1:n11872#urn:cite2:tabulae:morphforms.v1:00000000",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_5#Record 2020_08_02_5#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.2#per#urn:cite2:tabulae:ls.v1:n34595#urn:cite2:tabulae:morphforms.v1:00000000",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_6#Record 2020_08_02_6#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.3#decem#urn:cite2:tabulae:ls.v1:n12432#urn:cite2:tabulae:morphforms.v1:00000000",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_7#Record 2020_08_02_7#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.4#annos#urn:cite2:tabulae:ls.v1:n2698#urn:cite2:tabulae:morphforms.v1:01000110",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_8#Record 2020_08_02_8#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.4#annos#urn:cite2:tabulae:ls.v1:n2698#urn:cite2:tabulae:morphforms.v1:02000140",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_9#Record 2020_08_02_9#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.5#Troiam#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_10#Record 2020_08_02_10#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.6#capere#urn:cite2:tabulae:ls.v1:n6614#urn:cite2:tabulae:morphforms.v1:21112000",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_11#Record 2020_08_02_11#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.6#capere#urn:cite2:tabulae:ls.v1:n6614#urn:cite2:tabulae:morphforms.v1:00101000",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_12#Record 2020_08_02_12#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.7#non#urn:cite2:tabulae:ls.v1:n31151#urn:cite2:tabulae:morphforms.v1:00000001",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_13#Record 2020_08_02_13#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.8#possent#urn:cite2:tabulae:ls.v1:n37193#urn:cite2:tabulae:morphforms.v1:32221000",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_14#Record 2020_08_02_14#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.8_0#,#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
+//   "urn:cite2:linglat:tkns.v1:2020_08_02_15#Record 2020_08_02_15#urn:cts:latinLit:stoa1263.stoa001.hc_tkns:108a.1.9#Epeus#urn:cite2:tabulae:ls.v1:null#urn:cite2:tabulae:morphforms.v1:null",
 // ...
 ```
 
