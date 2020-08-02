@@ -48,5 +48,4 @@ Requires a URN manager:
 import edu.holycross.shot.tabulae._
 val urnManagerUrl = "https://raw.githubusercontent.com/LinguaLatina/morphology/master/urnmanager/config.cex"
 val manager = UrnManager.fromUrl(urnManagerUrl)
-
 ```
