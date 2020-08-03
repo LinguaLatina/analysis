@@ -1,28 +1,13 @@
 
+
+
 /*
 Livy: active vs. passive voices. Limit to present active vs present passive system (present in all moods, imperfect)
 */
-
-//https://raw.githubusercontent.com/LinguaLatina/analysis/master/data/livy/livy-latc.cex
-import scala.io.Source
-import edu.holycross.shot.ohco2._
-val livyTextUrl = "https://raw.githubusercontent.com/LinguaLatina/texts/master/texts/latin24/livy.cex"
-val livyText = CorpusSource.fromUrl(livyTextUrl, cexHeader = true)
-val livyMorphologyUrl = "https://raw.githubusercontent.com/LinguaLatina/analysis/master/data/livy/livy-parsed.txt"
-val fstLines = Source.fromURL(livyMorphologyUrl).getLines.toVector
-
-import edu.holycross.shot.mid.orthography._
-import edu.holycross.shot.latin._
 import edu.holycross.shot.latincorpus._
-val livy = LatinCorpus.fromFstLines(livyText, Latin24Alphabet, fstLines, strict=false)
-
-import edu.holycross.shot.tabulae._
-val urnManagerUrl = "https://raw.githubusercontent.com/neelsmith/tabulae/master/jvm/src/test/resources/datasets/analytical_types/urnregistry/collectionregistry.cex"
-val manager = UrnManager.fromUrl(urnManagerUrl)
-
-val cex = livy.cex(manager)
-import java.io.PrintWriter
-
+val url = "http://shot.holycross.edu/lingualatina/data/livy-latc.cex"
+val livy = LatinCorpus.fromUrl(url)
+//http://shot.holycross.edu/lingualatina/data
 
 // Corpus we'll look at:
 println("Total tokens / lexical tokens / analyzed:")
@@ -41,18 +26,74 @@ def uniformMood(analyses: Vector[LemmatizedForm]): Boolean = {
   distinctMoods.size == 1
 }
 
-val pureMood = livy.verbs.filter(tkn => uniformMood(tkn.analyses))
-val mixedMood = livy.verbs.filterNot(tkn => uniformMood(tkn.analyses))
+// True if all analyses are in the same mood
+def uniformVoice(analyses: Vector[LemmatizedForm]): Boolean = {
+  val distinctVoice= analyses.map(a => a.verbVoice).distinct
+  distinctVoice.size == 1
+}
+// omit forms of sum: ls.n46529
+val toBe = livy.verbs.filter(v => v.analyses.head.lemmaId == "ls.n46529")
+val notToBe = livy.verbs.filterNot(v => v.analyses.head.lemmaId == "ls.n46529")
 
-val moods = pureMood.map(tkn => tkn.analyses.head.verbMood.get)
-val groupedByMood = moods.groupBy(mood => mood)
-val frequencies = groupedByMood.toVector.map{ case (k,v) => (k, v.size) }
+println("To be / Not to be")
+println(toBe.size + " / " + notToBe.size)
 
+
+
+
+
+val pureVoice = notToBe.filter(tkn => uniformVoice(tkn.analyses))
+val mixedVoice = notToBe.filterNot(tkn => uniformVoice(tkn.analyses))
+
+
+println("Pure voice / mixed voice")
+println(pureVoice.size + " / " + mixedVoice.size)
+
+
+
+val voices = pureVoice.map(tkn => tkn.analyses.head.verbVoice.get)
+val groupedByVoice = voices.groupBy(voice => voice)
+val frequencies = groupedByVoice.toVector.map{ case (k,v) => (k, v.size) }
+
+
+val total = frequencies.map(_._2).sum.toDouble
 
 val percents = frequencies.map(f => (f._1, ((f._2 / total) * 100).toInt)).sortBy(pct => pct._2).reverse
 
 
-println(percents.map{ case (mood, count => mood + ": " + count }.mkString("\n"))
+println(percents.map{ case (voice, count => voice + ": " + count }.mkString("\n"))
+
+
+def pctForList(verbTokens: Vector[LatinParsedToken]) :  Vector[(Voice, Int)]= {
+  val voices = verbTokens.map(tkn => tkn.analyses.head.verbVoice.get)
+  val groupedByVoice = voices.groupBy(voice => voice)
+  val frequencies = groupedByVoice.toVector.map{ case (k,v) => (k, v.size) }
+  val total = frequencies.map(_._2).sum.toDouble
+  val percents = frequencies.map(f => (f._1, ((f._2 / total) * 100).toInt)).sortBy(pct => pct._2).reverse
+  percents
+}
+
+def printPctsForList(verbTokens: Vector[LatinParsedToken]) : Unit = {
+  val pcts = pctForList(verbTokens)
+  println(pcts.map{ case (voice, count) => voice + ": " + count }.mkString("\n"))
+}
+
+val presentTense = notToBe.filter(tkn => tkn.analyses.head.verbTense.get == Present)
+printPctsForList(presentTense)
+
+val imperfectTense = notToBe.filter(tkn => tkn.analyses.head.verbTense.get == Imperfect)
+printPctsForList(imperfectTense)
+
+val futureTense = notToBe.filter(tkn => tkn.analyses.head.verbTense.get == Future)
+printPctsForList(futureTense)
+
+
+println("Present / Imperfect / Future")
+println(List(presentTense.size, imperfectTense.size, futureTense.size).mkString(" / "))
+
+val presSystem = presentTense ++ imperfectTense ++ futureTense
+
+printPctsForList(presSystem)
 // PART 2: VOICE IN LIVY
 
 
