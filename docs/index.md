@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Analyzing content for Lingua Latina
+title: Analyzing content for Lingua Latina Legenda
 nav_order: 0
 ---
 
-# Analyzing content for Lingua Latina
+# Analyzing content for Lingua Latina Legenda
 
 
 ## External libraries
