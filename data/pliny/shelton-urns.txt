@@ -1,5 +1,5 @@
 urn:cts:latinLit:tlg0233.stoa001.latinlib:1.1
-urn:cts:latinLit:tlg0233.stoa001.latinlib:1.16
+urn:cts:latinLit:tlg0233.stoa001.latinlib:1.6
 urn:cts:latinLit:tlg0233.stoa001.latinlib:1.11
 urn:cts:latinLit:tlg0233.stoa001.latinlib:1.15
 urn:cts:latinLit:tlg0233.stoa001.latinlib:1.21
