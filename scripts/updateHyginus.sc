@@ -3,6 +3,11 @@
 import edu.holycross.shot.ohco2._
 import edu.holycross.shot.cite._
 import java.io.PrintWriter
+import edu.holycross.shot.tabulae._
+import edu.holycross.shot.mid.orthography._
+import edu.holycross.shot.latin._
+import edu.holycross.shot.latincorpus._
+
 
 // Load citable corpus
 val textUrl = "https://raw.githubusercontent.com/LinguaLatina/texts/master/texts/latin23/hyginus.cex"
@@ -15,9 +20,6 @@ val fstUrl = "https://raw.githubusercontent.com/LinguaLatina/analysis/master/dat
 val fstLines = Source.fromURL(fstUrl).getLines.toVector
 
 
-import edu.holycross.shot.mid.orthography._
-import edu.holycross.shot.latin._
-import edu.holycross.shot.latincorpus._
 
 
 import edu.holycross.shot.tabulae._
@@ -26,6 +28,9 @@ val manager = UrnManager.fromUrl(urnManagerUrl)
 
 
 def updateHyginus = {
+
+  val urnManagerUrl = "https://raw.githubusercontent.com/LinguaLatina/morphology/master/urnmanager/config.cex"
+  val manager = UrnManager.fromUrl(urnManagerUrl)
 
   val lat23orthogaphy: MidOrthography = Latin23Alphabet
   println("Building LatinCorpus from FST:")

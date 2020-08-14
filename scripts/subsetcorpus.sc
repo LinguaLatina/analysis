@@ -5,7 +5,9 @@ import scala.io.Source
 import edu.holycross.shot.cite.CtsUrn
 import edu.holycross.shot.ohco2._
 import java.io.PrintWriter
-
+import edu.holycross.shot.mid.orthography._
+import edu.holycross.shot.latin._
+import edu.holycross.shot.latincorpus._
 
 // list of passages in Shelton
 val passageList = "data/pliny/shelton-urns.txt"
@@ -56,4 +58,28 @@ def usage = {
   println("Write Shelton corpus to a file in CEX format:\n")
   println("\twriteCorpus(\"FILENAME\")")
 }
+
+import edu.holycross.shot.tabulae._
+val urnManagerUrl = "https://raw.githubusercontent.com/LinguaLatina/morphology/master/urnmanager/config.cex"
+val manager = UrnManager.fromUrl(urnManagerUrl)
+
+
+def updateShelton = {
+  println("Loading FST data...")
+  import scala.io.Source
+  val fstUrl = "https://raw.githubusercontent.com/LinguaLatina/analysis/master/data/pliny/pliny-fst.txt"
+  val fstLines = Source.fromURL(fstUrl).getLines.toVector
+  println("Done.")
+
+  val shelton = extract(passageUrns, corpus)
+  val lat24orthogaphy: MidOrthography = Latin24Alphabet
+  println("Building LatinCorpus from FST:")
+  println("please be patient...")
+  val latinCorpus = LatinCorpus.fromFstLines(shelton,lat24orthogaphy, fstLines, strict=false)
+  println("Done.")
+  val outFile = "shelton-latc.cex"
+  new PrintWriter(outFile){write(latinCorpus.cex(manager)); close;}
+  println("\nCEX serialization of Shelton selections written to " + outFile + ".")
+}
+
 usage
