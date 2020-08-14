@@ -38,7 +38,7 @@ def updatePliny = {
 }
 
 def usage : Unit = {
-  println("Generate new CEX file for LatinCorpus of Hyginus:\n")
+  println("Generate new CEX file for LatinCorpus of Pliny:\n")
   println("\tupdatePliny")
 }
 
