@@ -7,7 +7,8 @@ import java.io.PrintWriter
 // Load citable corpus
 val textUrl = "https://raw.githubusercontent.com/LinguaLatina/texts/master/texts/latin24/pliny-letters.cex"
 val corpus = CorpusSource.fromUrl(textUrl, cexHeader = true)
-//val c108a = corpus ~~ CtsUrn("urn:cts:latinLit:stoa1263.stoa001.hc:108a")
+
+
 
 
 import scala.io.Source
@@ -37,9 +38,25 @@ def updatePliny = {
   println("\nCEX serialization of LatinCorpus written to " + outFile + ".")
 }
 
+def updateShelton = {
+  val sheltonFile = "data/pliny/shelton.cex"
+  val shelton = CorpusSource.fromFile(sheltonFile)
+
+  val lat24orthogaphy: MidOrthography = Latin24Alphabet
+  println("Building LatinCorpus from FST:")
+  println("please be patient...")
+  val latinCorpus = LatinCorpus.fromFstLines(shelton,lat24orthogaphy, fstLines, strict=false)
+  println("Done.")
+  val outFile = "shelton-latc.cex"
+  new PrintWriter(outFile){write(latinCorpus.cex(manager)); close;}
+  println("\nCEX serialization of LatinCorpus written to " + outFile + ".")
+
+}
 def usage : Unit = {
   println("Generate new CEX file for LatinCorpus of Pliny:\n")
   println("\tupdatePliny")
+  println("Generate new CEX file for LatinCorpus of Shelton selections:\n")
+  println("\tupdateShelton")
 }
 
 usage
