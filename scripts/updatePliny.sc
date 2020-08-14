@@ -55,7 +55,7 @@ def updateShelton = {
 def usage : Unit = {
   println("Generate new CEX file for LatinCorpus of Pliny:\n")
   println("\tupdatePliny")
-  println("Generate new CEX file for LatinCorpus of Shelton selections:\n")
+  println("\nGenerate new CEX file for LatinCorpus of Shelton selections:\n")
   println("\tupdateShelton")
 }
 
