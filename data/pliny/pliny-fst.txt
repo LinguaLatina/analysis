@@ -11360,17 +11360,17 @@ no result for duplici
 > duplicia
 no result for duplicia
 > dura
-no result for dura
+<u>latcommon.verbn14988</u><u>ls.n14988</u><#>dur<verb><conj1><div><conj1><verb>a<2nd><sg><pres><imptv><act><u>latcommon.are_conj1pres25</u>
 > durabit
-no result for durabit
+<u>latcommon.verbn14988</u><u>ls.n14988</u><#>dur<verb><conj1><div><conj1><verb>abit<3rd><sg><fut><indic><act><u>latcommon.are_conj1fut3</u>
 > duram
 no result for duram
 > durat
-no result for durat
+<u>latcommon.verbn14988</u><u>ls.n14988</u><#>dur<verb><conj1><div><conj1><verb>at<3rd><sg><pres><indic><act><u>latcommon.are_conj1pres3</u>
 > duraturam
-no result for duraturam
+<u>latcommon.verbn14988</u><u>ls.n14988</u><#>dur<verb><conj1><div><conj1><ptcpl>aturam<fem><acc><sg><fut><act><u>latcommoninfl.are_conj1futapl16</u>
 > duravit
-no result for duravit
+<u>latcommon.verbn14988</u><u>ls.n14988</u><#>dur<verb><conj1><div><conj1><verb>avit<3rd><sg><pft><indic><act><u>lat24morph.are_pft3</u>
 > dure
 no result for dure
 > durior
@@ -13192,9 +13192,12 @@ no result for exsecutio
 > exsecuturus
 <u>latcommon.compoundn17205_70</u><u>ls.n17205</u><#>exsecut<verb><pftpass><div><pftpass><ptcpl>urus<masc><nom><sg><fut><act><u>latcommoninfl.fut_futppl1</u>
 > exsequiae
-no result for exsequiae
+<u>latcommon.nounn17202</u><u>ls.n17202</u>exsequi<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>latcommoninfl.a_ae6</u>
+<u>latcommon.nounn17202</u><u>ls.n17202</u>exsequi<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>latcommoninfl.a_ae2</u>
+<u>latcommon.nounn17202</u><u>ls.n17202</u>exsequi<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>latcommoninfl.a_ae3</u>
+<u>latcommon.nounn17202</u><u>ls.n17202</u>exsequi<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>latcommoninfl.a_ae12</u>
 > exsequias
-no result for exsequias
+<u>latcommon.nounn17202</u><u>ls.n17202</u>exsequi<noun><fem><a_ae><div><a_ae><noun>as<fem><acc><pl><u>latcommoninfl.a_ae9</u>
 > exsili
 no result for exsili
 > exsilio
@@ -18653,20 +18656,24 @@ no result for intexere
 > intimam
 no result for intimam
 > intra
+<u>latcommon.verbnn24610</u><u>ls.n24610</u><#>intr<verb><conj1><div><conj1><verb>a<2nd><sg><pres><imptv><act><u>latcommon.are_conj1pres25</u>
 <u>latcommon.indecln24575</u><u>ls.n24575</u>intra<indecl><indeclprep><div><indeclprep><indecl><u>indeclinfl.1</u>
 <u>latcommon.irregadvn24575</u><u>ls.n24575</u>intra<pos><irregadv><div><irregadv><u>irreginfl.2</u>
 > intrantium
-no result for intrantium
+<u>latcommon.verbnn24610</u><u>ls.n24610</u><#>intr<verb><conj1><div><conj1><ptcpl>antium<masc><gen><pl><pres><act><u>latcommoninfl.are_conj1presapl8</u>
+<u>latcommon.verbnn24610</u><u>ls.n24610</u><#>intr<verb><conj1><div><conj1><ptcpl>antium<fem><gen><pl><pres><act><u>latcommoninfl.are_conj1presapl20</u>
+<u>latcommon.verbnn24610</u><u>ls.n24610</u><#>intr<verb><conj1><div><conj1><ptcpl>antium<neut><gen><pl><pres><act><u>latcommoninfl.are_conj1presapl32</u>
 > intraret
-no result for intraret
+<u>latcommon.verbnn24610</u><u>ls.n24610</u><#>intr<verb><conj1><div><conj1><verb>aret<3rd><sg><impft><subj><act><u>latcommon.are_conj1impft15</u>
 > intrasset
-no result for intrasset
+<u>latcommon.verbnn24610</u><u>ls.n24610</u><#>intr<verb><conj1><div><conj1><verb>asset<3rd><sg><plupft><subj><act><u>latcommon.are_plupft9a</u>
 > intraverit
-no result for intraverit
+<u>latcommon.verbnn24610</u><u>ls.n24610</u><#>intr<verb><conj1><div><conj1><verb>averit<3rd><sg><futpft><indic><act><u>lat24morph.are_futpft3</u>
+<u>latcommon.verbnn24610</u><u>ls.n24610</u><#>intr<verb><conj1><div><conj1><verb>averit<3rd><sg><pft><subj><act><u>lat24morph.are_pft9</u>
 > intraverunt
-no result for intraverunt
+<u>latcommon.verbnn24610</u><u>ls.n24610</u><#>intr<verb><conj1><div><conj1><verb>averunt<3rd><pl><pft><indic><act><u>lat24morph.are_pft6</u>
 > intravi
-no result for intravi
+<u>latcommon.verbnn24610</u><u>ls.n24610</u><#>intr<verb><conj1><div><conj1><verb>avi<1st><sg><pft><indic><act><u>lat24morph.are_pft1</u>
 > intribuatur
 no result for intribuatur
 > introitu
@@ -20193,11 +20200,12 @@ no result for legata
 <u>latcommon.nounn26169</u><u>ls.n26169</u>legat<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>livymorph.us_i2</u>
 <u>latcommon.nounn26169</u><u>ls.n26169</u>legat<noun><masc><us_i><div><us_i><noun>i<masc><voc><pl><u>livymorph.us_i12</u>
 > legatio
-no result for legatio
+<u>latcommon.nounn26164</u><u>ls.n26164</u>legati<noun><fem><o_onis><div><o_onis><noun>o<fem><nom><sg><u>latcommoninfl.o_onis1</u>
+<u>latcommon.nounn26164</u><u>ls.n26164</u>legati<noun><fem><o_onis><div><o_onis><noun>o<fem><voc><sg><u>latcommoninfl.o_onis11</u>
 > legatione
-no result for legatione
+<u>latcommon.nounn26164</u><u>ls.n26164</u>legati<noun><fem><o_onis><div><o_onis><noun>one<fem><abl><sg><u>latcommoninfl.o_onis5</u>
 > legationem
-no result for legationem
+<u>latcommon.nounn26164</u><u>ls.n26164</u>legati<noun><fem><o_onis><div><o_onis><noun>onem<fem><acc><sg><u>latcommoninfl.o_onis4</u>
 > legatis
 <u>latcommon.nounn26169</u><u>ls.n26169</u>legat<noun><masc><us_i><div><us_i><noun>is<masc><dat><pl><u>livymorph.us_i8</u>
 <u>latcommon.nounn26169</u><u>ls.n26169</u>legat<noun><masc><us_i><div><us_i><noun>is<masc><abl><pl><u>livymorph.us_i10</u>
@@ -23140,29 +23148,34 @@ no result for narbonensis
 > narniensi
 no result for narniensi
 > narrabat
-no result for narrabat
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><verb>abat<3rd><sg><impft><indic><act><u>latcommon.are_conj1impft3</u>
 > narrabitur
-no result for narrabitur
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><verb>abitur<3rd><sg><fut><indic><pass><u>latcommon.are_conj1fut9</u>
 > narrandi
-no result for narrandi
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><gerundive>andi<masc><nom><pl><u>latcommoninfl.conj1_6</u>
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><gerundive>andi<masc><nom><pl><u>latcommoninfl.conj1_12</u>
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><gerundive>andi<masc><gen><sg><u>latcommoninfl.conj1_2</u>
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><gerundive>andi<neut><gen><sg><u>latcommoninfl.conj1_26</u>
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><gerund>andi<gen><u>latcommoninfl.grd_conj1_1</u>
 > narrantur
-no result for narrantur
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><verb>antur<3rd><pl><pres><indic><pass><u>latcommon.are_conj1pres12</u>
 > narrare
-no result for narrare
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><verb>are<2nd><sg><pres><indic><pass><u>latcommon.are_conj1pres8b</u>
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><infin>are<pres><act><u>latcommoninfl.are_inf1</u>
 > narrasses
-no result for narrasses
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><verb>asses<2nd><sg><plupft><subj><act><u>latcommon.are_plupft8a</u>
 > narrasset
-no result for narrasset
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><verb>asset<3rd><sg><plupft><subj><act><u>latcommon.are_plupft9a</u>
 > narrat
-no result for narrat
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><verb>at<3rd><sg><pres><indic><act><u>latcommon.are_conj1pres3</u>
 > narratam
-no result for narratam
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><ptcpl>atam<fem><acc><sg><pft><pass><u>latcommoninfl.are_conj1perfppl16</u>
 > narratiunculis
 no result for narratiunculis
 > narratur
-no result for narratur
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><verb>atur<3rd><sg><pres><indic><pass><u>latcommon.are_conj1pres9</u>
 > narro
-no result for narro
+<u>latcommon.verbn30406</u><u>ls.n30406</u><#>narr<verb><conj1><div><conj1><verb>o<1st><sg><pres><indic><act><u>latcommon.are_conj1pres1</u>
 > nascantur
 <u>latcommon.verbn30423a</u><u>ls.n30423</u><#>nasc<verb><c3presdep><div><c3presdep><verb>antur<3rd><pl><pres><subj><pass><u>latcommon.ere3_c3prespres24</u>
 > nascatur
@@ -28132,13 +28145,16 @@ no result for praeest
 > praeeunte
 no result for praeeunte
 > praefatione
-no result for praefatione
+<u>latcommon.nounn37565</u><u>ls.n37565</u>praefati<noun><fem><o_onis><div><o_onis><noun>one<fem><abl><sg><u>latcommoninfl.o_onis5</u>
 > praefationem
-no result for praefationem
+<u>latcommon.nounn37565</u><u>ls.n37565</u>praefati<noun><fem><o_onis><div><o_onis><noun>onem<fem><acc><sg><u>latcommoninfl.o_onis4</u>
 > praefationes
-no result for praefationes
+<u>latcommon.nounn37565</u><u>ls.n37565</u>praefati<noun><fem><o_onis><div><o_onis><noun>ones<fem><nom><pl><u>latcommoninfl.o_onis6</u>
+<u>latcommon.nounn37565</u><u>ls.n37565</u>praefati<noun><fem><o_onis><div><o_onis><noun>ones<fem><acc><pl><u>latcommoninfl.o_onis9</u>
+<u>latcommon.nounn37565</u><u>ls.n37565</u>praefati<noun><fem><o_onis><div><o_onis><noun>ones<fem><voc><pl><u>latcommoninfl.o_onis12</u>
 > praefationibus
-no result for praefationibus
+<u>latcommon.nounn37565</u><u>ls.n37565</u>praefati<noun><fem><o_onis><div><o_onis><noun>onibus<fem><dat><pl><u>latcommoninfl.o_onis8</u>
+<u>latcommon.nounn37565</u><u>ls.n37565</u>praefati<noun><fem><o_onis><div><o_onis><noun>onibus<fem><abl><pl><u>latcommoninfl.o_onis10</u>
 > praefecti
 <u>latcommon.verbn37587c</u><u>ls.n37587</u><#>praefect<verb><pftpass><div><pftpass><ptcpl>i<masc><nom><pl><pft><pass><u>latcommoninfl.pft_perfppl7</u>
 <u>latcommon.verbn37587c</u><u>ls.n37587</u><#>praefect<verb><pftpass><div><pftpass><ptcpl>i<masc><gen><sg><pft><pass><u>latcommoninfl.pft_perfppl2</u>
@@ -29655,41 +29671,79 @@ no result for pugnacia
 > pugnax
 no result for pugnax
 > pulcherrima
-no result for pulcherrima
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errima<fem><nom><sg><superl><u>latcommoninfl.er_ra_rum63</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errima<fem><abl><sg><superl><u>latcommoninfl.er_ra_rum67</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errima<fem><voc><sg><superl><u>latcommoninfl.er_ra_rum73</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errima<neut><nom><pl><superl><u>latcommoninfl.er_ra_rum104</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errima<neut><acc><pl><superl><u>latcommoninfl.er_ra_rum107</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errima<neut><voc><pl><superl><u>latcommoninfl.er_ra_rum110</u>
 > pulcherrimae
-no result for pulcherrimae
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimae<fem><nom><pl><superl><u>latcommoninfl.er_ra_rum68</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimae<fem><gen><sg><superl><u>latcommoninfl.er_ra_rum64</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimae<fem><dat><sg><superl><u>latcommoninfl.er_ra_rum65</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimae<fem><voc><pl><superl><u>latcommoninfl.er_ra_rum74</u>
 > pulcherrimam
-no result for pulcherrimam
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimam<fem><acc><sg><superl><u>latcommoninfl.er_ra_rum66</u>
 > pulcherrimarum
-no result for pulcherrimarum
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimarum<fem><gen><pl><superl><u>latcommoninfl.er_ra_rum69</u>
 > pulcherrimas
-no result for pulcherrimas
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimas<fem><acc><pl><superl><u>latcommoninfl.er_ra_rum71</u>
 > pulcherrime
-no result for pulcherrime
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errime<masc><voc><sg><superl><u>latcommoninfl.er_ra_rum35</u>
 > pulcherrimi
-no result for pulcherrimi
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimi<masc><nom><pl><superl><u>latcommoninfl.er_ra_rum30</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimi<masc><gen><sg><superl><u>latcommoninfl.er_ra_rum26</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimi<masc><voc><pl><superl><u>latcommoninfl.er_ra_rum36</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimi<neut><gen><sg><superl><u>latcommoninfl.er_ra_rum100</u>
 > pulcherrimis
-no result for pulcherrimis
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimis<masc><dat><pl><superl><u>latcommoninfl.er_ra_rum32</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimis<masc><abl><pl><superl><u>latcommoninfl.er_ra_rum34</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimis<fem><dat><pl><superl><u>latcommoninfl.er_ra_rum70</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimis<fem><abl><pl><superl><u>latcommoninfl.er_ra_rum72</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimis<neut><dat><pl><superl><u>latcommoninfl.er_ra_rum106</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimis<neut><abl><pl><superl><u>latcommoninfl.er_ra_rum108</u>
 > pulcherrimo
-no result for pulcherrimo
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimo<masc><dat><sg><superl><u>latcommoninfl.er_ra_rum27</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimo<masc><abl><sg><superl><u>latcommoninfl.er_ra_rum29</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimo<neut><dat><sg><superl><u>latcommoninfl.er_ra_rum101</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimo<neut><abl><sg><superl><u>latcommoninfl.er_ra_rum103</u>
 > pulcherrimorum
-no result for pulcherrimorum
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimorum<masc><gen><pl><superl><u>latcommoninfl.er_ra_rum31</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimorum<neut><gen><pl><superl><u>latcommoninfl.er_ra_rum105</u>
 > pulcherrimos
-no result for pulcherrimos
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimos<masc><acc><pl><superl><u>latcommoninfl.er_ra_rum33</u>
 > pulcherrimum
-no result for pulcherrimum
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimum<masc><acc><sg><superl><u>latcommoninfl.er_ra_rum28</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimum<neut><nom><sg><superl><u>latcommoninfl.er_ra_rum99</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimum<neut><acc><sg><superl><u>latcommoninfl.er_ra_rum102</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>errimum<neut><voc><sg><superl><u>latcommoninfl.er_ra_rum109</u>
 > pulchra
-no result for pulchra
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>ra<fem><nom><sg><pos><u>latcommoninfl.er_ra_rum37</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>ra<fem><abl><sg><pos><u>latcommoninfl.er_ra_rum41</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>ra<fem><voc><sg><pos><u>latcommoninfl.er_ra_rum47</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>ra<neut><nom><pl><pos><u>latcommoninfl.er_ra_rum80</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>ra<neut><acc><pl><pos><u>latcommoninfl.er_ra_rum83</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>ra<neut><voc><pl><pos><u>latcommoninfl.er_ra_rum86</u>
 > pulchram
-no result for pulchram
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>ram<fem><acc><sg><pos><u>latcommoninfl.er_ra_rum40</u>
 > pulchras
-no result for pulchras
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>ras<fem><acc><pl><pos><u>latcommoninfl.er_ra_rum45</u>
 > pulchrior
-no result for pulchrior
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rior<masc><nom><sg><comp><u>latcommoninfl.er_ra_rum13</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rior<masc><voc><sg><comp><u>latcommoninfl.er_ra_rum23</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rior<fem><nom><sg><comp><u>latcommoninfl.er_ra_rum49</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rior<fem><voc><sg><comp><u>latcommoninfl.er_ra_rum60</u>
 > pulchriora
-no result for pulchriora
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>riora<neut><nom><pl><comp><u>latcommoninfl.er_ra_rum92</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>riora<neut><acc><pl><comp><u>latcommoninfl.er_ra_rum95</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>riora<neut><voc><pl><comp><u>latcommoninfl.er_ra_rum98</u>
 > pulchriores
-no result for pulchriores
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>riores<masc><nom><pl><comp><u>latcommoninfl.er_ra_rum18</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>riores<masc><acc><pl><comp><u>latcommoninfl.er_ra_rum21</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>riores<masc><voc><pl><comp><u>latcommoninfl.er_ra_rum24</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>riores<fem><nom><pl><comp><u>latcommoninfl.er_ra_rum54</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>riores<fem><acc><pl><comp><u>latcommoninfl.er_ra_rum57</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>riores<fem><voc><pl><comp><u>latcommoninfl.er_ra_rum62</u>
 > pulchritudine
 <u>latcommon.nounn39488</u><u>ls.n39488</u>pulchritud<noun><fem><o_inis><div><o_inis><noun>ine<fem><abl><sg><u>latcommoninfl.o_inis17</u>
 > pulchritudinem
@@ -29700,9 +29754,14 @@ no result for pulchriores
 <u>latcommon.nounn39488</u><u>ls.n39488</u>pulchritud<noun><fem><o_inis><div><o_inis><noun>o<fem><nom><sg><u>latcommoninfl.o_inis13</u>
 <u>latcommon.nounn39488</u><u>ls.n39488</u>pulchritud<noun><fem><o_inis><div><o_inis><noun>o<fem><voc><sg><u>latcommoninfl.o_inis23</u>
 > pulchrius
-no result for pulchrius
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rius<neut><nom><sg><comp><u>latcommoninfl.er_ra_rum87</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rius<neut><acc><sg><comp><u>latcommoninfl.er_ra_rum90</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rius<neut><voc><sg><comp><u>latcommoninfl.er_ra_rum97</u>
 > pulchrum
-no result for pulchrum
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rum<masc><acc><sg><pos><u>latcommoninfl.er_ra_rum4</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rum<neut><nom><sg><pos><u>latcommoninfl.er_ra_rum75</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rum<neut><acc><sg><pos><u>latcommoninfl.er_ra_rum78</u>
+<u>atcommon.adjn39482</u><u>ls.n39482</u>pulch<adj><er_ra_rum><div><er_ra_rum><adj>rum<neut><voc><sg><pos><u>latcommoninfl.er_ra_rum85</u>
 > pulpito
 no result for pulpito
 > pulso
@@ -33576,21 +33635,25 @@ no result for seris
 > serius
 <u>latcommon.adjn43869</u><u>ls.n43869</u>seri<adj><us_a_um><div><us_a_um><adj>us<masc><nom><sg><pos><u>latcommoninfl.us_a_um1</u>
 > sermo
-no result for sermo
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>o<masc><nom><sg><u>latcommoninfl.o_onis13</u>
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>o<masc><voc><sg><u>latcommoninfl.o_onis23</u>
 > sermone
-no result for sermone
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>one<masc><abl><sg><u>latcommoninfl.o_onis17</u>
 > sermonem
-no result for sermonem
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>onem<masc><acc><sg><u>latcommoninfl.o_onis16</u>
 > sermones
-no result for sermones
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>ones<masc><nom><pl><u>latcommoninfl.o_onis18</u>
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>ones<masc><acc><pl><u>latcommoninfl.o_onis21</u>
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>ones<masc><voc><pl><u>latcommoninfl.o_onis24</u>
 > sermoni
-no result for sermoni
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>oni<masc><dat><sg><u>latcommoninfl.o_onis15</u>
 > sermonibus
-no result for sermonibus
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>onibus<masc><dat><pl><u>latcommoninfl.o_onis20</u>
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>onibus<masc><abl><pl><u>latcommoninfl.o_onis22</u>
 > sermonis
-no result for sermonis
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>onis<masc><gen><sg><u>latcommoninfl.o_onis14</u>
 > sermonum
-no result for sermonum
+<u>latcommon.nounn43872</u><u>ls.n43872</u>serm<noun><masc><o_onis><div><o_onis><noun>onum<masc><gen><pl><u>latcommoninfl.o_onis19</u>
 > sermunculis
 no result for sermunculis
 > sero
