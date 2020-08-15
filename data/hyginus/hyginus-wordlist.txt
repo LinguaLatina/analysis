@@ -1183,7 +1183,6 @@ causa
 causam
 cautes
 ccc
-ccclxii
 ce
 cebriones
 cecidisse
@@ -3372,7 +3371,6 @@ hypsipyles
 hyrieum
 hyrieus
 hyrmines
-i
 iacere
 iaceret
 iactando
@@ -3451,9 +3449,6 @@ igni
 ignis
 ignoraretur
 ignosceret
-ii
-iii
-iiii
 iis
 ilagus
 ileus
@@ -3960,12 +3955,10 @@ iuuenta
 iuuentus
 iuuit
 iuxta
-ix
 ixion
 ixionem
 ixionis
 ixition
-l
 labdaci
 labdacus
 labitur
@@ -4235,8 +4228,6 @@ lustrare
 lusu
 luto
 lutum
-lx
-lxxii
 lycabas
 lycaon
 lycaonem
@@ -4362,7 +4353,6 @@ mausoli
 maxima
 maximae
 mcc
-mcxx
 me
 medam
 medea
@@ -7715,7 +7705,6 @@ uxorem
 uxores
 uxori
 uxoris
-x
 xanthe
 xanthippe
 xantho
@@ -7723,13 +7712,8 @@ xanthum
 xanthus
 xc
 xccl
-xii
-xiii
 xiphias
-xix
-xl
 xlic
-xx
 xxc
 xxcc
 xynium
