@@ -14,7 +14,7 @@ Outside of this repository:
 
 Then, in this repository:
 
-- make a `TokenizableCorpus` and generate a wordlist.
-- parse the word list
-- build a `LatinCorpus` from the FST output
-- analyze a histogram of failed analyses
+- make a `TokenizableCorpus` and generate a wordlist.  (In scripts directory, `[pliny|hyginus]WordList.sc`.) Save the results to `data/[pliny|hyginus]/[pliny|hyginus]-wordlist.txt`.
+- parse the word list (`fst-infl PARSER data/[pliny|hyginus]/[pliny|hyginus]-wordlist.txt | tee data/[pliny|hyginus]/[pliny|hyginus]-fst.txt`)
+- build a `LatinCorpus` from the FST output. (In scripts directory, `update[Pliny|Hyginus].sc`)
+- analyze a histogram of failed analyses (In scripts directory, `noAnalysis[Pliny|Hyginus]Histo.sc`)
