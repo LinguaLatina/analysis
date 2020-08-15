@@ -10,7 +10,7 @@ val noAnalysisFreqs = LatinCorpus(pliny.noAnalysis).tokensHistogram().sorted
 //val lcFreqs = noAnalysisFreqs.frequencies.filterNot(_.item.head.isUpper)
 
 val outfile = "pliny-fails-histogram.txt"
-new  java.io.PrintWriter(outfile){write(lcFreqs.map(_.cex()).mkString("\n"));close;}
+new  java.io.PrintWriter(outfile){write(noAnalysisFreqs.frequencies.map(_.cex()).mkString("\n"));close;}
 
 println("Wrote histogram of unanalyzed lower-case words to " + outfile)
 println("Loading Shelton selections...")
