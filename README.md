@@ -15,9 +15,11 @@ Outside of this repository:
 
 Then, in this repository:
 
+- If text editions have been updated:
+    - optionally, generate a new subset-edition (e.g., selections from Pliny in Shelton: `subsetcorpu.sc` in scripts directory)
+    - make a `TokenizableCorpus` and generate a wordlist.  (In scripts directory, `[pliny|hyginus]WordList.sc`.) Save the results to `data/[pliny|hyginus]/[pliny|hyginus]-wordlist.txt`.
 
-- optionally, generate a new subset-edition (e.g., selections from Pliny in Shelton: `subsetcorpu.sc` in scripts directory)
-- make a `TokenizableCorpus` and generate a wordlist.  (In scripts directory, `[pliny|hyginus]WordList.sc`.) Save the results to `data/[pliny|hyginus]/[pliny|hyginus]-wordlist.txt`.
-- parse the word list (`fst-infl PARSER data/[pliny|hyginus]/[pliny|hyginus]-wordlist.txt | tee data/[pliny|hyginus]/[pliny|hyginus]-fst.txt`)
-- build a `LatinCorpus` from the FST output. (In scripts directory, `update[Pliny|Hyginus].sc`)
-- analyze a histogram of failed analyses (In scripts directory, `noAnalysis[Pliny|Hyginus]Histo.sc`)
+- If text editions *or* morphological parser has been updated:
+    - parse the word list (`fst-infl PARSER data/[pliny|hyginus]/[pliny|hyginus]-wordlist.txt | tee data/[pliny|hyginus]/[pliny|hyginus]-fst.txt`)
+    - build a `LatinCorpus` from the FST output. (In scripts directory, `update[Pliny|Hyginus].sc`)
+    - analyze a histogram of failed analyses (In scripts directory, `noAnalysis[Pliny|Hyginus]Histo.sc`)
