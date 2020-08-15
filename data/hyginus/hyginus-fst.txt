@@ -6578,15 +6578,18 @@ no result for exaruisset
 > exaudiretur
 no result for exaudiretur
 > excaecaretur
-no result for excaecaretur
+<u>latcommon.verbn16624</u><u>ls.n16624</u><#>excaec<verb><conj1><div><conj1><verb>aretur<3rd><sg><impft><subj><pass><u>latcommon.are_conj1impft21</u>
 > excaecat
-no result for excaecat
+<u>latcommon.verbn16624</u><u>ls.n16624</u><#>excaec<verb><conj1><div><conj1><verb>at<3rd><sg><pres><indic><act><u>latcommon.are_conj1pres3</u>
 > excaecati
-no result for excaecati
+<u>latcommon.verbn16624</u><u>ls.n16624</u><#>excaec<verb><conj1><div><conj1><ptcpl>ati<masc><nom><pl><pft><pass><u>latcommoninfl.are_conj1perfppl7</u>
+<u>latcommon.verbn16624</u><u>ls.n16624</u><#>excaec<verb><conj1><div><conj1><ptcpl>ati<masc><gen><sg><pft><pass><u>latcommoninfl.are_conj1perfppl2</u>
+<u>latcommon.verbn16624</u><u>ls.n16624</u><#>excaec<verb><conj1><div><conj1><ptcpl>ati<masc><voc><pl><pft><pass><u>latcommoninfl.are_conj1perfppl12</u>
+<u>latcommon.verbn16624</u><u>ls.n16624</u><#>excaec<verb><conj1><div><conj1><ptcpl>ati<neut><gen><sg><pft><pass><u>latcommoninfl.are_conj1perfppl26</u>
 > excaecatus
-no result for excaecatus
+<u>latcommon.verbn16624</u><u>ls.n16624</u><#>excaec<verb><conj1><div><conj1><ptcpl>atus<masc><nom><sg><pft><pass><u>latcommoninfl.are_conj1perfppl1</u>
 > excaecauit
-no result for excaecauit
+<u>latcommon.verbn16624</u><u>ls.n16624</u><#>excaec<verb><conj1><div><conj1><verb>auit<3rd><sg><pft><indic><act><u>lat23morph.are_pft3</u>
 > excalfactum
 no result for excalfactum
 > excedere
@@ -16181,7 +16184,12 @@ no result for sanguinolento
 <u>latcommon.nounn42533</u><u>ls.n42533</u>sangui<noun><masc><s_nis><div><s_nis><noun>s<masc><nom><sg><u>latcommoninfl.s_nis1</u>
 <u>latcommon.nounn42533</u><u>ls.n42533</u>sangui<noun><masc><s_nis><div><s_nis><noun>s<masc><voc><sg><u>latcommoninfl.s_nis11</u>
 > sapientes
-no result for sapientes
+<u>latcommon.verbn42571a</u><u>ls.n42571</u><#>sap<verb><c3iopres><div><c3iopres><ptcpl>ientes<masc><nom><pl><pres><act><u>latcommoninfl.ereio_conj3iopresapl43</u>
+<u>latcommon.verbn42571a</u><u>ls.n42571</u><#>sap<verb><c3iopres><div><c3iopres><ptcpl>ientes<masc><acc><pl><pres><act><u>latcommoninfl.ereio_conj3iopresapl46</u>
+<u>latcommon.verbn42571a</u><u>ls.n42571</u><#>sap<verb><c3iopres><div><c3iopres><ptcpl>ientes<masc><voc><pl><pres><act><u>latcommoninfl.ereio_conj3iopresapl48</u>
+<u>latcommon.verbn42571a</u><u>ls.n42571</u><#>sap<verb><c3iopres><div><c3iopres><ptcpl>ientes<fem><nom><pl><pres><act><u>latcommoninfl.ereio_conj3iopresapl55</u>
+<u>latcommon.verbn42571a</u><u>ls.n42571</u><#>sap<verb><c3iopres><div><c3iopres><ptcpl>ientes<fem><acc><pl><pres><act><u>latcommoninfl.ereio_conj3iopresapl58</u>
+<u>latcommon.verbn42571a</u><u>ls.n42571</u><#>sap<verb><c3iopres><div><c3iopres><ptcpl>ientes<fem><voc><pl><pres><act><u>latcommoninfl.ereio_conj3iopresapl60</u>
 > sardinia
 no result for sardinia
 > sardis
