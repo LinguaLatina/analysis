@@ -9,11 +9,14 @@ See documentation at <https://lingualatina.github.io/analysis/>.  All code inclu
 
 Outside of this repository:
 
-- Text editions are curated in the L3 `texts` repository
-- Buildd parsers in the L3 `morphology` repository
+- Full text editions are curated in the L3 `texts` repository
+- Build parsers in the L3 `morphology` repository
+
 
 Then, in this repository:
 
+
+- optionally, generate a new subset-edition (e.g., selections from Pliny in Shelton: `subsetcorpu.sc` in scripts directory)
 - make a `TokenizableCorpus` and generate a wordlist.  (In scripts directory, `[pliny|hyginus]WordList.sc`.) Save the results to `data/[pliny|hyginus]/[pliny|hyginus]-wordlist.txt`.
 - parse the word list (`fst-infl PARSER data/[pliny|hyginus]/[pliny|hyginus]-wordlist.txt | tee data/[pliny|hyginus]/[pliny|hyginus]-fst.txt`)
 - build a `LatinCorpus` from the FST output. (In scripts directory, `update[Pliny|Hyginus].sc`)
