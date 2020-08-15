@@ -26,13 +26,13 @@ lazy val root = (project in file("."))
   libraryDependencies ++= Seq(
     "org.scalatest" %% "scalatest" % "3.1.2" % "test",
     "org.wvlet.airframe" %% "airframe-log" % "20.5.2",
-    
+
     "edu.holycross.shot.cite" %% "xcite" % "4.3.0",
     "edu.holycross.shot" %% "ohco2" % "10.20.4",
     "edu.holycross.shot.mid" %% "orthography" % "2.1.0",
     "edu.holycross.shot" %% "latphone" % "3.0.0",
-    "edu.holycross.shot" %% "tabulae" % "7.0.1",
-    "edu.holycross.shot" %% "latincorpus" % "5.0.0"
+    "edu.holycross.shot" %% "tabulae" % "7.0.5",
+    "edu.holycross.shot" %% "latincorpus" % "5.1.0"
   )
 )
 
