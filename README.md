@@ -22,4 +22,4 @@ Then, in this repository:
 - If text editions *or* morphological parser has been updated:
     - parse the word list (`fst-infl PARSER data/[pliny|hyginus]/[pliny|hyginus]-wordlist.txt | tee data/[pliny|hyginus]/[pliny|hyginus]-fst.txt`)
     - build a `LatinCorpus` from the FST output. (In scripts directory, `update[Pliny|Hyginus].sc`)
-    - analyze a histogram of failed analyses (In scripts directory, `noAnalysis[Pliny|Hyginus]Histo.sc`)
+    - analyze a histogram of failed analyses (In scripts directory, `reviewVocab.sc`)
