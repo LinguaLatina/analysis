@@ -18,7 +18,7 @@ lazy val root = (project in file("."))
     "edu.holycross.shot.mid" %% "orthography" % "2.1.0",
     "edu.holycross.shot" %% "latphone" % "3.0.0",
     "edu.holycross.shot" %% "tabulae" % "7.0.5",
-    "edu.holycross.shot" %% "latincorpus" % "5.6.0"
+    "edu.holycross.shot" %% "latincorpus" % "6.0.0"
   )
 )
 
