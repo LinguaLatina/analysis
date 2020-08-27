@@ -5476,6 +5476,11 @@ perseida
 persen
 perseo
 perseonis
+persequendam
+persequendas
+persequendum
+persequens
+persequeretur
 persequi
 persequitur
 perses
