@@ -13751,6 +13751,26 @@ no result for persen
 no result for perseo
 > perseonis
 no result for perseonis
+> persequendam
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><gerundive>endam<fem><acc><sg><u>latcommoninfl.c3pres_16</u>
+> persequendas
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><gerundive>endas<fem><acc><pl><u>latcommoninfl.c3pres_21</u>
+> persequendum
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><gerundive>endum<masc><acc><sg><u>latcommoninfl.c3pres_4</u>
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><gerundive>endum<neut><nom><sg><u>latcommoninfl.c3pres_35</u>
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><gerundive>endum<neut><nom><sg><u>latcommoninfl.c3pres_25</u>
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><gerundive>endum<neut><acc><sg><u>latcommoninfl.c3pres_28</u>
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><gerund>endum<acc><u>latcommoninfl.grd_c3pres_3</u>
+> persequens
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><ptcpl>ens<masc><nom><sg><pres><act><u>latcommoninfl.ere3_conj3presapl37</u>
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><ptcpl>ens<masc><voc><sg><pres><act><u>latcommoninfl.ere3_conj3presapl42</u>
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><ptcpl>ens<fem><nom><sg><pres><act><u>latcommoninfl.ere3_conj3presapl49</u>
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><ptcpl>ens<fem><voc><sg><pres><act><u>latcommoninfl.ere3_conj3presapl54</u>
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><ptcpl>ens<neut><nom><sg><pres><act><u>latcommoninfl.ere3_conj3presapl66</u>
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><ptcpl>ens<neut><nom><sg><pres><act><u>latcommoninfl.ere3_conj3presapl61</u>
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><ptcpl>ens<neut><acc><sg><pres><act><u>latcommoninfl.ere3_conj3presapl64</u>
+> persequeretur
+<u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><verb>eretur<3rd><sg><impft><subj><pass><u>latcommon.ere3_c3presimpft21</u>
 > persequi
 <u>latcommon.compoundn35491_97</u><u>ls.n35491</u><#>persequ<verb><c3pres><div><c3pres><infin>i<pres><pass><u>latcommoninfl.ere3_inf5</u>
 > persequitur
