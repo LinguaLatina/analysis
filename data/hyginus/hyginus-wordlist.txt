@@ -5572,7 +5572,6 @@ philocteti
 philomela
 philomelae
 philomelam
-philomelamque
 philonide
 philonidis
 philottus
@@ -7584,7 +7583,6 @@ uita
 uitae
 uitam
 uitans
-uitaque
 uite
 uitem
 uites
