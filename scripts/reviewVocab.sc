@@ -18,8 +18,8 @@ def shelt : LatinCorpus = {
   LatinCorpus.fromUrl(corpusUrl)
 }
 
-def hlc = hyg.tokens.filter(_.text.head.isLower)
-def huc = hyg.tokens.filter(_.text.head.isUpper)
+def hlc = LatinCorpus(hyg.tokens.filter(_.text.head.isLower))
+def huc = LatinCorpus(hyg.tokens.filter(_.text.head.isUpper))
 
 def failedHisto(c: LatinCorpus, outFile: String, includeUpperCase: Boolean = true): Unit = {
   val noAnalysisHisto = LatinCorpus(c.noAnalysis).tokensHistogram().sorted
