@@ -9488,9 +9488,11 @@ no result for interimere
 <u>latcommon.compoundn24288_85</u><u>ls.n24288</u><#>interiret<3rd><sg><impft><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
 <u>latcommon.compoundn24241_84</u><u>ls.n24241</u><#>interiret<3rd><sg><impft><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
 > interitum
-no result for interitum
+<u>latcommon.verbn24241c</u><u>ls.n24241</u><#>interit<verb><pftpass><div><pftpass><ptcpl>um<masc><acc><sg><pft><pass><u>latcommoninfl.pft_perfppl4</u>
+<u>latcommon.verbn24241c</u><u>ls.n24241</u><#>interit<verb><pftpass><div><pftpass><ptcpl>um<neut><nom><sg><pft><pass><u>latcommoninfl.pft_perfppl25</u>
+<u>latcommon.verbn24241c</u><u>ls.n24241</u><#>interit<verb><pftpass><div><pftpass><ptcpl>um<neut><voc><sg><pft><pass><u>latcommoninfl.pft_perfppl30</u>
 > interitus
-no result for interitus
+<u>latcommon.verbn24241c</u><u>ls.n24241</u><#>interit<verb><pftpass><div><pftpass><ptcpl>us<masc><nom><sg><pft><pass><u>latcommoninfl.pft_perfppl1</u>
 > intermiserat
 no result for intermiserat
 > internuntii
@@ -10902,11 +10904,15 @@ no result for maia
 > maiae
 no result for maiae
 > maior
-no result for maior
+<u>lat23morph.irregadjn27649b</u><u>ls.n27649</u>maior<masc><nom><sg><comp><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>lat23morph.irregadjn27649g</u><u>ls.n27649</u>maior<fem><nom><sg><comp><irregadj><div><irregadj><u>irreginfl.1</u>
 > maiorem
-no result for maiorem
+<u>lat23morph.irregadjn27649e</u><u>ls.n27649</u>maiorem<masc><acc><sg><comp><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>lat23morph.irregadjn27649j</u><u>ls.n27649</u>maiorem<fem><acc><sg><comp><irregadj><div><irregadj><u>irreginfl.1</u>
 > maiori
-no result for maiori
+<u>lat23morph.irregadjn27649d</u><u>ls.n27649</u>maiori<masc><dat><sg><comp><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>lat23morph.irregadjn27649ano</u><u>ls.n27649</u>maiori<neut><dat><sg><comp><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>lat23morph.irregadjn27649i</u><u>ls.n27649</u>maiori<fem><dat><sg><comp><irregadj><div><irregadj><u>irreginfl.1</u>
 > mala
 <u>latcommon.adjnn27776</u><u>ls.n27776</u>mal<adj><us_a_um><div><us_a_um><adj>a<fem><nom><sg><pos><u>latcommoninfl.us_a_um37</u>
 <u>latcommon.adjnn27776</u><u>ls.n27776</u>mal<adj><us_a_um><div><us_a_um><adj>a<fem><abl><sg><pos><u>latcommoninfl.us_a_um41</u>
@@ -14949,15 +14955,31 @@ no result for primigenius
 <u>latcommon.nounn38341</u><u>ls.n38341</u>princ<noun><masc><eps_ipis><div><eps_ipis><noun>ipes<masc><acc><pl><u>latcommoninfl.eps_ipis9</u>
 <u>latcommon.nounn38341</u><u>ls.n38341</u>princ<noun><masc><eps_ipis><div><eps_ipis><noun>ipes<masc><voc><pl><u>latcommoninfl.eps_ipis12</u>
 > prior
-no result for prior
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ior<masc><nom><sg><comp><u>latcommoninfl.or_oris_comp13</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ior<masc><voc><sg><comp><u>latcommoninfl.or_oris_comp23</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ior<fem><nom><sg><comp><u>latcommoninfl.or_oris_comp49</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ior<fem><voc><sg><comp><u>latcommoninfl.or_oris_comp60</u>
 > priore
-no result for priore
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iore<masc><abl><sg><comp><u>latcommoninfl.or_oris_comp17</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iore<fem><abl><sg><comp><u>latcommoninfl.or_oris_comp53</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iore<neut><abl><sg><comp><u>latcommoninfl.or_oris_comp91</u>
 > priorem
-no result for priorem
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iorem<masc><acc><sg><comp><u>latcommoninfl.or_oris_comp16</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iorem<fem><acc><sg><comp><u>latcommoninfl.or_oris_comp52</u>
 > priores
-no result for priores
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iores<masc><nom><pl><comp><u>latcommoninfl.or_oris_comp18</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iores<masc><acc><pl><comp><u>latcommoninfl.or_oris_comp21</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iores<masc><voc><pl><comp><u>latcommoninfl.or_oris_comp24</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iores<fem><nom><pl><comp><u>latcommoninfl.or_oris_comp54</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iores<fem><acc><pl><comp><u>latcommoninfl.or_oris_comp57</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>iores<fem><voc><pl><comp><u>latcommoninfl.or_oris_comp62</u>
 > prioribus
-no result for prioribus
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ioribus<masc><dat><pl><comp><u>latcommoninfl.or_oris_comp20</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ioribus<masc><abl><pl><comp><u>latcommoninfl.or_oris_comp22</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ioribus<fem><dat><pl><comp><u>latcommoninfl.or_oris_comp56</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ioribus<fem><abl><pl><comp><u>latcommoninfl.or_oris_comp59</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ioribus<neut><dat><pl><comp><u>latcommoninfl.or_oris_comp94</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ioribus<neut><abl><pl><comp><u>latcommoninfl.or_oris_comp96</u>
 > pristinam
 no result for pristinam
 > priuare
@@ -14977,6 +14999,9 @@ no result for priuarunt
 no result for priuignum
 > prius
 <u>latcommon.irregadvn38365a</u><u>ls.n38365</u>prius<comp><irregadv><div><irregadv><u>irreginfl.2</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ius<neut><nom><sg><comp><u>latcommoninfl.or_oris_comp87</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ius<neut><acc><sg><comp><u>latcommoninfl.or_oris_comp90</u>
+<u>lat25morph.n38352</u><u>ls.n38352</u>pr<adj><or_oris_comp><div><or_oris_comp><adj>ius<neut><voc><sg><comp><u>latcommoninfl.or_oris_comp97</u>
 > pro
 <u>latcommon.indecln38383</u><u>ls.n38383</u>pro<indecl><indeclprep><div><indeclprep><indecl><u>indeclinfl.1</u>
 > proaui
@@ -19282,7 +19307,9 @@ no result for uirginitatem
 <u>lat23morph.nounn51069</u><u>ls.n51069</u>uirg<noun><fem><o_inis><div><o_inis><noun>o<fem><nom><sg><u>latcommoninfl.o_inis13</u>
 <u>lat23morph.nounn51069</u><u>ls.n51069</u>uirg<noun><fem><o_inis><div><o_inis><noun>o<fem><voc><sg><u>latcommoninfl.o_inis23</u>
 > uirgulta
-no result for uirgulta
+<u>lat23morph.nounn51073</u><u>ls.n51073</u>uirgult<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>livymorph.us_i18</u>
+<u>lat23morph.nounn51073</u><u>ls.n51073</u>uirgult<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>livymorph.us_i21</u>
+<u>lat23morph.nounn51073</u><u>ls.n51073</u>uirgult<noun><neut><us_i><div><us_i><noun>a<neut><voc><pl><u>livymorph.us_i24</u>
 > uiri
 <u>lat23morph.nounn51034</u><u>ls.n51034</u>uir<noun><masc><0_i><div><0_i><noun>i<masc><nom><pl><u>latcommoninfl.0_i6</u>
 <u>lat23morph.nounn51034</u><u>ls.n51034</u>uir<noun><masc><0_i><div><0_i><noun>i<masc><gen><sg><u>latcommoninfl.0_i2</u>
@@ -19628,7 +19655,10 @@ no result for utin
 > utis
 <u>latcommon.verbn50002a</u><u>ls.n50002</u><#>ut<verb><c3pres><div><c3pres><verb>is<2nd><sg><pres><indic><act><u>latcommon.ere3_c3prespres2</u>
 > utraque
-no result for utraque
+<u>latcommon.n49988m</u><u>ls.n49988</u>utraque<fem><nom><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>latcommon.n49988q</u><u>ls.n49988</u>utraque<fem><abl><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>latcommon.n49988ad</u><u>ls.n49988</u>utraque<neut><nom><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>latcommon.n49988ag</u><u>ls.n49988</u>utraque<neut><acc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
 > utrem
 no result for utrem
 > utrunque
