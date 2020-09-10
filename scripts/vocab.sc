@@ -18,17 +18,16 @@ val vocabFiles : Map[Int, String] = Map(
 
 val hyginusUrl = "https://raw.githubusercontent.com/LinguaLatina/analysis/master/data/hyginus/hyginus-latc.cex"
 val hyginus = LatinCorpus.fromUrl(hyginusUrl)
-
-
 val tokens = hyginus.tokens.filter(_.text.head.isLower)
-
 val total = tokens.size
 
+
+/*
 val totalAnalyzed = tokens.filter(_.analyses.nonEmpty).size
 
 val analysisCoverage = (totalAnalyzed * 1.0 / total) * 100
 val analysisPct = BigDecimal(analysisCoverage).setScale(1, BigDecimal.RoundingMode.HALF_UP).toDouble
-
+*/
 
 
 val tempOmit = List(
@@ -45,31 +44,43 @@ val tempOmit = List(
   "s.n27977" // some kind of typo
 )
 
+// Read all data lines for vocabulary entries through a specified unit.
+//
+// vocabUnit: read vocab through this unit
 def dataForUnit(vocabUnit: Int) : Vector[String] = {
   val vocab = for (i <- 1 to vocabUnit) yield {
     println("Loading data...")
-    val lines = Source.fromURL(vocabFiles(i))
+    val lines = Source.fromURL(vocabFiles(i)).getLines.toVector
+    lines.filter(_.nonEmpty)
   }
+  vocab.flatten.toVector
 }
 
-def vocabForUnit(vocabUnit: Int): Vector[String] = {
-  val vocab = for (i <- 1 to vocabUnit) yield {
-    println("Loading data...")
-    val lines = Source.fromURL(vocabFiles(i))
-    println("Done.")
-    val lexemeIds = lines.getLines.toVector.tail.filter(_.nonEmpty).map( ln => {
-      val columns = ln.split("#")
-      val idParts = columns.head.split(":")
-      idParts.head
-    })
-    lexemeIds
-  }
-  vocab.toVector.flatten.filterNot(v => tempOmit.contains(v))
+// Extract all lexemeIds from data for unit
+def lexemeIdsForUnit(vocabUnit: Int): Vector[String] = {
+  val lexemeIds = dataForUnit(vocabUnit).map(ln => {
+    val columns = ln.split("#")
+    val idParts = columns.head.split(":")
+    idParts.head
+  })
+  lexemeIds.filterNot(v => tempOmit.contains(v))
 }
 
 
+// Create map of labelled lexemes to vocabulary entries for all
+// vocabulary through a specified unit.
+//
+// vocabUnit: include vocabulry through this unit
+def vocabMapForUnit(vocabUnit: Int) : Map[String, String]= {
+  val paired = dataForUnit(vocabUnit).map(ln => {
+    val columns = ln.split("#")
+    columns(0) -> columns(1)
+  })
+  paired.toMap
+}
 
 
+vocabMapForUnit(1)
 def unitCoverage(unitVocab: Vector[String]) = {
   val counts = unitVocab.flatMap(
     lex => hyginus.passagesForLexeme(lex)
@@ -87,7 +98,7 @@ def addPos(vocab: Vector[String]) = {
 }
 
 
-val unitVocab = vocabForUnit(1)
+val unitVocab = lexemeIdsForUnit(1)
 val pos = addPos(unitVocab)
 val posGrouped = pos.groupBy(_._2)
 
@@ -95,7 +106,7 @@ posGrouped("indeclinable")
 
 
 def listEm(unitNum: Int) = {
-  val unitVocab =   vocabForUnit(unitNum).distinct.filterNot(l => tempOmit.contains(l))
+  val unitVocab =   lexemeIdsForUnit(unitNum).distinct.filterNot(l => tempOmit.contains(l))
   val pos = addPos(unitVocab)
   val posGrouped = pos.groupBy(_._2)
   val posCovered = posGrouped.keySet
