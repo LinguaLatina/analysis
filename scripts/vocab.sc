@@ -149,7 +149,12 @@ def markdown(vocabUnit: Int): String = {
       }
     }
   }
-  body.mkString("\n\n")
+  val coverageNumbers = unitCoverage(vocabUnit)
+  val count = coverageNumbers._1
+  val pct =  coverageNumbers._2
+  val preface = s"With vocabulary items through this unit, you can recognize **${count}* words in Hyginus (or **${pct}%** of the text of the *Fabulae*.)"
+
+  preface + "\n\n" + body.mkString("\n\n")
 }
 
 markdown(2)
