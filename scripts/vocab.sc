@@ -99,7 +99,16 @@ def addPos(vocabUnit: Int) = {
   val tkns = tokensForUnit(vocabUnit)
   tkns.map (t => {
     val labelled = LewisShort.label(t.analyses.head.lemmaId)
-    (labelled, t.analyses.head.posLabel)
+    val pos = t.analyses.head.posLabel
+    pos match {
+      case "gerundive" => ("verb", pos)
+      case "gerund" => ("verb", pos)
+      case "participle" => ("verb", pos)
+      case "infinitive" => ("verb", pos)
+      case "supine" => ("verb", pos)
+      case _ => (labelled, pos)
+    }
+
   }).distinct
 }
 
@@ -118,17 +127,27 @@ def markdown(vocabUnit: Int): String = {
   val sections = groups.keySet.toVector.sorted
   val entries = vocabMapForUnit(vocabUnit)
   val body = for (section <- sections) yield {
-    println("SECTION " + section)
-    val items = groups(section).map( pr => {
-      val lex = pr._1
-      if (entries.keySet.contains(lex)) {
-        "- " + entries(pr._1)
-      } else {
-        println("FAILED TO FIND ENTRY FOR " + lex)
-        ""
+    section  match {
+      case "gerundive" => ""
+      case "gerund" => ""
+      case "participle" => ""
+      case "infinitive" => ""
+      case "supine" => ""
+
+      case _ => {
+        println("SECTION " + section)
+        val items = groups(section).map( pr => {
+          val lex = pr._1
+          if (entries.keySet.contains(lex)) {
+            "- " + entries(pr._1)
+          } else {
+            println("FAILED TO FIND ENTRY FOR " + lex)
+            ""
+          }
+        })
+        s"## ${section.capitalize}\n\n" + items.filter(_.nonEmpty).mkString("\n")
       }
-    })
-    s"## ${section.capitalize}\n\n" + items.filter(_.nonEmpty).mkString("\n")
+    }
   }
   body.mkString("\n\n")
 }
