@@ -1,9 +1,12 @@
+/*
 val personalRepo = coursierapi.MavenRepository.of("https://dl.bintray.com/neelsmith/maven")
 interp.repositories() ++= Seq(personalRepo)
 
 import $ivy.`edu.holycross.shot::latincorpus:7.0.0-pr5`
-
+import $ivy.`edu.holycross.shot::tabulae:7.0.5`
+*/
 import edu.holycross.shot.latincorpus._
+import edu.holycross.shot.tabulae._
 import scala.io.Source
 
 val vocabFiles : Map[Int, String] = Map(
@@ -21,16 +24,11 @@ val hyginus = LatinCorpus.fromUrl(hyginusUrl)
 val tokens = hyginus.tokens.filter(_.text.head.isLower)
 val total = tokens.size
 
-
-/*
-val totalAnalyzed = tokens.filter(_.analyses.nonEmpty).size
-
-val analysisCoverage = (totalAnalyzed * 1.0 / total) * 100
-val analysisPct = BigDecimal(analysisCoverage).setScale(1, BigDecimal.RoundingMode.HALF_UP).toDouble
-*/
-
-
+// Lexemes causing some sort of issue in analysis?
+// Check out individually in morphology repo, and revisit this script.
+// Meanwhile, omit these from analysis. :-(
 val tempOmit = List(
+  "ls.n28054", //:maritus1
   "ls.n49983",
   "ls.n40071",
   "ls.n25107",
@@ -44,12 +42,21 @@ val tempOmit = List(
   "s.n27977" // some kind of typo
 )
 
+
+/*
+val totalAnalyzed = tokens.filter(_.analyses.nonEmpty).size
+
+val analysisCoverage = (totalAnalyzed * 1.0 / total) * 100
+val analysisPct = BigDecimal(analysisCoverage).setScale(1, BigDecimal.RoundingMode.HALF_UP).toDouble
+*/
+
+
 // Read all data lines for vocabulary entries through a specified unit.
 //
 // vocabUnit: read vocab through this unit
 def dataForUnit(vocabUnit: Int) : Vector[String] = {
   val vocab = for (i <- 1 to vocabUnit) yield {
-    println("Loading data...")
+    println(s"Loading data for unit ${i} ...")
     val lines = Source.fromURL(vocabFiles(i)).getLines.toVector
     lines.filter(_.nonEmpty)
   }
@@ -80,24 +87,57 @@ def vocabMapForUnit(vocabUnit: Int) : Map[String, String]= {
 }
 
 
-vocabMapForUnit(1)
-def unitCoverage(unitVocab: Vector[String]) = {
-  val counts = unitVocab.flatMap(
-    lex => hyginus.passagesForLexeme(lex)
-  ).distinct.size
+// get flat list of tokens for vocab through a given unit
+def tokensForUnit(vocabUnit: Int): Vector[LatinParsedToken] = {
+  val lexemes = lexemeIdsForUnit(vocabUnit)
+  lexemes.flatMap(lex => hyginus.tokens.filter(t => t.matchesLexeme(lex)))
+}
+
+
+// outputs labelled lexeme paired with Pos
+def addPos(vocabUnit: Int) = {
+  val tkns = tokensForUnit(vocabUnit)
+  tkns.map (t => {
+    val labelled = LewisShort.label(t.analyses.head.lemmaId)
+    (labelled, t.analyses.head.posLabel)
+  }).distinct
+}
+
+def unitCoverage(vocabUnit: Int) = {
+  val total = tokens.size
+  val counts = tokensForUnit(vocabUnit).map(_.urn).distinct.size
+
   val unitCoverage = (counts * 1.0 / total) * 100
   val unitPct = BigDecimal(unitCoverage).setScale(1, BigDecimal.RoundingMode.HALF_UP).toDouble
-}
-
-def addPos(vocab: Vector[String]) = {
-  vocab.map(
-    lex  => (lex,
-      hyginus.tokens.filter(t => t.matchesLexeme(lex)).head.analyses.head.posLabel
-    )
-  )
+  (counts, unitPct)
 }
 
 
+def markdown(vocabUnit: Int): String = {
+  val groups = addPos(vocabUnit).groupBy(_._2)
+  val sections = groups.keySet.toVector.sorted
+  val entries = vocabMapForUnit(vocabUnit)
+  val body = for (section <- sections) yield {
+    println("SECTION " + section)
+    val items = groups(section).map( pr => {
+      val lex = pr._1
+      if (entries.keySet.contains(lex)) {
+        "- " + entries(pr._1)
+      } else {
+        println("FAILED TO FIND ENTRY FOR " + lex)
+        ""
+      }
+    })
+    s"## ${section.capitalize}\n\n" + items.filter(_.nonEmpty).mkString("\n")
+  }
+  body.mkString("\n\n")
+}
+
+markdown(2)
+
+
+
+/*
 val unitVocab = lexemeIdsForUnit(1)
 val pos = addPos(unitVocab)
 val posGrouped = pos.groupBy(_._2)
@@ -112,3 +152,4 @@ def listEm(unitNum: Int) = {
   val posCovered = posGrouped.keySet
   posGrouped("indeclinable")
 }
+*/
