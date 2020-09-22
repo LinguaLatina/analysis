@@ -1970,15 +1970,16 @@ no result for atalantes
 > athamanta
 no result for athamanta
 > athamante
-no result for athamante
+<u>latcommon.nounn4239</u><u>ls.n4239</u>athama<noun><masc><s_ntis><div><s_ntis><noun>nte<masc><abl><sg><u>latcommoninfl.s_ntis5</u>
 > athamantem
-no result for athamantem
+<u>latcommon.nounn4239</u><u>ls.n4239</u>athama<noun><masc><s_ntis><div><s_ntis><noun>ntem<masc><acc><sg><u>latcommoninfl.s_ntis4</u>
 > athamanti
-no result for athamanti
+<u>latcommon.nounn4239</u><u>ls.n4239</u>athama<noun><masc><s_ntis><div><s_ntis><noun>nti<masc><dat><sg><u>latcommoninfl.s_ntis3</u>
 > athamantis
-no result for athamantis
+<u>latcommon.nounn4239</u><u>ls.n4239</u>athama<noun><masc><s_ntis><div><s_ntis><noun>ntis<masc><gen><sg><u>latcommoninfl.s_ntis2</u>
 > athamas
-no result for athamas
+<u>latcommon.nounn4239</u><u>ls.n4239</u>athama<noun><masc><s_ntis><div><s_ntis><noun>s<masc><nom><sg><u>latcommoninfl.s_ntis1</u>
+<u>latcommon.nounn4239</u><u>ls.n4239</u>athama<noun><masc><s_ntis><div><s_ntis><noun>s<masc><voc><sg><u>latcommoninfl.s_ntis11</u>
 > athamentem
 no result for athamentem
 > athenae
@@ -13702,13 +13703,16 @@ no result for pelasgo
 > pelasgus
 no result for pelasgus
 > pelei
-no result for pelei
+<u>latcommon.nounn34403</u><u>ls.n34403</u>pele<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>livymorph.us_i6</u>
+<u>latcommon.nounn34403</u><u>ls.n34403</u>pele<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>livymorph.us_i2</u>
+<u>latcommon.nounn34403</u><u>ls.n34403</u>pele<noun><masc><us_i><div><us_i><noun>i<masc><voc><pl><u>livymorph.us_i12</u>
 > peleo
-no result for peleo
+<u>latcommon.nounn34403</u><u>ls.n34403</u>pele<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>livymorph.us_i3</u>
+<u>latcommon.nounn34403</u><u>ls.n34403</u>pele<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>livymorph.us_i5</u>
 > pelethronius
 no result for pelethronius
 > peleus
-no result for peleus
+<u>latcommon.nounn34403</u><u>ls.n34403</u>pele<noun><masc><us_i><div><us_i><noun>us<masc><nom><sg><u>livymorph.us_i1</u>
 > peliades
 no result for peliades
 > peliadum
