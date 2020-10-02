@@ -2,6 +2,9 @@ import scala.io.Source
 import edu.holycross.shot.cite._
 import edu.holycross.shot.tabulae._
 
+// This file should be an extract of the three columns
+// passage#token#lexeme
+// from our token source.
 val f = "columns-for-app.cex"
 
 val lines = Source.fromFile(f).getLines.toVector.tail
