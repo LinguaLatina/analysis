@@ -1,0 +1,39 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.0	quos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.0	quos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.1	pastores	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n34067
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.1	pastores	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n34067
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.1	pastores	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n34067
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.2	pro	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n38383
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.3	suis	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001312,Masculine,Dative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.3	suis	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001512,Masculine,Ablative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.3	suis	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002312,Feminine,Dative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.3	suis	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002512,Feminine,Ablative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.3	suis	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003312,Neuter,Dative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.3	suis	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003512,Neuter,Ablative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.4	educarunt		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.5	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.6	appellarunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n3134
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.7	Zeton		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.7_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.11_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.12	alterum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n2015
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.12	alterum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003412,Neuter,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n2015
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.12	alterum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003612,Neuter,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n2015
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.12	alterum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003112,Neuter,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n2015
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.13	uero	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001312,Masculine,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n50667
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.13	uero	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001512,Masculine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n50667
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.13	uero	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003312,Neuter,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n50667
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.13	uero	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003512,Neuter,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n50667
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.14	Amphionem		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.14_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.23_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.24	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.24	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.25	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.26	quoniam	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40279
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.27	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.28	biuio		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.29	eum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.30	edidit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n15157
+https://lingualatina.github.io/texts/browsable/hyginus/7pr/	7pr.4	7pr.4.30_0	.		urn:cite2:tabulae:ls.v1:null

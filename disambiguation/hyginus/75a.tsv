@@ -1,0 +1,54 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.0	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001301,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.0	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002301,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.0	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.0	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003301,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.0	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.0	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.0	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.0	is	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211110004,Second,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n15868
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.1	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.2	secundum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n43273
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.2	secundum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003112,Neuter,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n43273
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.2	secundum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003412,Neuter,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n43273
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.2	secundum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003612,Neuter,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n43273
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.3	Iouem		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.4	iudicasset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n25294
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.4_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.5	Iuno		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.6	irata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022105,Perfect,Passive,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n24885
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.6	irata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022505,Perfect,Passive,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n24885
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.6	irata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022605,Perfect,Passive,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n24885
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.6	irata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023105,Perfect,Passive,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n24885
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.6	irata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023405,Perfect,Passive,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n24885
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.6	irata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023605,Perfect,Passive,Neuter,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n24885
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.7	manu	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n27977
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.7	manu	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n27977
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.8	auersa		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.9	eum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.10	excaecauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n16624
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.10_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.11	at	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n4220
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.12	Iouis		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.13	ob	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n31564
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.14	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.14	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.15	fecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:l3:composites.v1:ficio
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.15	fecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.16	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.17	septem	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000D,Numeral)	urn:cite2:tabulae:ls.v1:n43722
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.18	aetates	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n1406
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.18	aetates	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n1406
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.18	aetates	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n1406
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.19	uiueret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n51238
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.21	praeter	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n38069
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.21	praeter	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n38069
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.22	ceteros	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001412,Masculine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n7640
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.23	mortales	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001112,Masculine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n29733
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.23	mortales	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001412,Masculine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n29733
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.23	mortales	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001612,Masculine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n29733
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.23	mortales	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002112,Feminine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n29733
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.23	mortales	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002412,Feminine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n29733
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.23	mortales	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002612,Feminine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n29733
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.24	esset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/75a/	75a.3	75a.3.24_0	.		urn:cite2:tabulae:ls.v1:null

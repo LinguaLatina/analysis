@@ -1,0 +1,74 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.0	post	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n37194
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.1	diem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.2	quartum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n40033
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.2	quartum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003112,Neuter,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n40033
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.2	quartum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003412,Neuter,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n40033
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.2	quartum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003612,Neuter,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n40033
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.3	quam	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.4	essent	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:322210004,Third,Plural,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.5	nati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021105,Perfect,Passive,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.5	nati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021205,Perfect,Passive,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.5	nati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021605,Perfect,Passive,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.5	nati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023205,Perfect,Passive,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.5_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.6	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.6	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.7	matris	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n28181
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.8	poenas	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n36788
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.9	exsecutus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n17205
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.10	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.10_0	:		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.11	nam	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n30350
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.12	Parnassum		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.13	uenit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.13	uenit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.14	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.15	Pythonem		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.16	sagittis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002300,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n42264
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.16	sagittis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002500,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n42264
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.17	interfecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n24257
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.19	Pythius		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.20	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.21	dictus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n13804
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.21	dictus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n13804
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.21_0	)		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.21_1	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.23	eius	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002201,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.23	eius	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003201,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.23	eius	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001201,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.24	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.25	cortinam		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.26	coniecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n10309
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.27	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.28	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.29	templo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n47727
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.29	templo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n47727
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.30	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001312,Masculine,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.30	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001512,Masculine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.30	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003312,Neuter,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.30	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003512,Neuter,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.31	posuit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n37010
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.31_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.33	funebres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001112,Masculine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n19053
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.33	funebres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001412,Masculine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n19053
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.33	funebres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001612,Masculine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n19053
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.33	funebres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002112,Feminine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n19053
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.33	funebres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002412,Feminine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n19053
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.33	funebres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002612,Feminine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n19053
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.34	ei	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001301,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.34	ei	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002301,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.34	ei	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003301,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.34	ei	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.35	fecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:l3:composites.v1:ficio
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.35	fecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.35_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.36	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.36	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.36	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.37	ludi	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n27171
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.37	ludi	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n27171
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.37	ludi	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n27171
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.38	Pythia		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.39	dicuntur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:321120004,Third,Plural,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n13804
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.5	140a.5.39_0	.		urn:cite2:tabulae:ls.v1:null

@@ -1,0 +1,13 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.0	QUI	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.0	QUI	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.0	QUI	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.1	EPHEBI	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n15896
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.1	EPHEBI	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n15896
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.1	EPHEBI	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n15896
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.2	FORMOSISSIMI	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001132,Masculine,Nominative,Plural,Superlative)	urn:cite2:tabulae:ls.v1:n18600
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.2	FORMOSISSIMI	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001232,Masculine,Genitive,Singular,Superlative)	urn:cite2:tabulae:ls.v1:n18600
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.2	FORMOSISSIMI	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001632,Masculine,Vocative,Plural,Superlative)	urn:cite2:tabulae:ls.v1:n18600
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.2	FORMOSISSIMI	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003232,Neuter,Genitive,Singular,Superlative)	urn:cite2:tabulae:ls.v1:n18600
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.3	FUERUNT	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/271_268/	271_268.title	271_268.title.3_0	.		urn:cite2:tabulae:ls.v1:null

@@ -1,0 +1,49 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.0	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.0	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.1	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.1	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.1	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.2	Ioui		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.3	nocere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211120004,Second,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n31073
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.3	nocere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211320004,Second,Singular,Present,Imperative,Passive)	urn:cite2:tabulae:ls.v1:n31073
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.3	nocere	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n31073
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.4	non	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n31151
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.5	potuit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n37193
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.5_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.6	eos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.7	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.7	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.7	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.8	fulmina	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020003100,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n18993
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.8	fulmina	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020003400,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n18993
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.8	fulmina	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020003600,Neuter,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n18993
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.9	fecerunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:l3:composites.v1:ficio
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.9	fecerunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.9_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.10	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.10	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.11	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.12	Cyclopes		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.12_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.13	interfecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n24257
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.13_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.14	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.14	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.14	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.15	ob	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n31564
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.16	factum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021405,Perfect,Passive,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.16	factum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023105,Perfect,Passive,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.16	factum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023605,Perfect,Passive,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.16	factum	ValidSupineForm(urn:cite2:tabulae:morphforms.v1:000000409,Accusative)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.17	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.17	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.18	datus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n14599
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.19	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.20	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.21	seruitutem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n43945
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.22	Admeto		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.23	regi	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.23	regi	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.24	Thessaliae		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/49pr/	49pr.2	49pr.2.24_0	.		urn:cite2:tabulae:ls.v1:null

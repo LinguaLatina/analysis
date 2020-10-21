@@ -1,0 +1,132 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.0	Ceyx		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.1	Hesperi		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.2	siue	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n44517
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.3	Luciferi		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.4	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.5	Philonidis		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.6	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.7	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.8	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.9	naufragio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n30501
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.9	naufragio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n30501
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.10	periisset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n34869
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.10_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.11	Alcyone		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.12	Aeoli	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n1263
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.12	Aeoli	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n1263
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.12	Aeoli	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n1263
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.13	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.14	Aegiales		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.15	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.15	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.15	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.16	uxor	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n50039
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.16	uxor	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n50039
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.17	eius	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002201,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.17	eius	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003201,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.17	eius	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001201,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.18	propter	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n38952
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.18	propter	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n38952
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.19	amorem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n2294
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.20	ipsa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n24872
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.20	ipsa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n24872
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.20	ipsa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n24872
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.20	ipsa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n24872
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021605,Perfect,Passive,Masculine,Vocative,Singular)	urn:cite2:l3:composites.v1:do
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002401,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.22	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.23	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.23	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.23	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.24	praecipitauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n37415
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.24_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.25	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.25	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.25	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.26	deorum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001200,Masculine,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n13573
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.26	deorum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001200,Masculine,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n13573
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.27	misericordia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n29266
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.27	misericordia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n29266
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.27	misericordia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n29266
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.28	ambo		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.29	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.30	aues	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n4714
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.30	aues	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n4714
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.30	aues	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n4714
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.31	sunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:321110004,Third,Plural,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.32	mutati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021105,Perfect,Passive,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n30179
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.32	mutati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021205,Perfect,Passive,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n30179
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.32	mutati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021605,Perfect,Passive,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n30179
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.32	mutati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023205,Perfect,Passive,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n30179
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.33	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.33	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.33	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.33	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.33	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.33	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.33	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.34	alcyones		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.35	dicuntur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:321120004,Third,Plural,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n13804
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.35_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.36	hae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.37	aues	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n4714
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.37	aues	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n4714
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.37	aues	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n4714
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.38	nidum		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.39	oua		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.40	pullos		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.41	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.42	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.42	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.42	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.43	septem	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000D,Numeral)	urn:cite2:tabulae:ls.v1:n43722
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.44	diebus	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002300,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.44	diebus	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002500,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.45	faciunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:321110004,Third,Plural,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.46	hiberno		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.47	tempore	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n47738
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.47_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.48	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.48	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.48	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.49	his	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001301,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.49	his	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.49	his	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002301,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.49	his	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003301,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.49	his	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003301,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.49	his	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.49	his	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.49	his	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001301,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.49	his	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002301,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.49	his	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.50	diebus	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002300,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.50	diebus	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002500,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.51	tranquillum		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.52	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.52_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.53	quos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.53	quos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.54	dies	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.54	dies	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.54	dies	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.54	dies	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.54	dies	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.55	nautae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n30535
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.55	nautae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n30535
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.55	nautae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n30535
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.55	nautae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n30535
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.56	alcyonia		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.57	appellant	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:321110004,Third,Plural,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n3134
+https://lingualatina.github.io/texts/browsable/hyginus/65pr/	65pr.1	65pr.1.57_0	.		urn:cite2:tabulae:ls.v1:null

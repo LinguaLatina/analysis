@@ -1,0 +1,34 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.0	Homines	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n20866
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.0	Homines	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n20866
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.0	Homines	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n20866
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.1	antea		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.2	ab	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.3	immortalibus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.4	ignem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n21403
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.5	petebant	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:322110004,Third,Plural,Imperfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n35822
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.5_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.6	neque	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n30776
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.7	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.8	perpetuum		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.9	seruare	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211120004,Second,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n43947
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.9	seruare	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n43947
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.10	sciebant	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:322110004,Third,Plural,Imperfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n42976
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.10_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.11	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.11	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.11	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.12	postea	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n37196
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.13	Prometheus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.14	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.15	ferula		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.16	detulit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n12677
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.17	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.18	terras	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n47897
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.18_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.20	monstrauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n29616
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.21	quomodo	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n40273
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.22	cinere		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.23	obrutum	ValidSupineForm(urn:cite2:tabulae:morphforms.v1:000000409,Accusative)	urn:cite2:tabulae:ls.v1:n31792
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.24	seruarent	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:322210004,Third,Plural,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n43947
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.24_0	.		urn:cite2:tabulae:ls.v1:null

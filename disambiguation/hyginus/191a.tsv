@@ -1,0 +1,53 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.0	tunc	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n49420
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.1	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.1	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.2	indignatus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.3	Midae		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.4	dixit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n13804
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.4_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.5	Quale		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.6	cor	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n11124
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.6	cor	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n11124
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.6	cor	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n11124
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.7	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.8	iudicando	ValidGerundiveForm(urn:cite2:tabulae:morphforms.v1:010001307,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n25294
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.8	iudicando	ValidGerundiveForm(urn:cite2:tabulae:morphforms.v1:010001507,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25294
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.8	iudicando	ValidGerundiveForm(urn:cite2:tabulae:morphforms.v1:010003307,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n25294
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.8	iudicando	ValidGerundiveForm(urn:cite2:tabulae:morphforms.v1:010003507,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25294
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.8	iudicando	ValidGerundForm(urn:cite2:tabulae:morphforms.v1:000000308,Dative)	urn:cite2:tabulae:ls.v1:n25294
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.8	iudicando	ValidGerundForm(urn:cite2:tabulae:morphforms.v1:000000508,Ablative)	urn:cite2:tabulae:ls.v1:n25294
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.9	habuisti	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:214110004,Second,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n20077
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.9_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.10	tales		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.11	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.12	auriculas		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.13	habebis	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:213110004,Second,Singular,Future,Indicative,Active)	urn:cite2:tabulae:ls.v1:n20077
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.13_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001301,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003301,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002301,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001301,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003301,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002301,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.14	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.15	auditis	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:221110004,Second,Plural,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n4453
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.15	auditis	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021305,Perfect,Passive,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n4453
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.15	auditis	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021505,Perfect,Passive,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n4453
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.15	auditis	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024022305,Perfect,Passive,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n4453
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.15	auditis	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024022505,Perfect,Passive,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n4453
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.15	auditis	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023305,Perfect,Passive,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n4453
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.15	auditis	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023505,Perfect,Passive,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n4453
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.16	effecit		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.17	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.18	asininas		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.19	haberet	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n20077
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.20	aures	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n4576
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.20	aures	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n4576
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.20	aures	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n4576
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.2	191a.2.20_0	.		urn:cite2:tabulae:ls.v1:null

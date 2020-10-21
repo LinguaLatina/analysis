@@ -1,0 +1,45 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.0	Liber	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n26468
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.0	Liber	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n26468
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.0	Liber	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001112,Masculine,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.0	Liber	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001612,Masculine,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.1	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.2	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.3	Indiam		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.4	exercitum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n16824
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.5	duceret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n14847
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.5_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.6	Nyso		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.7	nutricio		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.8	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001312,Masculine,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.8	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001512,Masculine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.8	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003312,Neuter,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.8	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003512,Neuter,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.9	dum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n14902
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.10	ipse	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n24872
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.11	inde	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n22699
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.12	rediret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n40719
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.13	regni	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003200,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.14	Thebani		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.15	potestatem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n37292
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.16	tradidit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n48671
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.16_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.17	sed	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n43291
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.18	posteaquam	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n37197
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.19	inde	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n22699
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.20	reuersus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n41583
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.21	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.22	Liber	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n26468
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.22	Liber	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n26468
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.22	Liber	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001112,Masculine,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.22	Liber	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001612,Masculine,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.22_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.23	Nysus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.24	regno	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.24	regno	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.24	regno	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n40911
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.25	cedere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211120004,Second,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n7275
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.25	cedere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:213120004,Second,Singular,Future,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n7275
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.25	cedere	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n7275
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.26	noluit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n31124
+https://lingualatina.github.io/texts/browsable/hyginus/131a/	131a.1	131a.1.26_0	.		urn:cite2:tabulae:ls.v1:null

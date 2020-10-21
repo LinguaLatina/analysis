@@ -1,0 +1,37 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.0	Athamas	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n4239
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.0	Athamas	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n4239
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.1	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.2	Thessalia		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.3	rex	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.3	rex	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.4	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.5	Inonem		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.6	uxorem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n50039
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.6_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.7	ex	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.8	qua	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.9	duos	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001412,Masculine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n14914
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.9	duos	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001412,Masculine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n14914
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.10	filios	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.17	perisse	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:004010006,Perfect,Active)	urn:cite2:tabulae:ls.v1:n34869
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.18	putaret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n39703
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.18_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.19	duxit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n14847
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.20	nymphae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n31537
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.20	nymphae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n31537
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.20	nymphae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n31537
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.20	nymphae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n31537
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.21	filiam	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.22	Themistonem		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.23	uxorem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n50039
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.23_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.24	ex	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.25	ea	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.25	ea	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.25	ea	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.25	ea	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.26	geminos	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001412,Masculine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n19387
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.27	filios	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.28	procreauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n38498
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.1	4pr.1.28_0	.		urn:cite2:tabulae:ls.v1:null

@@ -1,0 +1,56 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.0	Cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.1	Althaea		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.2	Thestii		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.3	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.3	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.3	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.4	una	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002112,Feminine,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n49871
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.4	una	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002512,Feminine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n49871
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.4	una	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002612,Feminine,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n49871
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.4	una	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003112,Neuter,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n49871
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.4	una	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003412,Neuter,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n49871
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.4	una	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003612,Neuter,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n49871
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.5	nocte	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n31309
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.6	concubuerunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n9942
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.6	concubuerunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n9942
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.7	Oeneus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.8	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.9	Mars	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n28088
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.9	Mars	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n28088
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.9_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.10	ex	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001301,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003301,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002301,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001301,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003301,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002301,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.11	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.12	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.13	esset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.14	natus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.15	Meleager		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.15_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.16	subito	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n45904
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.17	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.18	regia	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002112,Feminine,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n40905
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.18	regia	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002512,Feminine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n40905
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.18	regia	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002612,Feminine,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n40905
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.18	regia	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003112,Neuter,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n40905
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.18	regia	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003412,Neuter,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n40905
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.18	regia	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003612,Neuter,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n40905
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.19	apparuerunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n3120
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.20	Parcae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n33821
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.20	Parcae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n33821
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.20	Parcae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n33821
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.20	Parcae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n33821
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.21	Clotho		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.22	Lachesis		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.23	Atropos		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/171a/	171a.1	171a.1.23_0	.		urn:cite2:tabulae:ls.v1:null

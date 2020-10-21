@@ -1,0 +1,57 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.0	Adrastus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.1	autem	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n4633
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.2	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.3	eum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.4	inuestigaret		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.5	monile		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.6	aureum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n4547
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.6	aureum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003112,Neuter,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n4547
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.6	aureum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003412,Neuter,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n4547
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.6	aureum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003612,Neuter,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n4547
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.7	ex	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.8	gemmis		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.9	fecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:l3:composites.v1:ficio
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.9	fecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.10	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.11	muneri	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n30017
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.12	dedit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n14599
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.12	dedit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n12628
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.13	sorori	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n44798
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.14	suae	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002112,Feminine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.14	suae	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002212,Feminine,Genitive,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.14	suae	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002312,Feminine,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.14	suae	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002612,Feminine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.15	Eriphylae		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.15_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.16	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.16	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.16	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.16	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.16	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.16	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.16	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.17	doni	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003200,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n14736
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.18	cupida		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.19	coniugem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.19	coniugem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.20	prodidit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n38568
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.20_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.21	Amphiaraus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.22	Alcmaeoni		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.23	filio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.23	filio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.24	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001312,Masculine,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.24	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001512,Masculine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.24	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003312,Neuter,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.24	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003512,Neuter,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.25	praecepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n37409
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.26	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.27	post	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n37194
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.28	suam	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002412,Feminine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.29	mortem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n29724
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.30	poenas	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n36788
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.31	a	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.32	matre	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n28181
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.33	exsequeretur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312220004,Third,Singular,Imperfect,Subjunctive,Passive)	urn:cite2:tabulae:ls.v1:n17205
+https://lingualatina.github.io/texts/browsable/hyginus/73a/	73a.2	73a.2.33_0	.		urn:cite2:tabulae:ls.v1:null

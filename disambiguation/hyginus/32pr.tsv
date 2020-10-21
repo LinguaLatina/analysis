@@ -1,0 +1,19 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.0	Hercules	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n20511
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.0	Hercules	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n20511
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.1	ob	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n31564
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.2	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.2	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.3	a	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.4	Mercurio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n28776
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.4	Mercurio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n28776
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.5	Omphalae		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.6	reginae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40899
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.6	reginae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n40899
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.6	reginae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n40899
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.6	reginae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n40899
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.7	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.8	seruitutem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n43945
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.9	datus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n14599
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.10	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/32pr/	32pr.4	32pr.4.10_0	.		urn:cite2:tabulae:ls.v1:null

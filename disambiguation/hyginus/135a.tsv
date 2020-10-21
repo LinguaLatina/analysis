@@ -1,0 +1,25 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.0	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.0	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.0	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.1	Phryges		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.2	idcirco		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021405,Perfect,Passive,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023105,Perfect,Passive,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023605,Perfect,Passive,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	ValidSupineForm(urn:cite2:tabulae:morphforms.v1:000000409,Accusative)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.4	putarunt		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.5	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.5	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.5	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.6	Laocoon		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.7	hastam	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n20273
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.8	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.9	equum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n16074
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n49278
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003112,Neuter,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n49278
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003412,Neuter,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n49278
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003612,Neuter,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n49278
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.11	miserit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:316110004,Third,Singular,FuturePerfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n29328
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.11	miserit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314210004,Third,Singular,Perfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n29328
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.11_0	.		urn:cite2:tabulae:ls.v1:null

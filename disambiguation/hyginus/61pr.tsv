@@ -1,0 +1,59 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.0	Salmoneus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.1	Aeoli	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n1263
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.1	Aeoli	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n1263
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.1	Aeoli	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n1263
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.2	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.2_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.3	Sisyphi		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.4	frater	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18705
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.4	frater	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n18705
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.4_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.5	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.6	tonitrua		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.7	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.8	fulmina	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020003100,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n18993
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.8	fulmina	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020003400,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n18993
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.8	fulmina	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020003600,Neuter,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n18993
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.9	imitaretur		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.10	Iouis		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.10_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.11	sedens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011011105,Present,Active,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n43305
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.11	sedens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011011605,Present,Active,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n43305
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.11	sedens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011012105,Present,Active,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n43305
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.11	sedens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011012605,Present,Active,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n43305
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.11	sedens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011013105,Present,Active,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n43305
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.11	sedens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011013105,Present,Active,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n43305
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.11	sedens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011013405,Present,Active,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n43305
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.12	quadrigam	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n39875
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.13	faces	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n17843
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.13	faces	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n17843
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.13	faces	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n17843
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.14	ardentes	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:021011105,Present,Active,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n3492
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.14	ardentes	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:021011405,Present,Active,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n3492
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.14	ardentes	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:021011605,Present,Active,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n3492
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.14	ardentes	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:021012105,Present,Active,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n3492
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.14	ardentes	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:021012405,Present,Active,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n3492
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.14	ardentes	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:021012605,Present,Active,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n3492
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.15	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.16	populum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n37077
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.17	mitteret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n29328
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.18	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.19	ciues	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n8464
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.19	ciues	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n8464
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.19	ciues	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n8464
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.19_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.20	ob	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n31564
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.21	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.21	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.22	a	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.23	Ioue		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.24	fulmine	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n18993
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.25	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.26	ictus	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n21333
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.26	ictus	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n21333
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.26	ictus	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n21333
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.26	ictus	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n21333
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.26	ictus	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n21333
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.26	ictus	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n21333
+https://lingualatina.github.io/texts/browsable/hyginus/61pr/	61pr.1	61pr.1.26_0	.		urn:cite2:tabulae:ls.v1:null

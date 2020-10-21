@@ -1,0 +1,58 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.0	Minos		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.1	autem	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n4633
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.2	ad	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n665
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.3	monstrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n29619
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.3	monstrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n29619
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.3	monstrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n29619
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.4	soluendum		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.5	augures	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n4479
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.5	augures	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n4479
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.5	augures	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n4479
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.6	conuocauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n11044
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.6_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.7	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.7	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.7	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.8	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.9	non	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n31151
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.10	inuenirentur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:322220004,Third,Plural,Imperfect,Subjunctive,Passive)	urn:cite2:tabulae:ls.v1:n24717
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.10_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.11	Polyidus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.12	Coerani		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.13	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.14	Bizanti		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.15	monstrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n29619
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.15	monstrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n29619
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.15	monstrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n29619
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.16	demonstrauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n13047
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.16_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.17	eum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.18	arbori	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n3372
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.19	moro	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n29751
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.20	similem	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n44303
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.20	similem	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002412,Feminine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n44303
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.21	esse	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.21_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.22	nam	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n30350
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.23	primum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.23	primum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003112,Neuter,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.23	primum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003412,Neuter,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.23	primum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003612,Neuter,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.24	album	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n1743
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.24	album	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003112,Neuter,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n1743
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.24	album	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003412,Neuter,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n1743
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.24	album	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003612,Neuter,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n1743
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.25	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.25_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.26	deinde	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n12812
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.26	deinde	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n12812
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.27	rubrum		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.27_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.28	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.29	permaturauit		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.30	nigrum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n30930
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.30	nigrum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003112,Neuter,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n30930
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.30	nigrum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003412,Neuter,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n30930
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.30	nigrum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003612,Neuter,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n30930
+https://lingualatina.github.io/texts/browsable/hyginus/136a/	136a.3	136a.3.30_0	.		urn:cite2:tabulae:ls.v1:null

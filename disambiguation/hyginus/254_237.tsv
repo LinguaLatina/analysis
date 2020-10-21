@@ -1,0 +1,80 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.0	Erigone		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.1	Icari		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.2	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.2	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.2	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.3	patre	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.4	amisso	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021305,Perfect,Passive,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n2260
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.4	amisso	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021505,Perfect,Passive,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n2260
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.4	amisso	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023505,Perfect,Passive,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n2260
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.5	suspendio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n47118
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.5	suspendio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n47118
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021605,Perfect,Passive,Masculine,Vocative,Singular)	urn:cite2:l3:composites.v1:do
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002401,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.7	necauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n30624
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.7_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.8	Agaue		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.9	Cadmi		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.10	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.10	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.10	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.11	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.12	Illyrica		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.13	Lycothersen		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.14	regem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.15	interfecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n24257
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.16	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.17	patri	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.18	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001312,Masculine,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.18	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001512,Masculine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.18	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003312,Neuter,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.18	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003512,Neuter,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.19	regnum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.19	regnum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.19	regnum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.20	dedit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n14599
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.20	dedit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n12628
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.20_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.21	Xanthippe		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.22	Myconi		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.23	patri	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.24	incluso		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.25	carcere		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.26	lacte		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.27	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001312,Masculine,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.27	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001512,Masculine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.27	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003312,Neuter,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.27	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003512,Neuter,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.28	alimentum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n1846
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.28	alimentum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n1846
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.28	alimentum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n1846
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.29	uitae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n51147
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.29	uitae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n51147
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.29	uitae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n51147
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.29	uitae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n51147
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.30	praestitit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n38012
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.30_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.31	Tyro		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.32	Salmonei		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.33	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.33	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.33	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.34	propter	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n38952
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.34	propter	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n38952
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.35	patrem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.36	filios	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.37	suos	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001412,Masculine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.38	necauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n30624
+https://lingualatina.github.io/texts/browsable/hyginus/254_237/	254_237.3t1	254_237.3t1.38_0	.		urn:cite2:tabulae:ls.v1:null

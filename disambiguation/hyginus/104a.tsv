@@ -1,0 +1,72 @@
+url#passage#tokenid#token#form#lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.0	Laodamia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25821
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.0	Laodamia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25821
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.0	Laodamia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n25821
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.1	Acasti	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n305
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.1	Acasti	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n305
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.1	Acasti	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n305
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.2	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.2	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.2	filia	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.3	amisso	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021305,Perfect,Passive,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n2260
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.3	amisso	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021505,Perfect,Passive,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n2260
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.3	amisso	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023505,Perfect,Passive,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n2260
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.4	coniuge	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.4	coniuge	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.5	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.6	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001412,Masculine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.6	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001612,Masculine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.6	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002112,Feminine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.6	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002412,Feminine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.6	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002612,Feminine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.6	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001112,Masculine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.7	horas	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n20912
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.8	consumpsisset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n10701
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.9	quas	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002401,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.9	quas	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002401,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.10	a	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.11	diis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001300,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n13573
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.12	petierat	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315110004,Third,Singular,Pluperfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n35822
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.12_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.13	fletum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021405,Perfect,Passive,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n18355
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.13	fletum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023105,Perfect,Passive,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18355
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.13	fletum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023605,Perfect,Passive,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n18355
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.14	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.15	dolorem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n14669
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.16	pati	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001020006,Present,Passive)	urn:cite2:tabulae:ls.v1:n34121
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.17	non	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n31151
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.18	potuit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n37193
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.18_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.19	itaque	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n25104
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.20	fecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:l3:composites.v1:ficio
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.20	fecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.21	simulacrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n44337
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.21	simulacrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n44337
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.21	simulacrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n44337
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.22	aereum		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.23	simile	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003112,Neuter,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n44303
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.23	simile	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003412,Neuter,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n44303
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.23	simile	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003612,Neuter,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n44303
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.24	Protesilai		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.25	coniugis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.25	coniugis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.25	coniugis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.25	coniugis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.26	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.27	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.28	thalamis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001300,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n48071
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.28	thalamis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001500,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n48071
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.29	posuit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n37010
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.30	sub	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n45746
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.31	simulatione		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.32	sacrorum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001212,Masculine,Genitive,Plural,Positive)	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.32	sacrorum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003212,Neuter,Genitive,Plural,Positive)	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.32_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.33	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.34	eum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.35	colere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211120004,Second,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n9134
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.35	colere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:213120004,Second,Singular,Future,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n9134
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.35	colere	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n9134
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.36	coepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8883
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.36	coepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8883
+https://lingualatina.github.io/texts/browsable/hyginus/104a/	104a.1	104a.1.36_0	.		urn:cite2:tabulae:ls.v1:null
