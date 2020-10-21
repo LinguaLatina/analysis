@@ -1,10 +1,10 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.0	INSULAE	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.0	INSULAE	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.0	INSULAE	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.0	INSULAE	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.1	MAXIMAE	adjective: feminine nominative plural superlative	urn:cite2:tabulae:ls.v1:n27649
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.1	MAXIMAE	adjective: feminine genitive singular superlative	urn:cite2:tabulae:ls.v1:n27649
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.1	MAXIMAE	adjective: feminine dative singular superlative	urn:cite2:tabulae:ls.v1:n27649
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.1	MAXIMAE	adjective: feminine vocative plural superlative	urn:cite2:tabulae:ls.v1:n27649
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.1_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.0	INSULAE	noun: feminine nominative plural	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.0	INSULAE	noun: feminine genitive singular	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.0	INSULAE	noun: feminine dative singular	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.0	INSULAE	noun: feminine vocative plural	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.1	MAXIMAE	adjective: feminine nominative plural superlative	ls.n27649:magnus1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.1	MAXIMAE	adjective: feminine genitive singular superlative	ls.n27649:magnus1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.1	MAXIMAE	adjective: feminine dative singular superlative	ls.n27649:magnus1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.1	MAXIMAE	adjective: feminine vocative plural superlative	ls.n27649:magnus1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.title	276_268.title.1_0	.		ls.null

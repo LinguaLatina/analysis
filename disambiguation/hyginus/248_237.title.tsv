@@ -1,15 +1,15 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.0	QUI	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.0	QUI	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.0	QUI	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.1	AB	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.2	APRO	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n2976
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.2	APRO	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n2976
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.3	PERCUSSI	finite verb: first singular perfect indicative active	urn:cite2:tabulae:ls.v1:n34771
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.3	PERCUSSI	participle: perfect passive masculine nominative plural	urn:cite2:tabulae:ls.v1:n34771
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.3	PERCUSSI	participle: perfect passive masculine genitive singular	urn:cite2:tabulae:ls.v1:n34771
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.3	PERCUSSI	participle: perfect passive masculine vocative plural	urn:cite2:tabulae:ls.v1:n34771
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.3	PERCUSSI	participle: perfect passive neuter genitive singular	urn:cite2:tabulae:ls.v1:n34771
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.4	INTERIERUNT	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n24288
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.4	INTERIERUNT	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n24241
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.4_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.0	QUI	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.0	QUI	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.0	QUI	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.1	AB	uninflected preposition	ls.n4:ab
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.2	APRO	noun: masculine dative singular	ls.n2976:aper1
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.2	APRO	noun: masculine ablative singular	ls.n2976:aper1
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.3	PERCUSSI	finite verb: first singular perfect indicative active	ls.n34771:percutio
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.3	PERCUSSI	participle: perfect passive masculine nominative plural	ls.n34771:percutio
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.3	PERCUSSI	participle: perfect passive masculine genitive singular	ls.n34771:percutio
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.3	PERCUSSI	participle: perfect passive masculine vocative plural	ls.n34771:percutio
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.3	PERCUSSI	participle: perfect passive neuter genitive singular	ls.n34771:percutio
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.4	INTERIERUNT	finite verb: third plural perfect indicative active	ls.n24288:interitus1
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.4	INTERIERUNT	finite verb: third plural perfect indicative active	ls.n24241:intereo
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.title	248_237.title.4_0	.		ls.null

@@ -1,9 +1,9 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.0	FACES	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n17843
-https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.0	FACES	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n17843
-https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.0	FACES	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n17843
-https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.1	SCELERATAE	participle: perfect passive feminine nominative plural	urn:cite2:tabulae:ls.v1:n42910
-https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.1	SCELERATAE	participle: perfect passive feminine genitive singular	urn:cite2:tabulae:ls.v1:n42910
-https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.1	SCELERATAE	participle: perfect passive feminine dative singular	urn:cite2:tabulae:ls.v1:n42910
-https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.1	SCELERATAE	participle: perfect passive feminine vocative plural	urn:cite2:tabulae:ls.v1:n42910
-https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.1_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.0	FACES	noun: feminine nominative plural	ls.n17843:fax
+https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.0	FACES	noun: feminine accusative plural	ls.n17843:fax
+https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.0	FACES	noun: feminine vocative plural	ls.n17843:fax
+https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.1	SCELERATAE	participle: perfect passive feminine nominative plural	ls.n42910:scelero
+https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.1	SCELERATAE	participle: perfect passive feminine genitive singular	ls.n42910:scelero
+https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.1	SCELERATAE	participle: perfect passive feminine dative singular	ls.n42910:scelero
+https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.1	SCELERATAE	participle: perfect passive feminine vocative plural	ls.n42910:scelero
+https://lingualatina.github.io/texts/browsable/hyginus/249_237/	249_237.title	249_237.title.1_0	.		ls.null

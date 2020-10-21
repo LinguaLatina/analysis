@@ -1,28 +1,28 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.0	Eous		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.0_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.1	per	uninflected preposition	urn:cite2:tabulae:ls.v1:n34595
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.2	hunc	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.3	caelum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n6042
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.3	caelum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n6042
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.3	caelum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n6042
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.4	uerti	finite verb: first singular perfect indicative active	urn:cite2:tabulae:ls.v1:n50654
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.4	uerti	infinitive: present passive	urn:cite2:tabulae:ls.v1:n50654
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.4	uerti	infinitive: present passive	urn:cite2:tabulae:ls.v1:n50654
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.5	solet	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.5_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.6	Aethiops		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.7	quasi	adverb: positive degree	urn:cite2:tabulae:ls.v1:n40035
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.8	flammeus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.9	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.9_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.10	concoquit		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.11	fruges	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n18920
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.11	fruges	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n18920
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.11	fruges	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n18920
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.11_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.12	hi	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.13	funales		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.14	sunt	finite verb: third plural present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.15	mares		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.15_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.0	Eous		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.0_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.1	per	uninflected preposition	ls.n34595:per1
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.2	hunc	pronoun: masculine accusative singular	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.3	caelum	noun: neuter nominative singular	ls.n6042:caelum2
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.3	caelum	noun: neuter accusative singular	ls.n6042:caelum2
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.3	caelum	noun: neuter vocative singular	ls.n6042:caelum2
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.4	uerti	finite verb: first singular perfect indicative active	ls.n50654:verto
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.4	uerti	infinitive: present passive	ls.n50654:verto
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.4	uerti	infinitive: present passive	ls.n50654:verto
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.5	solet	finite verb: third singular present indicative active	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.5_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.6	Aethiops		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.7	quasi	adverb: positive degree	ls.n40035:quasi
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.8	flammeus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.9	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.9_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.10	concoquit		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.11	fruges	noun: masculine nominative plural	ls.n18920:frux
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.11	fruges	noun: masculine accusative plural	ls.n18920:frux
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.11	fruges	noun: masculine vocative plural	ls.n18920:frux
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.11_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.12	hi	pronoun: masculine nominative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.13	funales		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.14	sunt	finite verb: third plural present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.15	mares		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.1	183a.1.15_0	.		ls.null

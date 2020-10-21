@@ -1,17 +1,17 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.0	Oannes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.1	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.1	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.1	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.2	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.3	Chaldaea		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.4	de	finite verb: second singular present imperative active	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.4	de	uninflected preposition	urn:cite2:tabulae:ls.v1:n12361
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.5	mari	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.5	mari	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.6	exisse	infinitive: perfect active	urn:cite2:tabulae:ls.v1:n16804
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.7	dicitur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.8	astrologiam		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.9	interpretatus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n24416
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.10	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.10_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.0	Oannes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.1	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.1	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.1	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.2	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.3	Chaldaea		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.4	de	finite verb: second singular present imperative active	ls.do
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.4	de	uninflected preposition	ls.n12361:de2
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.5	mari	noun: neuter dative singular	ls.n28019:mare
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.5	mari	noun: neuter ablative singular	ls.n28019:mare
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.6	exisse	infinitive: perfect active	ls.n16804:exeo
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.7	dicitur	finite verb: third singular present indicative passive	ls.n13804:dico2
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.8	astrologiam		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.9	interpretatus	participle: perfect passive masculine nominative singular	ls.n24416:interpretor
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.10	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.16	274_268.16.10_0	.		ls.null

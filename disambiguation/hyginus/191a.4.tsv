@@ -1,70 +1,70 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.0	at	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4220
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.1	Midae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.2	Liber	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n26468
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.2	Liber	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n26468
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.2	Liber	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.2	Liber	adjective: masculine vocative singular positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.3	pater	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.3	pater	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.4	ob	uninflected preposition	urn:cite2:tabulae:ls.v1:n31564
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.5	beneficium	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n5180
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.5	beneficium	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n5180
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.5	beneficium	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n5180
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.6	deoptandi		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.7	dedit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n14599
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.7	dedit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n12628
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.8	potestatem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n37292
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.8_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.9	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.10	quicquid	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40248
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.10	quicquid	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40248
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.11	uellet	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n51298
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.12	peteret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n35822
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.13	a	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	participle: perfect passive masculine vocative singular	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.15	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.15	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.15	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.16	Midas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.17	petiit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n35822
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.18	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.19	quicquid	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40248
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.19	quicquid	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40248
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.20	tetigisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n47460
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.21	aurum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n4588
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.21	aurum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n4588
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.21	aurum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n4588
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.22	fieret	finite verb: third singular imperfect subjunctive passive	urn:cite2:tabulae:ls.v1:n18209
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.22_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.23	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.23	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.23	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.24	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.25	impetrasset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n21916
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.26	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.27	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.28	regiam	adjective: feminine accusative singular positive	urn:cite2:tabulae:ls.v1:n40905
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.29	uenisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n50442
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.29_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.30	quicquid	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40248
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.30	quicquid	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40248
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.31	tetigerat	finite verb: third singular pluperfect indicative active	urn:cite2:tabulae:ls.v1:n47460
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.32	aurum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n4588
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.32	aurum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n4588
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.32	aurum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n4588
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.33	fiebat	finite verb: third singular imperfect indicative passive	urn:cite2:tabulae:ls.v1:n18209
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.33_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.0	at	uninflected conjunction	ls.n4220:at
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.1	Midae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.2	Liber	noun: masculine nominative singular	ls.n26468:liber4
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.2	Liber	noun: masculine vocative singular	ls.n26468:liber4
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.2	Liber	adjective: masculine nominative singular positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.2	Liber	adjective: masculine vocative singular positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.3	pater	noun: masculine nominative singular	ls.n34096:pater
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.3	pater	noun: masculine vocative singular	ls.n34096:pater
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.4	ob	uninflected preposition	ls.n31564:ob
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.5	beneficium	noun: neuter nominative singular	ls.n5180:beneficium
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.5	beneficium	noun: neuter accusative singular	ls.n5180:beneficium
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.5	beneficium	noun: neuter vocative singular	ls.n5180:beneficium
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.6	deoptandi		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.7	dedit	finite verb: third singular perfect indicative active	ls.n14599:do1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.7	dedit	finite verb: third singular present indicative active	ls.n12628:dedo
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.8	potestatem	noun: feminine accusative singular	ls.n37292:potestas
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.8_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.9	ut	uninflected conjunction	ls.n49975:ut
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.10	quicquid	pronoun: neuter nominative singular	ls.n40248:quisque
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.10	quicquid	pronoun: neuter accusative singular	ls.n40248:quisque
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.11	uellet	finite verb: third singular imperfect subjunctive active	ls.n51298:volo1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.12	peteret	finite verb: third singular imperfect subjunctive active	ls.n35822:peto
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.13	a	uninflected preposition	ls.n4:ab
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	participle: perfect passive masculine vocative singular	ls.do
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: masculine accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: masculine ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: feminine ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: neuter ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: feminine ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: neuter accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: feminine accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: neuter ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: feminine accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: neuter accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: masculine accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14	se	pronoun: masculine ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.14_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.15	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.15	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.15	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.16	Midas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.17	petiit	finite verb: third singular perfect indicative active	ls.n35822:peto
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.18	ut	uninflected conjunction	ls.n49975:ut
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.19	quicquid	pronoun: neuter nominative singular	ls.n40248:quisque
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.19	quicquid	pronoun: neuter accusative singular	ls.n40248:quisque
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.20	tetigisset	finite verb: third singular pluperfect subjunctive active	ls.n47460:tango
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.21	aurum	noun: neuter nominative singular	ls.n4588:aurum
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.21	aurum	noun: neuter accusative singular	ls.n4588:aurum
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.21	aurum	noun: neuter vocative singular	ls.n4588:aurum
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.22	fieret	finite verb: third singular imperfect subjunctive passive	ls.n18209:fio
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.22_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.23	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.23	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.23	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.24	cum	uninflected preposition	ls.n11872:cum1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.25	impetrasset	finite verb: third singular pluperfect subjunctive active	ls.n21916:impetro
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.26	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.27	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.28	regiam	adjective: feminine accusative singular positive	ls.n40905:regius
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.29	uenisset	finite verb: third singular pluperfect subjunctive active	ls.n50442:venio
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.29_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.30	quicquid	pronoun: neuter nominative singular	ls.n40248:quisque
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.30	quicquid	pronoun: neuter accusative singular	ls.n40248:quisque
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.31	tetigerat	finite verb: third singular pluperfect indicative active	ls.n47460:tango
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.32	aurum	noun: neuter nominative singular	ls.n4588:aurum
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.32	aurum	noun: neuter accusative singular	ls.n4588:aurum
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.32	aurum	noun: neuter vocative singular	ls.n4588:aurum
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.33	fiebat	finite verb: third singular imperfect indicative passive	ls.n18209:fio
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.4	191a.4.33_0	.		ls.null

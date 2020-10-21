@@ -1,23 +1,23 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.0	Phineus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.1	Agenoris		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.3	Thrax		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.4	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.5	Cleopatra		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.6	habuit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n20077
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.7	filios	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.8	duos	adjective: masculine accusative plural positive	urn:cite2:tabulae:ls.v1:n14914
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.8	duos	adjective: masculine accusative plural positive	urn:cite2:tabulae:ls.v1:n14914
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.8_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.9	hi	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.10	a	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.11	patre	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.12	nouercae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.13	crimine	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n11600
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.14	excaecati	participle: perfect passive masculine nominative plural	urn:cite2:tabulae:ls.v1:n16624
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.14	excaecati	participle: perfect passive masculine genitive singular	urn:cite2:tabulae:ls.v1:n16624
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.14	excaecati	participle: perfect passive masculine vocative plural	urn:cite2:tabulae:ls.v1:n16624
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.14	excaecati	participle: perfect passive neuter genitive singular	urn:cite2:tabulae:ls.v1:n16624
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.15	sunt	finite verb: third plural present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.15_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.0	Phineus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.1	Agenoris		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.2	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.3	Thrax		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.4	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.5	Cleopatra		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.6	habuit	finite verb: third singular perfect indicative active	ls.n20077:habeo
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.7	filios	noun: masculine accusative plural	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.8	duos	adjective: masculine accusative plural positive	ls.n14914:duo
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.8	duos	adjective: masculine accusative plural positive	ls.n14914:duo
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.8_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.9	hi	pronoun: masculine nominative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.10	a	uninflected preposition	ls.n4:ab
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.11	patre	noun: masculine ablative singular	ls.n34096:pater
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.12	nouercae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.13	crimine	noun: neuter ablative singular	ls.n11600:crimen
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.14	excaecati	participle: perfect passive masculine nominative plural	ls.n16624:excaeco
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.14	excaecati	participle: perfect passive masculine genitive singular	ls.n16624:excaeco
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.14	excaecati	participle: perfect passive masculine vocative plural	ls.n16624:excaeco
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.14	excaecati	participle: perfect passive neuter genitive singular	ls.n16624:excaeco
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.15	sunt	finite verb: third plural present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/19pr/	19pr.1	19pr.1.15_0	.		ls.null

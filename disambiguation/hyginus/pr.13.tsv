@@ -1,12 +1,12 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.1	Saturno		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.3	Ope	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n32834
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.5	Ceres		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.6	Iuno		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.7	Iuppiter		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.8	Pluto		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.9	Neptunus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.9_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.0	Ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.1	Saturno		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.3	Ope	noun: feminine ablative singular	ls.n32834:ops1
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.5	Ceres		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.6	Iuno		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.7	Iuppiter		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.8	Pluto		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.9	Neptunus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.13	pr.13.9_0	.		ls.null

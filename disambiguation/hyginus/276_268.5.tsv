@@ -1,30 +1,30 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.0	Cyclades		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.1	insulae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.1	insulae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.1	insulae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.1	insulae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.2	sunt	finite verb: third plural present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.3	nouem	uninflected number	urn:cite2:tabulae:ls.v1:n31271
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.4	id	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.4	id	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.5	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.6	Andros		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.6_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.7	Myconos		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.7_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.8	Delos		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.8_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.9	Tenos		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.9_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.10	Naxos		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.10_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.11	Seriphus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.11_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.12	Gyarus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.12_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.13	Paros		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.13_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.14	Rhenia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.14_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.0	Cyclades		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.1	insulae	noun: feminine nominative plural	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.1	insulae	noun: feminine genitive singular	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.1	insulae	noun: feminine dative singular	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.1	insulae	noun: feminine vocative plural	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.2	sunt	finite verb: third plural present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.3	nouem	uninflected number	ls.n31271:novem
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.4	id	pronoun: neuter nominative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.4	id	pronoun: neuter accusative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.5	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.6	Andros		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.6_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.7	Myconos		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.7_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.8	Delos		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.8_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.9	Tenos		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.9_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.10	Naxos		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.10_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.11	Seriphus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.11_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.12	Gyarus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.12_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.13	Paros		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.13_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.14	Rhenia		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/276_268/	276_268.5	276_268.5.14_0	.		ls.null

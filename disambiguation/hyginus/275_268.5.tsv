@@ -1,24 +1,24 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.0	Perseus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.1	Iouis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.3	Perseida		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.3_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.4	Castor		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.5	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.6	Pollux		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.7	Iouis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.8	filii	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.8	filii	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.8	filii	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.9	Dioscorida		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.9_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.10	Medus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.11	Aegei		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.12	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.13	Medeae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.14	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.15	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.16	Ecbatanis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.17	Medam		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.17_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.0	Perseus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.1	Iouis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.2	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.3	Perseida		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.3_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.4	Castor		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.5	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.6	Pollux		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.7	Iouis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.8	filii	noun: masculine nominative plural	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.8	filii	noun: masculine genitive singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.8	filii	noun: masculine vocative plural	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.9	Dioscorida		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.9_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.10	Medus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.11	Aegei		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.12	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.13	Medeae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.14	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.15	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.16	Ecbatanis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.17	Medam		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/275_268/	275_268.5	275_268.5.17_0	.		ls.null

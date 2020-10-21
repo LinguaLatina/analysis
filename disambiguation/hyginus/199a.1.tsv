@@ -1,38 +1,38 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.0	Scylla	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n43184
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.0	Scylla	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n43184
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.0	Scylla	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n43184
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.1	Crataeidis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.2	fluminis	noun: neuter genitive singular	urn:cite2:tabulae:ls.v1:n18442
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.3	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.3	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.3	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.4	uirgo	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n51069
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.4	uirgo	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n51069
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: feminine nominative singular superlative	urn:cite2:tabulae:ls.v1:n18600
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: feminine ablative singular superlative	urn:cite2:tabulae:ls.v1:n18600
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: feminine vocative singular superlative	urn:cite2:tabulae:ls.v1:n18600
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: neuter nominative plural superlative	urn:cite2:tabulae:ls.v1:n18600
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: neuter accusative plural superlative	urn:cite2:tabulae:ls.v1:n18600
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: neuter vocative plural superlative	urn:cite2:tabulae:ls.v1:n18600
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.6	dicitur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.7	fuisse	infinitive: perfect active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.7_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.8	hanc	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.9	Glaucus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.10	amauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n2280
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.10_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.11	Glaucum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.12	autem	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4633
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.13	Circe		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n44583
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: masculine dative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: masculine ablative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: feminine dative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: feminine ablative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: neuter dative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: neuter ablative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.15	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.15	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.15	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.15_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.0	Scylla	noun: feminine nominative singular	ls.n43184:Scylla
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.0	Scylla	noun: feminine ablative singular	ls.n43184:Scylla
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.0	Scylla	noun: feminine vocative singular	ls.n43184:Scylla
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.1	Crataeidis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.2	fluminis	noun: neuter genitive singular	ls.n18442:flumen
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.3	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.3	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.3	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.4	uirgo	noun: feminine nominative singular	ls.n51069:virgo
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.4	uirgo	noun: feminine vocative singular	ls.n51069:virgo
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: feminine nominative singular superlative	ls.n18600:formosus
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: feminine ablative singular superlative	ls.n18600:formosus
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: feminine vocative singular superlative	ls.n18600:formosus
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: neuter nominative plural superlative	ls.n18600:formosus
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: neuter accusative plural superlative	ls.n18600:formosus
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.5	formosissima	adjective: neuter vocative plural superlative	ls.n18600:formosus
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.6	dicitur	finite verb: third singular present indicative passive	ls.n13804:dico2
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.7	fuisse	infinitive: perfect active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.7_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.8	hanc	pronoun: feminine accusative singular	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.9	Glaucus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.10	amauit	finite verb: third singular perfect indicative active	ls.n2280:amo
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.10_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.11	Glaucum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.12	autem	uninflected conjunction	ls.n4633:autem
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.13	Circe		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	noun: masculine genitive singular	ls.n44583:sol
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: masculine dative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: masculine ablative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: feminine dative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: feminine ablative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: neuter dative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.14	Solis	adjective: neuter ablative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.15	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.15	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.15	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/199a/	199a.1	199a.1.15_0	.		ls.null

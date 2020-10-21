@@ -1,9 +1,9 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.1	Saturno		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.3	Philyra		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.4	Chiron		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.5	Dolops		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.5_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.0	Ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.1	Saturno		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.3	Philyra		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.4	Chiron		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.5	Dolops		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.14	pr.14.5_0	.		ls.null

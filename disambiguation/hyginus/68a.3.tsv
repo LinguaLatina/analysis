@@ -1,31 +1,31 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.1	inferiae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.2	communes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.3	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.4	fiunt	finite verb: third plural present indicative passive	urn:cite2:tabulae:ls.v1:n18209
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.5	Thebis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.5_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.6	funus	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n19075
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.6	funus	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n19075
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.6	funus	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n19075
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.7	separatur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n43701
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.8	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.8	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.8	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.9	alius	pronoun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.9	alius	pronoun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.9	alius	pronoun: neuter genitive singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.9	alius	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.10	alium	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.11	interfecerunt	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n24257
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.11_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: masculine dative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: masculine ablative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: feminine dative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: neuter dative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: neuter dative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: neuter ablative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: neuter ablative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: masculine dative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: feminine dative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.0	his	pronoun: feminine ablative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.1	inferiae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.2	communes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.3	cum	uninflected preposition	ls.n11872:cum1
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.4	fiunt	finite verb: third plural present indicative passive	ls.n18209:fio
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.5	Thebis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.5_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.6	funus	noun: neuter nominative singular	ls.n19075:funus
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.6	funus	noun: neuter accusative singular	ls.n19075:funus
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.6	funus	noun: neuter vocative singular	ls.n19075:funus
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.7	separatur	finite verb: third singular present indicative passive	ls.n43701:separo
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.8	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.8	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.8	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.9	alius	pronoun: masculine genitive singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.9	alius	pronoun: feminine genitive singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.9	alius	pronoun: neuter genitive singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.9	alius	pronoun: masculine nominative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.10	alium	pronoun: masculine accusative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.11	interfecerunt	finite verb: third plural perfect indicative active	ls.n24257:interficio
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.3	68a.3.11_0	.		ls.null

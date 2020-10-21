@@ -1,14 +1,14 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.2	AUXILIUM	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n4660
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.2	AUXILIUM	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n4660
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.2	AUXILIUM	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n4660
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.3	MISERUNT	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n29328
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.4	OENEO		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.4_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: feminine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: neuter accusative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: neuter nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: neuter accusative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: neuter nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: feminine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.0	QUAE	pronoun: feminine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.2	AUXILIUM	noun: neuter nominative singular	ls.n4660:auxilium
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.2	AUXILIUM	noun: neuter accusative singular	ls.n4660:auxilium
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.2	AUXILIUM	noun: neuter vocative singular	ls.n4660:auxilium
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.3	MISERUNT	finite verb: third plural perfect indicative active	ls.n29328:mitto
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.4	OENEO		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.title	173b.title.4_0	.		ls.null

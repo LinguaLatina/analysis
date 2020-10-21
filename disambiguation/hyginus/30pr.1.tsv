@@ -1,30 +1,30 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.0	Infans	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n23109
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.0	Infans	adjective: feminine nominative singular positive	urn:cite2:tabulae:ls.v1:n23109
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.0	Infans	adjective: neuter nominative singular positive	urn:cite2:tabulae:ls.v1:n23109
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.0	Infans	adjective: neuter accusative singular positive	urn:cite2:tabulae:ls.v1:n23109
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.1	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.2	esset	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.2_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.3	dracones	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n14774a
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.3	dracones	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n14774a
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.3	dracones	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n14774a
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.4	duos	adjective: masculine accusative plural positive	urn:cite2:tabulae:ls.v1:n14914
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.4	duos	adjective: masculine accusative plural positive	urn:cite2:tabulae:ls.v1:n14914
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.5	duabus	adjective: feminine ablative plural positive	urn:cite2:tabulae:ls.v1:n14914
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.5	duabus	adjective: feminine dative plural positive	urn:cite2:tabulae:ls.v1:n14914
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.6	manibus	noun: feminine dative plural	urn:cite2:tabulae:ls.v1:n27977
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.6	manibus	noun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n27977
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.7	necauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n30624
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.7_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.8	quos	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.8	quos	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.9	Iuno		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.10	miserat	finite verb: third singular pluperfect indicative active	urn:cite2:tabulae:ls.v1:n29328
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.10_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.11	unde	adverb: positive degree	urn:cite2:tabulae:ls.v1:n49762
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.12	primigenius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.13	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.14	dictus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.14	dictus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.14_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.0	Infans	adjective: masculine nominative singular positive	ls.n23109:infans
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.0	Infans	adjective: feminine nominative singular positive	ls.n23109:infans
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.0	Infans	adjective: neuter nominative singular positive	ls.n23109:infans
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.0	Infans	adjective: neuter accusative singular positive	ls.n23109:infans
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.1	cum	uninflected preposition	ls.n11872:cum1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.2	esset	finite verb: third singular imperfect subjunctive active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.2_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.3	dracones	noun: masculine nominative plural	ls.n14774a:draco1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.3	dracones	noun: masculine accusative plural	ls.n14774a:draco1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.3	dracones	noun: masculine vocative plural	ls.n14774a:draco1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.4	duos	adjective: masculine accusative plural positive	ls.n14914:duo
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.4	duos	adjective: masculine accusative plural positive	ls.n14914:duo
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.5	duabus	adjective: feminine ablative plural positive	ls.n14914:duo
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.5	duabus	adjective: feminine dative plural positive	ls.n14914:duo
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.6	manibus	noun: feminine dative plural	ls.n27977:manus1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.6	manibus	noun: feminine ablative plural	ls.n27977:manus1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.7	necauit	finite verb: third singular perfect indicative active	ls.n30624:neco
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.7_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.8	quos	pronoun: masculine accusative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.8	quos	pronoun: masculine accusative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.9	Iuno		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.10	miserat	finite verb: third singular pluperfect indicative active	ls.n29328:mitto
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.10_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.11	unde	adverb: positive degree	ls.n49762:unde
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.12	primigenius		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.13	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.14	dictus	participle: perfect passive masculine nominative singular	ls.n13804:dico2
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.14	dictus	participle: perfect passive masculine nominative singular	ls.n13804:dico2
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.1	30pr.1.14_0	.		ls.null

@@ -1,25 +1,25 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.0	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.0	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.0	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.1	Phryges		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.2	idcirco		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	supine: accusative	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.4	putarunt		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.5	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.5	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.5	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.6	Laocoon		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.7	hastam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n20273
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.8	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.9	equum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n16074
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	adjective: masculine accusative singular positive	urn:cite2:tabulae:ls.v1:n49278
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	adjective: neuter nominative singular positive	urn:cite2:tabulae:ls.v1:n49278
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	adjective: neuter accusative singular positive	urn:cite2:tabulae:ls.v1:n49278
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	adjective: neuter vocative singular positive	urn:cite2:tabulae:ls.v1:n49278
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.11	miserit	finite verb: third singular future perfect indicative active	urn:cite2:tabulae:ls.v1:n29328
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.11	miserit	finite verb: third singular perfect subjunctive active	urn:cite2:tabulae:ls.v1:n29328
-https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.11_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.0	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.0	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.0	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.1	Phryges		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.2	idcirco		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	participle: perfect passive masculine accusative singular	ls.n17516:facio
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	participle: perfect passive neuter nominative singular	ls.n17516:facio
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	participle: perfect passive neuter vocative singular	ls.n17516:facio
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.3	factum	supine: accusative	ls.n17516:facio
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.4	putarunt		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.5	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.5	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.5	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.6	Laocoon		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.7	hastam	noun: feminine accusative singular	ls.n20273:hasta
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.8	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.9	equum	noun: masculine accusative singular	ls.n16074:equus
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	adjective: masculine accusative singular positive	ls.n49278:Trojanus
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	adjective: neuter nominative singular positive	ls.n49278:Trojanus
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	adjective: neuter accusative singular positive	ls.n49278:Trojanus
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.10	Troianum	adjective: neuter vocative singular positive	ls.n49278:Trojanus
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.11	miserit	finite verb: third singular future perfect indicative active	ls.n29328:mitto
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.11	miserit	finite verb: third singular perfect subjunctive active	ls.n29328:mitto
+https://lingualatina.github.io/texts/browsable/hyginus/135a/	135a.3	135a.3.11_0	.		ls.null

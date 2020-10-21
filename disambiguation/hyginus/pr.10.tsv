@@ -1,13 +1,13 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.1	Polo	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n36895
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.1	Polo	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n36895
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.3	Phoebe		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.4	Latona		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.5	Asterie		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.6	aphirape		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.14	Perses		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.15	Pallas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.15_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.0	Ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.1	Polo	noun: masculine dative singular	ls.n36895:polus1
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.1	Polo	noun: masculine ablative singular	ls.n36895:polus1
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.3	Phoebe		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.4	Latona		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.5	Asterie		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.6	aphirape		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.14	Perses		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.15	Pallas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.10	pr.10.15_0	.		ls.null

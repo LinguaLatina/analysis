@@ -1,4 +1,4 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/105a/	105a.title	105a.title.0	PALAMEDES	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n33424
-https://lingualatina.github.io/texts/browsable/hyginus/105a/	105a.title	105a.title.0	PALAMEDES	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n33424
-https://lingualatina.github.io/texts/browsable/hyginus/105a/	105a.title	105a.title.0_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/105a/	105a.title	105a.title.0	PALAMEDES	noun: masculine nominative singular	ls.n33424:Palamedes
+https://lingualatina.github.io/texts/browsable/hyginus/105a/	105a.title	105a.title.0	PALAMEDES	noun: masculine nominative plural	ls.n33424:Palamedes
+https://lingualatina.github.io/texts/browsable/hyginus/105a/	105a.title	105a.title.0_0	.		ls.null

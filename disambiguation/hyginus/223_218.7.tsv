@@ -1,21 +1,21 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.0	pyramides		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.1	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.2	Aegypto		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.2_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.3	quarum	pronoun: feminine genitive plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.3	quarum	pronoun: feminine genitive plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.4	umbra		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.5	non	adverb: positive degree	urn:cite2:tabulae:ls.v1:n31151
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.6	uidetur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n50883
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.6	uidetur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n50883
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.6_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.7	altae	adjective: feminine nominative plural positive	urn:cite2:tabulae:ls.v1:n2061
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.7	altae	adjective: feminine genitive singular positive	urn:cite2:tabulae:ls.v1:n2061
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.7	altae	adjective: feminine dative singular positive	urn:cite2:tabulae:ls.v1:n2061
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.7	altae	adjective: feminine vocative plural positive	urn:cite2:tabulae:ls.v1:n2061
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.8	pedes	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n35756
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.8	pedes	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n35756
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.8	pedes	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n35756
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.9	ⅬⅩ		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.9_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.0	pyramides		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.1	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.2	Aegypto		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.2_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.3	quarum	pronoun: feminine genitive plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.3	quarum	pronoun: feminine genitive plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.4	umbra		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.5	non	adverb: positive degree	ls.n31151:non
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.6	uidetur	finite verb: third singular present indicative passive	ls.n50883:video
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.6	uidetur	finite verb: third singular present indicative passive	ls.n50883:video
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.6_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.7	altae	adjective: feminine nominative plural positive	ls.n2061:altus1
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.7	altae	adjective: feminine genitive singular positive	ls.n2061:altus1
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.7	altae	adjective: feminine dative singular positive	ls.n2061:altus1
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.7	altae	adjective: feminine vocative plural positive	ls.n2061:altus1
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.8	pedes	noun: masculine nominative plural	ls.n35756:pes
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.8	pedes	noun: masculine accusative plural	ls.n35756:pes
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.8	pedes	noun: masculine vocative plural	ls.n35756:pes
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.9	ⅬⅩ		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.7	223_218.7.9_0	.		ls.null

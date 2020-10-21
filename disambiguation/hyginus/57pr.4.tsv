@@ -1,27 +1,27 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.0	hanc	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.1	super	uninflected preposition	urn:cite2:tabulae:ls.v1:n46609
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.1	super	adverb: positive degree	urn:cite2:tabulae:ls.v1:n46609
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.2	Pegasum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active masculine nominative singular	urn:cite2:tabulae:ls.v1:n43305
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active masculine vocative singular	urn:cite2:tabulae:ls.v1:n43305
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active feminine nominative singular	urn:cite2:tabulae:ls.v1:n43305
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active feminine vocative singular	urn:cite2:tabulae:ls.v1:n43305
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active neuter nominative singular	urn:cite2:tabulae:ls.v1:n43305
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active neuter nominative singular	urn:cite2:tabulae:ls.v1:n43305
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active neuter accusative singular	urn:cite2:tabulae:ls.v1:n43305
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.4	interfecit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n24257
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.4_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.5	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.6	decidisse	infinitive: perfect active	urn:cite2:tabulae:ls.v1:n12484
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.7	dicitur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.8	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.9	campos	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n6420
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.10	Aleios		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.10_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.11	unde	adverb: positive degree	urn:cite2:tabulae:ls.v1:n49762
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.12	etiam	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16296
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.13	coxas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.14	eiecisse	infinitive: perfect active	urn:cite2:tabulae:ls.v1:n15344
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.15	dicitur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.15_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.0	hanc	pronoun: feminine accusative singular	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.1	super	uninflected preposition	ls.n46609:super2
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.1	super	adverb: positive degree	ls.n46609:super2
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.2	Pegasum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active masculine nominative singular	ls.n43305:sedeo
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active masculine vocative singular	ls.n43305:sedeo
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active feminine nominative singular	ls.n43305:sedeo
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active feminine vocative singular	ls.n43305:sedeo
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active neuter nominative singular	ls.n43305:sedeo
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active neuter nominative singular	ls.n43305:sedeo
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.3	sedens	participle: present active neuter accusative singular	ls.n43305:sedeo
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.4	interfecit	finite verb: third singular perfect indicative active	ls.n24257:interficio
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.4_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.5	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.6	decidisse	infinitive: perfect active	ls.n12484:decido2
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.7	dicitur	finite verb: third singular present indicative passive	ls.n13804:dico2
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.8	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.9	campos	noun: masculine accusative plural	ls.n6420:campus1
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.10	Aleios		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.10_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.11	unde	adverb: positive degree	ls.n49762:unde
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.12	etiam	uninflected conjunction	ls.n16296:etiam
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.13	coxas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.14	eiecisse	infinitive: perfect active	ls.n15344:eicio
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.15	dicitur	finite verb: third singular present indicative passive	ls.n13804:dico2
+https://lingualatina.github.io/texts/browsable/hyginus/57pr/	57pr.4	57pr.4.15_0	.		ls.null

@@ -1,11 +1,11 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.0	Geryonem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.1	Chrysaoris		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.2	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.3	trimembrem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.4	uno	adjective: masculine ablative singular positive	urn:cite2:tabulae:ls.v1:n49871
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.4	uno	adjective: neuter ablative singular positive	urn:cite2:tabulae:ls.v1:n49871
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.5	telo	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n47680
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.5	telo	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n47680
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.6	interfecit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n24257
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.6_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.0	Geryonem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.1	Chrysaoris		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.2	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.3	trimembrem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.4	uno	adjective: masculine ablative singular positive	ls.n49871:unus
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.4	uno	adjective: neuter ablative singular positive	ls.n49871:unus
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.5	telo	noun: neuter dative singular	ls.n47680:telum
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.5	telo	noun: neuter ablative singular	ls.n47680:telum
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.6	interfecit	finite verb: third singular perfect indicative active	ls.n24257:interficio
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.11	30pr.11.6_0	.		ls.null

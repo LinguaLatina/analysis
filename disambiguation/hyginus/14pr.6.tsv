@@ -1,23 +1,23 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.0	Pirithous		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.1	Ixionis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.2_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.3	frater	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18705
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.3	frater	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n18705
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.4	Centaurorum	noun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n7395
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.4_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.5	Thessalus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.5_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.6	Menoetius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.7	Actoris		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.8	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.8_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.9	Opuntius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.9_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.10	Eribotes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.11	Teleontis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.12	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.12_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.13	ameleon		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.13_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.0	Pirithous		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.1	Ixionis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.2	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.2_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.3	frater	noun: masculine nominative singular	ls.n18705:frater
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.3	frater	noun: masculine vocative singular	ls.n18705:frater
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.4	Centaurorum	noun: masculine genitive plural	ls.n7395:Centaurus
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.4_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.5	Thessalus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.5_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.6	Menoetius		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.7	Actoris		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.8	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.8_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.9	Opuntius		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.9_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.10	Eribotes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.11	Teleontis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.12	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.12_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.13	ameleon		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.6	14pr.6.13_0	.		ls.null

@@ -1,30 +1,30 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.0	Phaethonta		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n44583
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: masculine dative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: masculine ablative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: feminine dative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: feminine ablative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: neuter dative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: neuter ablative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.2	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.3	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.4	Clymene		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.4_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.5	Laomedonta		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.6	Ili		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.7	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.8	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.9	Leucippe		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.9_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.10	Oenomaum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.11	Martis	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n28088
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.11	Martis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n28088
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.12	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.13	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.14	Asterie		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.15	Atlantis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.16	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.16	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.16	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.16_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.0	Phaethonta		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	noun: masculine genitive singular	ls.n44583:sol
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: masculine dative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: masculine ablative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: feminine dative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: feminine ablative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: neuter dative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.1	Solis	adjective: neuter ablative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.2	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.3	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.4	Clymene		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.4_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.5	Laomedonta		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.6	Ili		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.7	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.8	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.9	Leucippe		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.9_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.10	Oenomaum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.11	Martis	noun: masculine accusative plural	ls.n28088:Mars
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.11	Martis	noun: masculine genitive singular	ls.n28088:Mars
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.12	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.13	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.14	Asterie		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.15	Atlantis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.16	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.16	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.16	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.1	250_237.1.16_0	.		ls.null

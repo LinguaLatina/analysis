@@ -1,7 +1,7 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.0	RERUM	noun: feminine genitive plural	urn:cite2:tabulae:ls.v1:n41293
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.2	PRIMI	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.2	PRIMI	adjective: masculine genitive singular positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.2	PRIMI	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.2	PRIMI	adjective: neuter genitive singular positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.2_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.0	RERUM	noun: feminine genitive plural	ls.n41293:res
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.2	PRIMI	adjective: masculine nominative plural positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.2	PRIMI	adjective: masculine genitive singular positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.2	PRIMI	adjective: masculine vocative plural positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.2	PRIMI	adjective: neuter genitive singular positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.title	277_268.title.2_0	.		ls.null

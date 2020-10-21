@@ -1,25 +1,25 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.0	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.1	Graece		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.2	Curetes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.3	sunt	finite verb: third plural present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.4	appellati	participle: perfect passive masculine nominative plural	urn:cite2:tabulae:ls.v1:n3134
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.4	appellati	participle: perfect passive masculine genitive singular	urn:cite2:tabulae:ls.v1:n3134
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.4	appellati	participle: perfect passive masculine vocative plural	urn:cite2:tabulae:ls.v1:n3134
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.4	appellati	participle: perfect passive neuter genitive singular	urn:cite2:tabulae:ls.v1:n3134
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.4_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.5	alii	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.5	alii	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.5	alii	pronoun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.5	alii	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.5	alii	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.6	Corybantes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.7	dicunt	finite verb: third plural present indicative active	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.7_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.8	hi	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.9	autem	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4633
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.10	Lares		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.11	appellantur	finite verb: third plural present indicative passive	urn:cite2:tabulae:ls.v1:n3134
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.11_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.0	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.0	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.0	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.1	Graece		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.2	Curetes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.3	sunt	finite verb: third plural present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.4	appellati	participle: perfect passive masculine nominative plural	ls.n3134:appello2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.4	appellati	participle: perfect passive masculine genitive singular	ls.n3134:appello2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.4	appellati	participle: perfect passive masculine vocative plural	ls.n3134:appello2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.4	appellati	participle: perfect passive neuter genitive singular	ls.n3134:appello2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.4_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.5	alii	pronoun: masculine dative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.5	alii	pronoun: masculine nominative plural	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.5	alii	pronoun: masculine vocative plural	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.5	alii	pronoun: neuter dative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.5	alii	pronoun: feminine dative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.6	Corybantes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.7	dicunt	finite verb: third plural present indicative active	ls.n13804:dico2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.7_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.8	hi	pronoun: masculine nominative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.9	autem	uninflected conjunction	ls.n4633:autem
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.10	Lares		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.11	appellantur	finite verb: third plural present indicative passive	ls.n3134:appello2
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.4	139a.4.11_0	.		ls.null

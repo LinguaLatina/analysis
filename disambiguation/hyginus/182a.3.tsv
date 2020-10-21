@@ -1,17 +1,17 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.0	alii	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.0	alii	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.0	alii	pronoun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.0	alii	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.0	alii	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.1	tradunt	finite verb: third plural present indicative active	urn:cite2:tabulae:ls.v1:n48671
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.2	uocitatas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.3	Arsinoe		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.4	Ambrosie		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.5	Bromie		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.6	Cisseis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.7	Coronis	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n11249
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.7	Coronis	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n11249
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.7	Coronis	noun: feminine dative plural	urn:cite2:tabulae:ls.v1:n11234
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.7	Coronis	noun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n11234
-https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.7_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.0	alii	pronoun: masculine dative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.0	alii	pronoun: masculine nominative plural	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.0	alii	pronoun: masculine vocative plural	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.0	alii	pronoun: neuter dative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.0	alii	pronoun: feminine dative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.1	tradunt	finite verb: third plural present indicative active	ls.n48671:trado
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.2	uocitatas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.3	Arsinoe		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.4	Ambrosie		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.5	Bromie		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.6	Cisseis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.7	Coronis	noun: feminine nominative singular	ls.n11249:coronis1
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.7	Coronis	noun: feminine vocative singular	ls.n11249:coronis1
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.7	Coronis	noun: feminine dative plural	ls.n11234:corona
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.7	Coronis	noun: feminine ablative plural	ls.n11234:corona
+https://lingualatina.github.io/texts/browsable/hyginus/182a/	182a.3	182a.3.7_0	.		ls.null

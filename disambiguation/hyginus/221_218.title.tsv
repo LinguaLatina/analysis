@@ -1,9 +1,9 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.0	SEPTEM	uninflected number	urn:cite2:tabulae:ls.v1:n43722
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active masculine nominative plural	urn:cite2:tabulae:ls.v1:n42571
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active masculine accusative plural	urn:cite2:tabulae:ls.v1:n42571
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active masculine vocative plural	urn:cite2:tabulae:ls.v1:n42571
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active feminine nominative plural	urn:cite2:tabulae:ls.v1:n42571
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active feminine accusative plural	urn:cite2:tabulae:ls.v1:n42571
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active feminine vocative plural	urn:cite2:tabulae:ls.v1:n42571
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.0	SEPTEM	uninflected number	ls.n43722:septem
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active masculine nominative plural	ls.n42571:sapio
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active masculine accusative plural	ls.n42571:sapio
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active masculine vocative plural	ls.n42571:sapio
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active feminine nominative plural	ls.n42571:sapio
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active feminine accusative plural	ls.n42571:sapio
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1	SAPIENTES	participle: present active feminine vocative plural	ls.n42571:sapio
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.title	221_218.title.1_0	.		ls.null

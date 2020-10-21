@@ -1,7 +1,7 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.0	THESEI		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.1	LABORES	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n25495
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.1	LABORES	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n25495
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.1	LABORES	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n25495
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.1	LABORES	finite verb: second singular present subjunctive active	urn:cite2:tabulae:ls.v1:n25504
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.1_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.0	THESEI		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.1	LABORES	noun: masculine nominative plural	ls.n25495:labor2
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.1	LABORES	noun: masculine accusative plural	ls.n25495:labor2
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.1	LABORES	noun: masculine vocative plural	ls.n25495:labor2
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.1	LABORES	finite verb: second singular present subjunctive active	ls.n25504:laboro
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.title	38pr.title.1_0	.		ls.null

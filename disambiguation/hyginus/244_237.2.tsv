@@ -1,26 +1,26 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.0	Telephus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.1	Herculis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n20511
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.3	Hippothoum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.4	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.5	Nerea		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.6	auiae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.7	suae	adjective: feminine nominative plural positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.7	suae	adjective: feminine genitive singular positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.7	suae	adjective: feminine dative singular positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.7	suae	adjective: feminine vocative plural positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.8	filios	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.8_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.9	Aegisthus	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n1181
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.10	Atreum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.11	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.12	Agamemnonem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.13	Atrei		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.14	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.14_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.15	Orestes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.16	Aegisthum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n1181
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.17	Thyestis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.18	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.18_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.0	Telephus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.1	Herculis	noun: masculine genitive singular	ls.n20511:Hercules
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.2	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.3	Hippothoum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.4	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.5	Nerea		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.6	auiae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.7	suae	adjective: feminine nominative plural positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.7	suae	adjective: feminine genitive singular positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.7	suae	adjective: feminine dative singular positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.7	suae	adjective: feminine vocative plural positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.8	filios	noun: masculine accusative plural	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.8_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.9	Aegisthus	noun: masculine nominative singular	ls.n1181:Aegisthus
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.10	Atreum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.11	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.12	Agamemnonem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.13	Atrei		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.14	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.14_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.15	Orestes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.16	Aegisthum	noun: masculine accusative singular	ls.n1181:Aegisthus
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.17	Thyestis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.18	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/244_237/	244_237.2	244_237.2.18_0	.		ls.null

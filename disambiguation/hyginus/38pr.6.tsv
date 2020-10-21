@@ -1,10 +1,10 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.0	aprum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n2976
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.1	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.1	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.1	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.2	fuit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.3	Cremyone		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.4	occidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.4	occidit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.4_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.0	aprum	noun: masculine accusative singular	ls.n2976:aper1
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.1	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.1	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.1	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.2	fuit	finite verb: third singular perfect indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.3	Cremyone		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.4	occidit	finite verb: third singular perfect indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.4	occidit	finite verb: third singular present indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/38pr/	38pr.6	38pr.6.4_0	.		ls.null

@@ -1,30 +1,30 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.0	huius	pronoun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.0	huius	pronoun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.0	huius	pronoun: neuter genitive singular	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.1	pater	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.1	pater	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.2	Agenor		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.3	suos	adjective: masculine accusative plural positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.4	filios	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.5	misit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n29328
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.6	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.7	sororem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n44798
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.8	reducerent	finite verb: third plural imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n40760
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.9	aut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4632
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.10	ipsi	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n24872
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.10	ipsi	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n24872
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.10	ipsi	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n24872
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.10	ipsi	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n24872
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.11	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.12	suum	adjective: masculine accusative singular positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.12	suum	adjective: neuter nominative singular positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.12	suum	adjective: neuter accusative singular positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.12	suum	adjective: neuter vocative singular positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.13	conspectum	supine: accusative	urn:cite2:tabulae:ls.v1:n10586
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.13	conspectum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n10586
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.13	conspectum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n10586
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.13	conspectum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n10586
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.14	non	adverb: positive degree	urn:cite2:tabulae:ls.v1:n31151
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.15	redirent	finite verb: third plural imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n40719
-https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.15_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.0	huius	pronoun: masculine genitive singular	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.0	huius	pronoun: feminine genitive singular	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.0	huius	pronoun: neuter genitive singular	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.1	pater	noun: masculine nominative singular	ls.n34096:pater
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.1	pater	noun: masculine vocative singular	ls.n34096:pater
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.2	Agenor		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.3	suos	adjective: masculine accusative plural positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.4	filios	noun: masculine accusative plural	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.5	misit	finite verb: third singular perfect indicative active	ls.n29328:mitto
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.6	ut	uninflected conjunction	ls.n49975:ut
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.7	sororem	noun: feminine accusative singular	ls.n44798:soror
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.8	reducerent	finite verb: third plural imperfect subjunctive active	ls.n40760:reduco
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.9	aut	uninflected conjunction	ls.n4632:aut
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.10	ipsi	pronoun: masculine dative singular	ls.n24872:ipse
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.10	ipsi	pronoun: masculine nominative plural	ls.n24872:ipse
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.10	ipsi	pronoun: feminine dative singular	ls.n24872:ipse
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.10	ipsi	pronoun: neuter dative singular	ls.n24872:ipse
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.11	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.12	suum	adjective: masculine accusative singular positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.12	suum	adjective: neuter nominative singular positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.12	suum	adjective: neuter accusative singular positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.12	suum	adjective: neuter vocative singular positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.13	conspectum	supine: accusative	ls.n10586:conspicio1
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.13	conspectum	participle: perfect passive masculine accusative singular	ls.n10586:conspicio1
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.13	conspectum	participle: perfect passive neuter nominative singular	ls.n10586:conspicio1
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.13	conspectum	participle: perfect passive neuter vocative singular	ls.n10586:conspicio1
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.14	non	adverb: positive degree	ls.n31151:non
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.15	redirent	finite verb: third plural imperfect subjunctive active	ls.n40719:redeo
+https://lingualatina.github.io/texts/browsable/hyginus/178a/	178a.2	178a.2.15_0	.		ls.null

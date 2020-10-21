@@ -1,13 +1,13 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.0	centaurum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n7395
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.1	Nessum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.2	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.2	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.2	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.3	Deianiram		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.4	uiolare	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n51027
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.4	uiolare	infinitive: present active	urn:cite2:tabulae:ls.v1:n51027
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.5	uoluit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n51298
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.6	occidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.6	occidit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.6_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.0	centaurum	noun: masculine accusative singular	ls.n7395:Centaurus
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.1	Nessum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.2	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.2	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.2	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.3	Deianiram		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.4	uiolare	finite verb: second singular present indicative passive	ls.n51027:violo
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.4	uiolare	infinitive: present active	ls.n51027:violo
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.5	uoluit	finite verb: third singular perfect indicative active	ls.n51298:volo1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.6	occidit	finite verb: third singular perfect indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.6	occidit	finite verb: third singular present indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.10	31pr.10.6_0	.		ls.null

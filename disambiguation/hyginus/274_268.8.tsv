@@ -1,29 +1,29 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.0	Phoroneus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.1	Inachi		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.3	arma	noun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n3665
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.3	arma	noun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n3665
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.3	arma	noun: neuter vocative plural	urn:cite2:tabulae:ls.v1:n3665
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.3	arma	finite verb: second singular present imperative active	urn:cite2:tabulae:ls.v1:n3697
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.4	Iunoni		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.5	primus	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.6	fecit	finite verb: third singular perfect indicative active	urn:cite2:l3:composites.v1:ficio
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.6	fecit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.6_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.7	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.7	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.7	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.8	ob	uninflected preposition	urn:cite2:tabulae:ls.v1:n31564
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.9	eam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.9	eam	finite verb: first singular present subjunctive active	urn:cite2:tabulae:ls.v1:n15868
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.10	causam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n7197
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.11	primus	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.12	regnandi	gerundive: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40911
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.12	regnandi	gerundive: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40911
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.12	regnandi	gerundive: masculine genitive singular	urn:cite2:tabulae:ls.v1:n40911
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.12	regnandi	gerundive: neuter genitive singular	urn:cite2:tabulae:ls.v1:n40911
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.12	regnandi	gerund: genitive	urn:cite2:tabulae:ls.v1:n40911
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.13	potestatem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n37292
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.14	habuit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n20077
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.14_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.0	Phoroneus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.1	Inachi		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.2	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.3	arma	noun: neuter nominative plural	ls.n3665:arma
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.3	arma	noun: neuter accusative plural	ls.n3665:arma
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.3	arma	noun: neuter vocative plural	ls.n3665:arma
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.3	arma	finite verb: second singular present imperative active	ls.n3697:armo
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.4	Iunoni		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.5	primus	adjective: masculine nominative singular positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.6	fecit	finite verb: third singular perfect indicative active	ls.ficio
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.6	fecit	finite verb: third singular perfect indicative active	ls.n17516:facio
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.6_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.7	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.7	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.7	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.8	ob	uninflected preposition	ls.n31564:ob
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.9	eam	pronoun: feminine accusative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.9	eam	finite verb: first singular present subjunctive active	ls.n15868:eo1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.10	causam	noun: feminine accusative singular	ls.n7197:causa
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.11	primus	adjective: masculine nominative singular positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.12	regnandi	gerundive: masculine nominative plural	ls.n40911:regno
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.12	regnandi	gerundive: masculine nominative plural	ls.n40911:regno
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.12	regnandi	gerundive: masculine genitive singular	ls.n40911:regno
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.12	regnandi	gerundive: neuter genitive singular	ls.n40911:regno
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.12	regnandi	gerund: genitive	ls.n40911:regno
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.13	potestatem	noun: feminine accusative singular	ls.n37292:potestas
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.14	habuit	finite verb: third singular perfect indicative active	ls.n20077:habeo
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.8	274_268.8.14_0	.		ls.null

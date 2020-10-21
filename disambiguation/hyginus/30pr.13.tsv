@@ -1,21 +1,21 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.0	canem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n6506
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.1	Cerberum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.2	Typhonis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.3	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.4	ab	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: masculine dative plural positive	urn:cite2:tabulae:ls.v1:n23173
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: masculine ablative plural positive	urn:cite2:tabulae:ls.v1:n23173
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: feminine dative plural positive	urn:cite2:tabulae:ls.v1:n23173
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: feminine ablative plural positive	urn:cite2:tabulae:ls.v1:n23173
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: neuter dative plural positive	urn:cite2:tabulae:ls.v1:n23173
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: neuter ablative plural positive	urn:cite2:tabulae:ls.v1:n23173
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.6	regi	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.6	regi	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.7	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.8	conspectum	supine: accusative	urn:cite2:tabulae:ls.v1:n10586
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.8	conspectum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n10586
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.8	conspectum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n10586
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.8	conspectum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n10586
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.9	adduxit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n743
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.9_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.0	canem	noun: masculine accusative singular	ls.n6506:canis1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.1	Cerberum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.2	Typhonis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.3	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.4	ab	uninflected preposition	ls.n4:ab
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: masculine dative plural positive	ls.n23173:inferus
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: masculine ablative plural positive	ls.n23173:inferus
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: feminine dative plural positive	ls.n23173:inferus
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: feminine ablative plural positive	ls.n23173:inferus
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: neuter dative plural positive	ls.n23173:inferus
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.5	inferis	adjective: neuter ablative plural positive	ls.n23173:inferus
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.6	regi	noun: masculine dative singular	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.6	regi	noun: masculine ablative singular	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.7	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.8	conspectum	supine: accusative	ls.n10586:conspicio1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.8	conspectum	participle: perfect passive masculine accusative singular	ls.n10586:conspicio1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.8	conspectum	participle: perfect passive neuter nominative singular	ls.n10586:conspicio1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.8	conspectum	participle: perfect passive neuter vocative singular	ls.n10586:conspicio1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.9	adduxit	finite verb: third singular perfect indicative active	ls.n743:adduco
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.13	30pr.13.9_0	.		ls.null

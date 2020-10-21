@@ -1,12 +1,12 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.1	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.2	Terra	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.2	Terra	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.2	Terra	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.2_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.3	Python		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.4	draco	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n14774a
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.4	draco	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n14774a
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.5	diuinus	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n14573
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.5_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.0	Ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.1	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.2	Terra	noun: feminine nominative singular	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.2	Terra	noun: feminine ablative singular	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.2	Terra	noun: feminine vocative singular	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.2_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.3	Python		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.4	draco	noun: masculine nominative singular	ls.n14774a:draco1
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.4	draco	noun: masculine vocative singular	ls.n14774a:draco1
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.5	diuinus	adjective: masculine nominative singular positive	ls.n14573:divinus
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.34	pr.34.5_0	.		ls.null

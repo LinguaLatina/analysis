@@ -1,8 +1,8 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.0	QUIS	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.0	QUIS	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.1	QUID	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.1	QUID	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.2	INUENERIT	finite verb: third singular future perfect indicative active	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.2	INUENERIT	finite verb: third singular perfect subjunctive active	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.2_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.0	QUIS	pronoun: masculine nominative singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.0	QUIS	pronoun: feminine nominative singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.1	QUID	pronoun: neuter nominative singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.1	QUID	pronoun: neuter accusative singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.2	INUENERIT	finite verb: third singular future perfect indicative active	ls.n24717:invenio
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.2	INUENERIT	finite verb: third singular perfect subjunctive active	ls.n24717:invenio
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.title	274_268.title.2_0	.		ls.null

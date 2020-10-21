@@ -1,25 +1,25 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.0	Arcada		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.1	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.2	Callisto		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.3	Lycaonis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.4	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.4	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.4	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.4_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.5	Etolus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.6	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.7	Protogenia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.8	Deucalionis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.9	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.9	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.9	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.9_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.10	Pirithous		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.11	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.12	Dia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.13	Deionei		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.14	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.14	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.14	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.14_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.0	Arcada		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.1	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.2	Callisto		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.3	Lycaonis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.4	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.4	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.4	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.4_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.5	Etolus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.6	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.7	Protogenia		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.8	Deucalionis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.9	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.9	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.9	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.9_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.10	Pirithous		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.11	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.12	Dia		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.13	Deionei		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.14	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.14	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.14	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/155a/	155a.4	155a.4.14_0	.		ls.null

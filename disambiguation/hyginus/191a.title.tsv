@@ -1,5 +1,5 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.title	191a.title.0	REX	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.title	191a.title.0	REX	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.title	191a.title.1	MIDAS		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.title	191a.title.1_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.title	191a.title.0	REX	noun: masculine nominative singular	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.title	191a.title.0	REX	noun: masculine vocative singular	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.title	191a.title.1	MIDAS		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/191a/	191a.title	191a.title.1_0	.		ls.null

@@ -1,30 +1,30 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.0	postea	adverb: positive degree	urn:cite2:tabulae:ls.v1:n37196
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.1	resciit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n41305
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.2	Inonem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.3	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.4	Parnaso		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.5	esse	infinitive: present active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.5_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.6	quam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.7	bacchationis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.8	causa	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n7197
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.8	causa	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n7197
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.8	causa	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n7197
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.9	eo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.9	eo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.9	eo	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n15868
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.10	peruenisse	infinitive: perfect active	urn:cite2:tabulae:ls.v1:n35702
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.10_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.11	misit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n29328
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.12	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.12	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.12	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.13	eam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.13	eam	finite verb: first singular present subjunctive active	urn:cite2:tabulae:ls.v1:n15868
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.14	adducerent	finite verb: third plural imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n743
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.14_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.15	quam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.16	adductam	participle: perfect passive feminine accusative singular	urn:cite2:tabulae:ls.v1:n743
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.17	celauit		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.17_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.0	postea	adverb: positive degree	ls.n37196:postea
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.1	resciit	finite verb: third singular perfect indicative active	ls.n41305:rescisco
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.2	Inonem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.3	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.4	Parnaso		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.5	esse	infinitive: present active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.5_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.6	quam	pronoun: feminine accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.7	bacchationis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.8	causa	noun: feminine nominative singular	ls.n7197:causa
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.8	causa	noun: feminine ablative singular	ls.n7197:causa
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.8	causa	noun: feminine vocative singular	ls.n7197:causa
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.9	eo	pronoun: masculine ablative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.9	eo	pronoun: neuter ablative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.9	eo	finite verb: first singular present indicative active	ls.n15868:eo1
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.10	peruenisse	infinitive: perfect active	ls.n35702:pervenio
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.10_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.11	misit	finite verb: third singular perfect indicative active	ls.n29328:mitto
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.12	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.12	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.12	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.13	eam	pronoun: feminine accusative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.13	eam	finite verb: first singular present subjunctive active	ls.n15868:eo1
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.14	adducerent	finite verb: third plural imperfect subjunctive active	ls.n743:adduco
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.14_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.15	quam	pronoun: feminine accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.16	adductam	participle: perfect passive feminine accusative singular	ls.n743:adduco
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.17	celauit		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/4pr/	4pr.2	4pr.2.17_0	.		ls.null

@@ -1,28 +1,28 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.0	Eurytion		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.1	Iri	infinitive: present passive	urn:cite2:tabulae:ls.v1:n15868
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.3	Demonassae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.4	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.4_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.5	ixition		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.6	ab	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.7	oppido	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n32796
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.7	oppido	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n32796
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.8	Cerintho		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.8_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.9	Oileus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.10	Hodoedoci		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.11	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.12	Agrianomes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.13	Perseonis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.14	filiae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.14	filiae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.14	filiae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.14	filiae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.15	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.15_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.16	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.17	urbe	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n49895
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.18	Narycea		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.18_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.0	Eurytion		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.1	Iri	infinitive: present passive	ls.n15868:eo1
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.3	Demonassae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.4	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.4_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.5	ixition		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.6	ab	uninflected preposition	ls.n4:ab
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.7	oppido	noun: neuter dative singular	ls.n32796:oppidum
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.7	oppido	noun: neuter ablative singular	ls.n32796:oppidum
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.8	Cerintho		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.8_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.9	Oileus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.10	Hodoedoci		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.11	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.12	Agrianomes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.13	Perseonis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.14	filiae	noun: feminine nominative plural	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.14	filiae	noun: feminine genitive singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.14	filiae	noun: feminine dative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.14	filiae	noun: feminine vocative plural	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.15	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.15_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.16	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.17	urbe	noun: feminine ablative singular	ls.n49895:urbs
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.18	Narycea		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/14pr/	14pr.7	14pr.7.18_0	.		ls.null

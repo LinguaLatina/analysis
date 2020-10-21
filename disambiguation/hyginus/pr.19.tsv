@@ -1,7 +1,7 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.1	Dione		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.3	Ioue		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.4_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.0	Ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.1	Dione		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.3	Ioue		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.19	pr.19.4_0	.		ls.null

@@ -1,29 +1,29 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.0	at	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4220
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.1	Neptunus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.2	iratus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n24885
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.3	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.4	eam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.4	eam	finite verb: first singular present subjunctive active	urn:cite2:tabulae:ls.v1:n15868
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.5	terram	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.6	mare	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.6	mare	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.6	mare	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.7	coepit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n8883
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.7	coepit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n8883
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.8	irrigare		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.9	uelle	infinitive: present active	urn:cite2:tabulae:ls.v1:n51298
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.9_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.10	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.10	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.10	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.11	Mercurius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n28776
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.12	Iouis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.13	iussu	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n25409
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.13	iussu	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n25409
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.14	id	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.14	id	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.15	ne	uninflected conjunction	urn:cite2:tabulae:ls.v1:n30583
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.16	faceret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.17	prohibuit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n38684
-https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.17_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.0	at	uninflected conjunction	ls.n4220:at
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.1	Neptunus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.2	iratus	participle: perfect passive masculine nominative singular	ls.n24885:irascor
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.3	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.4	eam	pronoun: feminine accusative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.4	eam	finite verb: first singular present subjunctive active	ls.n15868:eo1
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.5	terram	noun: feminine accusative singular	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.6	mare	noun: neuter nominative singular	ls.n28019:mare
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.6	mare	noun: neuter accusative singular	ls.n28019:mare
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.6	mare	noun: neuter vocative singular	ls.n28019:mare
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.7	coepit	finite verb: third singular present indicative active	ls.n8883:coepio
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.7	coepit	finite verb: third singular perfect indicative active	ls.n8883:coepio
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.8	irrigare		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.9	uelle	infinitive: present active	ls.n51298:volo1
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.9_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.10	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.10	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.10	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.11	Mercurius	noun: masculine nominative singular	ls.n28776:Mercurius
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.12	Iouis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.13	iussu	noun: masculine dative singular	ls.n25409:jussus2
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.13	iussu	noun: masculine ablative singular	ls.n25409:jussus2
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.14	id	pronoun: neuter nominative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.14	id	pronoun: neuter accusative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.15	ne	uninflected conjunction	ls.n30583:ne1
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.16	faceret	finite verb: third singular imperfect subjunctive active	ls.n17516:facio
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.17	prohibuit	finite verb: third singular perfect indicative active	ls.n38684:prohibeo
+https://lingualatina.github.io/texts/browsable/hyginus/164a/	164a.2	164a.2.17_0	.		ls.null

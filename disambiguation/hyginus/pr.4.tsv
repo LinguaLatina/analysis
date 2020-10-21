@@ -1,34 +1,34 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.1	Terra	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.1	Terra	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.1	Terra	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.3	Tartaro		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.4	Gigantes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.4_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.5	Enceladus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.6	Coeus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.7	elentes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.8	mophius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.9	Astraeus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.10	Pelorus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.11	Pallas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.12	Emphytus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.13	Rhoecus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.14	ienios		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.15	Agrius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.16	alemone		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.17	Ephialtes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.18	Eurytus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.19	effracorydon		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.20	Theomises		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.21	Theodamas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.22	Otus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.23	Typhon		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.24	Polyboetes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.25	menephriarus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.26	abesus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.27	colophonus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.28	Iapetus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.28_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.0	Ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.1	Terra	noun: feminine nominative singular	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.1	Terra	noun: feminine ablative singular	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.1	Terra	noun: feminine vocative singular	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.3	Tartaro		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.4	Gigantes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.4_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.5	Enceladus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.6	Coeus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.7	elentes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.8	mophius		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.9	Astraeus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.10	Pelorus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.11	Pallas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.12	Emphytus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.13	Rhoecus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.14	ienios		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.15	Agrius		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.16	alemone		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.17	Ephialtes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.18	Eurytus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.19	effracorydon		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.20	Theomises		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.21	Theodamas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.22	Otus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.23	Typhon		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.24	Polyboetes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.25	menephriarus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.26	abesus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.27	colophonus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.28	Iapetus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.4	pr.4.28_0	.		ls.null

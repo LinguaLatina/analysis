@@ -1,111 +1,111 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.0	rex	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.0	rex	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.1	re	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n41293
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.1	re	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n41293
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.1	re	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n41293
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive feminine nominative singular	urn:cite2:tabulae:ls.v1:n4453
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive feminine ablative singular	urn:cite2:tabulae:ls.v1:n4453
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive feminine vocative singular	urn:cite2:tabulae:ls.v1:n4453
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive neuter nominative plural	urn:cite2:tabulae:ls.v1:n4453
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive neuter accusative plural	urn:cite2:tabulae:ls.v1:n4453
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive neuter vocative plural	urn:cite2:tabulae:ls.v1:n4453
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.3	per	uninflected preposition	urn:cite2:tabulae:ls.v1:n34595
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.4	Graeciam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n19810
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.5	edixit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n15140
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.5_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.6	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.6	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.6	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.7	Sphingae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.8	carmen	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n6814
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.8	carmen	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n6814
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.8	carmen	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n6814
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.9	soluisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.9_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.10	regnum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.10	regnum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.10	regnum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	participle: perfect passive masculine vocative singular	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.12	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.13	Iocasten		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.14	sororem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n44798
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.15	ei	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.15	ei	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.15	ei	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.15	ei	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.16	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.17	coniugium	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n10349
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.17	coniugium	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n10349
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.17	coniugium	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n10349
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active masculine accusative singular	urn:cite2:tabulae:ls.v1:n14599
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active neuter nominative singular	urn:cite2:tabulae:ls.v1:n14599
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active neuter vocative singular	urn:cite2:tabulae:ls.v1:n14599
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active masculine accusative singular	urn:cite2:tabulae:ls.v1:n14599
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active neuter nominative singular	urn:cite2:tabulae:ls.v1:n14599
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active neuter accusative singular	urn:cite2:tabulae:ls.v1:n14599
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active neuter vocative singular	urn:cite2:tabulae:ls.v1:n14599
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.19	promisit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n38782
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.19_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.20	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: masculine vocative plural comparative	urn:cite2:tabulae:ls.v1:n29945
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: feminine nominative plural comparative	urn:cite2:tabulae:ls.v1:n29945
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: feminine accusative plural comparative	urn:cite2:tabulae:ls.v1:n29945
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: feminine vocative plural comparative	urn:cite2:tabulae:ls.v1:n29945
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: masculine accusative plural comparative	urn:cite2:tabulae:ls.v1:n29945
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: masculine nominative plural comparative	urn:cite2:tabulae:ls.v1:n29945
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.22	regni	noun: neuter genitive singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.23	cupidine	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n11949
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.24	uenissent	finite verb: third plural pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n50442
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.25	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.26	a	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.27	Sphinge		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.28	essent	finite verb: third plural imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.29	consumpti	participle: perfect passive masculine nominative plural	urn:cite2:tabulae:ls.v1:n10701
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.29	consumpti	participle: perfect passive masculine genitive singular	urn:cite2:tabulae:ls.v1:n10701
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.29	consumpti	participle: perfect passive masculine vocative plural	urn:cite2:tabulae:ls.v1:n10701
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.29	consumpti	participle: perfect passive neuter genitive singular	urn:cite2:tabulae:ls.v1:n10701
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.29_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.30	Oedipus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.31	Laii		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.32	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.33	uenit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n50442
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.33	uenit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n50442
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.34	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.35	carmen	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n6814
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.35	carmen	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n6814
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.35	carmen	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n6814
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.36	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.37	interpretatus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n24416
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.37_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.38	illa	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.38	illa	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.38	illa	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.38	illa	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	participle: perfect passive masculine vocative singular	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.40	praecipitauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n37415
-https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.40_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.0	rex	noun: masculine nominative singular	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.0	rex	noun: masculine vocative singular	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.1	re	noun: feminine genitive singular	ls.n41293:res
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.1	re	noun: feminine dative singular	ls.n41293:res
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.1	re	noun: feminine ablative singular	ls.n41293:res
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive feminine nominative singular	ls.n4453:audio
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive feminine ablative singular	ls.n4453:audio
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive feminine vocative singular	ls.n4453:audio
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive neuter nominative plural	ls.n4453:audio
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive neuter accusative plural	ls.n4453:audio
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.2	audita	participle: perfect passive neuter vocative plural	ls.n4453:audio
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.3	per	uninflected preposition	ls.n34595:per1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.4	Graeciam	noun: feminine accusative singular	ls.n19810:Graeci
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.5	edixit	finite verb: third singular perfect indicative active	ls.n15140:edico
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.5_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.6	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.6	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.6	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.7	Sphingae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.8	carmen	noun: neuter nominative singular	ls.n6814:carmen1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.8	carmen	noun: neuter accusative singular	ls.n6814:carmen1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.8	carmen	noun: neuter vocative singular	ls.n6814:carmen1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.9	soluisset	finite verb: third singular pluperfect subjunctive active	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.9_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.10	regnum	noun: neuter nominative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.10	regnum	noun: neuter accusative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.10	regnum	noun: neuter vocative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	participle: perfect passive masculine vocative singular	ls.do
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: masculine accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: masculine ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: feminine ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: neuter ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: feminine ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: neuter accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: feminine accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: neuter ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: feminine accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: neuter accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: masculine accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.11	se	pronoun: masculine ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.12	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.13	Iocasten		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.14	sororem	noun: feminine accusative singular	ls.n44798:soror
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.15	ei	pronoun: masculine dative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.15	ei	pronoun: feminine dative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.15	ei	pronoun: neuter dative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.15	ei	pronoun: masculine nominative plural	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.16	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.17	coniugium	noun: neuter nominative singular	ls.n10349:conjugium
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.17	coniugium	noun: neuter accusative singular	ls.n10349:conjugium
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.17	coniugium	noun: neuter vocative singular	ls.n10349:conjugium
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active masculine accusative singular	ls.n14599:do1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active neuter nominative singular	ls.n14599:do1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active neuter vocative singular	ls.n14599:do1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active masculine accusative singular	ls.n14599:do1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active neuter nominative singular	ls.n14599:do1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active neuter accusative singular	ls.n14599:do1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.18	daturum	participle: future active neuter vocative singular	ls.n14599:do1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.19	promisit	finite verb: third singular perfect indicative active	ls.n38782:promitto
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.19_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.20	cum	uninflected preposition	ls.n11872:cum1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: masculine vocative plural comparative	ls.n29945:multus
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: feminine nominative plural comparative	ls.n29945:multus
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: feminine accusative plural comparative	ls.n29945:multus
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: feminine vocative plural comparative	ls.n29945:multus
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: masculine accusative plural comparative	ls.n29945:multus
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.21	plures	adjective: masculine nominative plural comparative	ls.n29945:multus
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.22	regni	noun: neuter genitive singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.23	cupidine	noun: feminine ablative singular	ls.n11949:cupido
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.24	uenissent	finite verb: third plural pluperfect subjunctive active	ls.n50442:venio
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.25	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.26	a	uninflected preposition	ls.n4:ab
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.27	Sphinge		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.28	essent	finite verb: third plural imperfect subjunctive active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.29	consumpti	participle: perfect passive masculine nominative plural	ls.n10701:consumo
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.29	consumpti	participle: perfect passive masculine genitive singular	ls.n10701:consumo
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.29	consumpti	participle: perfect passive masculine vocative plural	ls.n10701:consumo
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.29	consumpti	participle: perfect passive neuter genitive singular	ls.n10701:consumo
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.29_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.30	Oedipus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.31	Laii		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.32	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.33	uenit	finite verb: third singular perfect indicative active	ls.n50442:venio
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.33	uenit	finite verb: third singular present indicative active	ls.n50442:venio
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.34	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.35	carmen	noun: neuter nominative singular	ls.n6814:carmen1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.35	carmen	noun: neuter accusative singular	ls.n6814:carmen1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.35	carmen	noun: neuter vocative singular	ls.n6814:carmen1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.36	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.37	interpretatus	participle: perfect passive masculine nominative singular	ls.n24416:interpretor
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.37_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.38	illa	pronoun: feminine nominative singular	ls.n21494:ille
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.38	illa	pronoun: neuter nominative plural	ls.n21494:ille
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.38	illa	pronoun: neuter accusative plural	ls.n21494:ille
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.38	illa	pronoun: feminine ablative singular	ls.n21494:ille
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	participle: perfect passive masculine vocative singular	ls.do
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: masculine accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: masculine ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: feminine ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: neuter ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: feminine ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: neuter accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: feminine accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: neuter ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: feminine accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: neuter accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: masculine accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.39	se	pronoun: masculine ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.40	praecipitauit	finite verb: third singular perfect indicative active	ls.n37415:praecipito
+https://lingualatina.github.io/texts/browsable/hyginus/67pr/	67pr.5	67pr.5.40_0	.		ls.null

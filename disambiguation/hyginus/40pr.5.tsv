@@ -1,21 +1,21 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.0	alii	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.0	alii	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.0	alii	pronoun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.0	alii	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.0	alii	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n1896
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.1	dicunt	finite verb: third plural present indicative active	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.1_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.2	Theseus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.3	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.4	Minotaurum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.5	occidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.5	occidit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.5_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.6	Daedalum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n12263
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.7	Athenas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.8	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.9	patriam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n34131
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.10	suam	adjective: feminine accusative singular positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.11	reduxit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n40760
-https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.11_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.0	alii	pronoun: masculine dative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.0	alii	pronoun: masculine nominative plural	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.0	alii	pronoun: masculine vocative plural	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.0	alii	pronoun: neuter dative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.0	alii	pronoun: feminine dative singular	ls.n1896:alius2
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.1	dicunt	finite verb: third plural present indicative active	ls.n13804:dico2
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.1_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.2	Theseus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.3	cum	uninflected preposition	ls.n11872:cum1
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.4	Minotaurum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.5	occidit	finite verb: third singular perfect indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.5	occidit	finite verb: third singular present indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.5_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.6	Daedalum	noun: masculine accusative singular	ls.n12263:Daedalus
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.7	Athenas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.8	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.9	patriam	noun: feminine accusative singular	ls.n34131:patria
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.10	suam	adjective: feminine accusative singular positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.11	reduxit	finite verb: third singular perfect indicative active	ls.n40760:reduco
+https://lingualatina.github.io/texts/browsable/hyginus/40pr/	40pr.5	40pr.5.11_0	.		ls.null

@@ -1,12 +1,12 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.0	Pan		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.1	fistulae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.2	cantum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n6576
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.2	cantum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n6524
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.2	cantum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n6524
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.2	cantum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n6524
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.2	cantum	supine: accusative	urn:cite2:tabulae:ls.v1:n6524
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.3	primus	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.4	inuenit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.4	inuenit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.4_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.0	Pan		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.1	fistulae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.2	cantum	noun: masculine accusative singular	ls.n6576:cantus
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.2	cantum	participle: perfect passive masculine accusative singular	ls.n6524:cano
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.2	cantum	participle: perfect passive neuter nominative singular	ls.n6524:cano
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.2	cantum	participle: perfect passive neuter vocative singular	ls.n6524:cano
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.2	cantum	supine: accusative	ls.n6524:cano
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.3	primus	adjective: masculine nominative singular positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.4	inuenit	finite verb: third singular perfect indicative active	ls.n24717:invenio
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.4	inuenit	finite verb: third singular present indicative active	ls.n24717:invenio
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.18	274_268.18.4_0	.		ls.null

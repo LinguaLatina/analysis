@@ -1,29 +1,29 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.0	Polynices		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.1	Oedipodis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.3	anno	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n2698
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.3	anno	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n2698
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.4	peracto	participle: perfect passive masculine dative singular	urn:cite2:tabulae:ls.v1:n34619
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.4	peracto	participle: perfect passive masculine ablative singular	urn:cite2:tabulae:ls.v1:n34619
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.4	peracto	participle: perfect passive neuter ablative singular	urn:cite2:tabulae:ls.v1:n34619
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.5	regnum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.5	regnum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.5	regnum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.6	ab	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.7	Eteocle		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.8	fratre	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n18705
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.9	Adrasto		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.10	Talai		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.11	filio	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.11	filio	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.12	adiutore		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.13	repetit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n41188
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.14	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.15	septem	uninflected number	urn:cite2:tabulae:ls.v1:n43722
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.16	ductoribus	noun: masculine dative plural	urn:cite2:tabulae:ls.v1:n14855
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.16	ductoribus	noun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n14855
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.17	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.18	Thebas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.19	oppugnarunt		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.19_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.0	Polynices		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.1	Oedipodis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.2	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.3	anno	noun: masculine dative singular	ls.n2698:annus
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.3	anno	noun: masculine ablative singular	ls.n2698:annus
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.4	peracto	participle: perfect passive masculine dative singular	ls.n34619:perago
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.4	peracto	participle: perfect passive masculine ablative singular	ls.n34619:perago
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.4	peracto	participle: perfect passive neuter ablative singular	ls.n34619:perago
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.5	regnum	noun: neuter nominative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.5	regnum	noun: neuter accusative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.5	regnum	noun: neuter vocative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.6	ab	uninflected preposition	ls.n4:ab
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.7	Eteocle		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.8	fratre	noun: masculine ablative singular	ls.n18705:frater
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.9	Adrasto		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.10	Talai		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.11	filio	noun: masculine dative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.11	filio	noun: masculine ablative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.12	adiutore		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.13	repetit	finite verb: third singular present indicative active	ls.n41188:repeto
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.14	cum	uninflected preposition	ls.n11872:cum1
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.15	septem	uninflected number	ls.n43722:septem
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.16	ductoribus	noun: masculine dative plural	ls.n14855:ductor
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.16	ductoribus	noun: masculine ablative plural	ls.n14855:ductor
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.17	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.18	Thebas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.19	oppugnarunt		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/68a/	68a.1	68a.1.19_0	.		ls.null

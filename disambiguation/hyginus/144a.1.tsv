@@ -1,34 +1,34 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.0	Homines	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n20866
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.0	Homines	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n20866
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.0	Homines	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n20866
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.1	antea		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.2	ab	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.3	immortalibus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.4	ignem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n21403
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.5	petebant	finite verb: third plural imperfect indicative active	urn:cite2:tabulae:ls.v1:n35822
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.5_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.6	neque	uninflected conjunction	urn:cite2:tabulae:ls.v1:n30776
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.7	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.8	perpetuum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.9	seruare	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n43947
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.9	seruare	infinitive: present active	urn:cite2:tabulae:ls.v1:n43947
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.10	sciebant	finite verb: third plural imperfect indicative active	urn:cite2:tabulae:ls.v1:n42976
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.10_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.11	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.11	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.11	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.12	postea	adverb: positive degree	urn:cite2:tabulae:ls.v1:n37196
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.13	Prometheus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.14	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.15	ferula		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.16	detulit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n12677
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.17	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.18	terras	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.18_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.20	monstrauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n29616
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.21	quomodo	adverb: positive degree	urn:cite2:tabulae:ls.v1:n40273
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.22	cinere		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.23	obrutum	supine: accusative	urn:cite2:tabulae:ls.v1:n31792
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.24	seruarent	finite verb: third plural imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n43947
-https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.24_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.0	Homines	noun: masculine nominative plural	ls.n20866:homo
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.0	Homines	noun: masculine accusative plural	ls.n20866:homo
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.0	Homines	noun: masculine vocative plural	ls.n20866:homo
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.1	antea		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.2	ab	uninflected preposition	ls.n4:ab
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.3	immortalibus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.4	ignem	noun: masculine accusative singular	ls.n21403:ignis
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.5	petebant	finite verb: third plural imperfect indicative active	ls.n35822:peto
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.5_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.6	neque	uninflected conjunction	ls.n30776:neque
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.7	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.8	perpetuum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.9	seruare	finite verb: second singular present indicative passive	ls.n43947:servo
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.9	seruare	infinitive: present active	ls.n43947:servo
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.10	sciebant	finite verb: third plural imperfect indicative active	ls.n42976:scio
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.10_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.11	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.11	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.11	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.12	postea	adverb: positive degree	ls.n37196:postea
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.13	Prometheus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.14	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.15	ferula		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.16	detulit	finite verb: third singular perfect indicative active	ls.n12677:defero
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.17	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.18	terras	noun: feminine accusative plural	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.18_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.20	monstrauit	finite verb: third singular perfect indicative active	ls.n29616:monstro
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.21	quomodo	adverb: positive degree	ls.n40273:quomodo
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.22	cinere		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.23	obrutum	supine: accusative	ls.n31792:obruo
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.24	seruarent	finite verb: third plural imperfect subjunctive active	ls.n43947:servo
+https://lingualatina.github.io/texts/browsable/hyginus/144a/	144a.1	144a.1.24_0	.		ls.null

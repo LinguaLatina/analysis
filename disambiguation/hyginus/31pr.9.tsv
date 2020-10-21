@@ -1,22 +1,22 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.0	Eurytum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.1	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.1	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.1	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.2	Iolen		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.3	filiam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.4	eius	pronoun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.4	eius	pronoun: neuter genitive singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.4	eius	pronoun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.5	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.6	coniugium	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n10349
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.6	coniugium	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n10349
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.6	coniugium	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n10349
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.7	petiit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n35822
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.8	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.9	ille	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.10	eum	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.11	repudiauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n41256
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.12	occidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.12	occidit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.12_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.0	Eurytum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.1	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.1	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.1	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.2	Iolen		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.3	filiam	noun: feminine accusative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.4	eius	pronoun: feminine genitive singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.4	eius	pronoun: neuter genitive singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.4	eius	pronoun: masculine genitive singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.5	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.6	coniugium	noun: neuter nominative singular	ls.n10349:conjugium
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.6	coniugium	noun: neuter accusative singular	ls.n10349:conjugium
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.6	coniugium	noun: neuter vocative singular	ls.n10349:conjugium
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.7	petiit	finite verb: third singular perfect indicative active	ls.n35822:peto
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.8	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.9	ille	pronoun: masculine nominative singular	ls.n21494:ille
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.10	eum	pronoun: masculine accusative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.11	repudiauit	finite verb: third singular perfect indicative active	ls.n41256:repudio
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.12	occidit	finite verb: third singular perfect indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.12	occidit	finite verb: third singular present indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.9	31pr.9.12_0	.		ls.null

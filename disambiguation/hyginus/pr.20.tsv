@@ -1,9 +1,9 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.1	Ioue		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.3	Iunone		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.4	Mars	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n28088
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.4	Mars	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n28088
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.4_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.0	Ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.1	Ioue		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.3	Iunone		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.4	Mars	noun: masculine nominative singular	ls.n28088:Mars
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.4	Mars	noun: masculine vocative singular	ls.n28088:Mars
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.20	pr.20.4_0	.		ls.null

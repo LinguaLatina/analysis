@@ -1,22 +1,22 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.0	at	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4220
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.1	Ulixem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.2	uentus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n50442
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.3	detulit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n12677
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.4	ad	uninflected preposition	urn:cite2:tabulae:ls.v1:n665
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.5	Marathonem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.5_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.6	Menelaum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.7	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.8	Aegyptum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.8_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.9	Agamemnon		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.10	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.11	Cassandra	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n6944
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.11	Cassandra	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n6944
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.11	Cassandra	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n6944
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.12	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.13	patriam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n34131
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.14	peruenit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n35702
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.14	peruenit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n35702
-https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.14_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.0	at	uninflected conjunction	ls.n4220:at
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.1	Ulixem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.2	uentus	participle: perfect passive masculine nominative singular	ls.n50442:venio
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.3	detulit	finite verb: third singular perfect indicative active	ls.n12677:defero
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.4	ad	uninflected preposition	ls.n665:ad
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.5	Marathonem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.5_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.6	Menelaum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.7	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.8	Aegyptum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.8_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.9	Agamemnon		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.10	cum	uninflected preposition	ls.n11872:cum1
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.11	Cassandra	noun: feminine nominative singular	ls.n6944:Cassandra
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.11	Cassandra	noun: feminine ablative singular	ls.n6944:Cassandra
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.11	Cassandra	noun: feminine vocative singular	ls.n6944:Cassandra
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.12	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.13	patriam	noun: feminine accusative singular	ls.n34131:patria
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.14	peruenit	finite verb: third singular present indicative active	ls.n35702:pervenio
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.14	peruenit	finite verb: third singular perfect indicative active	ls.n35702:pervenio
+https://lingualatina.github.io/texts/browsable/hyginus/116a/	116a.4	116a.4.14_0	.		ls.null

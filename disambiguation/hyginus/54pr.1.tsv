@@ -1,24 +1,24 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.0	Thetidi		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.1	Nereidi		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.2	fatum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n17799
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.2	fatum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n17799
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.2	fatum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n17799
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.3	fuit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.4	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.4	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.4	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.5	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.6	ea	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.6	ea	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.6	ea	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.6	ea	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.7	natus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.8	esset	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.9	fortiorem	adjective: masculine accusative singular comparative	urn:cite2:tabulae:ls.v1:n18637
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.9	fortiorem	adjective: feminine accusative singular comparative	urn:cite2:tabulae:ls.v1:n18637
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.10	fore	infinitive: future active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.11	quam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.12	patrem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.12_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.0	Thetidi		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.1	Nereidi		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.2	fatum	noun: neuter nominative singular	ls.n17799:fatum
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.2	fatum	noun: neuter accusative singular	ls.n17799:fatum
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.2	fatum	noun: neuter vocative singular	ls.n17799:fatum
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.3	fuit	finite verb: third singular perfect indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.4	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.4	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.4	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.5	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.6	ea	pronoun: feminine nominative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.6	ea	pronoun: feminine ablative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.6	ea	pronoun: neuter nominative plural	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.6	ea	pronoun: neuter accusative plural	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.7	natus	participle: perfect passive masculine nominative singular	ls.n30423:nascor
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.8	esset	finite verb: third singular imperfect subjunctive active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.9	fortiorem	adjective: masculine accusative singular comparative	ls.n18637:fortis
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.9	fortiorem	adjective: feminine accusative singular comparative	ls.n18637:fortis
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.10	fore	infinitive: future active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.11	quam	pronoun: feminine accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.12	patrem	noun: masculine accusative singular	ls.n34096:pater
+https://lingualatina.github.io/texts/browsable/hyginus/54pr/	54pr.1	54pr.1.12_0	.		ls.null

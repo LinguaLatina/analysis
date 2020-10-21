@@ -1,24 +1,24 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.0	Rhodi		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.1	signum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n44227
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.1	signum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n44227
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.1	signum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n44227
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n44583
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: masculine dative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: masculine ablative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: feminine dative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: feminine ablative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: neuter dative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: neuter ablative plural positive	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.3	aeneum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.4	id	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.4	id	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.5	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.6	colossus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.6_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.7	altus	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n2061
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.8	pedibus	noun: masculine dative plural	urn:cite2:tabulae:ls.v1:n35756
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.8	pedibus	noun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n35756
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.9	xc		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.9_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.0	Rhodi		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.1	signum	noun: neuter nominative singular	ls.n44227:signum
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.1	signum	noun: neuter accusative singular	ls.n44227:signum
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.1	signum	noun: neuter vocative singular	ls.n44227:signum
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	noun: masculine genitive singular	ls.n44583:sol
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: masculine dative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: masculine ablative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: feminine dative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: feminine ablative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: neuter dative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.2	Solis	adjective: neuter ablative plural positive	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.3	aeneum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.4	id	pronoun: neuter nominative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.4	id	pronoun: neuter accusative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.5	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.6	colossus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.6_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.7	altus	adjective: masculine nominative singular positive	ls.n2061:altus1
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.8	pedibus	noun: masculine dative plural	ls.n35756:pes
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.8	pedibus	noun: masculine ablative plural	ls.n35756:pes
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.9	xc		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/223_218/	223_218.3	223_218.3.9_0	.		ls.null

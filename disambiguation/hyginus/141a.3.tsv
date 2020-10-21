@@ -1,28 +1,28 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.0	a	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.2	locus	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.2	locus	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.3	Sirenides		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.4	cognominatur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n8934
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.4_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.5	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.5	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.5	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.6	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.7	inter	uninflected preposition	urn:cite2:tabulae:ls.v1:n24154
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.8	Siciliam		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.9	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.10	Italiam		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.10_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.0	a	uninflected preposition	ls.n4:ab
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: masculine dative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: masculine ablative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: feminine ablative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: neuter dative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: neuter ablative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: feminine dative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: masculine dative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: neuter ablative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: neuter dative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: feminine ablative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: feminine dative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.1	quibus	pronoun: masculine ablative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.2	locus	noun: masculine nominative singular	ls.n26903:locus
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.2	locus	noun: masculine nominative singular	ls.n26903:locus
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.3	Sirenides		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.4	cognominatur	finite verb: third singular present indicative passive	ls.n8934:cognomino
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.4_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.5	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.5	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.5	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.6	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.7	inter	uninflected preposition	ls.n24154:inter1
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.8	Siciliam		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.9	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.10	Italiam		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/141a/	141a.3	141a.3.10_0	.		ls.null

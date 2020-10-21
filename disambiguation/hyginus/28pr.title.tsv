@@ -1,5 +1,5 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/28pr/	28pr.title	28pr.title.0	OTOS		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/28pr/	28pr.title	28pr.title.1	ET	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/28pr/	28pr.title	28pr.title.2	EPHIALTES		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/28pr/	28pr.title	28pr.title.2_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/28pr/	28pr.title	28pr.title.0	OTOS		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/28pr/	28pr.title	28pr.title.1	ET	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/28pr/	28pr.title	28pr.title.2	EPHIALTES		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/28pr/	28pr.title	28pr.title.2_0	.		ls.null

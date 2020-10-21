@@ -1,17 +1,17 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.0	idem	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.0	idem	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.0	idem	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.0	idem	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.1	Mercurius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n28776
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.3	palaestram		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n29733
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: masculine accusative plural positive	urn:cite2:tabulae:ls.v1:n29733
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n29733
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: feminine nominative plural positive	urn:cite2:tabulae:ls.v1:n29733
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: feminine accusative plural positive	urn:cite2:tabulae:ls.v1:n29733
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: feminine vocative plural positive	urn:cite2:tabulae:ls.v1:n29733
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.5	primus	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.6	docuit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n14602
-https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.6_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.0	idem	pronoun: neuter nominative singular	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.0	idem	pronoun: neuter accusative singular	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.0	idem	pronoun: masculine nominative singular	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.0	idem	pronoun: masculine nominative plural	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.1	Mercurius	noun: masculine nominative singular	ls.n28776:Mercurius
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.3	palaestram		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: masculine nominative plural positive	ls.n29733:mortalis
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: masculine accusative plural positive	ls.n29733:mortalis
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: masculine vocative plural positive	ls.n29733:mortalis
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: feminine nominative plural positive	ls.n29733:mortalis
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: feminine accusative plural positive	ls.n29733:mortalis
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.4	mortales	adjective: feminine vocative plural positive	ls.n29733:mortalis
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.5	primus	adjective: masculine nominative singular positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.6	docuit	finite verb: third singular perfect indicative active	ls.n14602:doceo
+https://lingualatina.github.io/texts/browsable/hyginus/277_268/	277_268.3	277_268.3.6_0	.		ls.null

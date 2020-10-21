@@ -1,55 +1,55 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.0	Cyzicus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.1	Eusori		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.3	rex	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.3	rex	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.4	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.5	insula	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.5	insula	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.5	insula	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.6	Propontidis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.7	Argonautas	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n3577
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.8	hospitio	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n21007
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.8	hospitio	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n21007
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: masculine dative singular positive	urn:cite2:tabulae:ls.v1:n26471
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: masculine ablative singular positive	urn:cite2:tabulae:ls.v1:n26471
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: feminine dative singular positive	urn:cite2:tabulae:ls.v1:n26471
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: feminine ablative singular positive	urn:cite2:tabulae:ls.v1:n26471
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: neuter dative singular positive	urn:cite2:tabulae:ls.v1:n26471
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: neuter ablative singular positive	urn:cite2:tabulae:ls.v1:n26471
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.10	excepit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n16677
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.10_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.11	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.11	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.11	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.12	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.13	ab	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.14	eo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.14	eo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.14	eo	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n15868
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.15	discessissent	finite verb: third plural pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n14145
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.17	diem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n13847
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.18	nauigassent		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.18_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.19	nocte	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n31309
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.20	tempestate	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n47718
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive feminine nominative singular	urn:cite2:tabulae:ls.v1:n33000
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive feminine ablative singular	urn:cite2:tabulae:ls.v1:n33000
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive feminine vocative singular	urn:cite2:tabulae:ls.v1:n33000
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive neuter nominative plural	urn:cite2:tabulae:ls.v1:n33000
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive neuter accusative plural	urn:cite2:tabulae:ls.v1:n33000
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive neuter vocative plural	urn:cite2:tabulae:ls.v1:n33000
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.22	ad	uninflected preposition	urn:cite2:tabulae:ls.v1:n665
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.23	eandem	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.24	insulam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n24040
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.25	ignari	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n21377
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.25	ignari	adjective: masculine genitive singular positive	urn:cite2:tabulae:ls.v1:n21377
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.25	ignari	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n21377
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.25	ignari	adjective: neuter genitive singular positive	urn:cite2:tabulae:ls.v1:n21377
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.26	delati	participle: perfect passive masculine nominative plural	urn:cite2:tabulae:ls.v1:n12677
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.26	delati	participle: perfect passive masculine genitive singular	urn:cite2:tabulae:ls.v1:n12677
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.26	delati	participle: perfect passive masculine vocative plural	urn:cite2:tabulae:ls.v1:n12677
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.26	delati	participle: perfect passive neuter genitive singular	urn:cite2:tabulae:ls.v1:n12677
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.27	sunt	finite verb: third plural present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.27_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.0	Cyzicus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.1	Eusori		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.2	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.3	rex	noun: masculine nominative singular	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.3	rex	noun: masculine vocative singular	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.4	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.5	insula	noun: feminine nominative singular	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.5	insula	noun: feminine ablative singular	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.5	insula	noun: feminine vocative singular	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.6	Propontidis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.7	Argonautas	noun: masculine accusative plural	ls.n3577:Argonautae
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.8	hospitio	noun: neuter dative singular	ls.n21007:hospitium
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.8	hospitio	noun: neuter ablative singular	ls.n21007:hospitium
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: masculine dative singular positive	ls.n26471:liberalis1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: masculine ablative singular positive	ls.n26471:liberalis1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: feminine dative singular positive	ls.n26471:liberalis1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: feminine ablative singular positive	ls.n26471:liberalis1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: neuter dative singular positive	ls.n26471:liberalis1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.9	liberali	adjective: neuter ablative singular positive	ls.n26471:liberalis1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.10	excepit	finite verb: third singular perfect indicative active	ls.n16677:excipio
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.10_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.11	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.11	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.11	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.12	cum	uninflected preposition	ls.n11872:cum1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.13	ab	uninflected preposition	ls.n4:ab
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.14	eo	pronoun: masculine ablative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.14	eo	pronoun: neuter ablative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.14	eo	finite verb: first singular present indicative active	ls.n15868:eo1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.15	discessissent	finite verb: third plural pluperfect subjunctive active	ls.n14145:discedo
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.17	diem	noun: feminine accusative singular	ls.n13847:dies
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.18	nauigassent		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.18_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.19	nocte	noun: feminine ablative singular	ls.n31309:nox
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.20	tempestate	noun: feminine ablative singular	ls.n47718:tempestas
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive feminine nominative singular	ls.n33000:orior
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive feminine ablative singular	ls.n33000:orior
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive feminine vocative singular	ls.n33000:orior
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive neuter nominative plural	ls.n33000:orior
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive neuter accusative plural	ls.n33000:orior
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.21	orta	participle: perfect passive neuter vocative plural	ls.n33000:orior
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.22	ad	uninflected preposition	ls.n665:ad
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.23	eandem	pronoun: feminine accusative singular	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.24	insulam	noun: feminine accusative singular	ls.n24040:insula1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.25	ignari	adjective: masculine nominative plural positive	ls.n21377:ignarus
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.25	ignari	adjective: masculine genitive singular positive	ls.n21377:ignarus
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.25	ignari	adjective: masculine vocative plural positive	ls.n21377:ignarus
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.25	ignari	adjective: neuter genitive singular positive	ls.n21377:ignarus
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.26	delati	participle: perfect passive masculine nominative plural	ls.n12677:defero
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.26	delati	participle: perfect passive masculine genitive singular	ls.n12677:defero
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.26	delati	participle: perfect passive masculine vocative plural	ls.n12677:defero
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.26	delati	participle: perfect passive neuter genitive singular	ls.n12677:defero
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.27	sunt	finite verb: third plural present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/16pr/	16pr.1	16pr.1.27_0	.		ls.null

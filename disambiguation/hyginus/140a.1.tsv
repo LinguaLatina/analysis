@@ -1,50 +1,50 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.0	Python		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.1	Terrae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.1	Terrae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.1	Terrae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.1	Terrae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.3	draco	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n14774a
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.3	draco	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n14774a
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.4	ingens	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n23358
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.4	ingens	adjective: feminine nominative singular positive	urn:cite2:tabulae:ls.v1:n23358
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.4	ingens	adjective: neuter nominative singular positive	urn:cite2:tabulae:ls.v1:n23358
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.4	ingens	adjective: neuter accusative singular positive	urn:cite2:tabulae:ls.v1:n23358
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.4_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.5	hic	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.5	hic	adverb: positive degree	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.6	ante	uninflected preposition	urn:cite2:tabulae:ls.v1:n2733
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.7	Apollinem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n3063
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.8	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.9	oraculo	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n32872
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.9	oraculo	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n32872
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.10	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.11	monte	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n29604
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.12	Parnasso		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive feminine nominative singular	urn:cite2:tabulae:ls.v1:n41387
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive feminine ablative singular	urn:cite2:tabulae:ls.v1:n41387
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive feminine vocative singular	urn:cite2:tabulae:ls.v1:n41387
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive neuter nominative plural	urn:cite2:tabulae:ls.v1:n41387
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive neuter accusative plural	urn:cite2:tabulae:ls.v1:n41387
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive neuter vocative plural	urn:cite2:tabulae:ls.v1:n41387
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.14	dare	finite verb: second singular present subjunctive passive	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.14	dare	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n14599
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.14	dare	infinitive: present active	urn:cite2:tabulae:ls.v1:n14599
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.15	solitus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.16	erat	finite verb: third singular imperfect indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.16_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.17	huic	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.17	huic	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.17	huic	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.18	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.19	Latonae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.20	partu	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n33990
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.20	partu	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n33990
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.20	partu	supine: ablative	urn:cite2:tabulae:ls.v1:n33879
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.21	interitus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n24241
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.22	erat	finite verb: third singular imperfect indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.23	fato	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n17799
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.23	fato	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n17799
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.24	futurus	participle: future active masculine nominative singular	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.24_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.0	Python		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.1	Terrae	noun: feminine nominative plural	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.1	Terrae	noun: feminine genitive singular	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.1	Terrae	noun: feminine dative singular	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.1	Terrae	noun: feminine vocative plural	ls.n47897:terra
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.2	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.3	draco	noun: masculine nominative singular	ls.n14774a:draco1
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.3	draco	noun: masculine vocative singular	ls.n14774a:draco1
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.4	ingens	adjective: masculine nominative singular positive	ls.n23358:ingens
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.4	ingens	adjective: feminine nominative singular positive	ls.n23358:ingens
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.4	ingens	adjective: neuter nominative singular positive	ls.n23358:ingens
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.4	ingens	adjective: neuter accusative singular positive	ls.n23358:ingens
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.4_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.5	hic	pronoun: masculine nominative singular	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.5	hic	adverb: positive degree	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.6	ante	uninflected preposition	ls.n2733:ante
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.7	Apollinem	noun: masculine accusative singular	ls.n3063:Apollo
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.8	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.9	oraculo	noun: neuter dative singular	ls.n32872:oraculum
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.9	oraculo	noun: neuter ablative singular	ls.n32872:oraculum
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.10	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.11	monte	noun: masculine ablative singular	ls.n29604:mons
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.12	Parnasso		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive feminine nominative singular	ls.n41387:respondeo
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive feminine ablative singular	ls.n41387:respondeo
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive feminine vocative singular	ls.n41387:respondeo
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive neuter nominative plural	ls.n41387:respondeo
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive neuter accusative plural	ls.n41387:respondeo
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.13	responsa	participle: perfect passive neuter vocative plural	ls.n41387:respondeo
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.14	dare	finite verb: second singular present subjunctive passive	ls.do
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.14	dare	finite verb: second singular present indicative passive	ls.n14599:do1
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.14	dare	infinitive: present active	ls.n14599:do1
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.15	solitus	participle: perfect passive masculine nominative singular	ls.n44608:soleo
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.16	erat	finite verb: third singular imperfect indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.16_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.17	huic	pronoun: masculine dative singular	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.17	huic	pronoun: neuter dative singular	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.17	huic	pronoun: feminine dative singular	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.18	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.19	Latonae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.20	partu	noun: masculine dative singular	ls.n33990:partus2
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.20	partu	noun: masculine ablative singular	ls.n33990:partus2
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.20	partu	supine: ablative	ls.n33879:pario2
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.21	interitus	participle: perfect passive masculine nominative singular	ls.n24241:intereo
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.22	erat	finite verb: third singular imperfect indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.23	fato	noun: neuter dative singular	ls.n17799:fatum
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.23	fato	noun: neuter ablative singular	ls.n17799:fatum
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.24	futurus	participle: future active masculine nominative singular	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/140a/	140a.1	140a.1.24_0	.		ls.null

@@ -1,16 +1,16 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.0	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.1	Sicilia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.2	frumentum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n18884
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.2	frumentum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n18884
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.2	frumentum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n18884
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.3	Ceres		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: feminine nominative singular positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: feminine ablative singular positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: feminine vocative singular positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: neuter nominative plural positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: neuter accusative plural positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: neuter vocative plural positive	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.5	inuenit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.5	inuenit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.5_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.0	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.1	Sicilia		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.2	frumentum	noun: neuter nominative singular	ls.n18884:frumentum
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.2	frumentum	noun: neuter accusative singular	ls.n18884:frumentum
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.2	frumentum	noun: neuter vocative singular	ls.n18884:frumentum
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.3	Ceres		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: feminine nominative singular positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: feminine ablative singular positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: feminine vocative singular positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: neuter nominative plural positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: neuter accusative plural positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.4	prima	adjective: neuter vocative plural positive	ls.n38340:primus
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.5	inuenit	finite verb: third singular perfect indicative active	ls.n24717:invenio
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.5	inuenit	finite verb: third singular present indicative active	ls.n24717:invenio
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.19	274_268.19.5_0	.		ls.null

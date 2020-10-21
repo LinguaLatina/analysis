@@ -1,31 +1,31 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.0	interim	adverb: positive degree	urn:cite2:tabulae:ls.v1:n24284
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.1	sterilitas	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n45362
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.1	sterilitas	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n45362
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.2	Mycenis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.3	frugum	noun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n18920
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.3	frugum	noun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n18920
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.4	ac	uninflected conjunction	urn:cite2:tabulae:ls.v1:n283
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.5	penuria	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n34585
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.5	penuria	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n34585
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.5	penuria	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n34585
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.6	oritur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n33000
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.7	ob	uninflected preposition	urn:cite2:tabulae:ls.v1:n31564
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.8	Atrei		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.9	scelus	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n42918
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.9	scelus	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n42918
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.9	scelus	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n42918
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.9_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.10	ibi	adverb: positive degree	urn:cite2:tabulae:ls.v1:n21296
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.11	responsum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n41387
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.11	responsum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n41387
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.11	responsum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n41387
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.12	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.13	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.14	Thyestem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.15	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.16	regnum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.16	regnum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.16	regnum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.17	reduceret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n40760
-https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.17_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.0	interim	adverb: positive degree	ls.n24284:interim
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.1	sterilitas	noun: feminine nominative singular	ls.n45362:sterilitas
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.1	sterilitas	noun: feminine vocative singular	ls.n45362:sterilitas
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.2	Mycenis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.3	frugum	noun: masculine genitive plural	ls.n18920:frux
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.3	frugum	noun: masculine genitive plural	ls.n18920:frux
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.4	ac	uninflected conjunction	ls.n283:ac2
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.5	penuria	noun: feminine nominative singular	ls.n34585:penuria
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.5	penuria	noun: feminine ablative singular	ls.n34585:penuria
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.5	penuria	noun: feminine vocative singular	ls.n34585:penuria
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.6	oritur	finite verb: third singular present indicative passive	ls.n33000:orior
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.7	ob	uninflected preposition	ls.n31564:ob
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.8	Atrei		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.9	scelus	noun: neuter nominative singular	ls.n42918:scelus
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.9	scelus	noun: neuter accusative singular	ls.n42918:scelus
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.9	scelus	noun: neuter vocative singular	ls.n42918:scelus
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.9_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.10	ibi	adverb: positive degree	ls.n21296:ibi
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.11	responsum	participle: perfect passive masculine accusative singular	ls.n41387:respondeo
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.11	responsum	participle: perfect passive neuter nominative singular	ls.n41387:respondeo
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.11	responsum	participle: perfect passive neuter vocative singular	ls.n41387:respondeo
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.12	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.13	ut	uninflected conjunction	ls.n49975:ut
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.14	Thyestem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.15	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.16	regnum	noun: neuter nominative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.16	regnum	noun: neuter accusative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.16	regnum	noun: neuter vocative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.17	reduceret	finite verb: third singular imperfect subjunctive active	ls.n40760:reduco
+https://lingualatina.github.io/texts/browsable/hyginus/88a/	88a.5	88a.5.17_0	.		ls.null

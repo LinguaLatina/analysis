@@ -1,19 +1,19 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.0	Arcadia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.1	Xanthum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.1_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.2	Cleopatra		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.3	Metalcen		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.3_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.4	Phila		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.5	Philinum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.5_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.6	Hipparete		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.7	Protheonem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.7_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.8	Chrysothemis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.9	Asteriden		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.9_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.10	Pyrante		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.11	Athamantem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n4239
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.11_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.0	Arcadia		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.1	Xanthum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.1_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.2	Cleopatra		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.3	Metalcen		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.3_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.4	Phila		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.5	Philinum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.5_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.6	Hipparete		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.7	Protheonem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.7_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.8	Chrysothemis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.9	Asteriden		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.9_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.10	Pyrante		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.11	Athamantem	noun: masculine accusative singular	ls.n4239:Athamas
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.3	170a.3.11_0	.		ls.null

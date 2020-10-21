@@ -1,7 +1,7 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.0	MARTIS	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n28088
-https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.0	MARTIS	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n28088
-https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.1	FILII	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.1	FILII	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.1	FILII	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.1_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.0	MARTIS	noun: masculine accusative plural	ls.n28088:Mars
+https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.0	MARTIS	noun: masculine genitive singular	ls.n28088:Mars
+https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.1	FILII	noun: masculine nominative plural	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.1	FILII	noun: masculine genitive singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.1	FILII	noun: masculine vocative plural	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/159a/	159a.title	159a.title.1_0	.		ls.null

@@ -1,20 +1,20 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.0	FILIAE	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.0	FILIAE	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.0	FILIAE	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.0	FILIAE	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.1	DANAI	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n12314
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.1	DANAI	adjective: masculine genitive singular positive	urn:cite2:tabulae:ls.v1:n12314
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.1	DANAI	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n12314
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.1	DANAI	adjective: neuter genitive singular positive	urn:cite2:tabulae:ls.v1:n12314
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.3	QUOS	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.3	QUOS	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.4	OCCIDERUNT	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.4_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.0	FILIAE	noun: feminine nominative plural	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.0	FILIAE	noun: feminine genitive singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.0	FILIAE	noun: feminine dative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.0	FILIAE	noun: feminine vocative plural	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.1	DANAI	adjective: masculine nominative plural positive	ls.n12314:Danaus
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.1	DANAI	adjective: masculine genitive singular positive	ls.n12314:Danaus
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.1	DANAI	adjective: masculine vocative plural positive	ls.n12314:Danaus
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.1	DANAI	adjective: neuter genitive singular positive	ls.n12314:Danaus
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: feminine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: neuter accusative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: neuter nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: neuter accusative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: neuter nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: feminine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.2	QUAE	pronoun: feminine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.3	QUOS	pronoun: masculine accusative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.3	QUOS	pronoun: masculine accusative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.4	OCCIDERUNT	finite verb: third plural perfect indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/170a/	170a.title	170a.title.4_0	.		ls.null

@@ -1,13 +1,13 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.1	Astraeo		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.3	Aurora	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n4581
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.3	Aurora	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n4581
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.3	Aurora	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n4581
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.4	Zephyrus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.5	Boreas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.6	Notus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n31212
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.7	Fauonius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.7_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.0	Ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.1	Astraeo		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.3	Aurora	noun: feminine nominative singular	ls.n4581:aurora
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.3	Aurora	noun: feminine ablative singular	ls.n4581:aurora
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.3	Aurora	noun: feminine vocative singular	ls.n4581:aurora
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.4	Zephyrus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.5	Boreas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.6	Notus	participle: perfect passive masculine nominative singular	ls.n31212:nosco
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.7	Fauonius		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.15	pr.15.7_0	.		ls.null

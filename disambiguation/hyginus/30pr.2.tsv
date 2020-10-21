@@ -1,29 +1,29 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.0	Leonem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n26265
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.1	Nemeum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.1_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.2	quem	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.2	quem	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.2	quem	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.3	Luna	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n27199
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.3	Luna	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n27199
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.3	Luna	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n27199
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.4	nutrierat	finite verb: third singular pluperfect indicative active	urn:cite2:tabulae:ls.v1:n31512
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.5	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.6	antro		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.7	amphistomo		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.8	atrotum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.8_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.9	necauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n30624
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.9_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: neuter genitive singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: neuter genitive singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.11	pellem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n34447
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.12	pro	uninflected preposition	urn:cite2:tabulae:ls.v1:n38383
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.13	tegumento		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.14	habuit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n20077
-https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.14_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.0	Leonem	noun: masculine accusative singular	ls.n26265:leo2
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.1	Nemeum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.1_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.2	quem	pronoun: masculine accusative singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.2	quem	pronoun: feminine accusative singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.2	quem	pronoun: masculine accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.3	Luna	noun: feminine nominative singular	ls.n27199:luna1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.3	Luna	noun: feminine ablative singular	ls.n27199:luna1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.3	Luna	noun: feminine vocative singular	ls.n27199:luna1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.4	nutrierat	finite verb: third singular pluperfect indicative active	ls.n31512:nutrio
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.5	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.6	antro		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.7	amphistomo		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.8	atrotum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.8_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.9	necauit	finite verb: third singular perfect indicative active	ls.n30624:neco
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.9_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: feminine genitive singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: neuter genitive singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: masculine genitive singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: feminine genitive singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: neuter genitive singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.10	cuius	pronoun: masculine genitive singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.11	pellem	noun: masculine accusative singular	ls.n34447:pellis
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.12	pro	uninflected preposition	ls.n38383:pro1
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.13	tegumento		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.14	habuit	finite verb: third singular perfect indicative active	ls.n20077:habeo
+https://lingualatina.github.io/texts/browsable/hyginus/30pr/	30pr.2	30pr.2.14_0	.		ls.null

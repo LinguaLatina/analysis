@@ -1,26 +1,26 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.0	Orestes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.1	autem	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4633
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.2	Neoptolemo		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.3	interfecto	participle: perfect passive masculine dative singular	urn:cite2:tabulae:ls.v1:n24257
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.3	interfecto	participle: perfect passive masculine ablative singular	urn:cite2:tabulae:ls.v1:n24257
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.3	interfecto	participle: perfect passive neuter ablative singular	urn:cite2:tabulae:ls.v1:n24257
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.4	Hermionen		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.5	Menelai		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.6	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.7	Helenae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.8	filiam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.9	adductam	participle: perfect passive feminine accusative singular	urn:cite2:tabulae:ls.v1:n743
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.10	coniugem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.10	coniugem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.11	duxit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n14847
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.11_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.12	Pylades		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.13	autem	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4633
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.14	Electram		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.15	Agamemnonis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.16	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.17	Clytaemnestrae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.18	filiam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.19	duxit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n14847
-https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.19_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.0	Orestes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.1	autem	uninflected conjunction	ls.n4633:autem
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.2	Neoptolemo		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.3	interfecto	participle: perfect passive masculine dative singular	ls.n24257:interficio
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.3	interfecto	participle: perfect passive masculine ablative singular	ls.n24257:interficio
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.3	interfecto	participle: perfect passive neuter ablative singular	ls.n24257:interficio
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.4	Hermionen		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.5	Menelai		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.6	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.7	Helenae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.8	filiam	noun: feminine accusative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.9	adductam	participle: perfect passive feminine accusative singular	ls.n743:adduco
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.10	coniugem	noun: masculine accusative singular	ls.n10361:conjunx
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.10	coniugem	noun: feminine accusative singular	ls.n10361:conjunx
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.11	duxit	finite verb: third singular perfect indicative active	ls.n14847:duco
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.11_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.12	Pylades		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.13	autem	uninflected conjunction	ls.n4633:autem
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.14	Electram		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.15	Agamemnonis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.16	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.17	Clytaemnestrae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.18	filiam	noun: feminine accusative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.19	duxit	finite verb: third singular perfect indicative active	ls.n14847:duco
+https://lingualatina.github.io/texts/browsable/hyginus/122a/	122a.4	122a.4.19_0	.		ls.null

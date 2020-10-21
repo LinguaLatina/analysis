@@ -1,15 +1,15 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.1	SEPTEM	uninflected number	urn:cite2:tabulae:ls.v1:n43722
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.2	THEBAS		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine nominative plural	urn:cite2:tabulae:ls.v1:n38619
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine genitive singular	urn:cite2:tabulae:ls.v1:n38619
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine vocative plural	urn:cite2:tabulae:ls.v1:n38619
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive neuter genitive singular	urn:cite2:tabulae:ls.v1:n38619
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine nominative plural	urn:cite2:tabulae:ls.v1:n38618
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine genitive singular	urn:cite2:tabulae:ls.v1:n38618
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine vocative plural	urn:cite2:tabulae:ls.v1:n38618
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive neuter genitive singular	urn:cite2:tabulae:ls.v1:n38618
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	noun: masculine nominative plural	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	noun: masculine accusative plural	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	noun: masculine vocative plural	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.1	SEPTEM	uninflected number	ls.n43722:septem
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.2	THEBAS		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine nominative plural	ls.n38619:proficisco
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine genitive singular	ls.n38619:proficisco
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine vocative plural	ls.n38619:proficisco
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive neuter genitive singular	ls.n38619:proficisco
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine nominative plural	ls.n38618:proficio
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine genitive singular	ls.n38618:proficio
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine vocative plural	ls.n38618:proficio
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive neuter genitive singular	ls.n38618:proficio
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3_0	.		ls.null

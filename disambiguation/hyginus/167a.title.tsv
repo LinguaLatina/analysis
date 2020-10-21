@@ -1,6 +1,6 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/167a/	167a.title	167a.title.0	LIBER	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n26468
-https://lingualatina.github.io/texts/browsable/hyginus/167a/	167a.title	167a.title.0	LIBER	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n26468
-https://lingualatina.github.io/texts/browsable/hyginus/167a/	167a.title	167a.title.0	LIBER	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/167a/	167a.title	167a.title.0	LIBER	adjective: masculine vocative singular positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/167a/	167a.title	167a.title.0_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/167a/	167a.title	167a.title.0	LIBER	noun: masculine nominative singular	ls.n26468:liber4
+https://lingualatina.github.io/texts/browsable/hyginus/167a/	167a.title	167a.title.0	LIBER	noun: masculine vocative singular	ls.n26468:liber4
+https://lingualatina.github.io/texts/browsable/hyginus/167a/	167a.title	167a.title.0	LIBER	adjective: masculine nominative singular positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/167a/	167a.title	167a.title.0	LIBER	adjective: masculine vocative singular positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/167a/	167a.title	167a.title.0_0	.		ls.null

@@ -1,25 +1,25 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.0	Lycum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n27366
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.1	Neptuni		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.2	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.3	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.3	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.3	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.4	Megaram		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.5	Creontis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.6	filiam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.7	uxorem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n50039
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.8	eius	pronoun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.8	eius	pronoun: neuter genitive singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.8	eius	pronoun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.9	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.10	filios	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.11	Therimachum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.12	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.13	Ophiten		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.14	occidere	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.14	occidere	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.14	occidere	infinitive: present active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.15	uoluit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n51298
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.16	interfecit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n24257
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.16_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.0	Lycum	noun: masculine accusative singular	ls.n27366:Lycus
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.1	Neptuni		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.2	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.3	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.3	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.3	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.4	Megaram		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.5	Creontis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.6	filiam	noun: feminine accusative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.7	uxorem	noun: feminine accusative singular	ls.n50039:uxor
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.8	eius	pronoun: feminine genitive singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.8	eius	pronoun: neuter genitive singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.8	eius	pronoun: masculine genitive singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.9	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.10	filios	noun: masculine accusative plural	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.11	Therimachum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.12	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.13	Ophiten		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.14	occidere	finite verb: third plural perfect indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.14	occidere	finite verb: second singular present indicative passive	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.14	occidere	infinitive: present active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.15	uoluit	finite verb: third singular perfect indicative active	ls.n51298:volo1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.16	interfecit	finite verb: third singular perfect indicative active	ls.n24257:interficio
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.6	31pr.6.16_0	.		ls.null

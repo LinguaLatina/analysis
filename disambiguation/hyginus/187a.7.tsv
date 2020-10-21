@@ -1,20 +1,20 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.0	Alopes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.1	autem	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4633
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.2	corpus	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n11268
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.2	corpus	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n11268
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.2	corpus	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n11268
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.3	Neptunus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.4	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.5	fontem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18524
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.6	commutauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n9489
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.6_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.7	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.7	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.7	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.8	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.9	nomine	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n31131
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.10	Alopes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.11	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.12	cognominatus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n8934
-https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.12_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.0	Alopes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.1	autem	uninflected conjunction	ls.n4633:autem
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.2	corpus	noun: neuter nominative singular	ls.n11268:corpus
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.2	corpus	noun: neuter accusative singular	ls.n11268:corpus
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.2	corpus	noun: neuter vocative singular	ls.n11268:corpus
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.3	Neptunus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.4	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.5	fontem	noun: masculine accusative singular	ls.n18524:fons
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.6	commutauit	finite verb: third singular perfect indicative active	ls.n9489:commuto
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.6_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.7	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.7	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.7	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.8	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.9	nomine	noun: neuter ablative singular	ls.n31131:nomen
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.10	Alopes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.11	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.12	cognominatus	participle: perfect passive masculine nominative singular	ls.n8934:cognomino
+https://lingualatina.github.io/texts/browsable/hyginus/187a/	187a.7	187a.7.12_0	.		ls.null

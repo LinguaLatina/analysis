@@ -1,28 +1,28 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.0	Amphion		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.1	enim	uninflected conjunction	urn:cite2:tabulae:ls.v1:n15790
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.2	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.2	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.2	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.3	Thebas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.4	muro	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n30080
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.4	muro	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n30080
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.5	cinxit		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.6	septem	uninflected number	urn:cite2:tabulae:ls.v1:n43722
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.7	filiarum	noun: feminine genitive plural	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.8	nomine	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n31131
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.9	portas	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n37124
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.9	portas	finite verb: second singular present indicative active	urn:cite2:tabulae:ls.v1:n37152
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.10	constituit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n10632
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.10_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.11	hae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.12	autem	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4633
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.13	fuerunt	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.14	Thera		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.15	Cleodoxe		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.16	Astynome		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.17	Astycratia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.18	Chias		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.19	Ogygia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.20	Chloris		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.20_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.0	Amphion		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.1	enim	uninflected conjunction	ls.n15790:enim
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.2	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.2	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.2	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.3	Thebas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.4	muro	noun: masculine dative singular	ls.n30080:murus
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.4	muro	noun: masculine ablative singular	ls.n30080:murus
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.5	cinxit		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.6	septem	uninflected number	ls.n43722:septem
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.7	filiarum	noun: feminine genitive plural	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.8	nomine	noun: neuter ablative singular	ls.n31131:nomen
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.9	portas	noun: feminine accusative plural	ls.n37124:porta
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.9	portas	finite verb: second singular present indicative active	ls.n37152:porto
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.10	constituit	finite verb: third singular perfect indicative active	ls.n10632:constituo
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.10_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.11	hae	pronoun: feminine nominative plural	ls.n20640:hic
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.12	autem	uninflected conjunction	ls.n4633:autem
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.13	fuerunt	finite verb: third plural perfect indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.14	Thera		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.15	Cleodoxe		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.16	Astynome		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.17	Astycratia		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.18	Chias		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.19	Ogygia		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.20	Chloris		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/69b/	69b.7	69b.7.20_0	.		ls.null

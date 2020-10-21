@@ -1,30 +1,30 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.0	Deianira		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.1	Oenei		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.2	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.2	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.2	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.3	Herculem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n20511
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.4	Iouis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.5	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.6	Alcumenae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.7	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.8	impulsu	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n22087
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.8	impulsu	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n22087
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.9	Nessi		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.9_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.10	Iliona		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.11	Priami		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.12	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.12	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.12	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.13	Polymnestorem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.14	regem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.15	Thracum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.15_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.16	Semiramis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.17	Ninum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.18	regem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.19	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.20	Babylonia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.20_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.0	Deianira		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.1	Oenei		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.2	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.2	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.2	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.3	Herculem	noun: masculine accusative singular	ls.n20511:Hercules
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.4	Iouis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.5	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.6	Alcumenae		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.7	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.8	impulsu	noun: masculine dative singular	ls.n22087:impulsus2
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.8	impulsu	noun: masculine ablative singular	ls.n22087:impulsus2
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.9	Nessi		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.9_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.10	Iliona		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.11	Priami		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.12	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.12	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.12	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.13	Polymnestorem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.14	regem	noun: masculine accusative singular	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.15	Thracum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.15_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.16	Semiramis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.17	Ninum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.18	regem	noun: masculine accusative singular	ls.n41625:rex1
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.19	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.20	Babylonia		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/240_237/	240_237.2	240_237.2.20_0	.		ls.null

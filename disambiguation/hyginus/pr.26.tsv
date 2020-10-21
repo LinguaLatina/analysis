@@ -1,8 +1,8 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.1	Ioue		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.3	Cerere		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.4	Proserpina		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.4_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.0	Ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.1	Ioue		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.3	Cerere		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.4	Proserpina		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.26	pr.26.4_0	.		ls.null

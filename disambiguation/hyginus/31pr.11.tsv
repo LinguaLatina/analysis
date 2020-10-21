@@ -1,16 +1,16 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.0	Eurytionem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.1	centaurum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n7395
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.2	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.2	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.2	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.3	Deianiram		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.4	Dexameni		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.5	filiam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.6	speratam	participle: perfect passive feminine accusative singular	urn:cite2:tabulae:ls.v1:n44970
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.7	suam	adjective: feminine accusative singular positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.8	uxorem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n50039
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.9	petiit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n35822
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.10	occidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.10	occidit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n32088
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.10_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.0	Eurytionem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.1	centaurum	noun: masculine accusative singular	ls.n7395:Centaurus
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.2	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.2	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.2	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.3	Deianiram		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.4	Dexameni		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.5	filiam	noun: feminine accusative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.6	speratam	participle: perfect passive feminine accusative singular	ls.n44970:spero
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.7	suam	adjective: feminine accusative singular positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.8	uxorem	noun: feminine accusative singular	ls.n50039:uxor
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.9	petiit	finite verb: third singular perfect indicative active	ls.n35822:peto
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.10	occidit	finite verb: third singular perfect indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.10	occidit	finite verb: third singular present indicative active	ls.n32088:occido1
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.11	31pr.11.10_0	.		ls.null

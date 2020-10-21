@@ -1,5 +1,5 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/258_237/	258_237.title	258_237.title.0	ATREUS		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/258_237/	258_237.title	258_237.title.1	ET	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/258_237/	258_237.title	258_237.title.2	THIESTES		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/258_237/	258_237.title	258_237.title.2_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/258_237/	258_237.title	258_237.title.0	ATREUS		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/258_237/	258_237.title	258_237.title.1	ET	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/258_237/	258_237.title	258_237.title.2	THIESTES		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/258_237/	258_237.title	258_237.title.2_0	.		ls.null

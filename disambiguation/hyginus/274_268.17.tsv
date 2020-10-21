@@ -1,13 +1,13 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.0	Lydi		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.1	surculis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.2	lanam		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.3	infecerunt		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.4	postea	adverb: positive degree	urn:cite2:tabulae:ls.v1:n37196
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.5	idem	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.5	idem	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.5	idem	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.5	idem	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.6	stamen		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.6_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.0	Lydi		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.1	surculis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.2	lanam		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.3	infecerunt		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.3_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.4	postea	adverb: positive degree	ls.n37196:postea
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.5	idem	pronoun: neuter nominative singular	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.5	idem	pronoun: neuter accusative singular	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.5	idem	pronoun: masculine nominative singular	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.5	idem	pronoun: masculine nominative plural	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.6	stamen		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/274_268/	274_268.17	274_268.17.6_0	.		ls.null

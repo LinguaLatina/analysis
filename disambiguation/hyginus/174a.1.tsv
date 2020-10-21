@@ -1,31 +1,31 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.0	Althaea		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.1	Thestii		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.2	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.2	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.2	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.3	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.4	Oeneo		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.5	peperit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n33879
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.6	Meleagrum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.6_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.7	ibi	adverb: positive degree	urn:cite2:tabulae:ls.v1:n21296
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.8	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: feminine nominative singular positive	urn:cite2:tabulae:ls.v1:n40905
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: feminine ablative singular positive	urn:cite2:tabulae:ls.v1:n40905
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: feminine vocative singular positive	urn:cite2:tabulae:ls.v1:n40905
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: neuter nominative plural positive	urn:cite2:tabulae:ls.v1:n40905
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: neuter accusative plural positive	urn:cite2:tabulae:ls.v1:n40905
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: neuter vocative plural positive	urn:cite2:tabulae:ls.v1:n40905
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.10	dicitur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.11	titio	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n48443
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.11	titio	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n48443
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active masculine nominative singular	urn:cite2:tabulae:ls.v1:n3492
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active masculine vocative singular	urn:cite2:tabulae:ls.v1:n3492
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active feminine nominative singular	urn:cite2:tabulae:ls.v1:n3492
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active feminine vocative singular	urn:cite2:tabulae:ls.v1:n3492
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active neuter nominative singular	urn:cite2:tabulae:ls.v1:n3492
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active neuter nominative singular	urn:cite2:tabulae:ls.v1:n3492
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active neuter accusative singular	urn:cite2:tabulae:ls.v1:n3492
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.13	apparuisse	infinitive: perfect active	urn:cite2:tabulae:ls.v1:n3120
-https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.13_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.0	Althaea		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.1	Thestii		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.2	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.2	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.2	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.3	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.4	Oeneo		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.5	peperit	finite verb: third singular perfect indicative active	ls.n33879:pario2
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.6	Meleagrum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.6_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.7	ibi	adverb: positive degree	ls.n21296:ibi
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.8	in	uninflected preposition	ls.n22111:in1
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: feminine nominative singular positive	ls.n40905:regius
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: feminine ablative singular positive	ls.n40905:regius
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: feminine vocative singular positive	ls.n40905:regius
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: neuter nominative plural positive	ls.n40905:regius
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: neuter accusative plural positive	ls.n40905:regius
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.9	regia	adjective: neuter vocative plural positive	ls.n40905:regius
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.10	dicitur	finite verb: third singular present indicative passive	ls.n13804:dico2
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.11	titio	noun: masculine nominative singular	ls.n48443:titio
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.11	titio	noun: masculine vocative singular	ls.n48443:titio
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active masculine nominative singular	ls.n3492:ardeo
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active masculine vocative singular	ls.n3492:ardeo
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active feminine nominative singular	ls.n3492:ardeo
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active feminine vocative singular	ls.n3492:ardeo
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active neuter nominative singular	ls.n3492:ardeo
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active neuter nominative singular	ls.n3492:ardeo
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.12	ardens	participle: present active neuter accusative singular	ls.n3492:ardeo
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.13	apparuisse	infinitive: perfect active	ls.n3120:appareo
+https://lingualatina.github.io/texts/browsable/hyginus/174a/	174a.1	174a.1.13_0	.		ls.null

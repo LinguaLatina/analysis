@@ -1,23 +1,23 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.0	item	adverb: positive degree	urn:cite2:tabulae:ls.v1:n25106
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: masculine accusative plural positive	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: feminine nominative plural positive	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: feminine accusative plural positive	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: feminine vocative plural positive	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.3	eum	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.4	Gnosius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.5	consumpserunt	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n10701
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n17904
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n17904
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n17904
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n17904
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.7	Melanchaetes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.8	Agre		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.9	Theridamas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.10	Oresitrophos		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.10_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.0	item	adverb: positive degree	ls.n25106:item
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: masculine accusative plural positive	ls.n48969:tres
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: masculine vocative plural positive	ls.n48969:tres
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: feminine nominative plural positive	ls.n48969:tres
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: feminine accusative plural positive	ls.n48969:tres
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: feminine vocative plural positive	ls.n48969:tres
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: masculine nominative plural positive	ls.n48969:tres
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.3	eum	pronoun: masculine accusative singular	ls.n25029:is
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.4	Gnosius		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.5	consumpserunt	finite verb: third plural perfect indicative active	ls.n10701:consumo
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine nominative plural	ls.n17904:femina
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine genitive singular	ls.n17904:femina
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine dative singular	ls.n17904:femina
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine vocative plural	ls.n17904:femina
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.7	Melanchaetes		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.8	Agre		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.9	Theridamas		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.10	Oresitrophos		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.10_0	.		ls.null

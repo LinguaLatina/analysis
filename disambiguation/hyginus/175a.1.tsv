@@ -1,35 +1,35 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.0	Agrius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.1	Parthaonis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.3	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.4	uidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n50883
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.4	uidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n50883
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.5	Oeneum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.6	fratrem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18705
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.7	orbum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: masculine dative plural positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: masculine ablative plural positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: feminine dative plural positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: feminine ablative plural positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: neuter dative plural positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: neuter ablative plural positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n26488
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.9	factum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.9	factum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.9	factum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.9	factum	supine: accusative	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.9_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.10	egentem	participle: present active masculine accusative singular	urn:cite2:tabulae:ls.v1:n15308
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.10	egentem	participle: present active feminine accusative singular	urn:cite2:tabulae:ls.v1:n15308
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.11	regno	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.11	regno	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.11	regno	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n40911
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.12	expulit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n17004
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.13	atque	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4275
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.14	ipse	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n24872
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.15	regnum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.15	regnum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.15	regnum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.16	possedit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n37191
-https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.16_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.0	Agrius		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.1	Parthaonis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.2	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.3	ut	uninflected conjunction	ls.n49975:ut
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.4	uidit	finite verb: third singular perfect indicative active	ls.n50883:video
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.4	uidit	finite verb: third singular perfect indicative active	ls.n50883:video
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.5	Oeneum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.6	fratrem	noun: masculine accusative singular	ls.n18705:frater
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.7	orbum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: masculine dative plural positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: masculine ablative plural positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: feminine dative plural positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: feminine ablative plural positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: neuter dative plural positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	adjective: neuter ablative plural positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.8	liberis	finite verb: second singular present indicative passive	ls.n26488:libet
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.9	factum	participle: perfect passive masculine accusative singular	ls.n17516:facio
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.9	factum	participle: perfect passive neuter nominative singular	ls.n17516:facio
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.9	factum	participle: perfect passive neuter vocative singular	ls.n17516:facio
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.9	factum	supine: accusative	ls.n17516:facio
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.9_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.10	egentem	participle: present active masculine accusative singular	ls.n15308:egeo
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.10	egentem	participle: present active feminine accusative singular	ls.n15308:egeo
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.11	regno	noun: neuter dative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.11	regno	noun: neuter ablative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.11	regno	finite verb: first singular present indicative active	ls.n40911:regno
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.12	expulit	finite verb: third singular perfect indicative active	ls.n17004:expello
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.13	atque	uninflected conjunction	ls.n4275:atque
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.14	ipse	pronoun: masculine nominative singular	ls.n24872:ipse
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.15	regnum	noun: neuter nominative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.15	regnum	noun: neuter accusative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.15	regnum	noun: neuter vocative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.16	possedit	finite verb: third singular perfect indicative active	ls.n37191:possideo
+https://lingualatina.github.io/texts/browsable/hyginus/175a/	175a.1	175a.1.16_0	.		ls.null

@@ -1,28 +1,28 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.0	Diomedem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.1	Martis	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n28088
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.1	Martis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n28088
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.2	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.3	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.4	eadem	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.4	eadem	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.4	eadem	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.4	eadem	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.4_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.5	Hippolytum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.6	Thesei		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.7	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.8	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.9	Antiope		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.10	Amazone		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.10_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.11	Amphiaraum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.12	Oiclei		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.13	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.14	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.15	Hypermnestra		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.16	Thestii		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.17	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.17	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.17	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.17_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.0	Diomedem		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.1	Martis	noun: masculine accusative plural	ls.n28088:Mars
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.1	Martis	noun: masculine genitive singular	ls.n28088:Mars
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.2	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.3	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.4	eadem	pronoun: feminine nominative singular	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.4	eadem	pronoun: feminine ablative singular	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.4	eadem	pronoun: neuter nominative plural	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.4	eadem	pronoun: neuter accusative plural	ls.n21343:idem
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.4_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.5	Hippolytum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.6	Thesei		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.7	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.8	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.9	Antiope		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.10	Amazone		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.10_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.11	Amphiaraum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.12	Oiclei		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.13	filium	noun: masculine accusative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.14	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.15	Hypermnestra		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.16	Thestii		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.17	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.17	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.17	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/250_237/	250_237.2	250_237.2.17_0	.		ls.null

@@ -1,13 +1,13 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.0	Ethionome		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.1	Phegea		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.2	Henicea		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.3	Demnosia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.4	Cassandra	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n6944
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.4	Cassandra	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n6944
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.4	Cassandra	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n6944
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.5	Philomela		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.6	Polites		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.7	Troilus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.8	Palaemon		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.9	Brissonius		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.0	Ethionome		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.1	Phegea		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.2	Henicea		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.3	Demnosia		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.4	Cassandra	noun: feminine nominative singular	ls.n6944:Cassandra
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.4	Cassandra	noun: feminine ablative singular	ls.n6944:Cassandra
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.4	Cassandra	noun: feminine vocative singular	ls.n6944:Cassandra
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.5	Philomela		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.6	Polites		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.7	Troilus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.8	Palaemon		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/90a/	90a.3	90a.3.9	Brissonius		ls.null

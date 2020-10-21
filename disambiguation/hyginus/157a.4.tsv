@@ -1,29 +1,29 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.0	Peleus	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n34403
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.1	Arprites		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.1_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.2	Antaeus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.10	Eumolpus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.11	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.12	Chiona		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.13	Aquilonis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n3294
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.14	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.14	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.14	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.22	Amymone		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.27	item	adverb: positive degree	urn:cite2:tabulae:ls.v1:n25106
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.28	Cyclops		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.29	Polyphemus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n28985
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n28985
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n28985
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n28985
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n28985
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n28985
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.35	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.36	Melite		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.37	Busiris		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.38	filia	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.38	filia	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.38	filia	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n18173
-https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.38_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.0	Peleus	noun: masculine nominative singular	ls.n34403:Peleus
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.1	Arprites		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.1_0	.		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.2	Antaeus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.10	Eumolpus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.11	ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.12	Chiona		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.13	Aquilonis	noun: masculine genitive singular	ls.n3294:aquilo
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.14	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.14	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.14	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.22	Amymone		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.27	item	adverb: positive degree	ls.n25106:item
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.28	Cyclops		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.29	Polyphemus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine nominative singular	ls.n28985:metus
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine nominative plural	ls.n28985:metus
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine accusative plural	ls.n28985:metus
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine genitive singular	ls.n28985:metus
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine vocative singular	ls.n28985:metus
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.34	Metus	noun: masculine vocative plural	ls.n28985:metus
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.35	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.36	Melite		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.37	Busiris		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.38	filia	noun: feminine nominative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.38	filia	noun: feminine ablative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.38	filia	noun: feminine vocative singular	ls.n18173:filia
+https://lingualatina.github.io/texts/browsable/hyginus/157a/	157a.4	157a.4.38_0	.		ls.null

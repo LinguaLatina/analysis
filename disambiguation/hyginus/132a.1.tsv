@@ -1,59 +1,59 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.0	Lycurgus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.1	Dryantis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.3	Liberum	adjective: masculine accusative singular positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.3	Liberum	adjective: neuter nominative singular positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.3	Liberum	adjective: neuter accusative singular positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.3	Liberum	adjective: neuter vocative singular positive	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.4	de	finite verb: second singular present imperative active	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.4	de	uninflected preposition	urn:cite2:tabulae:ls.v1:n12361
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.5	regno	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.5	regno	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.5	regno	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n40911
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.6	fugauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n18949
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.6_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.7	quem	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.7	quem	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.7	quem	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.8	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.9	negaret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n30681
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.10	deum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n13573
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.10	deum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n13573
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.10	deum	noun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n13573
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.11	esse	infinitive: present active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.13	bibisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n5275
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.14	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.15	ebrius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.16	matrem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n28181
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.17	suam	adjective: feminine accusative singular positive	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.18	uiolare	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n51027
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.18	uiolare	infinitive: present active	urn:cite2:tabulae:ls.v1:n51027
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.19	uoluisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n51298
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.19_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.20	tunc	adverb: positive degree	urn:cite2:tabulae:ls.v1:n49420
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.21	uites		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.22	excidere		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.23	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.24	conatus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n10379
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.24_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.25	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.25	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.25	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.26	diceret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.27	illud	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.27	illud	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.28	malum	adjective: masculine accusative singular positive	urn:cite2:tabulae:ls.v1:n27776
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.28	malum	adjective: neuter nominative singular positive	urn:cite2:tabulae:ls.v1:n27776
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.28	malum	adjective: neuter accusative singular positive	urn:cite2:tabulae:ls.v1:n27776
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.28	malum	adjective: neuter vocative singular positive	urn:cite2:tabulae:ls.v1:n27776
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.29	medicamentum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.30	esse	infinitive: present active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.31	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.31	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.31	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.32	mentes	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n28694
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.32	mentes	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n28694
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.32	mentes	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n28694
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.33	immutaret		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.33_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.0	Lycurgus		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.1	Dryantis		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.2	filius	noun: masculine nominative singular	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.3	Liberum	adjective: masculine accusative singular positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.3	Liberum	adjective: neuter nominative singular positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.3	Liberum	adjective: neuter accusative singular positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.3	Liberum	adjective: neuter vocative singular positive	ls.n26465:liber1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.4	de	finite verb: second singular present imperative active	ls.do
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.4	de	uninflected preposition	ls.n12361:de2
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.5	regno	noun: neuter dative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.5	regno	noun: neuter ablative singular	ls.n40912:regnum
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.5	regno	finite verb: first singular present indicative active	ls.n40911:regno
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.6	fugauit	finite verb: third singular perfect indicative active	ls.n18949:fugo
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.6_0	;		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.7	quem	pronoun: masculine accusative singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.7	quem	pronoun: feminine accusative singular	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.7	quem	pronoun: masculine accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.8	cum	uninflected preposition	ls.n11872:cum1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.9	negaret	finite verb: third singular imperfect subjunctive active	ls.n30681:nego
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.10	deum	noun: masculine accusative singular	ls.n13573:deus
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.10	deum	noun: masculine accusative singular	ls.n13573:deus
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.10	deum	noun: masculine genitive plural	ls.n13573:deus
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.11	esse	infinitive: present active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.13	bibisset	finite verb: third singular pluperfect subjunctive active	ls.n5275:bibo1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.14	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.15	ebrius		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.16	matrem	noun: feminine accusative singular	ls.n28181:mater
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.17	suam	adjective: feminine accusative singular positive	ls.n47174:suus
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.18	uiolare	finite verb: second singular present indicative passive	ls.n51027:violo
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.18	uiolare	infinitive: present active	ls.n51027:violo
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.19	uoluisset	finite verb: third singular pluperfect subjunctive active	ls.n51298:volo1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.19_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.20	tunc	adverb: positive degree	ls.n49420:tunc
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.21	uites		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.22	excidere		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.23	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.24	conatus	participle: perfect passive masculine nominative singular	ls.n10379:conor
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.24_0	,		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.25	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.25	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.25	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.26	diceret	finite verb: third singular imperfect subjunctive active	ls.n13804:dico2
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.27	illud	pronoun: neuter accusative singular	ls.n21494:ille
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.27	illud	pronoun: neuter nominative singular	ls.n21494:ille
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.28	malum	adjective: masculine accusative singular positive	ls.n27776:malus1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.28	malum	adjective: neuter nominative singular positive	ls.n27776:malus1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.28	malum	adjective: neuter accusative singular positive	ls.n27776:malus1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.28	malum	adjective: neuter vocative singular positive	ls.n27776:malus1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.29	medicamentum		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.30	esse	infinitive: present active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.31	quod	uninflected conjunction	ls.n40262:quod1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.31	quod	pronoun: neuter accusative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.31	quod	pronoun: neuter nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.32	mentes	noun: feminine nominative plural	ls.n28694:mens
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.32	mentes	noun: feminine accusative plural	ls.n28694:mens
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.32	mentes	noun: feminine vocative plural	ls.n28694:mens
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.33	immutaret		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/132a/	132a.1	132a.1.33_0	.		ls.null

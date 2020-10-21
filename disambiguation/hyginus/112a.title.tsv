@@ -1,21 +1,21 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.1	INTER	uninflected preposition	urn:cite2:tabulae:ls.v1:n24154
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	participle: perfect passive masculine vocative singular	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.3	QUI	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.3	QUI	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.3	QUI	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.4	CUM	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.6	DIMICARUNT		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.6_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.1	INTER	uninflected preposition	ls.n24154:inter1
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	participle: perfect passive masculine vocative singular	ls.do
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: masculine accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: masculine ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: feminine ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: neuter ablative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: feminine ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: neuter accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: feminine accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: neuter ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: feminine accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: neuter accusative singular	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: masculine accusative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.2	SE	pronoun: masculine ablative plural	ls.n46498:sui
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.3	QUI	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.3	QUI	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.3	QUI	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.4	CUM	uninflected preposition	ls.n11872:cum1
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.6	DIMICARUNT		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/112a/	112a.title	112a.title.6_0	.		ls.null

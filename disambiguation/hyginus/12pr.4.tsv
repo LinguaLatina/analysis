@@ -1,22 +1,22 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.0	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	finite verb: second plural present indicative active	urn:cite2:tabulae:ls.v1:n11044
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive masculine dative plural	urn:cite2:tabulae:ls.v1:n11044
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive masculine ablative plural	urn:cite2:tabulae:ls.v1:n11044
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive feminine dative plural	urn:cite2:tabulae:ls.v1:n11044
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive feminine ablative plural	urn:cite2:tabulae:ls.v1:n11044
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive neuter dative plural	urn:cite2:tabulae:ls.v1:n11044
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive neuter ablative plural	urn:cite2:tabulae:ls.v1:n11044
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.2	Graeciae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n19810
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.2	Graeciae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n19810
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.2	Graeciae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n19810
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.2	Graeciae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n19810
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.3	ducibus	noun: masculine dative plural	urn:cite2:tabulae:ls.v1:n15002
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.3	ducibus	noun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n15002
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.4	Colchos		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.5	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.6	profectus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n38619
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.6	profectus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n38618
-https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.6_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.0	qui	pronoun: masculine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.0	qui	pronoun: masculine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.0	qui	pronoun: masculine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	finite verb: second plural present indicative active	ls.n11044:convoco
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive masculine dative plural	ls.n11044:convoco
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive masculine ablative plural	ls.n11044:convoco
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive feminine dative plural	ls.n11044:convoco
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive feminine ablative plural	ls.n11044:convoco
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive neuter dative plural	ls.n11044:convoco
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.1	conuocatis	participle: perfect passive neuter ablative plural	ls.n11044:convoco
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.2	Graeciae	noun: feminine nominative plural	ls.n19810:Graeci
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.2	Graeciae	noun: feminine genitive singular	ls.n19810:Graeci
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.2	Graeciae	noun: feminine dative singular	ls.n19810:Graeci
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.2	Graeciae	noun: feminine vocative plural	ls.n19810:Graeci
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.3	ducibus	noun: masculine dative plural	ls.n15002:dux
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.3	ducibus	noun: masculine ablative plural	ls.n15002:dux
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.4	Colchos		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.5	est	finite verb: third singular present indicative active	ls.n46529:sum1
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.6	profectus	participle: perfect passive masculine nominative singular	ls.n38619:proficisco
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.6	profectus	participle: perfect passive masculine nominative singular	ls.n38618:proficio
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.4	12pr.4.6_0	.		ls.null

@@ -1,14 +1,14 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.0	MATRES	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n28181
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.0	MATRES	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n28181
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.0	MATRES	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n28181
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.2	FILIOS	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.3	INTERFECERUNT	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n24257
-https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.3_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.0	MATRES	noun: feminine nominative plural	ls.n28181:mater
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.0	MATRES	noun: feminine accusative plural	ls.n28181:mater
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.0	MATRES	noun: feminine vocative plural	ls.n28181:mater
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: feminine nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: neuter accusative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: neuter nominative plural	ls.n40242:quis1
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: neuter accusative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: neuter nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: feminine nominative plural	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.1	QUAE	pronoun: feminine nominative singular	ls.n40103:qui1
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.2	FILIOS	noun: masculine accusative plural	ls.n18185:filius
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.3	INTERFECERUNT	finite verb: third plural perfect indicative active	ls.n24257:interficio
+https://lingualatina.github.io/texts/browsable/hyginus/239_237/	239_237.title	239_237.title.3_0	.		ls.null

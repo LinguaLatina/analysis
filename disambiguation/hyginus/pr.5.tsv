@@ -1,11 +1,11 @@
 url	passage	tokenid	token	form	lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.1	Ponto		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.3	Mari	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.3	Mari	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.4	piscium	noun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n36428
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.5	genera	noun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n19477
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.5	genera	noun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n19477
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.5	genera	noun: neuter vocative plural	urn:cite2:tabulae:ls.v1:n19477
-https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.5_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.0	Ex	uninflected conjunction	ls.n16519:ex
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.1	Ponto		ls.null
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.2	et	uninflected conjunction	ls.n16278:et
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.3	Mari	noun: neuter dative singular	ls.n28019:mare
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.3	Mari	noun: neuter ablative singular	ls.n28019:mare
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.4	piscium	noun: masculine genitive plural	ls.n36428:piscis
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.5	genera	noun: neuter nominative plural	ls.n19477:genus1
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.5	genera	noun: neuter accusative plural	ls.n19477:genus1
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.5	genera	noun: neuter vocative plural	ls.n19477:genus1
+https://lingualatina.github.io/texts/browsable/hyginus/pr/	pr.5	pr.5.5_0	.		ls.null
