@@ -1,21 +1,21 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.0	item	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n25106
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001412,Masculine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001612,Masculine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002112,Feminine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002412,Feminine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002612,Feminine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001112,Masculine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.3	eum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.0	item	adverb: positive degree	urn:cite2:tabulae:ls.v1:n25106
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: masculine accusative plural positive	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: feminine nominative plural positive	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: feminine accusative plural positive	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: feminine vocative plural positive	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.1	tres	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.2	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.3	eum	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n25029
 https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.4	Gnosius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.5	consumpserunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n10701
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n17904
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n17904
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n17904
-https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n17904
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.5	consumpserunt	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n10701
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n17904
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n17904
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n17904
+https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.6	feminae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n17904
 https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.7	Melanchaetes		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.8	Agre		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/181a/	181a.4	181a.4.9	Theridamas		urn:cite2:tabulae:ls.v1:null

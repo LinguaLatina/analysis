@@ -1,55 +1,55 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.0	tunc	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n49420
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.1	Hercules	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n20511
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.1	Hercules	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n20511
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.0	tunc	adverb: positive degree	urn:cite2:tabulae:ls.v1:n49420
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.1	Hercules	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n20511
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.1	Hercules	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n20511
 https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.2	Licham		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.3	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.3	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.3	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.4	uestem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n50735
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.5	attulerat	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315110004,Third,Singular,Pluperfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n12664
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.3	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.3	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.3	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.4	uestem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n50735
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.5	attulerat	finite verb: third singular pluperfect indicative active	urn:cite2:tabulae:ls.v1:n12664
 https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.6	rotatum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.7	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.8	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.8	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.8	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.7	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.8	mare	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.8	mare	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.8	mare	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n28019
 https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.9	iaculatus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.10	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.10	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
 https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.10_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.11	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.11	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.11	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.12	quo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.12	quo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.12	quo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.12	quo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.12	quo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n26891
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.14	cecidit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n6011
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.15	petra	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n35826
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.15	petra	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n35826
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.15	petra	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n35826
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211310004,Second,Singular,Present,Imperative,Active)	urn:cite2:tabulae:ls.v1:n30470
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022105,Perfect,Passive,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022505,Perfect,Passive,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022605,Perfect,Passive,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023105,Perfect,Passive,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023405,Perfect,Passive,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023605,Perfect,Passive,Neuter,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.17	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.11	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.11	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.11	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.12	quo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.12	quo	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.12	quo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.12	quo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.12	quo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.13	loco	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n26891
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.14	cecidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n6011
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.15	petra	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n35826
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.15	petra	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n35826
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.15	petra	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n35826
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	finite verb: second singular present imperative active	urn:cite2:tabulae:ls.v1:n30470
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	participle: perfect passive feminine nominative singular	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	participle: perfect passive feminine ablative singular	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	participle: perfect passive feminine vocative singular	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	participle: perfect passive neuter nominative plural	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	participle: perfect passive neuter accusative plural	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.16	nata	participle: perfect passive neuter vocative plural	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.17	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.18	quae	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n40103
 https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.19	Lichas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.20	appellatur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311120004,Third,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n3134
+https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.20	appellatur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n3134
 https://lingualatina.github.io/texts/browsable/hyginus/36pr/	36pr.4	36pr.4.20_0	.		urn:cite2:tabulae:ls.v1:null

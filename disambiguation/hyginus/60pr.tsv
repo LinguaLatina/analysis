@@ -1,50 +1,50 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.1	nunc	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n31444
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.2	dicitur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311120004,Third,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.3	saxum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n42792
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.3	saxum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n42792
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.3	saxum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n42792
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.4	propter	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n38952
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.4	propter	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n38952
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.0	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.1	nunc	adverb: positive degree	urn:cite2:tabulae:ls.v1:n31444
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.2	dicitur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n13804
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.3	saxum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n42792
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.3	saxum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n42792
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.3	saxum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n42792
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.4	propter	uninflected preposition	urn:cite2:tabulae:ls.v1:n38952
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.4	propter	adverb: positive degree	urn:cite2:tabulae:ls.v1:n38952
 https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.5	impietatem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.6	aduersus	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n1094
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.7	montem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n29604
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.8	ad	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n665
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.9	inferos	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001412,Masculine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n23173
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.6	aduersus	uninflected preposition	urn:cite2:tabulae:ls.v1:n1094
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.7	montem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n29604
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.8	ad	uninflected preposition	urn:cite2:tabulae:ls.v1:n665
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.9	inferos	adjective: masculine accusative plural positive	urn:cite2:tabulae:ls.v1:n23173
 https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.10	ceruicibus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.11	uoluere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n51298
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.11	uoluere	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n51298
 https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.11_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.12	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.12	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.12	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.13	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.14	ad	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n665
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.15	summum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001432,Masculine,Accusative,Singular,Superlative)	urn:cite2:tabulae:ls.v1:n46901
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.15	summum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003132,Neuter,Nominative,Singular,Superlative)	urn:cite2:tabulae:ls.v1:n46901
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.15	summum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003432,Neuter,Accusative,Singular,Superlative)	urn:cite2:tabulae:ls.v1:n46901
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.15	summum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003632,Neuter,Vocative,Singular,Superlative)	urn:cite2:tabulae:ls.v1:n46901
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.12	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.12	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.12	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.13	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.14	ad	uninflected preposition	urn:cite2:tabulae:ls.v1:n665
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.15	summum	adjective: masculine accusative singular superlative	urn:cite2:tabulae:ls.v1:n46901
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.15	summum	adjective: neuter nominative singular superlative	urn:cite2:tabulae:ls.v1:n46901
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.15	summum	adjective: neuter accusative singular superlative	urn:cite2:tabulae:ls.v1:n46901
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.15	summum	adjective: neuter vocative singular superlative	urn:cite2:tabulae:ls.v1:n46901
 https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.16	uerticem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.17	perduxerit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:316110004,Third,Singular,FuturePerfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n34815
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.17	perduxerit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314210004,Third,Singular,Perfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n34815
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.17	perduxerit	finite verb: third singular future perfect indicative active	urn:cite2:tabulae:ls.v1:n34815
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.17	perduxerit	finite verb: third singular perfect subjunctive active	urn:cite2:tabulae:ls.v1:n34815
 https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.17_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.18	rursum		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.19	deorsum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.20	post	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n37194
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021605,Perfect,Passive,Masculine,Vocative,Singular)	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002401,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.20	post	uninflected preposition	urn:cite2:tabulae:ls.v1:n37194
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	participle: perfect passive masculine vocative singular	urn:cite2:l3:composites.v1:do
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.21	se	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n46498
 https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.22	reuoluatur		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/60pr/	60pr.3	60pr.3.22_0	.		urn:cite2:tabulae:ls.v1:null

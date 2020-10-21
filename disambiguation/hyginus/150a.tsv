@@ -1,35 +1,35 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.0	Postquam	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n37241
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.0	Postquam	uninflected conjunction	urn:cite2:tabulae:ls.v1:n37241
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.1	Iuno		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.2	uidit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n50883
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.2	uidit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n50883
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.2	uidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n50883
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.2	uidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n50883
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.3	Epapho		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.4	ex	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.4	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.5	paelice		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.6	nato	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n30470
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.6	nato	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021305,Perfect,Passive,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.6	nato	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021505,Perfect,Passive,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.6	nato	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023505,Perfect,Passive,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.7	tantam	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002412,Feminine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47473
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.8	regni	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003200,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.9	potestatem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n37292
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.10	esse	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.6	nato	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n30470
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.6	nato	participle: perfect passive masculine dative singular	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.6	nato	participle: perfect passive masculine ablative singular	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.6	nato	participle: perfect passive neuter ablative singular	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.7	tantam	adjective: feminine accusative singular positive	urn:cite2:tabulae:ls.v1:n47473
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.8	regni	noun: neuter genitive singular	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.9	potestatem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n37292
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.10	esse	infinitive: present active	urn:cite2:tabulae:ls.v1:n46529
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.10_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.11	curat		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.12	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.12	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.13	uenatu		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.14	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.14	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.15	Epaphus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.16	necetur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311220004,Third,Singular,Present,Subjunctive,Passive)	urn:cite2:tabulae:ls.v1:n30624
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.16	necetur	finite verb: third singular present subjunctive passive	urn:cite2:tabulae:ls.v1:n30624
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.16_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.18	hortatur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311120004,Third,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n20992
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.18	hortatur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n20992
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.19	Iouem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.20	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.21	regno	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.21	regno	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40912
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.21	regno	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n40911
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.22	pellant	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:321210004,Third,Plural,Present,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n34449
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.23	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.20	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.21	regno	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.21	regno	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.21	regno	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n40911
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.22	pellant	finite verb: third plural present subjunctive active	urn:cite2:tabulae:ls.v1:n34449
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.23	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.24	Saturno		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.25	restituant	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:321210004,Third,Plural,Present,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n41420
+https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.25	restituant	finite verb: third plural present subjunctive active	urn:cite2:tabulae:ls.v1:n41420
 https://lingualatina.github.io/texts/browsable/hyginus/150a/	150a.1	150a.1.25_0	.		urn:cite2:tabulae:ls.v1:null

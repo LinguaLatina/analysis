@@ -1,49 +1,49 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.1	postquam	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n37241
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.2	sensit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n43681
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.0	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.1	postquam	uninflected conjunction	urn:cite2:tabulae:ls.v1:n37241
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.2	sensit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n43681
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.2_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.3	iratus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n24885
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.3	iratus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n24885
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.4	mensam		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.5	euertit		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.5_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.6	Lycaonis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.7	filios	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.8	fulmine	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n18993
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.9	necauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n30624
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.7	filios	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.8	fulmine	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n18993
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.9	necauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n30624
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.9_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.10	eo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.10	eo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.10	eo	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n15868
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n26903
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n26891
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.12	postea	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n37196
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.13	Arcas	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n3389
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.14	oppidum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n32796
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.14	oppidum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n32796
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.14	oppidum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n32796
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.10	eo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.10	eo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.10	eo	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n15868
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.11	loco	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n26891
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.12	postea	adverb: positive degree	urn:cite2:tabulae:ls.v1:n37196
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.13	Arcas	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n3389
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.14	oppidum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n32796
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.14	oppidum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n32796
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.14	oppidum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n32796
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.15	communiuit		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.15_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.16	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.16	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.16	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.16	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.16	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.16	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.17	Trapezus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.18	nominatur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311120004,Third,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n31146
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.18	nominatur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n31146
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.18_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.19	patrem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.19	patrem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n34096
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.20	Iuppiter		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.21	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.23	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.23	id	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.24	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.21	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.23	id	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.23	id	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.24	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.25	lupi		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.26	figuram	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n18160
-https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.27	mutauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n30179
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.26	figuram	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n18160
+https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.27	mutauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n30179
 https://lingualatina.github.io/texts/browsable/hyginus/176a/	176a.3	176a.3.27_0	.		urn:cite2:tabulae:ls.v1:null

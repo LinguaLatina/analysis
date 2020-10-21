@@ -1,34 +1,34 @@
 url#passage#tokenid#token#form#lexeme
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.0	Perseus		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.1	Iouis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.2	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.3	Danaes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.4	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.5	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.6	stellas	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n45311
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.7	receptus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40577
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.4	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.5	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.6	stellas	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n45311
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.7	receptus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n40577
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.7_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.8	Arcas	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n3389
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.8	Arcas	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n3389
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.9	Iouis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.10	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.10	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.11	Callisto		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.12	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.13	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.14	stellas	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n45311
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.15	relatus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40791
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.12	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.13	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.14	stellas	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n45311
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.15	relatus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n40791
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.15_0	;		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.16	Ariadnen		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.17	Liber	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n26468
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.17	Liber	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n26468
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.17	Liber	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001112,Masculine,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.17	Liber	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001612,Masculine,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.18	pater	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.18	pater	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.19	Liberam	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002412,Feminine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.20	appellauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n3134
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.17	Liber	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n26468
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.17	Liber	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n26468
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.17	Liber	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.17	Liber	adjective: masculine vocative singular positive	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.18	pater	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.18	pater	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.19	Liberam	adjective: feminine accusative singular positive	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.20	appellauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n3134
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.20_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.21	Minois		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.22	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.22	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.23	Pasiphaes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.24	filiam	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.24	filiam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n18173
 https://lingualatina.github.io/texts/browsable/hyginus/224_218/	224_218.2	224_218.2.24_0	;		urn:cite2:tabulae:ls.v1:null

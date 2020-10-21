@@ -1,43 +1,43 @@
 url#passage#tokenid#token#form#lexeme
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.0	Adonis		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.1	Cinyrae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.2	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.2_0	.		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.3	Ancaeus		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.4	Lycurgi		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.5	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.6	a	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.5	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.6	a	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.7	Calydonio		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.7_0	.		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.8	Idmon		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.9	Apollinis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n3063
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.10	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.9	Apollinis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.10	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.10_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.11	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.11	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.11	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.12	stramentatum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021405,Perfect,Passive,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n45502
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.12	stramentatum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023105,Perfect,Passive,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n45502
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.12	stramentatum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023405,Perfect,Passive,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n45502
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.12	stramentatum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023605,Perfect,Passive,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n45502
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.13	exierat	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315110004,Third,Singular,Pluperfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n16804
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.14	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.15	Argonautis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001300,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n3577
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.15	Argonautis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001500,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n3577
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.16	apud	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n3250
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.17	Lycum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n27366
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.18	regem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.11	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.11	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.11	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.12	stramentatum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n45502
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.12	stramentatum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n45502
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.12	stramentatum	participle: perfect passive neuter accusative singular	urn:cite2:tabulae:ls.v1:n45502
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.12	stramentatum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n45502
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.13	exierat	finite verb: third singular pluperfect indicative active	urn:cite2:tabulae:ls.v1:n16804
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.14	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.15	Argonautis	noun: masculine dative plural	urn:cite2:tabulae:ls.v1:n3577
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.15	Argonautis	noun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n3577
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.16	apud	uninflected preposition	urn:cite2:tabulae:ls.v1:n3250
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.17	Lycum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n27366
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.18	regem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n41625
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.18_0	.		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.19	Hyas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.20	ab	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.21	apro	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n2976
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.21	apro	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n2976
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.22	uel	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n50326
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.22	uel	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n50326
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.23	leone	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n26265
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.20	ab	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.21	apro	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n2976
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.21	apro	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n2976
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.22	uel	uninflected conjunction	urn:cite2:tabulae:ls.v1:n50326
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.22	uel	adverb: positive degree	urn:cite2:tabulae:ls.v1:n50326
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.23	leone	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n26265
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.23_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.24	Atlantis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.25	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.25	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.26	Pleiones		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.27	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.27	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
 https://lingualatina.github.io/texts/browsable/hyginus/248_237/	248_237.1	248_237.1.27_0	.		urn:cite2:tabulae:ls.v1:null

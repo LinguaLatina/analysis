@@ -1,64 +1,64 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.0	itaque	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n25104
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.0	itaque	uninflected conjunction	urn:cite2:tabulae:ls.v1:n25104
 https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.1	Admetus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.2	ab	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.3	Apolline	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n3063
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.4	petiit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n35822
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.5	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021605,Perfect,Passive,Masculine,Vocative,Singular)	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002401,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.7	adiuuaret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n862
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.2	ab	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.3	Apolline	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.4	petiit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n35822
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.5	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	participle: perfect passive masculine vocative singular	urn:cite2:l3:composites.v1:do
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.6	se	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.7	adiuuaret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n862
 https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.7_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.8	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n3063
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.8	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n3063
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.9	autem	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n4633
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.10	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.10	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.10	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.11	ab	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.12	eo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.12	eo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.12	eo	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n15868
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.13	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.14	seruitute	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n43945
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.15	liberaliter	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n26471
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.16	esset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.17	acceptus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n363
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.8	Apollo	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.8	Apollo	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.9	autem	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4633
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.10	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.10	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.10	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.11	ab	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.12	eo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.12	eo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.12	eo	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n15868
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.13	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.14	seruitute	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n43945
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.15	liberaliter	adverb: positive degree	urn:cite2:tabulae:ls.v1:n26471
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.16	esset	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.17	acceptus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n363
 https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.17_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.18	aprum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n2976
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.19	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.20	leonem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n26265
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.21	ei	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001301,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.21	ei	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002301,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.21	ei	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003301,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.21	ei	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.22	iunctos	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021405,Perfect,Passive,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n25350
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.23	tradidit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n48671
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.18	aprum	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n2976
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.19	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.20	leonem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n26265
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.21	ei	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.21	ei	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.21	ei	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.21	ei	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.22	iunctos	participle: perfect passive masculine accusative plural	urn:cite2:tabulae:ls.v1:n25350
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.23	tradidit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n48671
 https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.23_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001301,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003301,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002301,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001301,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003301,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002301,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.25	ille	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.24	quibus	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.25	ille	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n21494
 https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.26	Alcestim		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.27	auexit		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/51pr/	51pr.2	51pr.2.27_0	.		urn:cite2:tabulae:ls.v1:null

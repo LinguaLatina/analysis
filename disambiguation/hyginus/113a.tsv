@@ -2,10 +2,10 @@ url#passage#tokenid#token#form#lexeme
 https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.0	Achilles		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.1	Astynomum		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.1_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.2	idem	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.2	idem	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.2	idem	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n21343
-https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.2	idem	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n21343
+https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.2	idem	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n21343
+https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.2	idem	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n21343
+https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.2	idem	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n21343
+https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.2	idem	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n21343
 https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.3	Pylaemenem		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.3_0	.		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/113a/	113a.4	113a.4.4	Neoptolemus		urn:cite2:tabulae:ls.v1:null

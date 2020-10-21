@@ -1,71 +1,71 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.0	hoc	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.0	hoc	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.0	hoc	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.0	hoc	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.1	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.2	audiuit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n4453
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.0	hoc	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.0	hoc	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.0	hoc	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.0	hoc	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.1	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.2	audiuit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n4453
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.3	Arete		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.4	a	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.5	coniuge	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.5	coniuge	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.4	a	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.5	coniuge	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.5	coniuge	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n10361
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.5_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.6	mittit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n29328
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.6	mittit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n29328
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.7	nuntium		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.8	ad	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n665
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.8	ad	uninflected preposition	urn:cite2:tabulae:ls.v1:n665
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.9	Iasonem		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.9_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.10	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001301,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002301,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003301,Neuter,Dative,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211110004,Second,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n15868
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.10	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.11	is	finite verb: second singular present indicative active	urn:cite2:tabulae:ls.v1:n15868
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.12	Medeam		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.13	noctu	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n31309
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.14	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.13	noctu	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n31309
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.14	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.15	antro		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.16	deuirginauit		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.16_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.17	postero	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001312,Masculine,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n37207
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.17	postero	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001512,Masculine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n37207
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.17	postero	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003312,Neuter,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n37207
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.17	postero	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003512,Neuter,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n37207
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.18	autem	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n4633
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.19	die	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n13847
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.19	die	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n13847
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.19	die	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n13847
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.20	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.21	ad	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n665
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.22	iudicium	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25293
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.22	iudicium	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25293
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.22	iudicium	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n25293
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.22	iudicium	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001200,Masculine,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n25280
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.23	uenissent	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:325210004,Third,Plural,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n50442
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.24	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.17	postero	adjective: masculine dative singular positive	urn:cite2:tabulae:ls.v1:n37207
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.17	postero	adjective: masculine ablative singular positive	urn:cite2:tabulae:ls.v1:n37207
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.17	postero	adjective: neuter dative singular positive	urn:cite2:tabulae:ls.v1:n37207
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.17	postero	adjective: neuter ablative singular positive	urn:cite2:tabulae:ls.v1:n37207
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.18	autem	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4633
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.19	die	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.19	die	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.19	die	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n13847
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.20	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.21	ad	uninflected preposition	urn:cite2:tabulae:ls.v1:n665
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.22	iudicium	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n25293
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.22	iudicium	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n25293
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.22	iudicium	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n25293
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.22	iudicium	noun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n25280
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.23	uenissent	finite verb: third plural pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.24	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.25	Medea		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.26	mulier	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n29835
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.26	mulier	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n29835
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.27	esset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022105,Perfect,Passive,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022505,Perfect,Passive,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022605,Perfect,Passive,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023105,Perfect,Passive,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023405,Perfect,Passive,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n24717
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023605,Perfect,Passive,Neuter,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n24717
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.26	mulier	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n29835
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.26	mulier	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n29835
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.27	esset	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	participle: perfect passive feminine nominative singular	urn:cite2:tabulae:ls.v1:n24717
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	participle: perfect passive feminine ablative singular	urn:cite2:tabulae:ls.v1:n24717
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	participle: perfect passive feminine vocative singular	urn:cite2:tabulae:ls.v1:n24717
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	participle: perfect passive neuter nominative plural	urn:cite2:tabulae:ls.v1:n24717
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	participle: perfect passive neuter accusative plural	urn:cite2:tabulae:ls.v1:n24717
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28	inuenta	participle: perfect passive neuter vocative plural	urn:cite2:tabulae:ls.v1:n24717
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.28_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.29	coniugi	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001300,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.29	coniugi	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001500,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.29	coniugi	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.29	coniugi	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.30	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022105,Perfect,Passive,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n48671
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022505,Perfect,Passive,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n48671
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022605,Perfect,Passive,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n48671
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023105,Perfect,Passive,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n48671
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023405,Perfect,Passive,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n48671
-https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023605,Perfect,Passive,Neuter,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n48671
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.29	coniugi	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.29	coniugi	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.29	coniugi	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.29	coniugi	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.30	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	participle: perfect passive feminine nominative singular	urn:cite2:tabulae:ls.v1:n48671
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	participle: perfect passive feminine ablative singular	urn:cite2:tabulae:ls.v1:n48671
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	participle: perfect passive feminine vocative singular	urn:cite2:tabulae:ls.v1:n48671
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	participle: perfect passive neuter nominative plural	urn:cite2:tabulae:ls.v1:n48671
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	participle: perfect passive neuter accusative plural	urn:cite2:tabulae:ls.v1:n48671
+https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31	tradita	participle: perfect passive neuter vocative plural	urn:cite2:tabulae:ls.v1:n48671
 https://lingualatina.github.io/texts/browsable/hyginus/23pr/	23pr.3	23pr.3.31_0	.		urn:cite2:tabulae:ls.v1:null

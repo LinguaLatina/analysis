@@ -20,11 +20,11 @@ https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_21
 https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.12	Bias		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.13	Prieneus		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.13_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.14	sententiae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n43666
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.14	sententiae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n43666
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.14	sententiae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n43666
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.14	sententiae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n43666
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.15	eorum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001201,Masculine,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.15	eorum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003201,Neuter,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.16	sunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:321110004,Third,Plural,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.14	sententiae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n43666
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.14	sententiae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n43666
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.14	sententiae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n43666
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.14	sententiae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n43666
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.15	eorum	pronoun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.15	eorum	pronoun: neuter genitive plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.16	sunt	finite verb: third plural present indicative active	urn:cite2:tabulae:ls.v1:n46529
 https://lingualatina.github.io/texts/browsable/hyginus/221_218/	221_218.1	221_218.1.16_0	:		urn:cite2:tabulae:ls.v1:null

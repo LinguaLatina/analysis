@@ -1,70 +1,70 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.0	interim	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n24284
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.1	rex	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.1	rex	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.2	eum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.3	iussit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n25264
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.4	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.5	hospitio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n21007
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.5	hospitio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n21007
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.6	manere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211120004,Second,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n27858
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.6	manere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211320004,Second,Singular,Present,Imperative,Passive)	urn:cite2:tabulae:ls.v1:n27858
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.6	manere	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n27858
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.0	interim	adverb: positive degree	urn:cite2:tabulae:ls.v1:n24284
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.1	rex	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.1	rex	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.2	eum	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.3	iussit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n25264
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.4	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.5	hospitio	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n21007
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.5	hospitio	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n21007
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.6	manere	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n27858
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.6	manere	finite verb: second singular present imperative passive	urn:cite2:tabulae:ls.v1:n27858
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.6	manere	infinitive: present active	urn:cite2:tabulae:ls.v1:n27858
 https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.6_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.7	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.8	amplius	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003122,Neuter,Nominative,Singular,Comparative)	urn:cite2:tabulae:ls.v1:n2365
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.8	amplius	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003422,Neuter,Accusative,Singular,Comparative)	urn:cite2:tabulae:ls.v1:n2365
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.8	amplius	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003622,Neuter,Vocative,Singular,Comparative)	urn:cite2:tabulae:ls.v1:n2365
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.8	amplius	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n2365
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.9	de	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211310004,Second,Singular,Present,Imperative,Active)	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.9	de	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n12361
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.10	eo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.10	eo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.10	eo	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n15868
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.7	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.8	amplius	adjective: neuter nominative singular comparative	urn:cite2:tabulae:ls.v1:n2365
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.8	amplius	adjective: neuter accusative singular comparative	urn:cite2:tabulae:ls.v1:n2365
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.8	amplius	adjective: neuter vocative singular comparative	urn:cite2:tabulae:ls.v1:n2365
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.8	amplius	adverb: positive degree	urn:cite2:tabulae:ls.v1:n2365
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.9	de	finite verb: second singular present imperative active	urn:cite2:l3:composites.v1:do
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.9	de	uninflected preposition	urn:cite2:tabulae:ls.v1:n12361
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.10	eo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.10	eo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.10	eo	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n15868
 https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.11	perquireret		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.11_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.12	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.12	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.12	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.13	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.14	per	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n34595
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.15	lassitudinem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25944
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.16	obdormisset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n31594
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.12	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.12	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.12	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.13	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.14	per	uninflected preposition	urn:cite2:tabulae:ls.v1:n34595
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.15	lassitudinem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n25944
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.16	obdormisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n31594
 https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.16_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.17	senex	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n43634
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.17	senex	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n43634
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.18	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.18	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.18	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.19	inter	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n24154
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.20	matrem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n28181
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.21	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.22	filium	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.17	senex	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n43634
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.17	senex	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n43634
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.18	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.18	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.18	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.19	inter	uninflected preposition	urn:cite2:tabulae:ls.v1:n24154
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.20	matrem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n28181
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.21	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.22	filium	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n18185
 https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.23	internuntius		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.24	erat	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312110004,Third,Singular,Imperfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011011105,Present,Active,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18355
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011011605,Present,Active,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n18355
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011012105,Present,Active,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18355
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011012605,Present,Active,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n18355
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011013105,Present,Active,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18355
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011013105,Present,Active,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18355
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011013405,Present,Active,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n18355
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.26	ad	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n665
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.24	erat	finite verb: third singular imperfect indicative active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	participle: present active masculine nominative singular	urn:cite2:tabulae:ls.v1:n18355
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	participle: present active masculine vocative singular	urn:cite2:tabulae:ls.v1:n18355
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	participle: present active feminine nominative singular	urn:cite2:tabulae:ls.v1:n18355
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	participle: present active feminine vocative singular	urn:cite2:tabulae:ls.v1:n18355
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	participle: present active neuter nominative singular	urn:cite2:tabulae:ls.v1:n18355
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	participle: present active neuter nominative singular	urn:cite2:tabulae:ls.v1:n18355
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.25	flens	participle: present active neuter accusative singular	urn:cite2:tabulae:ls.v1:n18355
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.26	ad	uninflected preposition	urn:cite2:tabulae:ls.v1:n665
 https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.27	Meropen		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.28	uenit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n50442
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.28	uenit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.28	uenit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.28	uenit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n50442
 https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.28_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011011105,Present,Active,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n30681
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011011605,Present,Active,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n30681
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011012105,Present,Active,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n30681
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011012605,Present,Active,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n30681
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011013105,Present,Active,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n30681
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011013105,Present,Active,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n30681
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011013405,Present,Active,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n30681
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.30	eum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.31	apud	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n3250
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.32	hospitem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001400,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n20998
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.33	esse	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.34	nec	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n30605
-https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.35	comparere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211220004,Second,Singular,Present,Subjunctive,Passive)	urn:cite2:tabulae:ls.v1:n9532
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	participle: present active masculine nominative singular	urn:cite2:tabulae:ls.v1:n30681
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	participle: present active masculine vocative singular	urn:cite2:tabulae:ls.v1:n30681
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	participle: present active feminine nominative singular	urn:cite2:tabulae:ls.v1:n30681
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	participle: present active feminine vocative singular	urn:cite2:tabulae:ls.v1:n30681
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	participle: present active neuter nominative singular	urn:cite2:tabulae:ls.v1:n30681
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	participle: present active neuter nominative singular	urn:cite2:tabulae:ls.v1:n30681
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.29	negans	participle: present active neuter accusative singular	urn:cite2:tabulae:ls.v1:n30681
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.30	eum	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.31	apud	uninflected preposition	urn:cite2:tabulae:ls.v1:n3250
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.32	hospitem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n20998
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.33	esse	infinitive: present active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.34	nec	uninflected conjunction	urn:cite2:tabulae:ls.v1:n30605
+https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.35	comparere	finite verb: second singular present subjunctive passive	urn:cite2:tabulae:ls.v1:n9532
 https://lingualatina.github.io/texts/browsable/hyginus/137a/	137a.4	137a.4.35_0	.		urn:cite2:tabulae:ls.v1:null

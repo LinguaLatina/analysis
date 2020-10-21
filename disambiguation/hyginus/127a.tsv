@@ -1,46 +1,46 @@
 url#passage#tokenid#token#form#lexeme
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.0	Telegonus		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.1	Ulixis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.2	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.3	Circes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.4	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.5	missus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n29328
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.6	a	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n4
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.7	matre	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n28181
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.8	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.4	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.5	missus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n29328
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.6	a	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.7	matre	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n28181
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.8	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.9	genitorem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.10	quaereret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n39941
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.10	quaereret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n39941
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.10	quaereret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n39941
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.10	quaereret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n39941
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.10_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.11	tempestate	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n47718
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.12	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.11	tempestate	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n47718
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.12	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.13	Ithacam		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.14	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.15	delatus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n12677
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.14	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.15	delatus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n12677
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.15_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.17	fame	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n17642
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.18	coactus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n8939
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.19	agros	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n1534
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.17	fame	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n17642
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.18	coactus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n8939
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.19	agros	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n1534
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.20	depopulari		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.21	coepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8883
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.21	coepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8883
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.21	coepit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n8883
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.21	coepit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n8883
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.21_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.22	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.23	quo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.23	quo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.23	quo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.23	quo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.23	quo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.22	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.23	quo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.23	quo	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.23	quo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.23	quo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.23	quo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n40103
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.24	Ulixes		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.25	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.25	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.26	Telemachus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.27	ignari	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001112,Masculine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n21377
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.27	ignari	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001212,Masculine,Genitive,Singular,Positive)	urn:cite2:tabulae:ls.v1:n21377
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.27	ignari	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001612,Masculine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n21377
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.27	ignari	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003212,Neuter,Genitive,Singular,Positive)	urn:cite2:tabulae:ls.v1:n21377
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.28	arma	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020003100,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n3665
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.28	arma	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020003400,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n3665
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.28	arma	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020003600,Neuter,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n3665
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.28	arma	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211310004,Second,Singular,Present,Imperative,Active)	urn:cite2:tabulae:ls.v1:n3697
-https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.29	contulerunt	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n10088
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.27	ignari	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n21377
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.27	ignari	adjective: masculine genitive singular positive	urn:cite2:tabulae:ls.v1:n21377
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.27	ignari	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n21377
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.27	ignari	adjective: neuter genitive singular positive	urn:cite2:tabulae:ls.v1:n21377
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.28	arma	noun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n3665
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.28	arma	noun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n3665
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.28	arma	noun: neuter vocative plural	urn:cite2:tabulae:ls.v1:n3665
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.28	arma	finite verb: second singular present imperative active	urn:cite2:tabulae:ls.v1:n3697
+https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.29	contulerunt	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n10088
 https://lingualatina.github.io/texts/browsable/hyginus/127a/	127a.1	127a.1.29_0	.		urn:cite2:tabulae:ls.v1:null

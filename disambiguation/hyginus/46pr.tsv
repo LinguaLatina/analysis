@@ -1,33 +1,33 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.0	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.1	eo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.1	eo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.1	eo	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n15868
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.2	tempore	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n47738
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.0	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.1	eo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.1	eo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.1	eo	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n15868
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.2	tempore	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n47738
 https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.3	Eumolpus		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.4	Neptuni		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.5	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.5	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
 https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.6	Athenas		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.7	uenit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n50442
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.7	uenit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n50442
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.8	oppugnaturus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:013011105,Future,Active,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n32829
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.7	uenit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.7	uenit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.8	oppugnaturus	participle: future active masculine nominative singular	urn:cite2:tabulae:ls.v1:n32829
 https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.8_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.9	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.9	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.9	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.10	patris	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001112,Masculine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001212,Masculine,Genitive,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001612,Masculine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003212,Neuter,Genitive,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002201,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003201,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001201,Masculine,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003201,Neuter,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001201,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002201,Feminine,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.12	terram	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n47897
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.9	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.9	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.9	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.10	patris	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	adjective: masculine genitive singular positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	adjective: neuter genitive singular positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	pronoun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	pronoun: neuter genitive singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	pronoun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	pronoun: neuter genitive plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	pronoun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.11	sui	pronoun: feminine genitive plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.12	terram	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n47897
 https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.13	Atticam		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.14	fuisse	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:004010006,Perfect,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.15	diceret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n13804
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.14	fuisse	infinitive: perfect active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.15	diceret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n13804
 https://lingualatina.github.io/texts/browsable/hyginus/46pr/	46pr.2	46pr.2.15_0	.		urn:cite2:tabulae:ls.v1:null

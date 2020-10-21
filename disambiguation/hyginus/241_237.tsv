@@ -1,13 +1,13 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.0	QUI	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.0	QUI	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.0	QUI	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n10361
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.2	SUAS	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002412,Feminine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.3	OCCIDERUNT	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:324110004,Third,Plural,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n32088
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.0	QUI	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.0	QUI	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.0	QUI	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.1	CONIUGES	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n10361
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.2	SUAS	adjective: feminine accusative plural positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.3	OCCIDERUNT	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n32088
 https://lingualatina.github.io/texts/browsable/hyginus/241_237/	241_237.title	241_237.title.3_0	.		urn:cite2:tabulae:ls.v1:null

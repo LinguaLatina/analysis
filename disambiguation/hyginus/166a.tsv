@@ -1,71 +1,71 @@
 url#passage#tokenid#token#form#lexeme
 https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.1	Ioui		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.3	diis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001300,Masculine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n13573
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.4	soleas	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211210004,Second,Singular,Present,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n44608
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.5	aureas	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020002412,Feminine,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n4547
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.6	ex	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.7	adamante	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011011505,Present,Active,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n691
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.7	adamante	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011012505,Present,Active,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n691
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.7	adamante	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:011013505,Present,Active,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n691
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.8	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.9	fecisset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:l3:composites.v1:ficio
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.9	fecisset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.3	diis	noun: masculine dative plural	urn:cite2:tabulae:ls.v1:n13573
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.4	soleas	finite verb: second singular present subjunctive active	urn:cite2:tabulae:ls.v1:n44608
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.5	aureas	adjective: feminine accusative plural positive	urn:cite2:tabulae:ls.v1:n4547
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.6	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.7	adamante	participle: present active masculine ablative singular	urn:cite2:tabulae:ls.v1:n691
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.7	adamante	participle: present active feminine ablative singular	urn:cite2:tabulae:ls.v1:n691
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.7	adamante	participle: present active neuter ablative singular	urn:cite2:tabulae:ls.v1:n691
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.8	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.9	fecisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:l3:composites.v1:ficio
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.9	fecisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n17516
 https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.9_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.10	Iuno		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.11	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.12	sedisset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n43305
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.11	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.12	sedisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n43305
 https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.12_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.13	subito	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n45904
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.14	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.13	subito	adverb: positive degree	urn:cite2:tabulae:ls.v1:n45904
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.14	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
 https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.15	aere		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.16	pendere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211120004,Second,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n34485
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.16	pendere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:213120004,Second,Singular,Future,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n34485
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.16	pendere	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n34485
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.17	coepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8883
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.17	coepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8883
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.16	pendere	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n34485
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.16	pendere	finite verb: second singular future indicative passive	urn:cite2:tabulae:ls.v1:n34485
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.16	pendere	infinitive: present active	urn:cite2:tabulae:ls.v1:n34485
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.17	coepit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n8883
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.17	coepit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n8883
 https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.17_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.18	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.18	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.18	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.19	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.20	ad	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n665
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.22	missum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021405,Perfect,Passive,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n29328
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.22	missum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023105,Perfect,Passive,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n29328
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.22	missum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023605,Perfect,Passive,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n29328
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.23	esset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.24	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.25	matrem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n28181
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.26	quam	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.18	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.18	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.18	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.19	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.20	ad	uninflected preposition	urn:cite2:tabulae:ls.v1:n665
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.22	missum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n29328
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.22	missum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n29328
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.22	missum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n29328
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.23	esset	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.24	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.25	matrem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n28181
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.26	quam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n40103
 https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.27	ligauerat		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.28	solueret		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.28_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.29	iratus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n24885
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.30	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.30	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.30	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.31	de	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211310004,Second,Singular,Present,Imperative,Active)	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.31	de	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n12361
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.32	caelo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n6042
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.32	caelo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n6042
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.33	praecipitatus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n37415
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.34	erat	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312110004,Third,Singular,Imperfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.35	negat	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n30681
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021605,Perfect,Passive,Masculine,Vocative,Singular)	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002401,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.37	matrem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n28181
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.38	ullam	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002412,Feminine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n49645
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.39	habere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211120004,Second,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n20077
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.39	habere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211320004,Second,Singular,Present,Imperative,Passive)	urn:cite2:tabulae:ls.v1:n20077
-https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.39	habere	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n20077
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.29	iratus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n24885
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.30	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.30	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.30	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.31	de	finite verb: second singular present imperative active	urn:cite2:l3:composites.v1:do
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.31	de	uninflected preposition	urn:cite2:tabulae:ls.v1:n12361
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.32	caelo	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n6042
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.32	caelo	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n6042
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.33	praecipitatus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n37415
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.34	erat	finite verb: third singular imperfect indicative active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.35	negat	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n30681
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	participle: perfect passive masculine vocative singular	urn:cite2:l3:composites.v1:do
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.36	se	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.37	matrem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n28181
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.38	ullam	adjective: feminine accusative singular positive	urn:cite2:tabulae:ls.v1:n49645
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.39	habere	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n20077
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.39	habere	finite verb: second singular present imperative passive	urn:cite2:tabulae:ls.v1:n20077
+https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.39	habere	infinitive: present active	urn:cite2:tabulae:ls.v1:n20077
 https://lingualatina.github.io/texts/browsable/hyginus/166a/	166a.1	166a.1.39_0	.		urn:cite2:tabulae:ls.v1:null

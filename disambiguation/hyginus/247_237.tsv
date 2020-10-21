@@ -1,38 +1,38 @@
 url#passage#tokenid#token#form#lexeme
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.0	Actaeon		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.1	Aristaei		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.2	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.2_0	.		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.3	Thasius		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.4	Delo		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.4_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.5	Ani		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.6	sacerdotis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n42158
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.6	sacerdotis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n42158
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.6	sacerdotis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n42158
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.6	sacerdotis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n42158
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.7	Apollinis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n3063
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.8	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.6	sacerdotis	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n42158
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.6	sacerdotis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n42158
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.6	sacerdotis	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n42158
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.6	sacerdotis	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n42158
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.7	Apollinis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.8	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.8_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.9	ex	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.10	eo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.10	eo	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.10	eo	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111110004,First,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n15868
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.9	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.10	eo	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.10	eo	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.10	eo	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n15868
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.11	Delo		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.12	nullus	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001112,Masculine,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n31390
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.13	canis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n6506
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.13	canis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n6506
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.13	canis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n6506
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.13	canis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n6506
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.13	canis	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211110004,Second,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n6524
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.14	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.12	nullus	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n31390
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.13	canis	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n6506
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.13	canis	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n6506
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.13	canis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n6506
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.13	canis	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n6506
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.13	canis	finite verb: second singular present indicative active	urn:cite2:tabulae:ls.v1:n6524
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.14	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.14_0	.		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.15	Euripides		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.16	tragoediarum		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.17	scriptor		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.18	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.19	templo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n47727
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.19	templo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n47727
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.20	consumptus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n10701
-https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.21	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.18	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.19	templo	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n47727
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.19	templo	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n47727
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.20	consumptus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n10701
+https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.21	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
 https://lingualatina.github.io/texts/browsable/hyginus/247_237/	247_237.1	247_237.1.21_0	.		urn:cite2:tabulae:ls.v1:null

@@ -2,52 +2,52 @@ url#passage#tokenid#token#form#lexeme
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.0	Aedem		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.1	Ioui		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.2	Olympio		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.3	primum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.3	primum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003112,Neuter,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.3	primum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003412,Neuter,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.3	primum	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003612,Neuter,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.4	fecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:l3:composites.v1:ficio
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.4	fecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.3	primum	adjective: masculine accusative singular positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.3	primum	adjective: neuter nominative singular positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.3	primum	adjective: neuter accusative singular positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.3	primum	adjective: neuter vocative singular positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.4	fecit	finite verb: third singular perfect indicative active	urn:cite2:l3:composites.v1:ficio
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.4	fecit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n17516
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.5	Pelasgus		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.6	Triopae		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.7	filius	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n18185
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.8	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.7	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.8	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.9	Arcadia		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.9_0	.		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.10	Thessalus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.11	templum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n47727
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.11	templum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n47727
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.11	templum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n47727
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.12	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.12	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.12	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.13	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.14	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.11	templum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n47727
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.11	templum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n47727
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.11	templum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n47727
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.12	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.12	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.12	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.13	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.14	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.15	Macedonia		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.16	Iouis		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.17	Dodonaei		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.18	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.19	terra	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.19	terra	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n47897
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.19	terra	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n47897
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.18	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.19	terra	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n47897
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.19	terra	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n47897
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.19	terra	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n47897
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.20	Molossorum		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.20_0	.		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.21	Eleuther		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.22	primus	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001112,Masculine,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.23	simulacrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n44337
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.23	simulacrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n44337
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.23	simulacrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n44337
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.24	Liberi	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001112,Masculine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.24	Liberi	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001212,Masculine,Genitive,Singular,Positive)	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.24	Liberi	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001612,Masculine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.24	Liberi	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003212,Neuter,Genitive,Singular,Positive)	urn:cite2:tabulae:ls.v1:n26465
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.24	Liberi	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001020006,Present,Passive)	urn:cite2:tabulae:ls.v1:n26488
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.25	patris	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.26	constituit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n10632
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.27	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.28	quemadmodum	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n40073
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.29	coli	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001020006,Present,Passive)	urn:cite2:tabulae:ls.v1:n9134
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.30	deberet	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n12387
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.31	ostendit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n33147
-https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.31	ostendit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n33147
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.22	primus	adjective: masculine nominative singular positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.23	simulacrum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n44337
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.23	simulacrum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n44337
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.23	simulacrum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n44337
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.24	Liberi	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.24	Liberi	adjective: masculine genitive singular positive	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.24	Liberi	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.24	Liberi	adjective: neuter genitive singular positive	urn:cite2:tabulae:ls.v1:n26465
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.24	Liberi	infinitive: present passive	urn:cite2:tabulae:ls.v1:n26488
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.25	patris	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.26	constituit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n10632
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.27	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.28	quemadmodum	adverb: positive degree	urn:cite2:tabulae:ls.v1:n40073
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.29	coli	infinitive: present passive	urn:cite2:tabulae:ls.v1:n9134
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.30	deberet	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n12387
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.31	ostendit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n33147
+https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.31	ostendit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n33147
 https://lingualatina.github.io/texts/browsable/hyginus/225_218/	225_218.1	225_218.1.31_0	.		urn:cite2:tabulae:ls.v1:null

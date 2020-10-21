@@ -1,35 +1,35 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.0	nam	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n30350
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.0	nam	uninflected conjunction	urn:cite2:tabulae:ls.v1:n30350
 https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.1	duodecimus		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.2	Nestor		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.3	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.3	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
 https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.4	Ilio		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.5	erat	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312110004,Third,Singular,Imperfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.5	erat	finite verb: third singular imperfect indicative active	urn:cite2:tabulae:ls.v1:n46529
 https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.5_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.6	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.6	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.6	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.7	tria	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003412,Neuter,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.7	tria	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003612,Neuter,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.7	tria	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003112,Neuter,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.6	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.6	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.6	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.7	tria	adjective: neuter accusative plural positive	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.7	tria	adjective: neuter vocative plural positive	urn:cite2:tabulae:ls.v1:n48969
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.7	tria	adjective: neuter nominative plural positive	urn:cite2:tabulae:ls.v1:n48969
 https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.8	saecula		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.9	uixisse	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:004010006,Perfect,Active)	urn:cite2:tabulae:ls.v1:n51238
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.10	dicitur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311120004,Third,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.11	beneficio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003300,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n5180
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.11	beneficio	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n5180
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.12	Apollinis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001200,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.9	uixisse	infinitive: perfect active	urn:cite2:tabulae:ls.v1:n51238
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.10	dicitur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n13804
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.11	beneficio	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n5180
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.11	beneficio	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n5180
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.12	Apollinis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n3063
 https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.12_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.13	nam	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n30350
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.14	quos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.14	quos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.15	annos	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n2698
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.13	nam	uninflected conjunction	urn:cite2:tabulae:ls.v1:n30350
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.14	quos	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.14	quos	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.15	annos	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n2698
 https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.16	Chloridis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.17	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.18	fratrum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001200,Masculine,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n18705
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.19	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n3063
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.19	Apollo	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n3063
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.20	eripuerat	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315110004,Third,Singular,Pluperfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n16146
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.17	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.18	fratrum	noun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n18705
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.19	Apollo	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.19	Apollo	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n3063
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.20	eripuerat	finite verb: third singular pluperfect indicative active	urn:cite2:tabulae:ls.v1:n16146
 https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.20_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.21	Nestori		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.22	concessit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n9766
+https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.22	concessit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n9766
 https://lingualatina.github.io/texts/browsable/hyginus/10pr/	10pr.3	10pr.3.22_0	.		urn:cite2:tabulae:ls.v1:null

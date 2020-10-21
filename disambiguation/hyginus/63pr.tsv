@@ -1,21 +1,21 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.0	quam	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.1	pater	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.1	pater	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n34096
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.2	ob	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n31564
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.3	stuprum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n45681
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.3	stuprum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n45681
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.3	stuprum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n45681
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.0	quam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.1	pater	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.1	pater	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.2	ob	uninflected preposition	urn:cite2:tabulae:ls.v1:n31564
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.3	stuprum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n45681
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.3	stuprum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n45681
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.3	stuprum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n45681
 https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.4	inclusam		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.5	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.6	arca	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002100,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n3389
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.6	arca	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002500,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n3389
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.6	arca	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002600,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n3389
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.7	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.5	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.6	arca	noun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n3389
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.6	arca	noun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n3389
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.6	arca	noun: feminine vocative singular	urn:cite2:tabulae:ls.v1:n3389
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.7	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
 https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.8	Perseo		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.9	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.10	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.10	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.10	mare	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n28019
-https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.11	deiecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n12804
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.9	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.10	mare	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.10	mare	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.10	mare	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n28019
+https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.11	deiecit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n12804
 https://lingualatina.github.io/texts/browsable/hyginus/63pr/	63pr.2	63pr.2.11_0	.		urn:cite2:tabulae:ls.v1:null

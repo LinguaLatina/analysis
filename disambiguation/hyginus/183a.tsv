@@ -1,47 +1,47 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.0	feminae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002100,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n17904
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.0	feminae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n17904
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.0	feminae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n17904
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.0	feminae	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002600,Feminine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n17904
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.0	feminae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n17904
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.0	feminae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n17904
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.0	feminae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n17904
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.0	feminae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n17904
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.1	iugariae		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.1_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.2	Bronte		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.4	nos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n15326
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.4	nos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n15326
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.4	nos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n15326
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.4	nos	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002401,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n15326
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.3	quae	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.4	nos	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n15326
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.4	nos	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n15326
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.4	nos	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n15326
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.4	nos	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n15326
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.5	tonitrua		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.6	appellamus	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:121110004,First,Plural,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n3134
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.6	appellamus	finite verb: first plural present indicative active	urn:cite2:tabulae:ls.v1:n3134
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.6_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.7	Sterope		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.8	quae	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n40103
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.9	fulgitrua		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.9_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.10	huic	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001301,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.10	huic	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003301,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.10	huic	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002301,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n20640
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002200,Feminine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n41293
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002300,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n41293
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001112,Masculine,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n41554
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001212,Masculine,Genitive,Singular,Positive)	urn:cite2:tabulae:ls.v1:n41554
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020001612,Masculine,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n41554
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003212,Neuter,Genitive,Singular,Positive)	urn:cite2:tabulae:ls.v1:n41554
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.12	auctor	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001100,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n4420
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.12	auctor	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010001600,Masculine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n4420
-https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.13	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.10	huic	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.10	huic	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.10	huic	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n41293
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n41293
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n41554
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	adjective: masculine genitive singular positive	urn:cite2:tabulae:ls.v1:n41554
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n41554
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.11	rei	adjective: neuter genitive singular positive	urn:cite2:tabulae:ls.v1:n41554
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.12	auctor	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n4420
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.12	auctor	noun: masculine vocative singular	urn:cite2:tabulae:ls.v1:n4420
+https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.13	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.14	Eumelus		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.15	Corinthius		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/183a/	183a.2	183a.2.15_0	.		urn:cite2:tabulae:ls.v1:null

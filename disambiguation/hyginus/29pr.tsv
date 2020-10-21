@@ -1,72 +1,72 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.1	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.0	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.1	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.2	Amphitryon		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.3	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.4	regiam	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002412,Feminine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n40905
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.5	intrasset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n24610
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.6	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.7	eam	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.7	eam	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:111210004,First,Singular,Present,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n15868
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.8	uideret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n50883
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.8	uideret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n50883
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.3	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.4	regiam	adjective: feminine accusative singular positive	urn:cite2:tabulae:ls.v1:n40905
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.5	intrasset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n24610
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.6	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.7	eam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.7	eam	finite verb: first singular present subjunctive active	urn:cite2:tabulae:ls.v1:n15868
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.8	uideret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n50883
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.8	uideret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n50883
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.9	neglegentius		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.10	securam		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.10_0	,		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.11	mirari		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.12	coepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8883
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.12	coepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8883
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.13	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.14	queri	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001020006,Present,Passive)	urn:cite2:tabulae:ls.v1:n40089
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.15	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.15	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.15	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021605,Perfect,Passive,Masculine,Vocative,Singular)	urn:cite2:l3:composites.v1:do
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001501,Masculine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003501,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002501,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002401,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003501,Neuter,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001401,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n46498
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001501,Masculine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.12	coepit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n8883
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.12	coepit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n8883
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.13	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.14	queri	infinitive: present passive	urn:cite2:tabulae:ls.v1:n40089
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.15	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.15	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.15	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	participle: perfect passive masculine vocative singular	urn:cite2:l3:composites.v1:do
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.16	se	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n46498
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.17	aduenientem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.18	non	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n31151
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.19	excepisset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n16677
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.18	non	adverb: positive degree	urn:cite2:tabulae:ls.v1:n31151
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.19	excepisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n16677
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.19_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001301,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003301,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002301,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001301,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003301,Neuter,Dative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002301,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.20	cui	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n40103
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.21	Alcimena		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.22	respondit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n41387
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.22	respondit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n41387
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.22_0	:		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.23	Iam	ValidAdverbForm(urn:cite2:tabulae:morphforms.v1:000000013,Positive)	urn:cite2:tabulae:ls.v1:n25184
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.23	Iam	adverb: positive degree	urn:cite2:tabulae:ls.v1:n25184
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.24	pridem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.25	uenisti	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:214110004,Second,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n50442
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.26	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.28	concubuisti	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:214110004,Second,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n9942
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.28	concubuisti	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:214110004,Second,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n9942
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.29	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.30	mihi	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001301,Masculine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n15326
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.30	mihi	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002301,Feminine,Dative,Singular)	urn:cite2:tabulae:ls.v1:n15326
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.25	uenisti	finite verb: second singular perfect indicative active	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.26	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.28	concubuisti	finite verb: second singular perfect indicative active	urn:cite2:tabulae:ls.v1:n9942
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.28	concubuisti	finite verb: second singular perfect indicative active	urn:cite2:tabulae:ls.v1:n9942
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.29	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.30	mihi	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n15326
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.30	mihi	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n15326
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.31	narrasti		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.33	in	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.32	quae	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.33	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.34	Oechalia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.35	gessisses	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:215210004,Second,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n19512
+https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.35	gessisses	finite verb: second singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n19512
 https://lingualatina.github.io/texts/browsable/hyginus/29pr/	29pr.3	29pr.3.35_0	.		urn:cite2:tabulae:ls.v1:null

@@ -1,19 +1,19 @@
 url#passage#tokenid#token#form#lexeme
 https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.0	aethonem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.1	aquilam	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n3282
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020002101,Feminine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.1	aquilam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n3282
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.2	quae	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n40103
 https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.3	Prometheo		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.4	cor	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n11124
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.4	cor	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n11124
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.4	cor	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n11124
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.4	cor	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n11124
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.4	cor	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n11124
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.4	cor	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n11124
 https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.5	exedebat		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.6	sagittis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002300,Feminine,Dative,Plural)	urn:cite2:tabulae:ls.v1:n42264
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.6	sagittis	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002500,Feminine,Ablative,Plural)	urn:cite2:tabulae:ls.v1:n42264
-https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.7	interfecit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n24257
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.6	sagittis	noun: feminine dative plural	urn:cite2:tabulae:ls.v1:n42264
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.6	sagittis	noun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n42264
+https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.7	interfecit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n24257
 https://lingualatina.github.io/texts/browsable/hyginus/31pr/	31pr.5	31pr.5.7_0	.		urn:cite2:tabulae:ls.v1:null

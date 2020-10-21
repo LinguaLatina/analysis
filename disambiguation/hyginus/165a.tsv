@@ -1,29 +1,29 @@
 url#passage#tokenid#token#form#lexeme
 https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.0	Minerua		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.1	tibias	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n48303
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.2	dicitur	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311120004,Third,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n13804
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002112,Feminine,Nominative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002512,Feminine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002612,Feminine,Vocative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003112,Neuter,Nominative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003412,Neuter,Accusative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:020003612,Neuter,Vocative,Plural,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.4	ex	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.5	osse	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n33094
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.1	tibias	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n48303
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.2	dicitur	finite verb: third singular present indicative passive	urn:cite2:tabulae:ls.v1:n13804
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	adjective: feminine nominative singular positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	adjective: feminine ablative singular positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	adjective: feminine vocative singular positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	adjective: neuter nominative plural positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	adjective: neuter accusative plural positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.3	prima	adjective: neuter vocative plural positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.4	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.5	osse	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n33094
 https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.6	ceruino		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.7	fecisse	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:004010006,Perfect,Active)	urn:cite2:l3:composites.v1:ficio
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.7	fecisse	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:004010006,Perfect,Active)	urn:cite2:tabulae:ls.v1:n17516
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.8	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.9	ad	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n665
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.10	epulum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n16047
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.10	epulum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n16047
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.10	epulum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n16047
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.11	deorum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001200,Masculine,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n13573
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.11	deorum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001200,Masculine,Genitive,Plural)	urn:cite2:tabulae:ls.v1:n13573
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.12	cantatum	ValidSupineForm(urn:cite2:tabulae:morphforms.v1:000000409,Accusative)	urn:cite2:tabulae:ls.v1:n6571
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.12	cantatum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021405,Perfect,Passive,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n6571
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.12	cantatum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023105,Perfect,Passive,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n6571
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.12	cantatum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023405,Perfect,Passive,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n6571
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.12	cantatum	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023605,Perfect,Passive,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n6571
-https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.13	uenisse	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:004010006,Perfect,Active)	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.7	fecisse	infinitive: perfect active	urn:cite2:l3:composites.v1:ficio
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.7	fecisse	infinitive: perfect active	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.8	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.9	ad	uninflected preposition	urn:cite2:tabulae:ls.v1:n665
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.10	epulum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n16047
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.10	epulum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n16047
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.10	epulum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n16047
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.11	deorum	noun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n13573
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.11	deorum	noun: masculine genitive plural	urn:cite2:tabulae:ls.v1:n13573
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.12	cantatum	supine: accusative	urn:cite2:tabulae:ls.v1:n6571
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.12	cantatum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n6571
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.12	cantatum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n6571
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.12	cantatum	participle: perfect passive neuter accusative singular	urn:cite2:tabulae:ls.v1:n6571
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.12	cantatum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n6571
+https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.13	uenisse	infinitive: perfect active	urn:cite2:tabulae:ls.v1:n50442
 https://lingualatina.github.io/texts/browsable/hyginus/165a/	165a.1	165a.1.13_0	.		urn:cite2:tabulae:ls.v1:null

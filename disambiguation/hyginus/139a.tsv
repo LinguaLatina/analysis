@@ -1,50 +1,50 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.0	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.1	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.2	Opem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n32834
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.3	rogaret	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n41838
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.0	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.0	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.1	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.2	Opem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n32834
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.3	rogaret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n41838
 https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.3_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.4	ut	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n49975
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.5	esset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:312210004,Third,Singular,Imperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.4	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.5	esset	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n46529
 https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.5_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.6	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.6	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.6	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.7	illa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.7	illa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.7	illa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.7	illa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.8	peperisset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n33879
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.6	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.6	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.6	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.7	illa	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.7	illa	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.7	illa	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.7	illa	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.8	peperisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n33879
 https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.8_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.9	illa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.9	illa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.9	illa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.9	illa	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n21494
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.10	lapidem	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010002400,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25849
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.9	illa	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.9	illa	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.9	illa	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.9	illa	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.10	lapidem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n25849
 https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.11	inuolutum		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.12	ostendit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n33147
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.12	ostendit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n33147
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.12	ostendit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n33147
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.12	ostendit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n33147
 https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.12_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.13	eum	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001401,Masculine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.13	eum	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n25029
 https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.14	Saturnus		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.15	deuorauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n13630
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.15	deuorauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n13630
 https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.15_0	.		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.16	quod	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n40262
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.16	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003401,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.16	quod	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010003101,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.17	cum	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n11872
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.18	sensisset	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:315210004,Third,Singular,Pluperfect,Subjunctive,Active)	urn:cite2:tabulae:ls.v1:n43681
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.16	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.16	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.16	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.17	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.18	sensisset	finite verb: third singular pluperfect subjunctive active	urn:cite2:tabulae:ls.v1:n43681
 https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.18_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.19	coepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8883
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.19	coepit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8883
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.19	coepit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n8883
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.19	coepit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n8883
 https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.20	Iouem		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.21	quaerere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211120004,Second,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n39941
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.21	quaerere	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n39941
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.21	quaerere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:211120004,Second,Singular,Present,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n39941
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.21	quaerere	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:213120004,Second,Singular,Future,Indicative,Passive)	urn:cite2:tabulae:ls.v1:n39941
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.21	quaerere	ValidInfinitiveForm(urn:cite2:tabulae:morphforms.v1:001010006,Present,Active)	urn:cite2:tabulae:ls.v1:n39941
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.22	per	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000B,Preposition)	urn:cite2:tabulae:ls.v1:n34595
-https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.23	terras	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020002400,Feminine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n47897
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.21	quaerere	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n39941
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.21	quaerere	infinitive: present active	urn:cite2:tabulae:ls.v1:n39941
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.21	quaerere	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n39941
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.21	quaerere	finite verb: second singular future indicative passive	urn:cite2:tabulae:ls.v1:n39941
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.21	quaerere	infinitive: present active	urn:cite2:tabulae:ls.v1:n39941
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.22	per	uninflected preposition	urn:cite2:tabulae:ls.v1:n34595
+https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.23	terras	noun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n47897
 https://lingualatina.github.io/texts/browsable/hyginus/139a/	139a.2	139a.2.23_0	.		urn:cite2:tabulae:ls.v1:null

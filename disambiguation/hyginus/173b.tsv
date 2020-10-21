@@ -13,15 +13,15 @@ https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.10	Th
 https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.11	Oechalia		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.12	Ithaca		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.13	Tegea		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022105,Perfect,Passive,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n11570
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022505,Perfect,Passive,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n11570
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014022605,Perfect,Passive,Feminine,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n11570
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023105,Perfect,Passive,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n11570
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023405,Perfect,Passive,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n11570
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024023605,Perfect,Passive,Neuter,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n11570
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	participle: perfect passive feminine nominative singular	urn:cite2:tabulae:ls.v1:n11570
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	participle: perfect passive feminine ablative singular	urn:cite2:tabulae:ls.v1:n11570
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	participle: perfect passive feminine vocative singular	urn:cite2:tabulae:ls.v1:n11570
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	participle: perfect passive neuter nominative plural	urn:cite2:tabulae:ls.v1:n11570
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	participle: perfect passive neuter accusative plural	urn:cite2:tabulae:ls.v1:n11570
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.14	Creta	participle: perfect passive neuter vocative plural	urn:cite2:tabulae:ls.v1:n11570
 https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.15	Dolopia		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.16	Athenae		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.17	Magnesia		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.18	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.18	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.19	Arcadia		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/173b/	173b.1	173b.1.19_0	.		urn:cite2:tabulae:ls.v1:null

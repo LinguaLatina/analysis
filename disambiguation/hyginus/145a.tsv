@@ -1,43 +1,43 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.0	Ex	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.0	Ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.1	Phoroneo		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.2	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.3	Cinna		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.4	nati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021105,Perfect,Passive,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.4	nati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021205,Perfect,Passive,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.4	nati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021605,Perfect,Passive,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.4	nati	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023205,Perfect,Passive,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.4	nati	participle: perfect passive masculine nominative plural	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.4	nati	participle: perfect passive masculine genitive singular	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.4	nati	participle: perfect passive masculine vocative plural	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.4	nati	participle: perfect passive neuter genitive singular	urn:cite2:tabulae:ls.v1:n30423
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.5	Apis		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.6	et	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.6	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.7	Nioba		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.7_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.8	hanc	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002401,Feminine,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.8	hanc	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n20640
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.9	Iuppiter		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.10	mortalem	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001412,Masculine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n29733
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.10	mortalem	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002412,Feminine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n29733
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.11	primam	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010002412,Feminine,Accusative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n38340
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.12	compressit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n9689
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.10	mortalem	adjective: masculine accusative singular positive	urn:cite2:tabulae:ls.v1:n29733
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.10	mortalem	adjective: feminine accusative singular positive	urn:cite2:tabulae:ls.v1:n29733
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.11	primam	adjective: feminine accusative singular positive	urn:cite2:tabulae:ls.v1:n38340
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.12	compressit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n9689
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.12_0	;		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.13	ex	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000A,Conjunction)	urn:cite2:tabulae:ls.v1:n16519
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.14	ea	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002101,Feminine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.14	ea	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010002501,Feminine,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.14	ea	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003101,Neuter,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.14	ea	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020003401,Neuter,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n25029
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.15	natus	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021105,Perfect,Passive,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n30423
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.16	est	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:311110004,Third,Singular,Present,Indicative,Active)	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.13	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.14	ea	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.14	ea	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.14	ea	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.14	ea	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.15	natus	participle: perfect passive masculine nominative singular	urn:cite2:tabulae:ls.v1:n30423
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.16	est	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n46529
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.17	Argus		urn:cite2:tabulae:ls.v1:null
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.17_0	,		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.18	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40242
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.18	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:020001101,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.18	qui	ValidPronounForm(urn:cite2:tabulae:morphforms.v1:010001101,Masculine,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n40103
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.19	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001312,Masculine,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.19	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010001512,Masculine,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.19	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003312,Neuter,Dative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.19	suo	ValidAdjectiveForm(urn:cite2:tabulae:morphforms.v1:010003512,Neuter,Ablative,Singular,Positive)	urn:cite2:tabulae:ls.v1:n47174
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.20	nomine	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003500,Neuter,Ablative,Singular)	urn:cite2:tabulae:ls.v1:n31131
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.18	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.18	qui	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.18	qui	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.19	suo	adjective: masculine dative singular positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.19	suo	adjective: masculine ablative singular positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.19	suo	adjective: neuter dative singular positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.19	suo	adjective: neuter ablative singular positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.20	nomine	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n31131
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.21	Argos		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.22	oppidum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003100,Neuter,Nominative,Singular)	urn:cite2:tabulae:ls.v1:n32796
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.22	oppidum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003400,Neuter,Accusative,Singular)	urn:cite2:tabulae:ls.v1:n32796
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.22	oppidum	ValidNounForm(urn:cite2:tabulae:morphforms.v1:010003600,Neuter,Vocative,Singular)	urn:cite2:tabulae:ls.v1:n32796
-https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.23	cognominauit	ValidFiniteVerbForm(urn:cite2:tabulae:morphforms.v1:314110004,Third,Singular,Perfect,Indicative,Active)	urn:cite2:tabulae:ls.v1:n8934
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.22	oppidum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n32796
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.22	oppidum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n32796
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.22	oppidum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n32796
+https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.23	cognominauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n8934
 https://lingualatina.github.io/texts/browsable/hyginus/145a/	145a.1	145a.1.23_0	.		urn:cite2:tabulae:ls.v1:null

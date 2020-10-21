@@ -1,15 +1,15 @@
 url#passage#tokenid#token#form#lexeme
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001100,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001400,Masculine,Accusative,Plural)	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	ValidNounForm(urn:cite2:tabulae:morphforms.v1:020001600,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n41625
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.1	SEPTEM	ValidUninflectedForm(urn:cite2:tabulae:morphforms.v1:00000000D,Numeral)	urn:cite2:tabulae:ls.v1:n43722
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.0	REGES	noun: masculine vocative plural	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.1	SEPTEM	uninflected number	urn:cite2:tabulae:ls.v1:n43722
 https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.2	THEBAS		urn:cite2:tabulae:ls.v1:null
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021105,Perfect,Passive,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n38619
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021205,Perfect,Passive,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n38619
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021605,Perfect,Passive,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n38619
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023205,Perfect,Passive,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n38619
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021105,Perfect,Passive,Masculine,Nominative,Plural)	urn:cite2:tabulae:ls.v1:n38618
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014021205,Perfect,Passive,Masculine,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n38618
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:024021605,Perfect,Passive,Masculine,Vocative,Plural)	urn:cite2:tabulae:ls.v1:n38618
-https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	ValidParticipleForm(urn:cite2:tabulae:morphforms.v1:014023205,Perfect,Passive,Neuter,Genitive,Singular)	urn:cite2:tabulae:ls.v1:n38618
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine nominative plural	urn:cite2:tabulae:ls.v1:n38619
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine genitive singular	urn:cite2:tabulae:ls.v1:n38619
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine vocative plural	urn:cite2:tabulae:ls.v1:n38619
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive neuter genitive singular	urn:cite2:tabulae:ls.v1:n38619
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine nominative plural	urn:cite2:tabulae:ls.v1:n38618
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine genitive singular	urn:cite2:tabulae:ls.v1:n38618
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive masculine vocative plural	urn:cite2:tabulae:ls.v1:n38618
+https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3	PROFECTI	participle: perfect passive neuter genitive singular	urn:cite2:tabulae:ls.v1:n38618
 https://lingualatina.github.io/texts/browsable/hyginus/70a/	70a.title	70a.title.3_0	.		urn:cite2:tabulae:ls.v1:null
