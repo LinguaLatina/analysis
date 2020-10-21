@@ -1,0 +1,65 @@
+url	passage	tokenid	token	form	lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.0	Oenomaus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.1	Martis	noun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n28088
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.1	Martis	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n28088
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.2	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.3	Asteropes		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.4	Atlantis		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.5	filiae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.5	filiae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.5	filiae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.5	filiae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.6	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.7	habuit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n20077
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.8	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.9	coniugio	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n10349
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.9	coniugio	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n10349
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.10	Euareten		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.11	Acrisii		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.12	filiam	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n18173
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.12_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.13	ex	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16519
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.14	qua	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.15	procreauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n38498
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.16	Hippodamiam		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.16_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.17	uirginem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n51069
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.18	eximiae		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.19	formae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n18566
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.19	formae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n18566
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.19	formae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n18566
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.19	formae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n18566
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.19_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.20	quam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.21	nulli	adjective: masculine nominative plural positive	urn:cite2:tabulae:ls.v1:n31390
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.21	nulli	adjective: masculine dative singular positive	urn:cite2:tabulae:ls.v1:n31390
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.21	nulli	adjective: masculine vocative plural positive	urn:cite2:tabulae:ls.v1:n31390
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.21	nulli	adjective: feminine dative singular positive	urn:cite2:tabulae:ls.v1:n31390
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.21	nulli	adjective: neuter dative singular positive	urn:cite2:tabulae:ls.v1:n31390
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.22	ideo	adverb: positive degree	urn:cite2:tabulae:ls.v1:n21345
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.23	dabat	finite verb: third singular imperfect indicative active	urn:cite2:tabulae:ls.v1:n14599
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.24	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.25	coniugium	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n10349
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.25	coniugium	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n10349
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.25	coniugium	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n10349
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.26	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.26	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.26	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.27	sibi	pronoun: masculine dative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.27	sibi	pronoun: neuter dative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.27	sibi	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.27	sibi	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.27	sibi	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.27	sibi	pronoun: feminine dative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.28	responsum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n41387
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.28	responsum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n41387
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.28	responsum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n41387
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.29	fuit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.30	a	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.31	genero		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.32	mortem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n29724
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.33	cauere	finite verb: third plural perfect indicative active	urn:cite2:tabulae:ls.v1:n7230
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.33	cauere	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n7230
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.33	cauere	finite verb: second singular present imperative passive	urn:cite2:tabulae:ls.v1:n7230
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.33	cauere	infinitive: present active	urn:cite2:tabulae:ls.v1:n7230
+https://lingualatina.github.io/texts/browsable/hyginus/84a/	84a.1	84a.1.33_0	.		urn:cite2:tabulae:ls.v1:null

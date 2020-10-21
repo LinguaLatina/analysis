@@ -1,0 +1,72 @@
+url	passage	tokenid	token	form	lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.0	is	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.0	is	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.0	is	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.0	is	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.0	is	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.0	is	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.0	is	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.0	is	finite verb: second singular present indicative active	urn:cite2:tabulae:ls.v1:n15868
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.1	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.2	annua	adjective: feminine nominative singular positive	urn:cite2:tabulae:ls.v1:n2701
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.2	annua	adjective: feminine ablative singular positive	urn:cite2:tabulae:ls.v1:n2701
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.2	annua	adjective: feminine vocative singular positive	urn:cite2:tabulae:ls.v1:n2701
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.2	annua	adjective: neuter nominative plural positive	urn:cite2:tabulae:ls.v1:n2701
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.2	annua	adjective: neuter accusative plural positive	urn:cite2:tabulae:ls.v1:n2701
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.2	annua	adjective: neuter vocative plural positive	urn:cite2:tabulae:ls.v1:n2701
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.3	sacra	adjective: feminine nominative singular positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.3	sacra	adjective: feminine ablative singular positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.3	sacra	adjective: feminine vocative singular positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.3	sacra	adjective: neuter nominative plural positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.3	sacra	adjective: neuter accusative plural positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.3	sacra	adjective: neuter vocative plural positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.3	sacra	finite verb: second singular present imperative active	urn:cite2:tabulae:ls.v1:n42201
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.4	faceret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.5	Neptuno		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.5_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.6	Iason		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.7	Aesonis		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.8	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.8_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.9	fratris	noun: masculine genitive singular	urn:cite2:tabulae:ls.v1:n18705
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.10	Peliae		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.10_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.11	cupidus		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.12	sacra	adjective: feminine nominative singular positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.12	sacra	adjective: feminine ablative singular positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.12	sacra	adjective: feminine vocative singular positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.12	sacra	adjective: neuter nominative plural positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.12	sacra	adjective: neuter accusative plural positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.12	sacra	adjective: neuter vocative plural positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.12	sacra	finite verb: second singular present imperative active	urn:cite2:tabulae:ls.v1:n42201
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.13	faciendi	gerundive: masculine nominative plural	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.13	faciendi	gerundive: masculine nominative plural	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.13	faciendi	gerundive: masculine genitive singular	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.13	faciendi	gerundive: neuter genitive singular	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.13	faciendi	gerund: genitive	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.13_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.14	dum	uninflected conjunction	urn:cite2:tabulae:ls.v1:n14902
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.15	flumen	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n18442
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.15	flumen	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n18442
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.15	flumen	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n18442
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.16	Euhenum		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.17	transiret		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.18	calciamentum		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.19	reliquit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n40982
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.19_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.20	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.20	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.20	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.21	ut	uninflected conjunction	urn:cite2:tabulae:ls.v1:n49975
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.22	celeriter		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.23	ad	uninflected preposition	urn:cite2:tabulae:ls.v1:n665
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.24	sacra	adjective: feminine nominative singular positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.24	sacra	adjective: feminine ablative singular positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.24	sacra	adjective: feminine vocative singular positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.24	sacra	adjective: neuter nominative plural positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.24	sacra	adjective: neuter accusative plural positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.24	sacra	adjective: neuter vocative plural positive	urn:cite2:tabulae:ls.v1:n42157
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.24	sacra	finite verb: second singular present imperative active	urn:cite2:tabulae:ls.v1:n42201
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.25	ueniret	finite verb: third singular imperfect subjunctive active	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.26	neglexit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n30680
+https://lingualatina.github.io/texts/browsable/hyginus/12pr/	12pr.2	12pr.2.26_0	.		urn:cite2:tabulae:ls.v1:null

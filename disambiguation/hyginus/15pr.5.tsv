@@ -1,0 +1,60 @@
+url	passage	tokenid	token	form	lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.0	Lemniades		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.1	autem	uninflected conjunction	urn:cite2:tabulae:ls.v1:n4633
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.2	postquam	uninflected conjunction	urn:cite2:tabulae:ls.v1:n37241
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.3	scierunt		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.4	Hypsipylen		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.5	patrem	noun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n34096
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.6	suum	adjective: masculine accusative singular positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.6	suum	adjective: neuter nominative singular positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.6	suum	adjective: neuter accusative singular positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.6	suum	adjective: neuter vocative singular positive	urn:cite2:tabulae:ls.v1:n47174
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.7	seruasse	infinitive: present active	urn:cite2:tabulae:ls.v1:n43947
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.7_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.8	conatae	participle: perfect passive feminine nominative plural	urn:cite2:tabulae:ls.v1:n10379
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.8	conatae	participle: perfect passive feminine genitive singular	urn:cite2:tabulae:ls.v1:n10379
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.8	conatae	participle: perfect passive feminine dative singular	urn:cite2:tabulae:ls.v1:n10379
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.8	conatae	participle: perfect passive feminine vocative plural	urn:cite2:tabulae:ls.v1:n10379
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.9	sunt	finite verb: third plural present indicative active	urn:cite2:tabulae:ls.v1:n46529
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.10	eam	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n25029
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.10	eam	finite verb: first singular present subjunctive active	urn:cite2:tabulae:ls.v1:n15868
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.11	interficere	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n24257
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.11	interficere	infinitive: present active	urn:cite2:tabulae:ls.v1:n24257
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.11_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.12	illa	pronoun: feminine nominative singular	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.12	illa	pronoun: neuter nominative plural	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.12	illa	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.12	illa	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.13	fugae	noun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n18934
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.13	fugae	noun: feminine genitive singular	urn:cite2:tabulae:ls.v1:n18934
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.13	fugae	noun: feminine dative singular	urn:cite2:tabulae:ls.v1:n18934
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.13	fugae	noun: feminine vocative plural	urn:cite2:tabulae:ls.v1:n18934
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	participle: perfect passive masculine vocative singular	urn:cite2:l3:composites.v1:do
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: masculine accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: feminine ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: neuter accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.14	se	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n46498
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.15	mandauit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n27841
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.15_0	.		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.16	hanc	pronoun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n20640
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.17	praedones		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.18	exceptam	participle: perfect passive feminine accusative singular	urn:cite2:tabulae:ls.v1:n16677
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.19	Thebas		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.20	deportarunt		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.21	et	uninflected conjunction	urn:cite2:tabulae:ls.v1:n16278
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.22	regi	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.22	regi	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n41625
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.23	Lyco	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n27366
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.23	Lyco	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n27366
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.24	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.25	seruitutem	noun: feminine accusative singular	urn:cite2:tabulae:ls.v1:n43945
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.26	uendiderunt		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/15pr/	15pr.5	15pr.5.26_0	.		urn:cite2:tabulae:ls.v1:null

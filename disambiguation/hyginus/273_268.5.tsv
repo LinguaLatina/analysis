@@ -1,0 +1,52 @@
+url	passage	tokenid	token	form	lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.0	octauo		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.1	loco	noun: neuter dative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.1	loco	noun: neuter ablative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.1	loco	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.1	loco	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.1	loco	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.1	loco	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n26903
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.1	loco	finite verb: first singular present indicative active	urn:cite2:tabulae:ls.v1:n26891
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.2	fecit	finite verb: third singular perfect indicative active	urn:cite2:l3:composites.v1:ficio
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.2	fecit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n17516
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.3	Hercules	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n20511
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.3	Hercules	noun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n20511
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.4	Olympiae		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.5	gymnicos		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.6	Pelopi		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.7	Tantali		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.8	filio	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.8	filio	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.8_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.9	in	uninflected preposition	urn:cite2:tabulae:ls.v1:n22111
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n40242
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: masculine dative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: neuter ablative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: neuter dative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: feminine ablative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: feminine dative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.10	quibus	pronoun: masculine ablative plural	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.11	ipse	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n24872
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.12	contendit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n10770
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.12	contendit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n10770
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.12	contendit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n10770
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.13	pammachium		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.13_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.14	quod	uninflected conjunction	urn:cite2:tabulae:ls.v1:n40262
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.14	quod	pronoun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.14	quod	pronoun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40103
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.15	nos	pronoun: masculine nominative plural	urn:cite2:tabulae:ls.v1:n15326
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.15	nos	pronoun: masculine accusative plural	urn:cite2:tabulae:ls.v1:n15326
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.15	nos	pronoun: feminine nominative plural	urn:cite2:tabulae:ls.v1:n15326
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.15	nos	pronoun: feminine accusative plural	urn:cite2:tabulae:ls.v1:n15326
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.16	pancratium		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.17	uocamus	finite verb: first plural present indicative active	urn:cite2:tabulae:ls.v1:n51266
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.17_0	,		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.18	cum	uninflected preposition	urn:cite2:tabulae:ls.v1:n11872
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.19	Achareo		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/273_268/	273_268.5	273_268.5.19_0	.		urn:cite2:tabulae:ls.v1:null

@@ -1,0 +1,37 @@
+url	passage	tokenid	token	form	lexeme
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.0	Polynices		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.1	Oedipodis		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.2	filius	noun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n18185
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.3	anno	noun: masculine dative singular	urn:cite2:tabulae:ls.v1:n2698
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.3	anno	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n2698
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.4	peracto	participle: perfect passive masculine dative singular	urn:cite2:tabulae:ls.v1:n34619
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.4	peracto	participle: perfect passive masculine ablative singular	urn:cite2:tabulae:ls.v1:n34619
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.4	peracto	participle: perfect passive neuter ablative singular	urn:cite2:tabulae:ls.v1:n34619
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.5	regnum	noun: neuter nominative singular	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.5	regnum	noun: neuter accusative singular	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.5	regnum	noun: neuter vocative singular	urn:cite2:tabulae:ls.v1:n40912
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.6	ab	uninflected preposition	urn:cite2:tabulae:ls.v1:n4
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.7	Eteocle		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.8	fratre	noun: masculine ablative singular	urn:cite2:tabulae:ls.v1:n18705
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.9	paternum	adjective: masculine accusative singular positive	urn:cite2:tabulae:ls.v1:n34101
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.9	paternum	adjective: neuter nominative singular positive	urn:cite2:tabulae:ls.v1:n34101
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.9	paternum	adjective: neuter accusative singular positive	urn:cite2:tabulae:ls.v1:n34101
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.9	paternum	adjective: neuter vocative singular positive	urn:cite2:tabulae:ls.v1:n34101
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.10	repetit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n41188
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.10_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.11	ille	pronoun: masculine nominative singular	urn:cite2:tabulae:ls.v1:n21494
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.12	cedere	finite verb: second singular present indicative passive	urn:cite2:tabulae:ls.v1:n7275
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.12	cedere	finite verb: second singular future indicative passive	urn:cite2:tabulae:ls.v1:n7275
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.12	cedere	infinitive: present active	urn:cite2:tabulae:ls.v1:n7275
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.13	noluit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n31124
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.13_0	;		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.14	Polynices		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.15	Thebas		urn:cite2:tabulae:ls.v1:null
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.16	oppugnatum	supine: accusative	urn:cite2:tabulae:ls.v1:n32829
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.16	oppugnatum	participle: perfect passive masculine accusative singular	urn:cite2:tabulae:ls.v1:n32829
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.16	oppugnatum	participle: perfect passive neuter nominative singular	urn:cite2:tabulae:ls.v1:n32829
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.16	oppugnatum	participle: perfect passive neuter accusative singular	urn:cite2:tabulae:ls.v1:n32829
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.16	oppugnatum	participle: perfect passive neuter vocative singular	urn:cite2:tabulae:ls.v1:n32829
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.17	uenit	finite verb: third singular perfect indicative active	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.17	uenit	finite verb: third singular present indicative active	urn:cite2:tabulae:ls.v1:n50442
+https://lingualatina.github.io/texts/browsable/hyginus/69a/	69a.1	69a.1.17_0	.		urn:cite2:tabulae:ls.v1:null
