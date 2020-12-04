@@ -23,6 +23,7 @@ case class Record (
 
   def canonicalPassageId = passage.collapsePassageBy(1).passageComponent
   def hyginusSectionId = passage.collapsePassageBy(2).passageComponent
+  def labelledLexeme = LewisShort.label("ls." + Cite2Urn(lexeme).objectComponent)
 
   def tsv : String = {
     val formLabel = try {
@@ -31,7 +32,7 @@ case class Record (
       case t: Throwable => ""
     }
 
-    s"${url}\t${canonicalPassageId}\t${passage.passageComponent}\t${token}\t${formLabel}\t${lexeme}"
+    s"${url}\t${canonicalPassageId}\t${passage.passageComponent}\t${token}\t${formLabel}\t${labelledLexeme}"
   }
 }
 
