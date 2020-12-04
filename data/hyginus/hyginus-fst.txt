@@ -476,7 +476,8 @@ no result for aegipan
 > aegisthus
 <u>latcommon.nounn1181</u><u>ls.n1181</u>aegisth<noun><masc><us_i><div><us_i><noun>us<masc><nom><sg><u>livymorph.us_i1</u>
 > aegle
-no result for aegle
+<u>latcommon.nounn1184</u><u>ls.n1184</u>aegl<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn1184</u><u>ls.n1184</u>aegl<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > aegocerus
 no result for aegocerus
 > aegre
@@ -500,13 +501,15 @@ no result for aellopoda
 > aenariam
 no result for aenariam
 > aenea
-no result for aenea
+<u>latcommon.nounn1234</u><u>ls.n1234</u>aene<noun><masc><as_ae><div><as_ae><noun>a<masc><abl><sg><u>latcommoninfl.as_ae5</u>
+<u>latcommon.nounn1234</u><u>ls.n1234</u>aene<noun><masc><as_ae><div><as_ae><noun>a<masc><voc><sg><u>latcommoninfl.as_ae6</u>
 > aeneae
-no result for aeneae
+<u>latcommon.nounn1234</u><u>ls.n1234</u>aene<noun><masc><as_ae><div><as_ae><noun>ae<masc><gen><sg><u>latcommoninfl.as_ae2</u>
+<u>latcommon.nounn1234</u><u>ls.n1234</u>aene<noun><masc><as_ae><div><as_ae><noun>ae<masc><dat><sg><u>latcommoninfl.as_ae3</u>
 > aeneam
-no result for aeneam
+<u>latcommon.nounn1234</u><u>ls.n1234</u>aene<noun><masc><as_ae><div><as_ae><noun>am<masc><acc><sg><u>latcommoninfl.as_ae4</u>
 > aeneas
-no result for aeneas
+<u>latcommon.nounn1234</u><u>ls.n1234</u>aene<noun><masc><as_ae><div><as_ae><noun>as<masc><nom><sg><u>latcommoninfl.as_ae1</u>
 > aeneo
 no result for aeneo
 > aeneum
@@ -723,13 +726,15 @@ no result for agreus
 > agrianomes
 no result for agrianomes
 > agrii
-no result for agrii
+<u>latcommon.nounn1642</u><u>ls.n1642</u>agri<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>livymorph.us_i6</u>
+<u>latcommon.nounn1642</u><u>ls.n1642</u>agri<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>livymorph.us_i2</u>
+<u>latcommon.nounn1642</u><u>ls.n1642</u>agri<noun><masc><us_i><div><us_i><noun>i<masc><voc><pl><u>livymorph.us_i12</u>
 > agriodus
 no result for agriodus
 > agrium
-no result for agrium
+<u>latcommon.nounn1642</u><u>ls.n1642</u>agri<noun><masc><us_i><div><us_i><noun>um<masc><acc><sg><u>livymorph.us_i4</u>
 > agrius
-no result for agrius
+<u>latcommon.nounn1642</u><u>ls.n1642</u>agri<noun><masc><us_i><div><us_i><noun>us<masc><nom><sg><u>livymorph.us_i1</u>
 > agros
 <u>latcommon.nounn1534</u><u>ls.n1534</u>ag<noun><masc><er_ri><div><er_ri><noun>ros<masc><acc><pl><u>latcommoninfl.er_ri9</u>
 > agrum
@@ -795,9 +800,10 @@ no result for alcumena
 > alcumenae
 no result for alcumenae
 > alcyone
-no result for alcyone
+<u>latcommon.nounn1772</u><u>ls.n1772</u>alcyon<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn1772</u><u>ls.n1772</u>alcyon<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > alcyones
-no result for alcyones
+<u>latcommon.nounn1772</u><u>ls.n1772</u>alcyon<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > alcyonia
 no result for alcyonia
 > alebat
@@ -815,13 +821,17 @@ no result for aleten
 > aletes
 no result for aletes
 > alexander
-no result for alexander
+<u>latcommon.nounn1808</u><u>ls.n1808</u>alexand<noun><masc><er_ri><div><er_ri><noun>er<masc><nom><sg><u>latcommoninfl.er_ri1</u>
+<u>latcommon.nounn1808</u><u>ls.n1808</u>alexand<noun><masc><er_ri><div><er_ri><noun>er<masc><voc><sg><u>latcommoninfl.er_ri11</u>
 > alexandri
-no result for alexandri
+<u>latcommon.nounn1808</u><u>ls.n1808</u>alexand<noun><masc><er_ri><div><er_ri><noun>ri<masc><nom><pl><u>latcommoninfl.er_ri6</u>
+<u>latcommon.nounn1808</u><u>ls.n1808</u>alexand<noun><masc><er_ri><div><er_ri><noun>ri<masc><gen><sg><u>latcommoninfl.er_ri2</u>
+<u>latcommon.nounn1808</u><u>ls.n1808</u>alexand<noun><masc><er_ri><div><er_ri><noun>ri<masc><voc><pl><u>latcommoninfl.er_ri12</u>
 > alexandro
-no result for alexandro
+<u>latcommon.nounn1808</u><u>ls.n1808</u>alexand<noun><masc><er_ri><div><er_ri><noun>ro<masc><dat><sg><u>latcommoninfl.er_ri3</u>
+<u>latcommon.nounn1808</u><u>ls.n1808</u>alexand<noun><masc><er_ri><div><er_ri><noun>ro<masc><abl><sg><u>latcommoninfl.er_ri</u>
 > alexandrum
-no result for alexandrum
+<u>latcommon.nounn1808</u><u>ls.n1808</u>alexand<noun><masc><er_ri><div><er_ri><noun>rum<masc><acc><sg><u>latcommoninfl.er_ri4</u>
 > alia
 <u>latcommon.irregpron1896m</u><u>ls.n1896</u>alia<fem><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
 <u>latcommon.irregpron1896q</u><u>ls.n1896</u>alia<fem><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
@@ -903,11 +913,12 @@ no result for alleuauit
 > aloei
 no result for aloei
 > alope
-no result for alope
+<u>latcommon.nounn1986</u><u>ls.n1986</u>alop<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn1986</u><u>ls.n1986</u>alop<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > alopen
-no result for alopen
+<u>latcommon.nounn1986</u><u>ls.n1986</u>alop<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > alopes
-no result for alopes
+<u>latcommon.nounn1986</u><u>ls.n1986</u>alop<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > alphei
 no result for alphei
 > alphesiboeae
@@ -1142,13 +1153,14 @@ no result for amphimachus
 > amphinome
 no result for amphinome
 > amphion
-no result for amphion
+<u>latcommon.nounn2327</u><u>ls.n2327</u>amphion<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>latcommoninfl.0_is1</u>
+<u>latcommon.nounn2327</u><u>ls.n2327</u>amphion<noun><masc><0_is><div><0_is><noun><masc><voc><sg><u>latcommoninfl.0_is11</u>
 > amphionem
-no result for amphionem
+<u>latcommon.nounn2327</u><u>ls.n2327</u>amphion<noun><masc><0_is><div><0_is><noun>em<masc><acc><sg><u>latcommoninfl.0_is4</u>
 > amphioni
-no result for amphioni
+<u>latcommon.nounn2327</u><u>ls.n2327</u>amphion<noun><masc><0_is><div><0_is><noun>i<masc><dat><sg><u>latcommoninfl.0_is3</u>
 > amphionis
-no result for amphionis
+<u>latcommon.nounn2327</u><u>ls.n2327</u>amphion<noun><masc><0_is><div><0_is><noun>is<masc><gen><sg><u>latcommoninfl.0_is2</u>
 > amphistomo
 no result for amphistomo
 > amphithemidis
@@ -1186,9 +1198,10 @@ no result for amycus
 > amymneorum
 no result for amymneorum
 > amymone
-no result for amymone
+<u>latcommon.nounn2402</u><u>ls.n2402</u>amymon<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn2402</u><u>ls.n2402</u>amymon<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > amymones
-no result for amymones
+<u>latcommon.nounn2402</u><u>ls.n2402</u>amymon<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > amymonium
 no result for amymonium
 > amymonius
@@ -1214,15 +1227,18 @@ no result for ancaeo
 > ancaeus
 no result for ancaeus
 > anchisa
-no result for anchisa
+<u>latcommon.nounn2483</u><u>ls.n2483</u>anchis<noun><masc><es_ae><div><es_ae><noun>a<masc><nom><sg><u>latcommoninfl.es_ae1b</u>
+<u>latcommon.nounn2483</u><u>ls.n2483</u>anchis<noun><masc><es_ae><div><es_ae><noun>a<masc><abl><sg><u>latcommoninfl.es_ae5b</u>
+<u>latcommon.nounn2483</u><u>ls.n2483</u>anchis<noun><masc><es_ae><div><es_ae><noun>a<masc><voc><sg><u>latcommoninfl.es_ae6</u>
 > anchisae
-no result for anchisae
+<u>latcommon.nounn2483</u><u>ls.n2483</u>anchis<noun><masc><es_ae><div><es_ae><noun>ae<masc><gen><sg><u>latcommoninfl.es_ae2</u>
+<u>latcommon.nounn2483</u><u>ls.n2483</u>anchis<noun><masc><es_ae><div><es_ae><noun>ae<masc><dat><sg><u>latcommoninfl.es_ae3</u>
 > anchisam
-no result for anchisam
+<u>latcommon.nounn2483</u><u>ls.n2483</u>anchis<noun><masc><es_ae><div><es_ae><noun>am<masc><acc><sg><u>latcommoninfl.es_ae4b</u>
 > anchisem
 no result for anchisem
 > anchises
-no result for anchises
+<u>latcommon.nounn2483</u><u>ls.n2483</u>anchis<noun><masc><es_ae><div><es_ae><noun>es<masc><nom><sg><u>latcommoninfl.es_ae1</u>
 > ancillas
 <u>latcommon.nounn2487</u><u>ls.n2487</u>ancill<noun><fem><a_ae><div><a_ae><noun>as<fem><acc><pl><u>latcommoninfl.a_ae9</u>
 > ancillis
@@ -1677,7 +1693,8 @@ no result for arescunt
 > arestorides
 no result for arestorides
 > arete
-no result for arete
+<u>latcommon.nounn3529</u><u>ls.n3529</u>aret<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn3529</u><u>ls.n3529</u>aret<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > arethusa
 no result for arethusa
 > aretus
@@ -1742,11 +1759,14 @@ no result for argumentis
 > argus
 no result for argus
 > ariadne
-no result for ariadne
+<u>latcommon.nounn3611</u><u>ls.n3611</u>ariadn<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn3611</u><u>ls.n3611</u>ariadn<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
+<u>latcommon.nounn3611</u><u>ls.n3611</u>ariadn<noun><fem><e_ae><div><e_ae><noun>e<fem><nom><sg><u>latcommoninfl.e_ae1</u>
 > ariadnen
-no result for ariadnen
+<u>latcommon.nounn3611</u><u>ls.n3611</u>ariadn<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
+<u>latcommon.nounn3611</u><u>ls.n3611</u>ariadn<noun><fem><e_ae><div><e_ae><noun>en<fem><acc><sg><u>latcommoninfl.e_ae4b</u>
 > ariadnes
-no result for ariadnes
+<u>latcommon.nounn3611</u><u>ls.n3611</u>ariadn<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > aricia
 no result for aricia
 > ariciam
@@ -1913,9 +1933,10 @@ no result for assyriorum
 > asteriden
 no result for asteriden
 > asterie
-no result for asterie
+<u>latcommon.nounn4133</u><u>ls.n4133</u>asteri<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn4133</u><u>ls.n4133</u>asteri<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > asterien
-no result for asterien
+<u>latcommon.nounn4133</u><u>ls.n4133</u>asteri<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > asterion
 no result for asterion
 > asterium
@@ -1960,13 +1981,14 @@ no result for astypale
 > at
 <u>latcommon.indecln4220</u><u>ls.n4220</u>at<indecl><indeclconj><div><indeclconj><indecl><u>indeclinfl.2</u>
 > atalanta
-no result for atalanta
+<u>latcommon.nounn4223</u><u>ls.n4223</u>atalant<noun><fem><e_es><div><e_es><noun>a<fem><voc><sg><u>latcommoninfl.e_es11</u>
 > atalantam
 no result for atalantam
 > atalante
-no result for atalante
+<u>latcommon.nounn4223</u><u>ls.n4223</u>atalant<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn4223</u><u>ls.n4223</u>atalant<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > atalantes
-no result for atalantes
+<u>latcommon.nounn4223</u><u>ls.n4223</u>atalant<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > athamanta
 no result for athamanta
 > athamante
@@ -2617,7 +2639,8 @@ no result for callianassa
 > calliopes
 no result for calliopes
 > callirhoe
-no result for callirhoe
+<u>latcommon.nounn6302</u><u>ls.n6302</u>callirho<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn6302</u><u>ls.n6302</u>callirho<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > callisthenem
 no result for callisthenem
 > callisto
@@ -3207,9 +3230,10 @@ no result for chimaera
 > chimaeram
 no result for chimaeram
 > chiona
-no result for chiona
+<u>latcommon.nounn7810</u><u>ls.n7810</u>chion<noun><fem><e_es><div><e_es><noun>a<fem><voc><sg><u>latcommoninfl.e_es11</u>
 > chione
-no result for chione
+<u>latcommon.nounn7810</u><u>ls.n7810</u>chion<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn7810</u><u>ls.n7810</u>chion<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > chirodamas
 no result for chirodamas
 > chiron
@@ -3249,9 +3273,9 @@ no result for chryseida
 > chryseidam
 no result for chryseidam
 > chrysen
-no result for chrysen
+<u>latcommon.nounn7901</u><u>ls.n7901</u>chrys<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > chryses
-no result for chryses
+<u>latcommon.nounn7901</u><u>ls.n7901</u>chrys<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > chrysi
 no result for chrysi
 > chrysippum
@@ -3310,14 +3334,16 @@ no result for cinyras
 > cion
 no result for cion
 > circa
+<u>latcommon.nounn8091</u><u>ls.n8091</u>circ<noun><fem><e_es><div><e_es><noun>a<fem><voc><sg><u>latcommoninfl.e_es11</u>
 <u>latcommon.indecln8084</u><u>ls.n8084</u>circa<indecl><indeclprep><div><indeclprep><indecl><u>indeclinfl.1</u>
 <u>latcommon.irregadvn8084</u><u>ls.n8084</u>circa<pos><irregadv><div><irregadv><u>irreginfl.2</u>
 > circe
-no result for circe
+<u>latcommon.nounn8091</u><u>ls.n8091</u>circ<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn8091</u><u>ls.n8091</u>circ<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > circen
-no result for circen
+<u>latcommon.nounn8091</u><u>ls.n8091</u>circ<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > circes
-no result for circes
+<u>latcommon.nounn8091</u><u>ls.n8091</u>circ<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > circinum
 no result for circinum
 > circuitu
@@ -4582,12 +4608,13 @@ no result for cupiens
 <u>latcommon.nounn11978</u><u>ls.n11978</u>cur<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>latcommoninfl.a_ae1</u>
 <u>latcommon.nounn11978</u><u>ls.n11978</u>cur<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>latcommoninfl.a_ae5</u>
 <u>latcommon.nounn11978</u><u>ls.n11978</u>cur<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>latcommoninfl.a_ae11</u>
+<u>latcommon.verbn12025</u><u>ls.n12025</u><#>cur<verb><conj1><div><conj1><verb>a<2nd><sg><pres><imptv><act><u>latcommon.are_conj1pres25</u>
 > curabat
-no result for curabat
+<u>latcommon.verbn12025</u><u>ls.n12025</u><#>cur<verb><conj1><div><conj1><verb>abat<3rd><sg><impft><indic><act><u>latcommon.are_conj1impft3</u>
 > curat
-no result for curat
+<u>latcommon.verbn12025</u><u>ls.n12025</u><#>cur<verb><conj1><div><conj1><verb>at<3rd><sg><pres><indic><act><u>latcommon.are_conj1pres3</u>
 > curauit
-no result for curauit
+<u>latcommon.verbn12025</u><u>ls.n12025</u><#>cur<verb><conj1><div><conj1><verb>auit<3rd><sg><pft><indic><act><u>lat23morph.are_pft3</u>
 > curetes
 no result for curetes
 > curetum
@@ -4667,11 +4694,14 @@ no result for cyclops
 > cycnus
 no result for cycnus
 > cydippae
-no result for cydippae
+<u>latcommon.nounn12116</u><u>ls.n12116</u>cydipp<noun><fem><e_es><div><e_es><noun>ae<fem><nom><pl><u>latcommoninfl.e_es6</u>
+<u>latcommon.nounn12116</u><u>ls.n12116</u>cydipp<noun><fem><e_es><div><e_es><noun>ae<fem><dat><sg><u>latcommoninfl.e_es3</u>
+<u>latcommon.nounn12116</u><u>ls.n12116</u>cydipp<noun><fem><e_es><div><e_es><noun>ae<fem><voc><pl><u>latcommoninfl.e_es12</u>
 > cydippe
-no result for cydippe
+<u>latcommon.nounn12116</u><u>ls.n12116</u>cydipp<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn12116</u><u>ls.n12116</u>cydipp<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > cydippen
-no result for cydippen
+<u>latcommon.nounn12116</u><u>ls.n12116</u>cydipp<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > cygnum
 <u>latcommon.nounn12114</u><u>ls.n12114</u>cygn<noun><masc><us_i><div><us_i><noun>um<masc><acc><sg><u>livymorph.us_i4</u>
 > cygnus
@@ -4752,10 +4782,12 @@ no result for damon
 > damone
 no result for damone
 > danae
+<u>latcommon.nounn12311</u><u>ls.n12311</u>dana<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn12311</u><u>ls.n12311</u>dana<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 <u>latcommon.adjn12314</u><u>ls.n12314</u>dana<adj><us_a_um><div><us_a_um><adj>e<masc><voc><sg><pos><u>latcommoninfl.us_a_um11</u>
 <u>latcommon.adjn12314</u><u>ls.n12314</u>dana<adj><us_a_um><div><us_a_um><adv>e<pos><u>latcommoninfl.advinfl_us_a_um1</u>
 > danaes
-no result for danaes
+<u>latcommon.nounn12311</u><u>ls.n12311</u>dana<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > danai
 <u>latcommon.adjn12314</u><u>ls.n12314</u>dana<adj><us_a_um><div><us_a_um><adj>i<masc><nom><pl><pos><u>latcommoninfl.us_a_um6</u>
 <u>latcommon.adjn12314</u><u>ls.n12314</u>dana<adj><us_a_um><div><us_a_um><adj>i<masc><gen><sg><pos><u>latcommoninfl.us_a_um2</u>
@@ -4764,6 +4796,8 @@ no result for danaes
 > danaides
 no result for danaides
 > danais
+<u>latcommon.nounn12311</u><u>ls.n12311</u>dana<noun><fem><e_es><div><e_es><noun>is<fem><dat><pl><u>latcommoninfl.e_es8</u>
+<u>latcommon.nounn12311</u><u>ls.n12311</u>dana<noun><fem><e_es><div><e_es><noun>is<fem><abl><pl><u>latcommoninfl.e_es10</u>
 <u>latcommon.adjn12314</u><u>ls.n12314</u>dana<adj><us_a_um><div><us_a_um><adj>is<masc><dat><pl><pos><u>latcommoninfl.us_a_um8</u>
 <u>latcommon.adjn12314</u><u>ls.n12314</u>dana<adj><us_a_um><div><us_a_um><adj>is<masc><abl><pl><pos><u>latcommoninfl.us_a_um10</u>
 <u>latcommon.adjn12314</u><u>ls.n12314</u>dana<adj><us_a_um><div><us_a_um><adj>is<fem><dat><pl><pos><u>latcommoninfl.us_a_um44</u>
@@ -5548,9 +5582,10 @@ no result for diomedem
 > diomedes
 no result for diomedes
 > dione
-no result for dione
+<u>latcommon.nounn14059</u><u>ls.n14059</u>dion<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn14059</u><u>ls.n14059</u>dion<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > diones
-no result for diones
+<u>latcommon.nounn14059</u><u>ls.n14059</u>dion<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > dionysius
 no result for dionysius
 > dionysus
@@ -5564,9 +5599,10 @@ no result for dioxippe
 > dircaeus
 no result for dircaeus
 > dirce
-no result for dirce
+<u>latcommon.nounn14102</u><u>ls.n14102</u>dirc<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn14102</u><u>ls.n14102</u>dirc<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > dircen
-no result for dircen
+<u>latcommon.nounn14102</u><u>ls.n14102</u>dirc<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > discederet
 <u>latcommon.compoundn14145_57</u><u>ls.n14145</u><#>disced<verb><c3pres><div><c3pres><verb>eret<3rd><sg><impft><subj><act><u>latcommon.ere3_c3presimpft15</u>
 > disceptarent
@@ -6404,13 +6440,16 @@ no result for eridanus
 > eride
 no result for eride
 > erigonae
-no result for erigonae
+<u>latcommon.nounn16133</u><u>ls.n16133</u>erigon<noun><fem><e_es><div><e_es><noun>ae<fem><nom><pl><u>latcommoninfl.e_es6</u>
+<u>latcommon.nounn16133</u><u>ls.n16133</u>erigon<noun><fem><e_es><div><e_es><noun>ae<fem><dat><sg><u>latcommoninfl.e_es3</u>
+<u>latcommon.nounn16133</u><u>ls.n16133</u>erigon<noun><fem><e_es><div><e_es><noun>ae<fem><voc><pl><u>latcommoninfl.e_es12</u>
 > erigonam
 no result for erigonam
 > erigone
-no result for erigone
+<u>latcommon.nounn16133</u><u>ls.n16133</u>erigon<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn16133</u><u>ls.n16133</u>erigon<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > erigones
-no result for erigones
+<u>latcommon.nounn16133</u><u>ls.n16133</u>erigon<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > eripere
 <u>latcommon.compoundn16146_64</u><u>ls.n16146</u><#>erip<verb><c3iopres><div><c3iopres><verb>ere<2nd><sg><pres><indic><pass><u>latcommon.ereio_c3ioprespres8b</u>
 <u>latcommon.compoundn16146_64</u><u>ls.n16146</u><#>erip<verb><c3iopres><div><c3iopres><infin>ere<pres><act><u>latcommoninfl.ereio_inf4</u>
@@ -6474,9 +6513,10 @@ no result for escam
 > eteocle
 no result for eteocle
 > eteoclen
-no result for eteoclen
+<u>latcommon.nounn16281</u><u>ls.n16281</u>eteocl<noun><masc><es_is_gk><div><es_is_gk><noun>en<masc><acc><sg><u>latcommoninfl.es_is_gk4</u>
 > eteocles
-no result for eteocles
+<u>latcommon.nounn16281</u><u>ls.n16281</u>eteocl<noun><masc><es_is_gk><div><es_is_gk><noun>es<masc><nom><sg><u>latcommoninfl.es_is_gk1</u>
+<u>latcommon.nounn16281</u><u>ls.n16281</u>eteocl<noun><masc><es_is_gk><div><es_is_gk><noun>es<masc><nom><pl><u>latcommoninfl.es_is_gk6</u>
 > ethionome
 no result for ethionome
 > etiam
@@ -6618,11 +6658,12 @@ no result for eurycliam
 > eurydamas
 no result for eurydamas
 > eurydice
-no result for eurydice
+<u>latcommon.nounn16396</u><u>ls.n16396</u>eurydic<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn16396</u><u>ls.n16396</u>eurydic<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > eurydicen
-no result for eurydicen
+<u>latcommon.nounn16396</u><u>ls.n16396</u>eurydic<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > eurydices
-no result for eurydices
+<u>latcommon.nounn16396</u><u>ls.n16396</u>eurydic<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > eurylochum
 no result for eurylochum
 > eurylochus
@@ -6632,9 +6673,10 @@ no result for eurymedon
 > eurymi
 no result for eurymi
 > eurynome
-no result for eurynome
+<u>latcommon.nounn16401</u><u>ls.n16401</u>eurynom<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn16401</u><u>ls.n16401</u>eurynom<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > eurynomes
-no result for eurynomes
+<u>latcommon.nounn16401</u><u>ls.n16401</u>eurynom<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > eurypylo
 no result for eurypylo
 > eurypylum
@@ -7760,9 +7802,9 @@ no result for furacissimus
 <u>latcommon.nounn19099</u><u>ls.n19099</u>furi<noun><fem><a_ae><div><a_ae><noun>is<fem><dat><pl><u>latcommoninfl.a_ae8</u>
 <u>latcommon.nounn19099</u><u>ls.n19099</u>furi<noun><fem><a_ae><div><a_ae><noun>is<fem><abl><pl><u>latcommoninfl.a_ae10</u>
 > furore
-no result for furore
+<u>latcommon.nounn19124</u><u>ls.n19124</u>furor<noun><masc><0_is><div><0_is><noun>e<masc><abl><sg><u>latcommoninfl.0_is5</u>
 > furoris
-no result for furoris
+<u>latcommon.nounn19124</u><u>ls.n19124</u>furor<noun><masc><0_is><div><0_is><noun>is<masc><gen><sg><u>latcommoninfl.0_is2</u>
 > furto
 no result for furto
 > furtum
@@ -8106,9 +8148,10 @@ no result for harpalicus
 > harpalus
 no result for harpalus
 > harpalyce
-no result for harpalyce
+<u>latcommon.nounn20249</u><u>ls.n20249</u>harpalyc<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn20249</u><u>ls.n20249</u>harpalyc<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > harpalycen
-no result for harpalycen
+<u>latcommon.nounn20249</u><u>ls.n20249</u>harpalyc<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > harpalyci
 no result for harpalyci
 > harpalycum
@@ -8183,9 +8226,10 @@ no result for helie
 > helle
 no result for helle
 > hellen
-no result for hellen
+<u>latcommon.nounn20379</u><u>ls.n20379</u>hellen<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>latcommoninfl.0_is1</u>
+<u>latcommon.nounn20379</u><u>ls.n20379</u>hellen<noun><masc><0_is><div><0_is><noun><masc><voc><sg><u>latcommoninfl.0_is11</u>
 > hellenis
-no result for hellenis
+<u>latcommon.nounn20379</u><u>ls.n20379</u>hellen<noun><masc><0_is><div><0_is><noun>is<masc><gen><sg><u>latcommoninfl.0_is2</u>
 > hellespontum
 no result for hellespontum
 > helymus
@@ -8219,7 +8263,7 @@ no result for hercei
 > hermaphroditus
 no result for hermaphroditus
 > hermionen
-no result for hermionen
+<u>latcommon.nounn20551</u><u>ls.n20551</u>hermion<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > hero
 no result for hero
 > herophilo
@@ -8274,9 +8318,11 @@ no result for hippalcum
 > hipparete
 no result for hipparete
 > hippasi
-no result for hippasi
+<u>latcommon.nounn20719</u><u>ls.n20719</u>hippas<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>livymorph.us_i6</u>
+<u>latcommon.nounn20719</u><u>ls.n20719</u>hippas<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>livymorph.us_i2</u>
+<u>latcommon.nounn20719</u><u>ls.n20719</u>hippas<noun><masc><us_i><div><us_i><noun>i<masc><voc><pl><u>livymorph.us_i12</u>
 > hippasus
-no result for hippasus
+<u>latcommon.nounn20719</u><u>ls.n20719</u>hippas<noun><masc><us_i><div><us_i><noun>us<masc><nom><sg><u>livymorph.us_i1</u>
 > hippea
 no result for hippea
 > hippocoon
@@ -8484,7 +8530,7 @@ no result for hylactor
 > hylaeus
 no result for hylaeus
 > hylas
-no result for hylas
+<u>latcommon.nounn21137</u><u>ls.n21137</u>hyl<noun><masc><as_ae><div><as_ae><noun>as<masc><nom><sg><u>latcommoninfl.as_ae1</u>
 > hyllus
 no result for hyllus
 > hymenaeus
@@ -8512,13 +8558,16 @@ no result for hyperochus
 > hypsei
 no result for hypsei
 > hypsipylae
-no result for hypsipylae
+<u>latcommon.nounn21232</u><u>ls.n21232</u>hypsipyl<noun><fem><e_es><div><e_es><noun>ae<fem><nom><pl><u>latcommoninfl.e_es6</u>
+<u>latcommon.nounn21232</u><u>ls.n21232</u>hypsipyl<noun><fem><e_es><div><e_es><noun>ae<fem><dat><sg><u>latcommoninfl.e_es3</u>
+<u>latcommon.nounn21232</u><u>ls.n21232</u>hypsipyl<noun><fem><e_es><div><e_es><noun>ae<fem><voc><pl><u>latcommoninfl.e_es12</u>
 > hypsipyle
-no result for hypsipyle
+<u>latcommon.nounn21232</u><u>ls.n21232</u>hypsipyl<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn21232</u><u>ls.n21232</u>hypsipyl<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > hypsipylen
-no result for hypsipylen
+<u>latcommon.nounn21232</u><u>ls.n21232</u>hypsipyl<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > hypsipyles
-no result for hypsipyles
+<u>latcommon.nounn21232</u><u>ls.n21232</u>hypsipyl<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > hyrieum
 no result for hyrieum
 > hyrieus
@@ -9692,15 +9741,18 @@ no result for iobatam
 > iobatis
 no result for iobatis
 > iocasta
-no result for iocasta
+<u>latcommon.nounn24836</u><u>ls.n24836</u>iocast<noun><fem><e_es><div><e_es><noun>a<fem><voc><sg><u>latcommoninfl.e_es11</u>
 > iocastae
-no result for iocastae
+<u>latcommon.nounn24836</u><u>ls.n24836</u>iocast<noun><fem><e_es><div><e_es><noun>ae<fem><nom><pl><u>latcommoninfl.e_es6</u>
+<u>latcommon.nounn24836</u><u>ls.n24836</u>iocast<noun><fem><e_es><div><e_es><noun>ae<fem><dat><sg><u>latcommoninfl.e_es3</u>
+<u>latcommon.nounn24836</u><u>ls.n24836</u>iocast<noun><fem><e_es><div><e_es><noun>ae<fem><voc><pl><u>latcommoninfl.e_es12</u>
 > iocaste
-no result for iocaste
+<u>latcommon.nounn24836</u><u>ls.n24836</u>iocast<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn24836</u><u>ls.n24836</u>iocast<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > iocasten
-no result for iocasten
+<u>latcommon.nounn24836</u><u>ls.n24836</u>iocast<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > iocastes
-no result for iocastes
+<u>latcommon.nounn24836</u><u>ls.n24836</u>iocast<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > iocosa
 no result for iocosa
 > iolaus
@@ -9710,9 +9762,10 @@ no result for iolco
 > iolcos
 no result for iolcos
 > iole
-no result for iole
+<u>latcommon.nounn24841</u><u>ls.n24841</u>iol<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn24841</u><u>ls.n24841</u>iol<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > iolen
-no result for iolen
+<u>latcommon.nounn24841</u><u>ls.n24841</u>iol<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > ionium
 no result for ionium
 > iotis
@@ -10429,15 +10482,19 @@ no result for lerni
 > lesbiorum
 no result for lesbiorum
 > leto
-no result for leto
+<u>latcommon.nounn26341</u><u>ls.n26341</u>let<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>latcommon.nounn26341</u><u>ls.n26341</u>let<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
 > letum
-no result for letum
+<u>latcommon.nounn26341</u><u>ls.n26341</u>let<noun><neut><us_i><div><us_i><noun>um<neut><nom><sg><u>livymorph.us_i13</u>
+<u>latcommon.nounn26341</u><u>ls.n26341</u>let<noun><neut><us_i><div><us_i><noun>um<neut><acc><sg><u>livymorph.us_i16</u>
+<u>latcommon.nounn26341</u><u>ls.n26341</u>let<noun><neut><us_i><div><us_i><noun>um<neut><voc><sg><u>livymorph.us_i23</u>
 > leuauit
 no result for leuauit
 > leucippe
-no result for leucippe
+<u>latcommon.nounn26359</u><u>ls.n26359</u>leucipp<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn26359</u><u>ls.n26359</u>leucipp<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > leucippen
-no result for leucippen
+<u>latcommon.nounn26359</u><u>ls.n26359</u>leucipp<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > leucippi
 no result for leucippi
 > leucippus
@@ -10854,9 +10911,10 @@ no result for lycorias
 > lycormam
 no result for lycormam
 > lycothersen
-no result for lycothersen
+<u>latcommon.nounn27363</u><u>ls.n27363</u>lycothers<noun><masc><es_is_gk><div><es_is_gk><noun>en<masc><acc><sg><u>latcommoninfl.es_is_gk4</u>
 > lycotherses
-no result for lycotherses
+<u>latcommon.nounn27363</u><u>ls.n27363</u>lycothers<noun><masc><es_is_gk><div><es_is_gk><noun>es<masc><nom><sg><u>latcommoninfl.es_is_gk1</u>
+<u>latcommon.nounn27363</u><u>ls.n27363</u>lycothers<noun><masc><es_is_gk><div><es_is_gk><noun>es<masc><nom><pl><u>latcommoninfl.es_is_gk6</u>
 > lycum
 <u>latcommon.nounn27366</u><u>ls.n27366</u>lyc<noun><masc><us_i><div><us_i><noun>um<masc><acc><sg><u>livymorph.us_i4</u>
 > lycurgi
@@ -10928,7 +10986,9 @@ no result for maculatam
 > maeandrus
 no result for maeandrus
 > maera
-no result for maera
+<u>latcommon.nounn27564</u><u>ls.n27564</u>maer<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>latcommoninfl.a_ae1</u>
+<u>latcommon.nounn27564</u><u>ls.n27564</u>maer<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>latcommoninfl.a_ae5</u>
+<u>latcommon.nounn27564</u><u>ls.n27564</u>maer<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>latcommoninfl.a_ae11</u>
 > maerens
 no result for maerens
 > magis
@@ -10970,9 +11030,14 @@ no result for magnesius
 > magnus
 <u>latcommon.adjn27649c</u><u>ls.n27649</u>magn<adj><us_a_um_pos><div><us_a_um_pos><adj>us<masc><nom><sg><pos><u>latcommoninfl.us_a_um_pos1</u>
 > maia
-no result for maia
+<u>latcommon.nounn27662</u><u>ls.n27662</u>mai<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>latcommoninfl.a_ae1</u>
+<u>latcommon.nounn27662</u><u>ls.n27662</u>mai<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>latcommoninfl.a_ae5</u>
+<u>latcommon.nounn27662</u><u>ls.n27662</u>mai<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>latcommoninfl.a_ae11</u>
 > maiae
-no result for maiae
+<u>latcommon.nounn27662</u><u>ls.n27662</u>mai<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>latcommoninfl.a_ae6</u>
+<u>latcommon.nounn27662</u><u>ls.n27662</u>mai<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>latcommoninfl.a_ae2</u>
+<u>latcommon.nounn27662</u><u>ls.n27662</u>mai<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>latcommoninfl.a_ae3</u>
+<u>latcommon.nounn27662</u><u>ls.n27662</u>mai<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>latcommoninfl.a_ae12</u>
 > maior
 <u>lat23morph.irregadjn27649b</u><u>ls.n27649</u>maior<masc><nom><sg><comp><irregadj><div><irregadj><u>irreginfl.1</u>
 <u>lat23morph.irregadjn27649g</u><u>ls.n27649</u>maior<fem><nom><sg><comp><irregadj><div><irregadj><u>irreginfl.1</u>
@@ -11061,13 +11126,15 @@ no result for marone
 <u>latcommon.nounn28088</u><u>ls.n28088</u>mar<noun><masc><s_tis><div><s_tis><noun>s<masc><nom><sg><u>latcommoninfl.s_tis1</u>
 <u>latcommon.nounn28088</u><u>ls.n28088</u>mar<noun><masc><s_tis><div><s_tis><noun>s<masc><voc><sg><u>latcommoninfl.s_tis11</u>
 > marsya
-no result for marsya
+<u>latcommon.nounn28097</u><u>ls.n28097</u>marsy<noun><masc><as_ae><div><as_ae><noun>a<masc><abl><sg><u>latcommoninfl.as_ae5</u>
+<u>latcommon.nounn28097</u><u>ls.n28097</u>marsy<noun><masc><as_ae><div><as_ae><noun>a<masc><voc><sg><u>latcommoninfl.as_ae6</u>
 > marsyae
-no result for marsyae
+<u>latcommon.nounn28097</u><u>ls.n28097</u>marsy<noun><masc><as_ae><div><as_ae><noun>ae<masc><gen><sg><u>latcommoninfl.as_ae2</u>
+<u>latcommon.nounn28097</u><u>ls.n28097</u>marsy<noun><masc><as_ae><div><as_ae><noun>ae<masc><dat><sg><u>latcommoninfl.as_ae3</u>
 > marsyan
-no result for marsyan
+<u>latcommon.nounn28097</u><u>ls.n28097</u>marsy<noun><masc><as_ae><div><as_ae><noun>an<masc><acc><sg><u>latcommoninfl.as_ae4b</u>
 > marsyas
-no result for marsyas
+<u>latcommon.nounn28097</u><u>ls.n28097</u>marsy<noun><masc><as_ae><div><as_ae><noun>as<masc><nom><sg><u>latcommoninfl.as_ae1</u>
 > marte
 <u>latcommon.nounn28088</u><u>ls.n28088</u>mar<noun><masc><s_tis><div><s_tis><noun>te<masc><abl><sg><u>latcommoninfl.s_tis5</u>
 > martem
@@ -11136,11 +11203,16 @@ no result for mcc
 > medam
 no result for medam
 > medea
-no result for medea
+<u>latcommon.nounn28296</u><u>ls.n28296</u>mede<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>latcommoninfl.a_ae1</u>
+<u>latcommon.nounn28296</u><u>ls.n28296</u>mede<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>latcommoninfl.a_ae5</u>
+<u>latcommon.nounn28296</u><u>ls.n28296</u>mede<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>latcommoninfl.a_ae11</u>
 > medeae
-no result for medeae
+<u>latcommon.nounn28296</u><u>ls.n28296</u>mede<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>latcommoninfl.a_ae6</u>
+<u>latcommon.nounn28296</u><u>ls.n28296</u>mede<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>latcommoninfl.a_ae2</u>
+<u>latcommon.nounn28296</u><u>ls.n28296</u>mede<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>latcommoninfl.a_ae3</u>
+<u>latcommon.nounn28296</u><u>ls.n28296</u>mede<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>latcommoninfl.a_ae12</u>
 > medeam
-no result for medeam
+<u>latcommon.nounn28296</u><u>ls.n28296</u>mede<noun><fem><a_ae><div><a_ae><noun>am<fem><acc><sg><u>latcommoninfl.a_ae4</u>
 > mederentur
 no result for mederentur
 > mederi
@@ -11206,9 +11278,10 @@ no result for melanchaetes
 > melaneus
 no result for melaneus
 > melanippe
-no result for melanippe
+<u>latcommon.nounn28442</u><u>ls.n28442</u>melanipp<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn28442</u><u>ls.n28442</u>melanipp<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > melanippen
-no result for melanippen
+<u>latcommon.nounn28442</u><u>ls.n28442</u>melanipp<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > melanthio
 no result for melanthio
 > melanthius
@@ -11228,13 +11301,14 @@ no result for meleagrum
 > meliboea
 no result for meliboea
 > melicertae
-no result for melicertae
+<u>latcommon.nounn28476</u><u>ls.n28476</u>melicert<noun><masc><es_ae><div><es_ae><noun>ae<masc><gen><sg><u>latcommoninfl.es_ae2</u>
+<u>latcommon.nounn28476</u><u>ls.n28476</u>melicert<noun><masc><es_ae><div><es_ae><noun>ae<masc><dat><sg><u>latcommoninfl.es_ae3</u>
 > melicerte
-no result for melicerte
+<u>latcommon.nounn28476</u><u>ls.n28476</u>melicert<noun><masc><es_ae><div><es_ae><noun>e<masc><abl><sg><u>latcommoninfl.es_ae5</u>
 > melicerten
-no result for melicerten
+<u>latcommon.nounn28476</u><u>ls.n28476</u>melicert<noun><masc><es_ae><div><es_ae><noun>en<masc><acc><sg><u>latcommoninfl.es_ae4</u>
 > melicertes
-no result for melicertes
+<u>latcommon.nounn28476</u><u>ls.n28476</u>melicert<noun><masc><es_ae><div><es_ae><noun>es<masc><nom><sg><u>latcommoninfl.es_ae1</u>
 > melies
 no result for melies
 > melissei
@@ -11358,11 +11432,12 @@ no result for meriones
 > mermerum
 no result for mermerum
 > merope
-no result for merope
+<u>latcommon.nounn28825</u><u>ls.n28825</u>merop<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn28825</u><u>ls.n28825</u>merop<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > meropen
-no result for meropen
+<u>latcommon.nounn28825</u><u>ls.n28825</u>merop<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > meropes
-no result for meropes
+<u>latcommon.nounn28825</u><u>ls.n28825</u>merop<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > mesembria
 no result for mesembria
 > messene
@@ -11403,11 +11478,12 @@ no result for metuerent
 <u>latcommon.nounn28985</u><u>ls.n28985</u>met<noun><masc><us_us><div><us_us><noun>us<masc><voc><sg><u>latcommoninfl.us_us11</u>
 <u>latcommon.nounn28985</u><u>ls.n28985</u>met<noun><masc><us_us><div><us_us><noun>us<masc><voc><pl><u>latcommoninfl.us_us12</u>
 > midae
-no result for midae
+<u>latcommon.nounn29021</u><u>ls.n29021</u>mid<noun><masc><as_ae><div><as_ae><noun>ae<masc><gen><sg><u>latcommoninfl.as_ae2</u>
+<u>latcommon.nounn29021</u><u>ls.n29021</u>mid<noun><masc><as_ae><div><as_ae><noun>ae<masc><dat><sg><u>latcommoninfl.as_ae3</u>
 > midamum
 no result for midamum
 > midas
-no result for midas
+<u>latcommon.nounn29021</u><u>ls.n29021</u>mid<noun><masc><as_ae><div><as_ae><noun>as<masc><nom><sg><u>latcommoninfl.as_ae1</u>
 > midea
 no result for midea
 > migraret
@@ -12373,21 +12449,24 @@ no result for nilus
 > ninum
 no result for ninum
 > nioba
-no result for nioba
+<u>latcommon.nounn30995</u><u>ls.n30995</u>niob<noun><fem><e_es><div><e_es><noun>a<fem><voc><sg><u>latcommoninfl.e_es11</u>
 > niobae
-no result for niobae
+<u>latcommon.nounn30995</u><u>ls.n30995</u>niob<noun><fem><e_es><div><e_es><noun>ae<fem><nom><pl><u>latcommoninfl.e_es6</u>
+<u>latcommon.nounn30995</u><u>ls.n30995</u>niob<noun><fem><e_es><div><e_es><noun>ae<fem><dat><sg><u>latcommoninfl.e_es3</u>
+<u>latcommon.nounn30995</u><u>ls.n30995</u>niob<noun><fem><e_es><div><e_es><noun>ae<fem><voc><pl><u>latcommoninfl.e_es12</u>
 > niobam
 no result for niobam
 > niobe
-no result for niobe
+<u>latcommon.nounn30995</u><u>ls.n30995</u>niob<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn30995</u><u>ls.n30995</u>niob<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > niobes
-no result for niobes
+<u>latcommon.nounn30995</u><u>ls.n30995</u>niob<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > niobidae
 no result for niobidae
 > nireum
-no result for nireum
+<u>latcommon.nounn31002</u><u>ls.n31002</u>nire<noun><masc><us_i><div><us_i><noun>um<masc><acc><sg><u>livymorph.us_i4</u>
 > nireus
-no result for nireus
+<u>latcommon.nounn31002</u><u>ls.n31002</u>nire<noun><masc><us_i><div><us_i><noun>us<masc><nom><sg><u>livymorph.us_i1</u>
 > nisi
 <u>latcommon.indecln31008</u><u>ls.n31008</u>nisi<indecl><indeclconj><div><indeclconj><indecl><u>indeclinfl.2</u>
 <u>latcommon.verbn31035b</u><u>ls.n31035</u><#>nis<verb><pftpass><div><pftpass><ptcpl>i<masc><nom><pl><pft><pass><u>latcommoninfl.pft_perfppl7</u>
@@ -12654,7 +12733,8 @@ no result for nyctei
 > nycteus
 no result for nycteus
 > nyctimene
-no result for nyctimene
+<u>latcommon.nounn31534</u><u>ls.n31534</u>nyctimen<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn31534</u><u>ls.n31534</u>nyctimen<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > nympha
 <u>latcommon.nounn31537</u><u>ls.n31537</u>nymph<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>latcommoninfl.a_ae1</u>
 <u>latcommon.nounn31537</u><u>ls.n31537</u>nymph<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>latcommoninfl.a_ae5</u>
@@ -12935,7 +13015,9 @@ no result for oeace
 > oeae
 no result for oeae
 > oeagri
-no result for oeagri
+<u>latcommon.nounn32294</u><u>ls.n32294</u>oeagr<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>livymorph.us_i6</u>
+<u>latcommon.nounn32294</u><u>ls.n32294</u>oeagr<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>livymorph.us_i2</u>
+<u>latcommon.nounn32294</u><u>ls.n32294</u>oeagr<noun><masc><us_i><div><us_i><noun>i<masc><voc><pl><u>livymorph.us_i12</u>
 > oebali
 no result for oebali
 > oechalia
@@ -13087,9 +13169,9 @@ no result for operuit
 > opheltes
 no result for opheltes
 > ophiten
-no result for ophiten
+<u>latcommon.nounn32709</u><u>ls.n32709</u>ophit<noun><masc><es_ae><div><es_ae><noun>en<masc><acc><sg><u>latcommoninfl.es_ae4</u>
 > ophites
-no result for ophites
+<u>latcommon.nounn32709</u><u>ls.n32709</u>ophit<noun><masc><es_ae><div><es_ae><noun>es<masc><nom><sg><u>latcommoninfl.es_ae1</u>
 > opis
 <u>latcommon.nounn32834</u><u>ls.n32834</u>op<noun><fem><s_is><div><s_is><noun>is<fem><acc><pl><u>latcommoninfl.s_is21b</u>
 <u>latcommon.nounn32834</u><u>ls.n32834</u>op<noun><fem><s_is><div><s_is><noun>is<fem><gen><sg><u>latcommoninfl.s_is14</u>
@@ -13744,11 +13826,12 @@ no result for peliades
 > peliadum
 no result for peliadum
 > peliae
-no result for peliae
+<u>latcommon.nounn34408</u><u>ls.n34408</u>peli<noun><masc><as_ae><div><as_ae><noun>ae<masc><gen><sg><u>latcommoninfl.as_ae2</u>
+<u>latcommon.nounn34408</u><u>ls.n34408</u>peli<noun><masc><as_ae><div><as_ae><noun>ae<masc><dat><sg><u>latcommoninfl.as_ae3</u>
 > pelian
-no result for pelian
+<u>latcommon.nounn34408</u><u>ls.n34408</u>peli<noun><masc><as_ae><div><as_ae><noun>an<masc><acc><sg><u>latcommoninfl.as_ae4b</u>
 > pelias
-no result for pelias
+<u>latcommon.nounn34408</u><u>ls.n34408</u>peli<noun><masc><as_ae><div><as_ae><noun>as<masc><nom><sg><u>latcommoninfl.as_ae1</u>
 > pelion
 no result for pelion
 > pellant
@@ -13805,11 +13888,12 @@ no result for penei
 > peneleus
 no result for peneleus
 > penelope
-no result for penelope
+<u>latcommon.nounn34491</u><u>ls.n34491</u>penelop<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn34491</u><u>ls.n34491</u>penelop<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > penelopen
-no result for penelopen
+<u>latcommon.nounn34491</u><u>ls.n34491</u>penelop<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > penelopes
-no result for penelopes
+<u>latcommon.nounn34491</u><u>ls.n34491</u>penelop<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > pennas
 <u>latcommon.nounn34513</u><u>ls.n34513</u>penn<noun><fem><a_ae><div><a_ae><noun>as<fem><acc><pl><u>latcommoninfl.a_ae9</u>
 > pennatae
@@ -14251,9 +14335,11 @@ no result for philammonem
 > philinum
 no result for philinum
 > philocteta
-no result for philocteta
+<u>latcommon.nounn36036</u><u>ls.n36036</u>philoctet<noun><masc><es_ae><div><es_ae><noun>a<masc><nom><sg><u>latcommoninfl.es_ae1b</u>
+<u>latcommon.nounn36036</u><u>ls.n36036</u>philoctet<noun><masc><es_ae><div><es_ae><noun>a<masc><abl><sg><u>latcommoninfl.es_ae5b</u>
+<u>latcommon.nounn36036</u><u>ls.n36036</u>philoctet<noun><masc><es_ae><div><es_ae><noun>a<masc><voc><sg><u>latcommoninfl.es_ae6</u>
 > philoctetes
-no result for philoctetes
+<u>latcommon.nounn36036</u><u>ls.n36036</u>philoctet<noun><masc><es_ae><div><es_ae><noun>es<masc><nom><sg><u>latcommoninfl.es_ae1</u>
 > philocteti
 no result for philocteti
 > philomela
@@ -14309,11 +14395,12 @@ no result for phoebe
 > phoeben
 no result for phoeben
 > phoenice
-no result for phoenice
+<u>latcommon.nounn36131</u><u>ls.n36131</u>phoeni<noun><masc><x_cis><div><x_cis><noun>ce<masc><abl><sg><u>latcommoninfl.x_cis5</u>
 > phoenicis
-no result for phoenicis
+<u>latcommon.nounn36131</u><u>ls.n36131</u>phoeni<noun><masc><x_cis><div><x_cis><noun>cis<masc><gen><sg><u>latcommoninfl.x_cis2</u>
 > phoenix
-no result for phoenix
+<u>latcommon.nounn36131</u><u>ls.n36131</u>phoeni<noun><masc><x_cis><div><x_cis><noun>x<masc><nom><sg><u>latcommoninfl.x_cis1</u>
+<u>latcommon.nounn36131</u><u>ls.n36131</u>phoeni<noun><masc><x_cis><div><x_cis><noun>x<masc><voc><sg><u>latcommoninfl.x_cis11</u>
 > pholoen
 no result for pholoen
 > phorbantis
@@ -14646,11 +14733,12 @@ no result for polybus
 > polydamas
 no result for polydamas
 > polydectae
-no result for polydectae
+<u>latcommon.nounn36915</u><u>ls.n36915</u>polydect<noun><masc><es_ae><div><es_ae><noun>ae<masc><gen><sg><u>latcommoninfl.es_ae2</u>
+<u>latcommon.nounn36915</u><u>ls.n36915</u>polydect<noun><masc><es_ae><div><es_ae><noun>ae<masc><dat><sg><u>latcommoninfl.es_ae3</u>
 > polydectem
 no result for polydectem
 > polydectes
-no result for polydectes
+<u>latcommon.nounn36915</u><u>ls.n36915</u>polydect<noun><masc><es_ae><div><es_ae><noun>es<masc><nom><sg><u>latcommoninfl.es_ae1</u>
 > polydectorem
 no result for polydectorem
 > polydora
@@ -14684,13 +14772,15 @@ no result for polymnestori
 > polymnestoris
 no result for polymnestoris
 > polynicen
-no result for polynicen
+<u>latcommon.nounn36940</u><u>ls.n36940</u>polynic<noun><masc><es_is_gk><div><es_is_gk><noun>en<masc><acc><sg><u>latcommoninfl.es_is_gk4</u>
 > polynices
-no result for polynices
+<u>latcommon.nounn36940</u><u>ls.n36940</u>polynic<noun><masc><es_is_gk><div><es_is_gk><noun>es<masc><nom><sg><u>latcommoninfl.es_is_gk1</u>
+<u>latcommon.nounn36940</u><u>ls.n36940</u>polynic<noun><masc><es_is_gk><div><es_is_gk><noun>es<masc><nom><pl><u>latcommoninfl.es_is_gk6</u>
 > polynici
-no result for polynici
+<u>latcommon.nounn36940</u><u>ls.n36940</u>polynic<noun><masc><es_is_gk><div><es_is_gk><noun>i<masc><dat><sg><u>latcommoninfl.es_is_gk3</u>
+<u>latcommon.nounn36940</u><u>ls.n36940</u>polynic<noun><masc><es_is_gk><div><es_is_gk><noun>i<masc><abl><sg><u>latcommoninfl.es_is_gk5</u>
 > polynicis
-no result for polynicis
+<u>latcommon.nounn36940</u><u>ls.n36940</u>polynic<noun><masc><es_is_gk><div><es_is_gk><noun>is<masc><gen><sg><u>latcommoninfl.es_is_gk2</u>
 > polyphemum
 no result for polyphemum
 > polyphemus
@@ -15287,9 +15377,10 @@ no result for progeniem
 > progenies
 no result for progenies
 > progne
-no result for progne
+<u>latcommon.nounn38671</u><u>ls.n38671</u>progn<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn38671</u><u>ls.n38671</u>progn<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > prognen
-no result for prognen
+<u>latcommon.nounn38671</u><u>ls.n38671</u>progn<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > progrederetur
 no result for progrederetur
 > progressa
@@ -16770,9 +16861,12 @@ no result for secuit
 <u>latcommon.adjn43273</u><u>ls.n43273</u>secund<adj><us_a_um><div><us_a_um><adj>um<neut><acc><sg><pos><u>latcommoninfl.us_a_um78</u>
 <u>latcommon.adjn43273</u><u>ls.n43273</u>secund<adj><us_a_um><div><us_a_um><adj>um<neut><voc><sg><pos><u>latcommoninfl.us_a_um85</u>
 > securam
-no result for securam
+<u>latcommon.adjn43283</u><u>ls.n43283</u>secur<adj><us_a_um><div><us_a_um><adj>am<fem><acc><sg><pos><u>latcommoninfl.us_a_um40</u>
 > securi
-no result for securi
+<u>latcommon.adjn43283</u><u>ls.n43283</u>secur<adj><us_a_um><div><us_a_um><adj>i<masc><nom><pl><pos><u>latcommoninfl.us_a_um6</u>
+<u>latcommon.adjn43283</u><u>ls.n43283</u>secur<adj><us_a_um><div><us_a_um><adj>i<masc><gen><sg><pos><u>latcommoninfl.us_a_um2</u>
+<u>latcommon.adjn43283</u><u>ls.n43283</u>secur<adj><us_a_um><div><us_a_um><adj>i<masc><voc><pl><pos><u>latcommoninfl.us_a_um12</u>
+<u>latcommon.adjn43283</u><u>ls.n43283</u>secur<adj><us_a_um><div><us_a_um><adj>i<neut><gen><sg><pos><u>latcommoninfl.us_a_um76</u>
 > secus
 no result for secus
 > secuta
@@ -16829,13 +16923,16 @@ no result for semedustum
 > semel
 <u>latcommon.irregadvn43412</u><u>ls.n43412</u>semel<pos><irregadv><div><irregadv><u>irreginfl.2</u>
 > semelae
-no result for semelae
+<u>latcommon.nounn43413</u><u>ls.n43413</u>semel<noun><fem><e_es><div><e_es><noun>ae<fem><nom><pl><u>latcommoninfl.e_es6</u>
+<u>latcommon.nounn43413</u><u>ls.n43413</u>semel<noun><fem><e_es><div><e_es><noun>ae<fem><dat><sg><u>latcommoninfl.e_es3</u>
+<u>latcommon.nounn43413</u><u>ls.n43413</u>semel<noun><fem><e_es><div><e_es><noun>ae<fem><voc><pl><u>latcommoninfl.e_es12</u>
 > semele
-no result for semele
+<u>latcommon.nounn43413</u><u>ls.n43413</u>semel<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn43413</u><u>ls.n43413</u>semel<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > semelen
-no result for semelen
+<u>latcommon.nounn43413</u><u>ls.n43413</u>semel<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > semeles
-no result for semeles
+<u>latcommon.nounn43413</u><u>ls.n43413</u>semel<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > sementem
 no result for sementem
 > semine
@@ -17254,11 +17351,13 @@ no result for sipylus
 > sirenas
 no result for sirenas
 > sirenes
-no result for sirenes
+<u>latcommon.nounn44450</u><u>ls.n44450</u>siren<noun><fem><0_is><div><0_is><noun>es<fem><nom><pl><u>latcommoninfl.0_is6f</u>
+<u>latcommon.nounn44450</u><u>ls.n44450</u>siren<noun><fem><0_is><div><0_is><noun>es<fem><acc><pl><u>latcommoninfl.0_is9f</u>
+<u>latcommon.nounn44450</u><u>ls.n44450</u>siren<noun><fem><0_is><div><0_is><noun>es<fem><voc><pl><u>latcommoninfl.0_is12f</u>
 > sirenides
 no result for sirenides
 > sirenum
-no result for sirenum
+<u>latcommon.nounn44450</u><u>ls.n44450</u>siren<noun><fem><0_is><div><0_is><noun>um<fem><gen><pl><u>latcommoninfl.0_is7f</u>
 > sisyphi
 no result for sisyphi
 > sisypho
@@ -18409,11 +18508,12 @@ no result for theonoe
 > theonoen
 no result for theonoen
 > theophane
-no result for theophane
+<u>latcommon.nounn48135</u><u>ls.n48135</u>theophan<noun><fem><e_es><div><e_es><noun>e<fem><nom><sg><u>latcommoninfl.e_es1</u>
+<u>latcommon.nounn48135</u><u>ls.n48135</u>theophan<noun><fem><e_es><div><e_es><noun>e<fem><abl><sg><u>latcommoninfl.e_es5</u>
 > theophanen
-no result for theophanen
+<u>latcommon.nounn48135</u><u>ls.n48135</u>theophan<noun><fem><e_es><div><e_es><noun>en<fem><acc><sg><u>latcommoninfl.e_es4</u>
 > theophanes
-no result for theophanes
+<u>latcommon.nounn48135</u><u>ls.n48135</u>theophan<noun><fem><e_es><div><e_es><noun>es<fem><gen><sg><u>latcommoninfl.e_es2</u>
 > thera
 no result for thera
 > therbeeo
@@ -18593,13 +18693,15 @@ no result for tinguere
 > tiphys
 no result for tiphys
 > tiresia
-no result for tiresia
+<u>latcommon.nounn48408</u><u>ls.n48408</u>tiresi<noun><masc><as_ae><div><as_ae><noun>a<masc><abl><sg><u>latcommoninfl.as_ae5</u>
+<u>latcommon.nounn48408</u><u>ls.n48408</u>tiresi<noun><masc><as_ae><div><as_ae><noun>a<masc><voc><sg><u>latcommoninfl.as_ae6</u>
 > tiresiae
-no result for tiresiae
+<u>latcommon.nounn48408</u><u>ls.n48408</u>tiresi<noun><masc><as_ae><div><as_ae><noun>ae<masc><gen><sg><u>latcommoninfl.as_ae2</u>
+<u>latcommon.nounn48408</u><u>ls.n48408</u>tiresi<noun><masc><as_ae><div><as_ae><noun>ae<masc><dat><sg><u>latcommoninfl.as_ae3</u>
 > tiresiam
-no result for tiresiam
+<u>latcommon.nounn48408</u><u>ls.n48408</u>tiresi<noun><masc><as_ae><div><as_ae><noun>am<masc><acc><sg><u>latcommoninfl.as_ae4</u>
 > tiresias
-no result for tiresias
+<u>latcommon.nounn48408</u><u>ls.n48408</u>tiresi<noun><masc><as_ae><div><as_ae><noun>as<masc><nom><sg><u>latcommoninfl.as_ae1</u>
 > tisamenus
 no result for tisamenus
 > tisiphone
@@ -18954,13 +19056,14 @@ no result for tyndareo
 > tyndareus
 no result for tyndareus
 > typhon
-no result for typhon
+<u>latcommon.nounn49580</u><u>ls.n49580</u>typhon<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>latcommoninfl.0_is1</u>
+<u>latcommon.nounn49580</u><u>ls.n49580</u>typhon<noun><masc><0_is><div><0_is><noun><masc><voc><sg><u>latcommoninfl.0_is11</u>
 > typhone
-no result for typhone
+<u>latcommon.nounn49580</u><u>ls.n49580</u>typhon<noun><masc><0_is><div><0_is><noun>e<masc><abl><sg><u>latcommoninfl.0_is5</u>
 > typhonem
-no result for typhonem
+<u>latcommon.nounn49580</u><u>ls.n49580</u>typhon<noun><masc><0_is><div><0_is><noun>em<masc><acc><sg><u>latcommoninfl.0_is4</u>
 > typhonis
-no result for typhonis
+<u>latcommon.nounn49580</u><u>ls.n49580</u>typhon<noun><masc><0_is><div><0_is><noun>is<masc><gen><sg><u>latcommoninfl.0_is2</u>
 > tyranno
 no result for tyranno
 > tyrannum
@@ -19675,11 +19778,13 @@ no result for ulyxe
 > umbra
 no result for umbra
 > umeris
-no result for umeris
+<u>latcommon.nounn49715</u><u>ls.n49715</u>umer<noun><masc><us_i><div><us_i><noun>is<masc><dat><pl><u>livymorph.us_i8</u>
+<u>latcommon.nounn49715</u><u>ls.n49715</u>umer<noun><masc><us_i><div><us_i><noun>is<masc><abl><pl><u>livymorph.us_i10</u>
 > umero
-no result for umero
+<u>latcommon.nounn49715</u><u>ls.n49715</u>umer<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>livymorph.us_i3</u>
+<u>latcommon.nounn49715</u><u>ls.n49715</u>umer<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>livymorph.us_i5</u>
 > umeros
-no result for umeros
+<u>latcommon.nounn49715</u><u>ls.n49715</u>umer<noun><masc><us_i><div><us_i><noun>os<masc><acc><pl><u>livymorph.us_i9</u>
 > una
 <u>latcommon.irregadjn49871</u><u>ls.n49871</u>una<fem><nom><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
 <u>latcommon.irregadjn49871</u><u>ls.n49871</u>una<fem><abl><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
@@ -19922,7 +20027,7 @@ no result for zelum
 > zephyrus
 no result for zephyrus
 > zetes
-no result for zetes
+<u>latcommon.nounn51541</u><u>ls.n51541</u>zet<noun><masc><es_ae><div><es_ae><noun>es<masc><nom><sg><u>latcommoninfl.es_ae1</u>
 > zethes
 no result for zethes
 > zethus
