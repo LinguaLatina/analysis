@@ -564,7 +564,6 @@ antippi
 antiqui
 antro
 anum
-apellati
 aperiri
 aperto
 aperuissent
@@ -6137,7 +6136,6 @@ quanquam
 quanta
 quantam
 quantum
-quare
 quarto
 quartum
 quarum
@@ -7733,4 +7731,3 @@ zeuxippes
 zminthei
 zminthen
 zmyrnae
-que
