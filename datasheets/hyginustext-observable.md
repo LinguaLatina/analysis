@@ -1,23 +1,21 @@
-# Citable text of Hyginus formatted for use in Observable notebook:  datasheet
+# Citable text of Hyginus' *Fabulae* formatted for use in Observable notebook:  datasheet
 
 ## (1) Motivation
 
-- purpose
-- creators
-- support
+This data set is for use in observable notebooks in this collection https://observablehq.com/collection/@neelsmith/latin.
+
+It was created by Neel Smith as part of his work as a professor of Classics at the College of the Holy Cross.
 
 
 ## (2) Composition
 
-- what does an instance represent?
-- how many instances are there in total?
-- does the dataset contain all possible instances or is it a sample? If a sample, what is the larger set, and is the sample representative?
-- what does each instance consist of?
-- is there a classifying label on each instance?
-- are there relations among instances?
-- errors, sources of noise, redundancies?
-- is the dataset self-contained?  if it relies on external resources, what are archival long-term versions?
-- confidential or sensitive data?
+Each instance in the collection represents a canonically citable note in the text of Hyginus' *Fabulae*.  There are 1234 citable nodes, providing complete coverage of the *Fabulae*.
+
+Each instance is represented by:
+
+- A passage reference.  This value is the passage component of the CTS URN for the passage.
+- A URL to the online text of the passage in this text of Hyginus: https://lingualatina.github.io/texts/browsable/hyginus/toc/
+- The text contents of the citable node.
 
 
 ## (3) Collection
@@ -47,8 +45,7 @@
 ## (6) Distribution
 
 
-- how is the dataset dsitributed? (E.g, github repo)
-- when will it be distributioned?
+Currently available:  https://github.com/LinguaLatina/courses/blob/master/data/hyginus-w-urls.tsv
 - legal license?
 
 
