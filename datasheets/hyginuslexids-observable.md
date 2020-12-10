@@ -47,7 +47,7 @@
 ## (6) Distribution
 
 
-- how is the dataset dsitributed? (E.g, github repo)
+- how is the dataset dsitributed? (E.g, github repo) https://raw.githubusercontent.com/LinguaLatina/courses/master/data/lexemes.csv
 - when will it be distributioned?
 - legal license?
 
