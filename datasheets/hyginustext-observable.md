@@ -13,12 +13,18 @@ Each instance in the collection represents a canonically citable note in the tex
 
 Each instance is represented by:
 
-- A passage reference.  This value is the passage component of the CTS URN for the passage.
 - A URL to the online text of the passage in this text of Hyginus: https://lingualatina.github.io/texts/browsable/hyginus/toc/
+- A passage reference.  This value is the passage component of the CTS URN for the passage.
 - The text contents of the citable node.
 
 
 ## (3) Collection
+
+The data set is a transformation of the CEX edition edition of Hyginus at ...
+
+It was created with the scala script `scripts/text-for-observable.sc` in this repository.
+
+
 
 - how was data for each instance collected?
 - what means were used to collect data?
@@ -56,4 +62,4 @@ Currently available:  https://github.com/LinguaLatina/courses/blob/master/data/h
 - issue tracker for submitting errors
 - will it be updated? how often, by whom, and how are updates communicated?
 - will older versions of the data set continue to be hosted?
-- is there a mechanism for others to contribute/extend the dat set?
+- is there a mechanism for others to contribute/extend the data set?
