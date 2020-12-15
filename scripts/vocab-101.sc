@@ -9,24 +9,29 @@ import edu.holycross.shot.latincorpus._
 import edu.holycross.shot.tabulae._
 import scala.io.Source
 
-val vocabFiles : Map[Int, String] = Map(
-  1 -> "https://raw.githubusercontent.com/LinguaLatina/textbook/master/vocablists/01-nouns-adjs-pron.cex",
-  2 -> "https://raw.githubusercontent.com/LinguaLatina/textbook/master/vocablists/02-verbs.cex",
-  3 -> "https://raw.githubusercontent.com/LinguaLatina/textbook/master/vocablists/03-place-and-time.cex",
-  4 -> "https://raw.githubusercontent.com/LinguaLatina/textbook/master/vocablists/04-verbal-nouns-and-adjectives.cex",
-  5 -> "https://raw.githubusercontent.com/LinguaLatina/textbook/master/vocablists/05-questions.cex",
-  6 -> "https://raw.githubusercontent.com/LinguaLatina/textbook/master/vocablists/06-indirect-statement.cex",
-  7 -> "https://raw.githubusercontent.com/LinguaLatina/textbook/master/vocablists/07-miscellany.cex"
-)
 
 val hyginusUrl = "https://raw.githubusercontent.com/LinguaLatina/analysis/master/data/hyginus/hyginus-latc.cex"
 val hyginus = LatinCorpus.fromUrl(hyginusUrl)
 val tokens = hyginus.tokens.filter(_.text.head.isLower)
 val total = tokens.size
 
+
+
+val vocabFile = "https://raw.githubusercontent.com/LinguaLatina/analysis/master/data/latin101/vocab101-ided.txt"
+val vocab = Source.fromURL(vocabFile).getLines.toVector
+
+def lexemeIds(vocabList: Vector[String] = vocab): Vector[String] = {
+  val lexemeIds = vocabList.map(vocab => {
+
+  })
+  lexemeIds.filterNot(v => tempOmit.contains(v))
+}
+
+
 // Lexemes causing some sort of issue in analysis?
 // Check out individually in morphology repo, and revisit this script.
 // Meanwhile, omit these from analysis. :-(
+/*
 val tempOmit = List(
   "ls.n28054", //:maritus1
   "ls.n49983",
@@ -41,7 +46,7 @@ val tempOmit = List(
   "ls.n19471", // genu
   "s.n27977" // some kind of typo
 )
-
+*/
 
 /*
 val totalAnalyzed = tokens.filter(_.analyses.nonEmpty).size
@@ -54,6 +59,7 @@ val analysisPct = BigDecimal(analysisCoverage).setScale(1, BigDecimal.RoundingMo
 // Read all data lines for vocabulary entries through a specified unit.
 //
 // vocabUnit: read vocab through this unit
+
 def dataForUnit(vocabUnit: Int) : Vector[String] = {
   val vocab = for (i <- 1 to vocabUnit) yield {
     println(s"Loading data for unit ${i} ...")
