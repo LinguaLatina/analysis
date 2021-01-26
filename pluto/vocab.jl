@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.12.18
+# v0.12.19
 
 using Markdown
 using InteractiveUtils
@@ -41,7 +41,7 @@ end
 md"Define environment in hidden cell."
 
 # ╔═╡ dfb69194-5fd8-11eb-2bad-e7e6201ff5aa
-md"## Vocabulary in Hyginus, take 2"
+md"> ## Understanding vocabulary in Hyginus"
 
 # ╔═╡ 6aa1f1f0-6021-11eb-16b5-2b4910b3683d
 md"Size of image: $(@bind w Slider(300:1000, show_value=false))"
@@ -165,6 +165,20 @@ lexcounts = begin
 	sort(collect(lexmap), by=pr->pr[2], rev=true)
 end
 
+# ╔═╡ d42bc94e-6022-11eb-30c6-23ff859c6bde
+md"""
+
+Entry at position $(vocabsize) in the sorted vocabulary list:
+
+- **$(lexcounts[vocabsize][1])** 
+- appears **$(lexcounts[vocabsize][2])** times
+
+"""
+
+
+
+
+
 # ╔═╡ 15bda764-601a-11eb-2867-ddbce7a2d57a
 md"Cumulative totals for counts in `lexcounts`"
 
@@ -185,9 +199,9 @@ end
 # ╔═╡ dc57ce5e-6010-11eb-3f8d-416724626481
 md"""
 
-| Vocabulary size | Tokens recognized | Percent of tokens in Hyginus | 
+| Vocabulary size | Tokens recognized | Pct. of tokens in Hyginus | 
 | --- | --- | --- |
-| **$(vocabsize)** | $(runningtotals[vocabsize]) | **$(coverage)%** |
+| **$(vocabsize)** | $(runningtotals[vocabsize]) | **$(coverage(vocabsize))%** |
 
 """
 
@@ -196,13 +210,8 @@ md"""
 
 
 # ╔═╡ bd529052-6010-11eb-3fb5-9bfd390f722d
-ys = begin
-	#	map(le -> convert(Int64, round(100 * (countForVocab(le)  / numlexicaltokens))) , Vector(xs))
-		
-		#tokencount = runningtotals[vocabsize]
-	#pctPossibleLexemes(tokencount)
-	map(le -> coverage(le), Vector(xs))
-end
+ys = map(le -> coverage(le), Vector(xs))
+
 
 # ╔═╡ 949a3fc0-6010-11eb-1ace-d151b0a1427a
 begin
@@ -246,6 +255,7 @@ md"""
 # ╟─6c915066-5ff4-11eb-30ce-7b604d2dec6b
 # ╟─d5cc52f8-6010-11eb-0233-e9f98aec288d
 # ╟─dc57ce5e-6010-11eb-3f8d-416724626481
+# ╟─d42bc94e-6022-11eb-30c6-23ff859c6bde
 # ╟─949a3fc0-6010-11eb-1ace-d151b0a1427a
 # ╟─6aa1f1f0-6021-11eb-16b5-2b4910b3683d
 # ╟─a3e6cf7a-6010-11eb-0ffb-316b3fe61315
@@ -263,7 +273,7 @@ md"""
 # ╟─af9e0874-6017-11eb-101f-9bc1126a3314
 # ╟─8b3f7954-6001-11eb-176b-2d5282839751
 # ╟─ea7b3b26-601f-11eb-21a5-0f8b5d2d10d2
-# ╠═829df2f8-601f-11eb-2c80-7d6d5cec6423
+# ╟─829df2f8-601f-11eb-2c80-7d6d5cec6423
 # ╟─4713512e-5fd9-11eb-06d6-2ba2419c6252
 # ╟─58134b9c-5fe5-11eb-35a0-cf70533dda53
 # ╟─6c9033b6-5fe5-11eb-3a26-03358ad850bd
