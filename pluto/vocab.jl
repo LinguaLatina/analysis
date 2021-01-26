@@ -21,19 +21,22 @@ begin
 	
 	using CSV
 	using DataFrames
-	using FreqTables
+	using Plots
 	
 	using PlutoUI
 end
 
 # ╔═╡ ce71a030-5f66-11eb-2933-cbbf363195c4
-md"Define environment:"
+md"Define environment in a hidden cell."
 
 # ╔═╡ 2df7cf52-5e9f-11eb-0bbe-e908323d7e36
 md"## Understanding vocabulary usage in Hyginus"
 
 # ╔═╡ cb3d8762-5f75-11eb-2c5d-a91387f8dca7
 md"### How much coverage does a vocabulary set offer?"
+
+# ╔═╡ 19f22bb0-5fc1-11eb-00de-d1ec4ba1a1d3
+md"Width of graph display: $(@bind w Slider(300:1000, show_value=false))"
 
 # ╔═╡ 03c5a9b6-5f76-11eb-2f11-579e5d662fb5
 md"""
@@ -56,10 +59,13 @@ numanalyzedtokens = 24320 # analyzedTokens.distinct.size
 
 # ╔═╡ 8fbdc3f2-5fb6-11eb-0d63-fb876e8634ab
 # Number of distinct lexemes in analzyed tokens
-numlexemes = 1304 # lextriplets.map(_.lexeme).distinct.size
+numlexemes = 1303 # lextriplets.map(_.lexeme).distinct.size
 
 # ╔═╡ edb03bda-5f66-11eb-0bf6-a78257aad06d
 md"Size of vocabulary: $(@bind vocabsize Slider(100:numlexemes, show_value=true))"
+
+# ╔═╡ 74b67f6e-5fbd-11eb-0bef-87c5684f65af
+xs = 1:numlexemes
 
 # ╔═╡ e4e12b0a-5fb7-11eb-051c-850cdfe3ef70
 numforms = 8129 # lextriplets.map(_.token).distinct.size
@@ -106,12 +112,33 @@ totalanalyzed = sum(hyginuscounts[1:vocabsize, :count])
 # ╔═╡ 09e5fb2c-5f6a-11eb-2d1b-291631a1e70b
 md"""
 
-| Vocabulary size | Tokens recognized | Percent of Hyginus | 
+| Vocabulary size | Tokens recognized | Percent of tokens in Hyginus | 
 | --- | --- | --- |
 | **$(vocabsize)** |   **$(totalanalyzed)** |    **$(round(100.0 * totalanalyzed / numlexicaltokens, digits=2))**%  | 
 
 
 """
+
+# ╔═╡ 21ccf17e-5fc0-11eb-3795-110394f98059
+function countForVocab(nlex)
+	sum(hyginuscounts[1:nlex, :count])
+end
+
+# ╔═╡ 5026601a-5fbd-11eb-2641-d708665ff94d
+ys =   begin
+	# totalanalyzed = sum(hyginuscounts[1:vocabsize, :count])
+	map(le -> convert(Int64, round(100 * (countForVocab(le)  / numlexicaltokens))) , Vector(xs))
+		
+		
+	#convert(Int64, round(100 * (countForVocab(le) / numlexicaltokens)), Vector(xs))
+end
+
+
+# ╔═╡ 0e64ecbe-5fbd-11eb-0405-955ddac49137
+begin
+	plotly()
+	plot(xs, ys, legend=false, xlabel="Vocabulary size", ylabel="Percent covered", size=(w,w), title="Percent coverage for vocabulary size")
+end
 
 # ╔═╡ 2ed426e6-5f67-11eb-0ccc-25d754113f40
 selectedVocab = countsdf[1:vocabsize,:]
@@ -149,6 +176,12 @@ tokensdf = tokensraw |> DataFrame
 # ╟─cb3d8762-5f75-11eb-2c5d-a91387f8dca7
 # ╟─edb03bda-5f66-11eb-0bf6-a78257aad06d
 # ╟─09e5fb2c-5f6a-11eb-2d1b-291631a1e70b
+# ╟─19f22bb0-5fc1-11eb-00de-d1ec4ba1a1d3
+# ╟─0e64ecbe-5fbd-11eb-0405-955ddac49137
+# ╟─74b67f6e-5fbd-11eb-0bef-87c5684f65af
+# ╟─5026601a-5fbd-11eb-2641-d708665ff94d
+# ╠═7171d82e-5f6a-11eb-1afd-292ac77357a7
+# ╠═21ccf17e-5fc0-11eb-3795-110394f98059
 # ╟─03c5a9b6-5f76-11eb-2f11-579e5d662fb5
 # ╟─b18c1eb4-5f77-11eb-31c4-5db8a9eb94b5
 # ╟─fcbbca96-5f65-11eb-0927-ab39c4c9a6be
@@ -160,7 +193,6 @@ tokensdf = tokensraw |> DataFrame
 # ╟─c207882e-5f65-11eb-0f30-8bcf139992bd
 # ╟─d4c5914c-5f65-11eb-35f5-3fdac4f7fc6d
 # ╟─890c8ae0-5f67-11eb-1371-37519971f572
-# ╠═7171d82e-5f6a-11eb-1afd-292ac77357a7
 # ╠═ebfea0f2-5f67-11eb-26c1-454e4c6b9c8e
 # ╠═2ed426e6-5f67-11eb-0ccc-25d754113f40
 # ╠═df1c060c-5fb9-11eb-2ea3-9d3a870894a5
