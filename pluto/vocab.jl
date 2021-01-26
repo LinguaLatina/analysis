@@ -174,8 +174,8 @@ selectedVocab = countsdf[1:vocabsize,:]
 # ╟─74b67f6e-5fbd-11eb-0bef-87c5684f65af
 # ╟─5026601a-5fbd-11eb-2641-d708665ff94d
 # ╟─21ccf17e-5fc0-11eb-3795-110394f98059
-# ╟─355b40c0-5fc2-11eb-2ce6-d36125a7db68
-# ╟─7171d82e-5f6a-11eb-1afd-292ac77357a7
+# ╠═355b40c0-5fc2-11eb-2ce6-d36125a7db68
+# ╠═7171d82e-5f6a-11eb-1afd-292ac77357a7
 # ╟─2c52a2f0-5fc2-11eb-2118-91428e133a53
 # ╟─a17e1e1c-5fc2-11eb-0c0c-c384b3ffb4a7
 # ╟─03c5a9b6-5f76-11eb-2f11-579e5d662fb5
@@ -186,8 +186,8 @@ selectedVocab = countsdf[1:vocabsize,:]
 # ╟─e4e12b0a-5fb7-11eb-051c-850cdfe3ef70
 # ╟─6c1f6cc6-5fb8-11eb-31f0-4338cc1bd02d
 # ╟─be87d070-5f77-11eb-21ce-7f37ad0bc402
-# ╠═c207882e-5f65-11eb-0f30-8bcf139992bd
-# ╠═d4c5914c-5f65-11eb-35f5-3fdac4f7fc6d
+# ╟─c207882e-5f65-11eb-0f30-8bcf139992bd
+# ╟─d4c5914c-5f65-11eb-35f5-3fdac4f7fc6d
 # ╟─890c8ae0-5f67-11eb-1371-37519971f572
 # ╟─ebfea0f2-5f67-11eb-26c1-454e4c6b9c8e
 # ╠═2ed426e6-5f67-11eb-0ccc-25d754113f40
