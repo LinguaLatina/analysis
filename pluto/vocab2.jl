@@ -41,7 +41,7 @@ end
 md"Define environment in hidden cell."
 
 # ╔═╡ dfb69194-5fd8-11eb-2bad-e7e6201ff5aa
-md"Vocabulary in Hyginus, take 2"
+md"## Vocabulary in Hyginus, take 2"
 
 # ╔═╡ 949a3fc0-6010-11eb-1ace-d151b0a1427a
 begin
@@ -62,7 +62,7 @@ end
 md"> Compute overview of Hyginus"
 
 # ╔═╡ af9e0874-6017-11eb-101f-9bc1126a3314
-
+md"> What-if functions"
 
 # ╔═╡ 4713512e-5fd9-11eb-06d6-2ba2419c6252
 md"> ### Loading data"
@@ -75,26 +75,13 @@ tknanalysisfile =  pwd() * "/pluto-token-analyses.cex"
 tknanalysesdf = CSV.File(tknanalysisfile, skipto=2, delim="|") |> DataFrame
 
 # ╔═╡ 5eb787e6-5fd9-11eb-3fc3-81912954efb6
-numlexemes = length(unique(tknanalysesdf[:, :lexeme]))
+numlexemes = length(unique(tknanalysesdf[:, :lexeme])) - 1
 
 # ╔═╡ d5cc52f8-6010-11eb-0233-e9f98aec288d
 md"Size of vocabulary: $(@bind vocabsize Slider(100:numlexemes, show_value=true))"
 
-# ╔═╡ dc57ce5e-6010-11eb-3f8d-416724626481
-md"""
-
-| Vocabulary size | Tokens recognized | Percent of tokens in Hyginus | 
-| --- | --- | --- |
-| **$(vocabsize)** | |
-
-"""
-#| **$(vocabsize)** |   **$(totalanalyzed)** |    **$(round(100.0 * totalanalyzed / numlexicaltokens, digits=2))**%  | 
-
-
-
-
 # ╔═╡ b2ec0d80-6010-11eb-0f05-b9b38f4bdb8a
-xs = 1:numlexemes
+xs = 1:(numlexemes-1)
 
 # ╔═╡ e9d941a0-6017-11eb-350d-3962d89be793
 md"> ### Organizing data for analysis"
@@ -118,7 +105,8 @@ lexicalanalyses = filter(row -> row[:category] == "LexicalToken", tknanalysesdf)
 numlexicaltokens = length(unique(lexicalanalyses[:,:urn]))
 
 # ╔═╡ 8b3f7954-6001-11eb-176b-2d5282839751
-function pctOfTokens(n, precision=1)
+# Percentage of all lexical tokens represented by a given number of tokens
+function pctOfLexicalTokens(n, precision=1)
 	round(100.0 * n / numlexicaltokens, digits=precision)
 end
 
@@ -139,7 +127,7 @@ numtokenanalyses = length(analyzedtokens[:, :urn])
 numanalyzedtokens = length(unique(analyzedtokens[:,:urn]))
 
 # ╔═╡ a76957c6-6001-11eb-013e-c99f340b3b95
-pctanalyzed = pctOfTokens(numanalyzedtokens)
+pctanalyzed =	pctOfLexicalTokens(numanalyzedtokens, 1)
 
 # ╔═╡ 88fea86e-6019-11eb-13e2-634b850d2c06
 md"Occurrences of lexemes limited to one occurence per token"
@@ -160,6 +148,16 @@ end
 
 # ╔═╡ 9c6269f2-6016-11eb-1480-31942b1427bd
 numpossiblelexemes = nrow(lexemesByToken)
+
+# ╔═╡ ea7b3b26-601f-11eb-21a5-0f8b5d2d10d2
+# Percentage of all lexical tokens represented by a given number of tokens
+function pctPossibleLexemes(n, precision=1)
+	doublecounts = numpossiblelexemes - numanalyzedtokens
+	round(100.0 * n / (numlexicaltokens + doublecounts), digits=precision)
+end
+
+# ╔═╡ 5a3e72f0-6020-11eb-1c06-89bdf2b2bea7
+numpossiblelexemes - numanalyzedtokens
 
 # ╔═╡ 953e8df6-6005-11eb-0afb-5bc35be589b8
 md">Counting frequencies of lexemes"
@@ -189,10 +187,25 @@ runningtotals = begin
 	cumsum(counts)
 end
 
-# ╔═╡ 1f92d9ac-6011-11eb-28da-85503158a5d8
-coverageForVocabSize = begin
-	runningtotals[vocabsize]
+# ╔═╡ 829df2f8-601f-11eb-2c80-7d6d5cec6423
+# Coverage of vocab items
+coverage = begin
+	tokencount = runningtotals[vocabsize]
+	pctPossibleLexemes(tokencount)
 end
+
+# ╔═╡ dc57ce5e-6010-11eb-3f8d-416724626481
+md"""
+
+| Vocabulary size | Tokens recognized | Percent of tokens in Hyginus | 
+| --- | --- | --- |
+| **$(vocabsize)** | $(runningtotals[vocabsize]) | **$(coverage)%** |
+
+"""
+
+
+
+
 
 # ╔═╡ 31eced9e-601a-11eb-12ba-e7c6477efd1b
 md">Counting frequencies of forms"
@@ -229,11 +242,10 @@ md"""
 # ╟─dfb69194-5fd8-11eb-2bad-e7e6201ff5aa
 # ╟─6c915066-5ff4-11eb-30ce-7b604d2dec6b
 # ╟─d5cc52f8-6010-11eb-0233-e9f98aec288d
-# ╟─949a3fc0-6010-11eb-1ace-d151b0a1427a
 # ╟─dc57ce5e-6010-11eb-3f8d-416724626481
-# ╠═1f92d9ac-6011-11eb-28da-85503158a5d8
+# ╠═949a3fc0-6010-11eb-1ace-d151b0a1427a
 # ╟─a3e6cf7a-6010-11eb-0ffb-316b3fe61315
-# ╟─b2ec0d80-6010-11eb-0f05-b9b38f4bdb8a
+# ╠═b2ec0d80-6010-11eb-0f05-b9b38f4bdb8a
 # ╠═bd529052-6010-11eb-3fb5-9bfd390f722d
 # ╟─54d1e082-5fd9-11eb-233b-39f68c5cbbc6
 # ╟─5eb787e6-5fd9-11eb-3fc3-81912954efb6
@@ -244,8 +256,11 @@ md"""
 # ╟─9c6269f2-6016-11eb-1480-31942b1427bd
 # ╟─a76957c6-6001-11eb-013e-c99f340b3b95
 # ╟─b50c952e-6005-11eb-16f6-e7fa560adf7a
-# ╟─8b3f7954-6001-11eb-176b-2d5282839751
-# ╠═af9e0874-6017-11eb-101f-9bc1126a3314
+# ╟─af9e0874-6017-11eb-101f-9bc1126a3314
+# ╠═8b3f7954-6001-11eb-176b-2d5282839751
+# ╠═ea7b3b26-601f-11eb-21a5-0f8b5d2d10d2
+# ╠═5a3e72f0-6020-11eb-1c06-89bdf2b2bea7
+# ╠═829df2f8-601f-11eb-2c80-7d6d5cec6423
 # ╟─4713512e-5fd9-11eb-06d6-2ba2419c6252
 # ╟─58134b9c-5fe5-11eb-35a0-cf70533dda53
 # ╟─6c9033b6-5fe5-11eb-3a26-03358ad850bd
