@@ -38,6 +38,9 @@ md"### How much coverage does a vocabulary set offer?"
 # ╔═╡ 19f22bb0-5fc1-11eb-00de-d1ec4ba1a1d3
 md"Width of graph display: $(@bind w Slider(300:1000, show_value=false))"
 
+# ╔═╡ c840281e-5fc3-11eb-1afc-ffb74f058238
+md"> Graphing functions"
+
 # ╔═╡ 03c5a9b6-5f76-11eb-2f11-579e5d662fb5
 md"""
 ---
@@ -106,19 +109,6 @@ totals = cumsum(countsdf.count)
 # Add running total to counts per lexeme
 hyginuscounts = DataFrame(lexemes = countsdf[:, :lexeme], count = countsdf[:, :count], runningtotal = totals, )
 
-# ╔═╡ 7171d82e-5f6a-11eb-1afd-292ac77357a7
-totalanalyzed = sum(hyginuscounts[1:vocabsize, :count])
-
-# ╔═╡ 09e5fb2c-5f6a-11eb-2d1b-291631a1e70b
-md"""
-
-| Vocabulary size | Tokens recognized | Percent of tokens in Hyginus | 
-| --- | --- | --- |
-| **$(vocabsize)** |   **$(totalanalyzed)** |    **$(round(100.0 * totalanalyzed / numlexicaltokens, digits=2))**%  | 
-
-
-"""
-
 # ╔═╡ 21ccf17e-5fc0-11eb-3795-110394f98059
 function countForVocab(nlex)
 	sum(hyginuscounts[1:nlex, :count])
@@ -154,33 +144,21 @@ pctForVocab(100)
 # ╔═╡ 2c52a2f0-5fc2-11eb-2118-91428e133a53
 countForVocab(100)
 
-# ╔═╡ 2ed426e6-5f67-11eb-0ccc-25d754113f40
-selectedVocab = countsdf[1:vocabsize,:]
+# ╔═╡ 7171d82e-5f6a-11eb-1afd-292ac77357a7
+totalanalyzed = sum(hyginuscounts[1:vocabsize, :count])
 
-# ╔═╡ df1c060c-5fb9-11eb-2ea3-9d3a870894a5
-#md"""Recognized words: **$(totalanalyzed)** / total words **$(numlexicaltokens)** == **$(round(100.0 * totalanalyzed / numlexicaltokens, digits=2))**% of all words in Hyginus"""
-
-
-# ╔═╡ 32250f90-5f76-11eb-2367-f1ea80951c78
+# ╔═╡ 09e5fb2c-5f6a-11eb-2d1b-291631a1e70b
 md"""
----
 
-> ## Next project:  text passages
+| Vocabulary size | Tokens recognized | Percent of tokens in Hyginus | 
+| --- | --- | --- |
+| **$(vocabsize)** |   **$(totalanalyzed)** |    **$(round(100.0 * totalanalyzed / numlexicaltokens, digits=2))**%  | 
 
-Delimited text files from repository
 
 """
 
-# ╔═╡ c5e73476-5e9d-11eb-3601-9142b0a99f12
-# "dirname" is the parent directory of the argument
-tokensfile = dirname(pwd()) * "/morphology-for-observable.cex"
-
-# ╔═╡ f8171b6e-5e9d-11eb-1a02-3d3c6a7a5605
-tokensraw = CSV.File(tokensfile, skipto=2, delim="|")
-
-# ╔═╡ 412c525a-5e9f-11eb-341c-a914e59797e9
-tokensdf = tokensraw |> DataFrame
-
+# ╔═╡ 2ed426e6-5f67-11eb-0ccc-25d754113f40
+selectedVocab = countsdf[1:vocabsize,:]
 
 # ╔═╡ Cell order:
 # ╟─ce71a030-5f66-11eb-2933-cbbf363195c4
@@ -192,13 +170,14 @@ tokensdf = tokensraw |> DataFrame
 # ╟─0e64ecbe-5fbd-11eb-0405-955ddac49137
 # ╟─edb03bda-5f66-11eb-0bf6-a78257aad06d
 # ╟─09e5fb2c-5f6a-11eb-2d1b-291631a1e70b
+# ╟─c840281e-5fc3-11eb-1afc-ffb74f058238
 # ╟─74b67f6e-5fbd-11eb-0bef-87c5684f65af
 # ╟─5026601a-5fbd-11eb-2641-d708665ff94d
-# ╟─7171d82e-5f6a-11eb-1afd-292ac77357a7
 # ╟─21ccf17e-5fc0-11eb-3795-110394f98059
 # ╟─355b40c0-5fc2-11eb-2ce6-d36125a7db68
-# ╠═2c52a2f0-5fc2-11eb-2118-91428e133a53
-# ╠═a17e1e1c-5fc2-11eb-0c0c-c384b3ffb4a7
+# ╟─7171d82e-5f6a-11eb-1afd-292ac77357a7
+# ╟─2c52a2f0-5fc2-11eb-2118-91428e133a53
+# ╟─a17e1e1c-5fc2-11eb-0c0c-c384b3ffb4a7
 # ╟─03c5a9b6-5f76-11eb-2f11-579e5d662fb5
 # ╟─b18c1eb4-5f77-11eb-31c4-5db8a9eb94b5
 # ╟─fcbbca96-5f65-11eb-0927-ab39c4c9a6be
@@ -210,10 +189,5 @@ tokensdf = tokensraw |> DataFrame
 # ╟─c207882e-5f65-11eb-0f30-8bcf139992bd
 # ╟─d4c5914c-5f65-11eb-35f5-3fdac4f7fc6d
 # ╟─890c8ae0-5f67-11eb-1371-37519971f572
-# ╠═ebfea0f2-5f67-11eb-26c1-454e4c6b9c8e
+# ╟─ebfea0f2-5f67-11eb-26c1-454e4c6b9c8e
 # ╠═2ed426e6-5f67-11eb-0ccc-25d754113f40
-# ╠═df1c060c-5fb9-11eb-2ea3-9d3a870894a5
-# ╟─32250f90-5f76-11eb-2367-f1ea80951c78
-# ╟─c5e73476-5e9d-11eb-3601-9142b0a99f12
-# ╟─f8171b6e-5e9d-11eb-1a02-3d3c6a7a5605
-# ╟─412c525a-5e9f-11eb-341c-a914e59797e9
