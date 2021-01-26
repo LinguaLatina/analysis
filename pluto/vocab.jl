@@ -55,7 +55,7 @@ numlexicaltokens = 27805 # lextriplets.map(_.urn).distinct.size
 
 # ╔═╡ 43cf27ea-5f66-11eb-3bb2-95178e01618b
 # Number of analyzed lexical tokens
-numanalyzedtokens = 24320 # analyzedTokens.distinct.size
+numanalyzedtokens = 21884 # analyzedtriplets.map(_.urn).distinct.size
 
 # ╔═╡ 8fbdc3f2-5fb6-11eb-0d63-fb876e8634ab
 # Number of distinct lexemes in analzyed tokens
@@ -140,6 +140,20 @@ begin
 	plot(xs, ys, legend=false, xlabel="Vocabulary size", ylabel="Percent covered", size=(w,w), title="Percent coverage for vocabulary size")
 end
 
+# ╔═╡ 355b40c0-5fc2-11eb-2ce6-d36125a7db68
+function pctForVocab(n)
+	runningtotal = countForVocab(n)
+	
+	round(100.0 * runningtotal / numlexicaltokens, digits=2)
+	
+end
+
+# ╔═╡ a17e1e1c-5fc2-11eb-0c0c-c384b3ffb4a7
+pctForVocab(100)
+
+# ╔═╡ 2c52a2f0-5fc2-11eb-2118-91428e133a53
+countForVocab(100)
+
 # ╔═╡ 2ed426e6-5f67-11eb-0ccc-25d754113f40
 selectedVocab = countsdf[1:vocabsize,:]
 
@@ -174,14 +188,17 @@ tokensdf = tokensraw |> DataFrame
 # ╟─2df7cf52-5e9f-11eb-0bbe-e908323d7e36
 # ╟─b9f0d6ae-5f6a-11eb-2650-adc516f1cee3
 # ╟─cb3d8762-5f75-11eb-2c5d-a91387f8dca7
-# ╟─edb03bda-5f66-11eb-0bf6-a78257aad06d
-# ╟─09e5fb2c-5f6a-11eb-2d1b-291631a1e70b
 # ╟─19f22bb0-5fc1-11eb-00de-d1ec4ba1a1d3
 # ╟─0e64ecbe-5fbd-11eb-0405-955ddac49137
+# ╟─edb03bda-5f66-11eb-0bf6-a78257aad06d
+# ╟─09e5fb2c-5f6a-11eb-2d1b-291631a1e70b
 # ╟─74b67f6e-5fbd-11eb-0bef-87c5684f65af
 # ╟─5026601a-5fbd-11eb-2641-d708665ff94d
-# ╠═7171d82e-5f6a-11eb-1afd-292ac77357a7
-# ╠═21ccf17e-5fc0-11eb-3795-110394f98059
+# ╟─7171d82e-5f6a-11eb-1afd-292ac77357a7
+# ╟─21ccf17e-5fc0-11eb-3795-110394f98059
+# ╟─355b40c0-5fc2-11eb-2ce6-d36125a7db68
+# ╠═2c52a2f0-5fc2-11eb-2118-91428e133a53
+# ╠═a17e1e1c-5fc2-11eb-0c0c-c384b3ffb4a7
 # ╟─03c5a9b6-5f76-11eb-2f11-579e5d662fb5
 # ╟─b18c1eb4-5f77-11eb-31c4-5db8a9eb94b5
 # ╟─fcbbca96-5f65-11eb-0927-ab39c4c9a6be
