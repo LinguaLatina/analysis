@@ -186,8 +186,8 @@ selectedVocab = countsdf[1:vocabsize,:]
 # ╟─e4e12b0a-5fb7-11eb-051c-850cdfe3ef70
 # ╟─6c1f6cc6-5fb8-11eb-31f0-4338cc1bd02d
 # ╟─be87d070-5f77-11eb-21ce-7f37ad0bc402
-# ╟─c207882e-5f65-11eb-0f30-8bcf139992bd
-# ╟─d4c5914c-5f65-11eb-35f5-3fdac4f7fc6d
+# ╠═c207882e-5f65-11eb-0f30-8bcf139992bd
+# ╠═d4c5914c-5f65-11eb-35f5-3fdac4f7fc6d
 # ╟─890c8ae0-5f67-11eb-1371-37519971f572
 # ╟─ebfea0f2-5f67-11eb-26c1-454e4c6b9c8e
 # ╠═2ed426e6-5f67-11eb-0ccc-25d754113f40
