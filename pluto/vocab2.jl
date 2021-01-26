@@ -43,20 +43,11 @@ md"Define environment in hidden cell."
 # ╔═╡ dfb69194-5fd8-11eb-2bad-e7e6201ff5aa
 md"## Vocabulary in Hyginus, take 2"
 
-# ╔═╡ 949a3fc0-6010-11eb-1ace-d151b0a1427a
-begin
-	plotly()
-	#plot(xs, ys, legend=false, xlabel="Vocabulary size", ylabel="Percent covered", size=(w,w), title="Percent coverage for vocabulary size")
-end
+# ╔═╡ 6aa1f1f0-6021-11eb-16b5-2b4910b3683d
+md"Size of image: $(@bind w Slider(300:1000, show_value=false))"
 
 # ╔═╡ a3e6cf7a-6010-11eb-0ffb-316b3fe61315
 md"> Graphing coverage"
-
-# ╔═╡ bd529052-6010-11eb-3fb5-9bfd390f722d
-ys = begin
-	#	map(le -> convert(Int64, round(100 * (countForVocab(le)  / numlexicaltokens))) , Vector(xs))
-		
-end
 
 # ╔═╡ 54d1e082-5fd9-11eb-233b-39f68c5cbbc6
 md"> Compute overview of Hyginus"
@@ -81,7 +72,7 @@ numlexemes = length(unique(tknanalysesdf[:, :lexeme])) - 1
 md"Size of vocabulary: $(@bind vocabsize Slider(100:numlexemes, show_value=true))"
 
 # ╔═╡ b2ec0d80-6010-11eb-0f05-b9b38f4bdb8a
-xs = 1:(numlexemes-1)
+xs = 1:numlexemes
 
 # ╔═╡ e9d941a0-6017-11eb-350d-3962d89be793
 md"> ### Organizing data for analysis"
@@ -156,9 +147,6 @@ function pctPossibleLexemes(n, precision=1)
 	round(100.0 * n / (numlexicaltokens + doublecounts), digits=precision)
 end
 
-# ╔═╡ 5a3e72f0-6020-11eb-1c06-89bdf2b2bea7
-numpossiblelexemes - numanalyzedtokens
-
 # ╔═╡ 953e8df6-6005-11eb-0afb-5bc35be589b8
 md">Counting frequencies of lexemes"
 
@@ -188,9 +176,9 @@ runningtotals = begin
 end
 
 # ╔═╡ 829df2f8-601f-11eb-2c80-7d6d5cec6423
-# Coverage of vocab items
-coverage = begin
-	tokencount = runningtotals[vocabsize]
+# Coverage of a given number of vocab items
+function coverage(n)
+	tokencount = runningtotals[n]
 	pctPossibleLexemes(tokencount)
 end
 
@@ -206,6 +194,21 @@ md"""
 
 
 
+
+# ╔═╡ bd529052-6010-11eb-3fb5-9bfd390f722d
+ys = begin
+	#	map(le -> convert(Int64, round(100 * (countForVocab(le)  / numlexicaltokens))) , Vector(xs))
+		
+		#tokencount = runningtotals[vocabsize]
+	#pctPossibleLexemes(tokencount)
+	map(le -> coverage(le), Vector(xs))
+end
+
+# ╔═╡ 949a3fc0-6010-11eb-1ace-d151b0a1427a
+begin
+	plotly()
+	plot(xs, ys, legend=false, xlabel="Vocabulary items", ylabel="Percent covered", size=(w,w), title="Pct coverage for vocab. size")
+end
 
 # ╔═╡ 31eced9e-601a-11eb-12ba-e7c6477efd1b
 md">Counting frequencies of forms"
@@ -243,7 +246,8 @@ md"""
 # ╟─6c915066-5ff4-11eb-30ce-7b604d2dec6b
 # ╟─d5cc52f8-6010-11eb-0233-e9f98aec288d
 # ╟─dc57ce5e-6010-11eb-3f8d-416724626481
-# ╠═949a3fc0-6010-11eb-1ace-d151b0a1427a
+# ╟─949a3fc0-6010-11eb-1ace-d151b0a1427a
+# ╟─6aa1f1f0-6021-11eb-16b5-2b4910b3683d
 # ╟─a3e6cf7a-6010-11eb-0ffb-316b3fe61315
 # ╠═b2ec0d80-6010-11eb-0f05-b9b38f4bdb8a
 # ╠═bd529052-6010-11eb-3fb5-9bfd390f722d
@@ -257,9 +261,8 @@ md"""
 # ╟─a76957c6-6001-11eb-013e-c99f340b3b95
 # ╟─b50c952e-6005-11eb-16f6-e7fa560adf7a
 # ╟─af9e0874-6017-11eb-101f-9bc1126a3314
-# ╠═8b3f7954-6001-11eb-176b-2d5282839751
-# ╠═ea7b3b26-601f-11eb-21a5-0f8b5d2d10d2
-# ╠═5a3e72f0-6020-11eb-1c06-89bdf2b2bea7
+# ╟─8b3f7954-6001-11eb-176b-2d5282839751
+# ╟─ea7b3b26-601f-11eb-21a5-0f8b5d2d10d2
 # ╠═829df2f8-601f-11eb-2c80-7d6d5cec6423
 # ╟─4713512e-5fd9-11eb-06d6-2ba2419c6252
 # ╟─58134b9c-5fe5-11eb-35a0-cf70533dda53
@@ -272,7 +275,7 @@ md"""
 # ╠═374aeeac-5ff5-11eb-3ccd-b31b5d4e75f0
 # ╟─88fea86e-6019-11eb-13e2-634b850d2c06
 # ╟─a90a5218-6012-11eb-1bbc-ef76665e113b
-# ╠═953e8df6-6005-11eb-0afb-5bc35be589b8
+# ╟─953e8df6-6005-11eb-0afb-5bc35be589b8
 # ╟─a43d6b42-6019-11eb-05ba-f978fdc32582
 # ╟─641c6d98-6004-11eb-310f-2777b799f823
 # ╟─15bda764-601a-11eb-2867-ddbce7a2d57a
