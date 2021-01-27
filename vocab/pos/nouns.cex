@@ -1,0 +1,80 @@
+id|count|pos|lemma|translation
+ls.n18185:filius|683|noun|filius, filii *m*|son
+ls.n18173:filia|357|noun|filia, filiae *f*|daughter
+ls.n41625:rex1|146n|noun|rex, regis *m*|king
+ls.n34096:pater|116|noun|pater, patris *m*|father
+ls.n18705:frater|92|noun|frater, fratris *m*|brother
+ls.n30568:navis|83|noun|navis, navis *f*|ship
+ls.n28181:mater|75|noun|mater, matris *f*|mother
+ls.n50039:uxor|58|noun|uxor, uxoris *f*|wife
+ls.n40912:regnum|58|noun|regnum, regni *n*|kingdom
+ls.n31131:nomen|55|noun|nomen, nominis *n*|name
+ls.n47897:terra|54|noun|terra, terrae *f*|land, earth
+ls.n24040:insula1|52|noun|insula, insulae *f*|island
+ls.n31419:numerus|49|noun|numerus, numeri *m*|number
+ls.n10349:conjugium|47|noun|conjugium, conjugii *n*|marriage
+ls.n28019:mare|47|noun|mare, maris *n*|sea
+ls.n41293:res|42|noun|res, rei *f*|thing, matter, affair
+ls.n10361:conjunx|40|noun|conjunx, conjugis *m* or *f*|husband, wife
+ls.n13573:deus|40|noun|deus, dei *m*|god
+ls.n44583:sol|40|noun|sol, solis *m*|sun
+ls.n44798:soror|39|noun|soror, sororis *f*|sister
+ls.n13847:dies|36|noun|dies, diei *m*|day
+ls.n29604:mons|36|noun|mons, montis *m*|mountain
+ls.n29724:mors|34|noun|mors, mortis *f*|death
+ls.n18442:flumen|33|noun|flumen, fluminis *n*|river
+ls.n16074:equus|32|noun|equus, equi *m*|horse
+ls.n6506:canis1|30|noun|canis, canis *m* or *f*|dog
+ls.n26468:liber4|29|noun|liber, liberi *m*|child
+ls.n14774a:draco1|29|noun|draco, draconis *m*|serpent, dragon
+ls.n34131:patria|26|noun|patria, patriae *f*|home country
+ls.n6724:caput|25|noun|caput, capitis *n*|head
+ls.n34067:pastor|25|noun|pastor, pastoris *m*|shepherd
+ls.n26903:locus|25|noun|locus, loci *m*|place
+ls.n47727:templum|25|noun|templum, templi *n*|temple
+ls.n42264:sagitta|25|noun|sagitta, sagitta *f*|arrow
+ls.n47738:tempus|24|noun|tempus, temporis *n*|time
+ls.n18127:fides1|24|noun|fides, fidei *f*|faith, trustworthiness
+ls.n2698:annus|24|noun|annus, anni *m*|year
+ls.n11268:corpus|24|noun|corpus, corporis *n*|body
+ls.n30017:munus|24|noun|munus, muneris *n*|work, service, job
+ls.n42158:sacerdos1|23|noun|sacerdos, sacerdotis *m* or *f*|priest, priestess
+ls.n18993:fulmen|23|noun|fulmen, fulminis *n*|lightning
+ls.n20866:homo|23|noun|homo, hominis *m*|human being
+ls.n31309:nox|22|noun|nox, noctis *f*|night
+ls.n30080:murus|22|noun|murus, muri *m*|city wall
+ls.n15002:dux|22|noun|dux, ducis *m*|leader
+ls.n51069:virgo|22|noun|virgo, virginis *f*|young woman
+ls.n51337:voluntas|21|noun|voluntas, voluntatis *f*|wish, will
+ls.n2294:amor|21|noun|amor, amoris *m*|love
+ls.n35756:pes|21|noun|pes, pedis *m*|foot
+ls.n39429:puer|21|noun|puer, pueri *m*|boy
+ls.n3259:aqua|20|noun|aqua, aquae *f*|water
+ls.n3665:arma|20|noun|arma, armorum *n* (*pl* only)|arms, weapons
+ls.n44227:signum|20|noun|signum, signi *n*|sign, token
+ls.n33930:pars|19|noun|pars, partis *f*|part, portion
+ls.n21007:hospitium|18|noun|hospitium, hospitii *n*|hospitality
+ls.n31520:nutrix|18|noun|nutrix, nutricis *f*|nurse
+ls.n34312:pecus1|18|noun|pecus, pecoris *n*|cattle, herd
+ls.n47579:taurus1|18|noun|taurus, tauri *m*|bull
+ls.n23109:infans|17|noun|infans, infantis *m* or *f*|infant, small child
+ls.n20998:hospes|17|noun|hospes, hospitis *m*|host, guest
+ls.n33843:parens2|16|noun|parens, parentis *m*|parent
+ls.n5180:beneficium|16|noun|beneficium, beneficii *n*|s
+ls.n44805:sors|16|noun|sors, sortis *f*|lot, fate
+ls.n19607:gladius|16|noun|gladius, gladii *m*|sword
+ls.n2976:aper1|16|noun|aper, apri *m*|wild boar
+ls.n50735:vestis|16|noun|vestis, vestis *f*|clothing 
+ls.n4588:aurum|16|noun|aurum, auri *n*|gold
+ls.n31537:nympha|16|noun|nympha, nymphae *f*|nymph
+ls.n43803:sepultura|15|noun|sepultura, sepulturae *f*|burial
+ls.n45225:stadium|15|noun|stadium, stadii *n*|stadium
+ls.n3372:arbor1|15|noun|arbor, arboris *f*|tree
+ls.n32796:oppidum|15|noun|oppidum, oppidi *n*|town
+ls.n17904:femina|15|noun|femina, feminae *f*|woman
+ls.n27171:ludus|15|noun|ludus, ludi *m*|play, game
+ls.n51034:vir|15|noun|vir, viri *m*|man
+ls.n34447:pellis|15|noun|pellis, pellis *f*|skin, hide
+ls.n4714:avis|15|noun|avis, avis *f*|bird
+ls.n18566:forma|14|noun|forma, formae *f*|shape, appearance
+ls.n38534:procus2|14|noun|procus, proci *m*|suitor
