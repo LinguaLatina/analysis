@@ -48,7 +48,11 @@ vocabulary list here.
 """
 
 # ╔═╡ 93298cc4-6081-11eb-08b9-d9691eae1e1e
-md"### Vocab list to use"
+md"""
+### Vocab list to use
+
+This could just as easily be dynamically constructed.
+"""
 
 # ╔═╡ 49794662-603a-11eb-0998-4ff796f8115c
 vocablist = ["ls.n16519:ex", "ls.n6259:caligo1", "ls.n16278:et"]
