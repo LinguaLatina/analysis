@@ -1,0 +1,20 @@
+- atque *or* ac: and, and besides, and even
+- autem: however, nonetheless
+- cum: when
+- dum: while
+- et: and
+- itaque: and so, accordingly
+- lemma: translation
+- nam: for
+- neque *or* nec: not, and not, also not
+- ne: *conjunction introducing several kinds of negative clauses*
+- postquam: after
+- quia: since
+- quod: because
+- quoniam: since
+- sed: but
+- sive: or
+- si: if
+- ubi: where, when
+- unde: from where
+- ut: *conjunction introducting several kinds of subordinate clauses*
