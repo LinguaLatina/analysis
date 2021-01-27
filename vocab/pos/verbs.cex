@@ -27,39 +27,39 @@ ls.n4453:audio|39|verb|audio, audire, audivi, auditus|to hear
 ls.n363:accipio|39|verb|accipio, accipĕre, accepi, acceptus|to receive, to perceive
 ls.n24717:invenio|39|verb|invenio, invenire, inveni, inventus|to discover, find out
 ls.n48671:trado|35|verb|trado, tradĕre, tradidi, traditus|to hand over, deliver, surrender
-ls.n40719:redeo|33|verb|redeo
-ls.n39941:quaero|31|verb|quaero
-ls.n38498:procreo|30|verb|procreo
-ls.n48489:tollo|30|verb|tollo
-ls.n43947:servo|30|verb|servo
-ls.n6524:cano|30|verb|cano
-ls.n11004:converto|29|verb|converto
-ls.n6614:capio1|29|verb|capio
-ls.n40911:regno|29|verb|regno
-ls.n50968:vinco|28|verb|vinco
-ls.n12677:defero|28|verb|defero
-ls.n30624:neco|28|verb|neco
-ls.n743:adduco|27|verb|adduco
-ls.n1659:aio|27|verb|aio
-ls.n37010:pono|26|verb|pono
-ls.n37415:praecipito|25|verb|praecipito
-ls.n16804:exeo|24|verb|exeo
-ls.n10701:consumo|24|verb|consumo
-ls.n2280:amo|23|verb|amo
-ls.n41838:rogo|23|verb|rogo
-ls.n43703:sepelio|23|verb|sepelio
-ls.n8938:cognosco|23|verb|cognosco
-ls.n33851:pareo|21|verb|pareo
-ls.n18209:fio|21|verb|fio
-ls.n26488:libet|20|verb|libet
-ls.n17964:fero|20|verb|fero
-ls.n10632:constituo|20|verb|constituo
-ls.n38619:proficisco|20|verb|proficisco
-ls.n29544:moneo|19|verb|moneo
-ls.n42201:sacro|19|verb|sacro
-ls.n31035:nitor1|19|verb|nitor
-ls.n34815:perduco|19|verb|perduco
-ls.n9689:comprimo|19|verb|comprimo
+ls.n40719:redeo|33|verb|redeo, redire, redivi *or* redii, reditus|to go or come back, return
+ls.n39941:quaero|31|verb|quaero, quaerĕre, quaesivi, quaesitus|to seek for, acquire
+ls.n38498:procreo|30|verb|procreo, procreare, procreavi, procreatus|to bring forth, beget
+ls.n48489:tollo|30|verb|tollo, tollĕre, sustuli, sublatus|to raise up, elevate
+ls.n43947:servo|30|verb|servo, servare, servavi, servatus|to save, preserve
+ls.n6524:cano|30|verb|cano, canĕre, cecini, cantus|to sing
+ls.n11004:converto|29|verb|converto, convertĕre, converti, conversus|to turn, alter
+ls.n6614:capio1|29|verb|capio, capĕre, cepi, captus|to seize
+ls.n40911:regno|29|verb|regno, regnare, regnavi, regnatus|to rule
+ls.n50968:vinco|28|verb|vinco, vincĕre, vici, victum|to defeat, conquer
+ls.n12677:defero|28|verb|defero, deferre, detuli, delatus|to carry away, convey
+ls.n30624:neco|28|verb|neco, necare, necavi, necatus|to slay
+ls.n743:adduco|27|verb|adduco, adducĕre, adduxi, adductus|to lead or conduct
+ls.n1659:aio|27|verb|aio (*irregular, exists only in a few forms*) |to say, assert
+ls.n37010:pono|26|verb|pono, ponĕre, posui, positus|to place
+ls.n37415:praecipito|25|verb|praecipito, praecipitare, praecipitavi, praecipitatus|to cast down, to press, hasten
+ls.n16804:exeo|24|verb|exeo, exire, exivi *or* exii, exitus|to go out
+ls.n10701:consumo|24|verb|consumo, consumĕre, consumpsi, consumptus|to devour
+ls.n2280:amo|23|verb|amo, amare, amavi, amatus|to love
+ls.n41838:rogo|23|verb|rogo, rogare, rogavi, rogatus|to ask
+ls.n43703:sepelio|23|verb|sepelio, sepelire, sepelivi *or* sepelii, sepultus|to bury
+ls.n8938:cognosco|23|verb|cognosco, cognoscĕre, cognovi, cognitus|to know, become acquainted with
+ls.n33851:pareo|21|verb|pareo, parēre, parui, paritus|to be present, to wait on
+ls.n18209:fio|21|verb|fio, fiĕri, -, factus|to become, be produced
+ls.n26488:libet|20|verb|libet, libēre, libuit, libitus (*impersonal*)|to be pleasing or agreeable
+ls.n17964:fero|20|verb|fero, ferre, tuli, latus|to bear, carry
+ls.n10632:constituo|20|verb|constituo,constituĕre, constitui, constitutus|to establish, prepare
+ls.n38619:proficisco|20|verb|proficiscor,  proficisci, -, profectus|to set out, depart
+ls.n29544:moneo|19|verb|moneo, monēre, monui, monitus|to war
+ls.n42201:sacro|19|verb|sacro, sacrare, sacravi, sacratus|to consecrate, dedicate
+ls.n31035:nitor1|19|verb|nitor, niti, -, nisus *or* nixus|to lean on, to strive for
+ls.n34815:perduco|19|verb|perduco, perducĕre, perduxi, perductus|to guide, lead through
+ls.n9689:comprimo|19|verb|comprimo,
 ls.n24885:irascor|19|verb|irascor
 ls.n21752:immolo|18|verb|immolo
 ls.n31628:obicio|18|verb|obicio
