@@ -38,14 +38,34 @@ end
 # ╔═╡ 13c2316a-602d-11eb-322f-e1dc63a2339c
 md"Set up environmet in hidden cell."
 
+# ╔═╡ 3fc3a288-6081-11eb-2b57-1d82e31cd1d6
+md"""
+
+# Coverage of vocabulary list for Hyginus, *Fabulae*
+
+Visualize percentage of tokens in each chapter of Hyginus accounted for by core 
+vocabulary list here.
+"""
+
+# ╔═╡ 93298cc4-6081-11eb-08b9-d9691eae1e1e
+md"### Vocab list to use"
+
+# ╔═╡ 49794662-603a-11eb-0998-4ff796f8115c
+vocablist = ["ls.n16519:ex", "ls.n6259:caligo1", "ls.n16278:et"]
+
+# ╔═╡ 9d3b268c-6081-11eb-3a52-bf4b5d1fc7ad
+md"### Coverage"
+
 # ╔═╡ 2280e2fe-607e-11eb-06b2-7d9a9f497ef2
 md"Size of plot: $(@bind h Slider(300:1000, show_value=false))"
 
 # ╔═╡ 31e55c94-602d-11eb-2de3-4f1fe2399419
-md"Analyzing passages for a vocab list"
+md"""
 
-# ╔═╡ 49794662-603a-11eb-0998-4ff796f8115c
-vocablist = ["ls.n16519:ex", "ls.n6259:caligo1", "ls.n16278:et"]
+---
+
+> Extract data for graph from text
+"""
 
 # ╔═╡ f93c7d58-6074-11eb-38d1-6376fdc8df87
 md"> Load data"
@@ -90,7 +110,7 @@ end
 
 
 # ╔═╡ d5af93ee-607d-11eb-0293-01f4970bde44
-xtix = map(p -> passagecomponent(p), psglist)
+xhover = map(p -> passagecomponent(p), psglist)
 
 # ╔═╡ c247be9c-607a-11eb-0657-ed120af85798
 md"Lexemes grouped by canonically citable passage"
@@ -121,18 +141,21 @@ xs = 1:length(scores)
 # ╔═╡ 01352a5c-607d-11eb-3ca2-0db45f6c4300
 begin
 	plotly()
-	plot(xs, scores, legend=false, xlabel="Passage", ylabel="Pct. covered", size=(2*h,h), title="Core vocabulary coverage", hover=xtix)
+	plot(xs, scores, legend=false, xlabel="Passage", ylabel="Pct. covered", size=(2*h,h), title="Core vocabulary coverage", hover=xhover, xaxis=nothing)
 end
 
 # ╔═╡ Cell order:
 # ╟─13c2316a-602d-11eb-322f-e1dc63a2339c
 # ╟─28e7b342-602d-11eb-304b-714e184ab0a3
-# ╟─2280e2fe-607e-11eb-06b2-7d9a9f497ef2
-# ╠═01352a5c-607d-11eb-3ca2-0db45f6c4300
-# ╟─31e55c94-602d-11eb-2de3-4f1fe2399419
+# ╟─3fc3a288-6081-11eb-2b57-1d82e31cd1d6
+# ╟─93298cc4-6081-11eb-08b9-d9691eae1e1e
 # ╟─49794662-603a-11eb-0998-4ff796f8115c
-# ╠═040c187a-607e-11eb-06ef-dd5d48f3dbce
-# ╠═d5af93ee-607d-11eb-0293-01f4970bde44
+# ╟─9d3b268c-6081-11eb-3a52-bf4b5d1fc7ad
+# ╟─2280e2fe-607e-11eb-06b2-7d9a9f497ef2
+# ╟─01352a5c-607d-11eb-3ca2-0db45f6c4300
+# ╟─31e55c94-602d-11eb-2de3-4f1fe2399419
+# ╟─040c187a-607e-11eb-06ef-dd5d48f3dbce
+# ╟─d5af93ee-607d-11eb-0293-01f4970bde44
 # ╟─f0733c32-607b-11eb-2036-3b63df10cf6b
 # ╟─745b47f2-603a-11eb-0853-016cc5dd17d2
 # ╟─f93c7d58-6074-11eb-38d1-6376fdc8df87
