@@ -69,7 +69,7 @@ tknanalysesdf = CSV.File(tknanalysisfile, skipto=2, delim="|") |> DataFrame
 numlexemes = length(unique(tknanalysesdf[:, :lexeme])) - 1
 
 # ╔═╡ d5cc52f8-6010-11eb-0233-e9f98aec288d
-md"Size of vocabulary: $(@bind vocabsize Slider(100:numlexemes, show_value=true))"
+md"Size of vocabulary: $(@bind vocabsize Slider(1:numlexemes, show_value=true))"
 
 # ╔═╡ b2ec0d80-6010-11eb-0f05-b9b38f4bdb8a
 xs = 1:numlexemes

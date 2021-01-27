@@ -170,7 +170,7 @@ ls.n42201:sacro|19|verb|sacro
 ls.n33930:pars|19|noun|pars
 ls.n31035:nitor1|19|verb|nitor
 ls.n34815:perduco|19|verb|perduco
-ls.n34771:percutio|19|noun|percutio
+ls.n34771:percutio|19|verb|percutio
 ls.n9689:comprimo|19|verb|comprimo
 ls.n24885:irascor|19|verb|irascor
 ls.n21752:immolo|18|verb|immolo
@@ -202,7 +202,7 @@ ls.n30605:nec1|16|conjunction|nec
 ls.n33843:parens2|16|noun|parens
 ls.n44517:sive|16|conjunction|sive
 ls.n5180:beneficium|16|noun|beneficium
-ls.n40577:recipio|16|noun|recipio
+ls.n40577:recipio|16|verb|recipio
 ls.n44805:sors|16|noun|sors
 ls.n21980:impono|16|verb|impono
 ls.n51238:vivo|16|verb|vivo
@@ -231,7 +231,7 @@ ls.n40279:quoniam|15|conjunction|quoniam
 ls.n40905:regius|15|adjective|regius
 ls.n33147:ostendo|15|verb|ostendo
 ls.n38642:profugio|15|verb|profugio
-ls.n47473:tantus|15|adverb|tantus
+ls.n47473:tantus|15|adjective|tantus
 ls.n27171:ludus|15|noun|ludus
 ls.n51034:vir|15|noun|vir
 ls.n34447:pellis|15|noun|pellis
