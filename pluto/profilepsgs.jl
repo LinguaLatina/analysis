@@ -4,6 +4,15 @@
 using Markdown
 using InteractiveUtils
 
+# This Pluto notebook uses @bind for interactivity. When running this notebook outside of Pluto, the following 'mock version' of @bind gives bound variables a default value (instead of an error).
+macro bind(def, element)
+    quote
+        local el = $(esc(element))
+        global $(esc(def)) = Core.applicable(Base.get, el) ? Base.get(el) : missing
+        el
+    end
+end
+
 # ╔═╡ 28e7b342-602d-11eb-304b-714e184ab0a3
 # Set up environment
 begin
@@ -28,6 +37,9 @@ end
 
 # ╔═╡ 13c2316a-602d-11eb-322f-e1dc63a2339c
 md"Set up environmet in hidden cell."
+
+# ╔═╡ 2280e2fe-607e-11eb-06b2-7d9a9f497ef2
+md"Size of plot: $(@bind h Slider(300:1000, show_value=false))"
 
 # ╔═╡ 31e55c94-602d-11eb-2de3-4f1fe2399419
 md"Analyzing passages for a vocab list"
@@ -77,8 +89,8 @@ psglist = begin
 end
 
 
-# ╔═╡ e2702892-607c-11eb-116e-85a4751b0c07
-length(psglist)
+# ╔═╡ d5af93ee-607d-11eb-0293-01f4970bde44
+xtix = map(p -> passagecomponent(p), psglist)
 
 # ╔═╡ c247be9c-607a-11eb-0657-ed120af85798
 md"Lexemes grouped by canonically citable passage"
@@ -103,16 +115,24 @@ end
 # ╔═╡ f0733c32-607b-11eb-2036-3b63df10cf6b
 scores = map(p -> scorePsg(p), psglist)
 
-# ╔═╡ dc173404-607c-11eb-20e4-755094701c18
-length(scores)
+# ╔═╡ 040c187a-607e-11eb-06ef-dd5d48f3dbce
+xs = 1:length(scores)
+
+# ╔═╡ 01352a5c-607d-11eb-3ca2-0db45f6c4300
+begin
+	plotly()
+	plot(xs, scores, legend=false, xlabel="Passage", ylabel="Pct. covered", size=(2*h,h), title="Core vocabulary coverage", hover=xtix)
+end
 
 # ╔═╡ Cell order:
 # ╟─13c2316a-602d-11eb-322f-e1dc63a2339c
 # ╟─28e7b342-602d-11eb-304b-714e184ab0a3
+# ╟─2280e2fe-607e-11eb-06b2-7d9a9f497ef2
+# ╠═01352a5c-607d-11eb-3ca2-0db45f6c4300
 # ╟─31e55c94-602d-11eb-2de3-4f1fe2399419
 # ╟─49794662-603a-11eb-0998-4ff796f8115c
-# ╠═dc173404-607c-11eb-20e4-755094701c18
-# ╠═e2702892-607c-11eb-116e-85a4751b0c07
+# ╠═040c187a-607e-11eb-06ef-dd5d48f3dbce
+# ╠═d5af93ee-607d-11eb-0293-01f4970bde44
 # ╟─f0733c32-607b-11eb-2036-3b63df10cf6b
 # ╟─745b47f2-603a-11eb-0853-016cc5dd17d2
 # ╟─f93c7d58-6074-11eb-38d1-6376fdc8df87
