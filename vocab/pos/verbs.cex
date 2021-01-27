@@ -1,0 +1,91 @@
+id|count|pos|lemma|translation
+ls.n46529:sum1|756|verb|sum, esse, fui, futurus|to be
+ls.n15868:eo1|212|verb|eo, ire, ii *or* ivi, -|to go
+ls.n13804:dico2|199|verb|dico, dicĕre, dixi, dictus|to say
+ls.n24257:interficio|187|verb|interficio, interficĕre, interfeci, interfectus|destroy, kill
+ls.n50442:venio|156|verb|venio, venire, veni ventus|to come
+ls.n17516:facio|151|verb|facio, facĕre, feci, factus|to make
+ls.n14599:do1|137|verb|do, dare, dedi, datus|to give
+ls.n32088:occido1|100|verb|occido, occidĕre, occidi, occisus|strike down, slay
+ls.n20077:habeo|85|verb|habeo, habēre, habui, habitus|to have
+ls.n51298:volo1|84|verb|volo, velle, volui, -|to wish, want
+ls.n29328:mitto|71|verb|mitto, mittĕre, misi, missus|to send
+ls.n50883:video|69|verb|video, vidēre, vidi, visus|to see
+ls.n35822:peto|67|verb|peto, petĕre, petivi *or* petii, petitus|to attack, demand, seek
+ls.n30423:nascor|65|verb|nascor, nasci, -, natus|to be born
+ls.n3134:appello2|60|verb|appello, appellare, appelavi, appellatus|to address, name
+ls.n44608:soleo|59|verb|soleo, solēre, solui, solitus|to be accustomed
+ls.n41387:respondeo|54|verb|respondeo, respondēre, respondi, responsus|to answer, reply
+ls.n25264:jubeo|51|verb|jubeo, jubēre, jussi, jussus|to order, prescribe
+ls.n33879:pario2|50|verb|pario, parĕre, peperi, paritus|to bear, give birth to
+ls.n14847:duco|48|verb|duco, ducĕre, duxi, ductus|to lead
+ls.n12628:dedo|48|verb|dedo, dedĕre, dedidi, deditus|to give away, give up, surrender
+ls.n37193:possum|48|verb|possum, posse, potui, -|to be able
+ls.n9942:concumbo|43|verb|concumbo, concumbĕre, concubui, concubitus|to sleep with
+ls.n8883:coepio|43|verb|coepio, coepĕre, coepi, coeptus|to begin
+ls.n4453:audio|39|verb|audio, audire, audivi, auditus|to hear
+ls.n363:accipio|39|verb|accipio, accipĕre, accepi, acceptus|to receive, to perceive
+ls.n24717:invenio|39|verb|invenio, invenire, inveni, inventus|to discover, find out
+ls.n48671:trado|35|verb|trado, tradĕre, tradidi, traditus|to hand over, deliver, surrender
+ls.n40719:redeo|33|verb|redeo
+ls.n39941:quaero|31|verb|quaero
+ls.n38498:procreo|30|verb|procreo
+ls.n48489:tollo|30|verb|tollo
+ls.n43947:servo|30|verb|servo
+ls.n6524:cano|30|verb|cano
+ls.n11004:converto|29|verb|converto
+ls.n6614:capio1|29|verb|capio
+ls.n40911:regno|29|verb|regno
+ls.n50968:vinco|28|verb|vinco
+ls.n12677:defero|28|verb|defero
+ls.n30624:neco|28|verb|neco
+ls.n743:adduco|27|verb|adduco
+ls.n1659:aio|27|verb|aio
+ls.n37010:pono|26|verb|pono
+ls.n37415:praecipito|25|verb|praecipito
+ls.n16804:exeo|24|verb|exeo
+ls.n10701:consumo|24|verb|consumo
+ls.n2280:amo|23|verb|amo
+ls.n41838:rogo|23|verb|rogo
+ls.n43703:sepelio|23|verb|sepelio
+ls.n8938:cognosco|23|verb|cognosco
+ls.n33851:pareo|21|verb|pareo
+ls.n18209:fio|21|verb|fio
+ls.n26488:libet|20|verb|libet
+ls.n17964:fero|20|verb|fero
+ls.n10632:constituo|20|verb|constituo
+ls.n38619:proficisco|20|verb|proficisco
+ls.n29544:moneo|19|verb|moneo
+ls.n42201:sacro|19|verb|sacro
+ls.n31035:nitor1|19|verb|nitor
+ls.n34815:perduco|19|verb|perduco
+ls.n9689:comprimo|19|verb|comprimo
+ls.n24885:irascor|19|verb|irascor
+ls.n21752:immolo|18|verb|immolo
+ls.n31628:obicio|18|verb|obicio
+ls.n36862:polliceor|18|verb|polliceor
+ls.n31146:nomino|18|verb|nomino
+ls.n26891:loco|18|verb|loco
+ls.n24241:intereo|17|verb|intereo
+ls.n38618:proficio|17|verb|proficio
+ls.n17092:expono|17|verb|expono
+ls.n30681:nego|17|verb|nego
+ls.n51266:voco|17|verb|voco
+ls.n11570:cresco|17|verb|cresco
+ls.n9489:commuto|17|verb|commuto
+ls.n21980:impono|16|verb|impono
+ls.n51238:vivo|16|verb|vivo
+ls.n2260:amitto|16|verb|amitto
+ls.n35491:persequor|15|verb|persequor
+ls.n26479:libero|15|verb|libero
+ls.n25350:jungo|15|verb|jungo
+ls.n10770:contendo|15|verb|contendo
+ls.n40405:rapio|15|verb|rapio
+ls.n10309:conicio|15|verb|conicio
+ls.n34869:pereo|15|verb|pereo
+ls.n31124:nolo|15|verb|nolo
+ls.n33147:ostendo|15|verb|ostendo
+ls.n38642:profugio|15|verb|profugio
+ls.n29707:morior|15|verb|morior
+ls.n35702:pervenio|15|verb|pervenio
+ls.n40791:refero|14|verb|refero
