@@ -40,12 +40,31 @@ md"Set up environment in hidden cell"
 # ╔═╡ 329b64b8-619c-11eb-0aad-a9cc35786c31
 md"## Gloss a passage of Hyginus"
 
+# ╔═╡ 46401a5e-61a8-11eb-3570-f72b09b69b01
+css = html"""
+<style> 
+  .highlight { background: yellow; } 
+  .missing {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: red;
+}
+</style>
+
+"""
+
 # ╔═╡ 405440e6-61a0-11eb-0e48-1f5e52c251ae
 md"""
 ---
 
 Data for currently seleted passage to gloss
 """
+
+# ╔═╡ 221dbe24-61a1-11eb-3b27-135eff13c37a
+#tknlevel = psg * ".2"
+
+# ╔═╡ 2dcf838a-61a1-11eb-3bc1-b55806892965
+#tknurn = addversion(addpassage(psgurn, tknlevel),"hc_tkns")
 
 # ╔═╡ 5c4a229a-619e-11eb-0ffb-d9d66c466081
 md"> Format data and UI"
@@ -330,12 +349,6 @@ md"Passage to gloss: $(@bind psg Select(psglist))"
 # ╔═╡ a67a38d0-61a0-11eb-0ba1-29e8cfd56945
 psgurn = addpassage(hyginusurn, psg)
 
-# ╔═╡ 221dbe24-61a1-11eb-3b27-135eff13c37a
-tknlevel = psg * ".2"
-
-# ╔═╡ 2dcf838a-61a1-11eb-3bc1-b55806892965
-tknurn = addversion(addpassage(psgurn, tknlevel),"hc_tkns")
-
 # ╔═╡ 54100bc0-619f-11eb-199c-73f750aa2f76
 tokenlexdf = begin
 	urns = map(u -> CtsUrn(u), analysesdf[:, :urn])
@@ -358,19 +371,34 @@ end
 
 
 # ╔═╡ 57e7fc3e-61a0-11eb-321c-d5bec1235449
-function peeker(tnum) 
-	tkn = psg * ".$(tnum)"
-	tknurn = addversion(addpassage(psgurn, tkn), "hc_tkns")
+function peeker(tknurn) 
+	#tkn = psg * ".$(tnum)"
+	#tknurn = addversion(addpassage(psgurn, tkn), "hc_tkns")
 	analysesforgroup = groupedanalyses[(tknurn,)]
 	tstrings = analysesforgroup[:,:token]
-	tstrings[1]
+
 	possiblelexx = unique(analysesforgroup[:,:lexeme])
 	overlaps = intersect(possiblelexx, vocablist)
-	isempty(overlaps) == false
+	if isempty(overlaps)
+				"<span class='missing'>" * tstrings[1] * "</span>"
+
+	else
+				tstrings[1]
+
+	end
+	
+end
+
+# ╔═╡ a6b453b4-61a8-11eb-0b36-596e4daf4c11
+begin
+	psgurns = psganalyses[:, :urn]
+	psgtokens = map(u -> peeker(u), psgurns)
+	txt = join(psgtokens, " ")
+	HTML(txt)
 end
 
 # ╔═╡ 83cc0e48-61a1-11eb-08f1-fd4316cd0b73
-peeker(0)
+peeker(6)
 
 # ╔═╡ 360f041c-61a1-11eb-023a-df8fef7fe2a2
 groupedanalyses[(tknurn,)]
@@ -381,6 +409,8 @@ groupedanalyses[(tknurn,)]
 # ╟─329b64b8-619c-11eb-0aad-a9cc35786c31
 # ╟─258b69f6-619d-11eb-1e0c-f9fb25d07a8d
 # ╟─a67a38d0-61a0-11eb-0ba1-29e8cfd56945
+# ╠═a6b453b4-61a8-11eb-0b36-596e4daf4c11
+# ╟─46401a5e-61a8-11eb-3570-f72b09b69b01
 # ╟─405440e6-61a0-11eb-0e48-1f5e52c251ae
 # ╠═57e7fc3e-61a0-11eb-321c-d5bec1235449
 # ╠═83cc0e48-61a1-11eb-08f1-fd4316cd0b73
