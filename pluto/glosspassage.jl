@@ -40,6 +40,22 @@ md"Set up environment in hidden cell"
 # ╔═╡ 329b64b8-619c-11eb-0aad-a9cc35786c31
 md"## Gloss a passage of Hyginus"
 
+# ╔═╡ 5e24eb88-61a9-11eb-14af-0be9a467b6d8
+html"""
+<div><p/></p></div>
+<hr/>
+<div class='note'>
+<p>Cells below here load data and format the current selection.</p>
+</div>
+
+
+"""
+
+# ╔═╡ 405440e6-61a0-11eb-0e48-1f5e52c251ae
+md"""
+Formatting currently selected passage for glossing
+"""
+
 # ╔═╡ 46401a5e-61a8-11eb-3570-f72b09b69b01
 css = html"""
 <style> 
@@ -49,22 +65,22 @@ css = html"""
   text-decoration-style: wavy;
   text-decoration-color: red;
 }
+  .note { -moz-border-radius: 6px;
+     -webkit-border-radius: 6px;
+     background-color: #eee;
+     background-image: url(../Images/icons/Pencil-48.png);
+     background-position: 9px 0px;
+     background-repeat: no-repeat;
+     border: solid 1px black;
+     border-radius: 6px;
+     line-height: 18px;
+     overflow: hidden;
+     padding: 15px 60px;
+    font-style: italic;
+ }
 </style>
 
 """
-
-# ╔═╡ 405440e6-61a0-11eb-0e48-1f5e52c251ae
-md"""
----
-
-Data for currently seleted passage to gloss
-"""
-
-# ╔═╡ 221dbe24-61a1-11eb-3b27-135eff13c37a
-#tknlevel = psg * ".2"
-
-# ╔═╡ 2dcf838a-61a1-11eb-3bc1-b55806892965
-#tknurn = addversion(addpassage(psgurn, tknlevel),"hc_tkns")
 
 # ╔═╡ 5c4a229a-619e-11eb-0ffb-d9d66c466081
 md"> Format data and UI"
@@ -371,7 +387,7 @@ end
 
 
 # ╔═╡ 57e7fc3e-61a0-11eb-321c-d5bec1235449
-function peeker(tknurn) 
+function formatToken(tknurn) 
 	#tkn = psg * ".$(tnum)"
 	#tknurn = addversion(addpassage(psgurn, tkn), "hc_tkns")
 	analysesforgroup = groupedanalyses[(tknurn,)]
@@ -392,32 +408,23 @@ end
 # ╔═╡ a6b453b4-61a8-11eb-0b36-596e4daf4c11
 begin
 	psgurns = psganalyses[:, :urn]
-	psgtokens = map(u -> peeker(u), psgurns)
+	psgtokens = map(u -> formatToken(u), psgurns)
 	txt = join(psgtokens, " ")
 	HTML(txt)
 end
-
-# ╔═╡ 83cc0e48-61a1-11eb-08f1-fd4316cd0b73
-peeker(6)
-
-# ╔═╡ 360f041c-61a1-11eb-023a-df8fef7fe2a2
-groupedanalyses[(tknurn,)]
 
 # ╔═╡ Cell order:
 # ╟─472fff08-619c-11eb-0d5f-8bd3ae1f3dcd
 # ╟─4f5bf260-619c-11eb-2718-c9545ba95811
 # ╟─329b64b8-619c-11eb-0aad-a9cc35786c31
 # ╟─258b69f6-619d-11eb-1e0c-f9fb25d07a8d
-# ╟─a67a38d0-61a0-11eb-0ba1-29e8cfd56945
 # ╠═a6b453b4-61a8-11eb-0b36-596e4daf4c11
-# ╟─46401a5e-61a8-11eb-3570-f72b09b69b01
+# ╟─5e24eb88-61a9-11eb-14af-0be9a467b6d8
 # ╟─405440e6-61a0-11eb-0e48-1f5e52c251ae
-# ╠═57e7fc3e-61a0-11eb-321c-d5bec1235449
-# ╠═83cc0e48-61a1-11eb-08f1-fd4316cd0b73
-# ╠═221dbe24-61a1-11eb-3b27-135eff13c37a
-# ╠═2dcf838a-61a1-11eb-3bc1-b55806892965
-# ╠═360f041c-61a1-11eb-023a-df8fef7fe2a2
-# ╠═6704b952-619e-11eb-3a4d-bf899c82657c
+# ╟─46401a5e-61a8-11eb-3570-f72b09b69b01
+# ╟─a67a38d0-61a0-11eb-0ba1-29e8cfd56945
+# ╟─57e7fc3e-61a0-11eb-321c-d5bec1235449
+# ╟─6704b952-619e-11eb-3a4d-bf899c82657c
 # ╠═0827eab0-61a0-11eb-295f-ad0b7462dc5c
 # ╟─5c4a229a-619e-11eb-0ffb-d9d66c466081
 # ╟─7cabc3cc-619e-11eb-011d-0bdaa9fa1029
