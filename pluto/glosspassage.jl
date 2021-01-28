@@ -40,6 +40,12 @@ md"Set up environment in hidden cell"
 # ╔═╡ 329b64b8-619c-11eb-0aad-a9cc35786c31
 md"## Gloss a passage of Hyginus"
 
+# ╔═╡ 601e0bee-61aa-11eb-1021-cfad45875d72
+
+
+# ╔═╡ 19f34eba-61aa-11eb-22b6-1bcdd1e1befe
+#analysesforgroup = groupedanalyses[(turn,)]
+
 # ╔═╡ 5e24eb88-61a9-11eb-14af-0be9a467b6d8
 html"""
 <div><p/></p></div>
@@ -380,6 +386,12 @@ psganalyses = begin
 end
 
 
+# ╔═╡ 392320bc-61aa-11eb-2968-d326ff30e407
+purns = unique(psganalyses[:, :urn])
+
+# ╔═╡ 6a991d18-61aa-11eb-3e45-df0d80dc8755
+purns
+
 # ╔═╡ 0827eab0-61a0-11eb-295f-ad0b7462dc5c
 groupedanalyses = begin 
 	groupby(psganalyses, :urn)
@@ -407,7 +419,7 @@ end
 
 # ╔═╡ a6b453b4-61a8-11eb-0b36-596e4daf4c11
 begin
-	psgurns = psganalyses[:, :urn]
+	psgurns = unique(psganalyses[:, :urn])
 	psgtokens = map(u -> formatToken(u), psgurns)
 	txt = join(psgtokens, " ")
 	HTML(txt)
@@ -418,12 +430,16 @@ end
 # ╟─4f5bf260-619c-11eb-2718-c9545ba95811
 # ╟─329b64b8-619c-11eb-0aad-a9cc35786c31
 # ╟─258b69f6-619d-11eb-1e0c-f9fb25d07a8d
-# ╠═a6b453b4-61a8-11eb-0b36-596e4daf4c11
+# ╟─a6b453b4-61a8-11eb-0b36-596e4daf4c11
+# ╠═392320bc-61aa-11eb-2968-d326ff30e407
+# ╠═601e0bee-61aa-11eb-1021-cfad45875d72
+# ╠═19f34eba-61aa-11eb-22b6-1bcdd1e1befe
+# ╠═6a991d18-61aa-11eb-3e45-df0d80dc8755
 # ╟─5e24eb88-61a9-11eb-14af-0be9a467b6d8
 # ╟─405440e6-61a0-11eb-0e48-1f5e52c251ae
 # ╟─46401a5e-61a8-11eb-3570-f72b09b69b01
 # ╟─a67a38d0-61a0-11eb-0ba1-29e8cfd56945
-# ╟─57e7fc3e-61a0-11eb-321c-d5bec1235449
+# ╠═57e7fc3e-61a0-11eb-321c-d5bec1235449
 # ╟─6704b952-619e-11eb-3a4d-bf899c82657c
 # ╠═0827eab0-61a0-11eb-295f-ad0b7462dc5c
 # ╟─5c4a229a-619e-11eb-0ffb-d9d66c466081
