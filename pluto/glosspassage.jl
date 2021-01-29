@@ -40,8 +40,8 @@ md"Set up environment in hidden cell"
 # ╔═╡ 329b64b8-619c-11eb-0aad-a9cc35786c31
 md"## Gloss a passage of Hyginus"
 
-# ╔═╡ bce8f270-61aa-11eb-1c37-9357f10c085f
-
+# ╔═╡ bd775b98-61c4-11eb-0ee9-5d498c4222f2
+md"> Formatting by section"
 
 # ╔═╡ 5e24eb88-61a9-11eb-14af-0be9a467b6d8
 html"""
@@ -363,17 +363,14 @@ function sections()
 	unique(stringsonly)
 end
 
-# ╔═╡ 113f3666-61ab-11eb-1c4d-a7735a06246a
-begin
-	sects = sections()
-	map(sect -> addversion(addpassage(hyginusurn, sect),  "hc_tkns"), sects)
-	#secttokens = map(u -> formatToken(u), secturns)
-	#txt = join(psgtokens, " ")
-	#HTML(txt)
-end
+# ╔═╡ 45847858-61bc-11eb-3479-37239d94b914
+md"*Section to gloss*: $(@bind sect Select(sections()))"
 
-# ╔═╡ 022e14fa-61ab-11eb-0469-5fa14c60214e
-sections()
+# ╔═╡ d5fc252e-61bd-11eb-0c7f-bf11bf962b5e
+sectionurn = addversion(addpassage(hyginusurn, sect), "hc_tkns")
+
+# ╔═╡ 728ccdb8-61bd-11eb-1fcb-cfc0a0790363
+sectionlist = sections()
 
 # ╔═╡ 1d7a0d68-619d-11eb-23f8-e9d3f3e64670
 psglist = begin
@@ -399,6 +396,45 @@ tokenlexdf = begin
 	DataFrame(urn = urns, token = tokens, lexeme = lexemes)
 end
 
+# ╔═╡ a0325572-61bc-11eb-13ea-a7fa273cd1cb
+# Filter all analyses for  section currently selected by user from popup menu
+function analysesForSection()
+	analyses = filter(row -> urncontains(sectionurn, row[:urn]), tokenlexdf)
+end
+
+
+# ╔═╡ c916e702-61c4-11eb-1a9d-cf43ebdab305
+analysesForSection()
+
+# ╔═╡ 00e899f0-61c5-11eb-0059-05161dcc95f7
+sectionanalyses = analysesForSection()
+
+
+# ╔═╡ 15212fb8-61c5-11eb-3da9-1771b96ed95e
+
+	sectionanalyses[1, :urn]
+
+
+# ╔═╡ 9e3c2cbc-61be-11eb-2c94-7b1f30fd5567
+begin
+	matcheddf = analysesForSection()
+	sectionurns = unique(matcheddf[:, :urn])
+
+	#groupanalyes = groupedanalyses[(sectionurns[1],)]
+	
+	
+	#sectiontokens = map(u -> formatToken(u), sectionurns)
+	
+#	urn:cts:latinLit:stoa1263.stoa001.hc_tkns:t.1.0
+	#sectiontokens = map(u -> formatToken(u), sectionurns)
+	#sectiontext = join(sectiontokens, " ")
+	#HTML(sectiontext)
+end
+
+
+# ╔═╡ 58487650-61bd-11eb-223f-4d0e6dc6820e
+analysesForSection()
+
 # ╔═╡ 6704b952-619e-11eb-3a4d-bf899c82657c
 psganalyses = begin 
 	u = addpassage(hyginusurn, psg)
@@ -413,22 +449,20 @@ end
 
 
 # ╔═╡ 57e7fc3e-61a0-11eb-321c-d5bec1235449
+# Format token for HTML display.
+# tknurn is a token-level URN.
 function formatToken(tknurn) 
-	#tkn = psg * ".$(tnum)"
-	#tknurn = addversion(addpassage(psgurn, tkn), "hc_tkns")
 	analysesforgroup = groupedanalyses[(tknurn,)]
 	tstrings = analysesforgroup[:,:token]
 
 	possiblelexx = unique(analysesforgroup[:,:lexeme])
 	overlaps = intersect(possiblelexx, vocablist)
 	if isempty(overlaps)
-				"<span class='missing'>" * tstrings[1] * "</span>"
-
+		"<span class='missing'>" * tstrings[1] * "</span>"
 	else
-				tstrings[1]
+		tstrings[1]
 
-	end
-	
+	end	
 end
 
 # ╔═╡ a6b453b4-61a8-11eb-0b36-596e4daf4c11
@@ -439,26 +473,41 @@ begin
 	HTML(txt)
 end
 
+# ╔═╡ 61fba8fa-61c4-11eb-1ee4-315a48ed13e0
+groupedanalyses
+
+# ╔═╡ a13be67e-61c4-11eb-1dac-a5ee88fac2e8
+groupedanalyses
+
 # ╔═╡ Cell order:
 # ╟─472fff08-619c-11eb-0d5f-8bd3ae1f3dcd
 # ╟─4f5bf260-619c-11eb-2718-c9545ba95811
 # ╟─329b64b8-619c-11eb-0aad-a9cc35786c31
 # ╟─258b69f6-619d-11eb-1e0c-f9fb25d07a8d
-# ╠═bce8f270-61aa-11eb-1c37-9357f10c085f
-# ╠═a6b453b4-61a8-11eb-0b36-596e4daf4c11
-# ╟─5e24eb88-61a9-11eb-14af-0be9a467b6d8
+# ╟─a6b453b4-61a8-11eb-0b36-596e4daf4c11
+# ╟─bd775b98-61c4-11eb-0ee9-5d498c4222f2
+# ╟─45847858-61bc-11eb-3479-37239d94b914
+# ╟─d5fc252e-61bd-11eb-0c7f-bf11bf962b5e
+# ╟─a0325572-61bc-11eb-13ea-a7fa273cd1cb
+# ╠═c916e702-61c4-11eb-1a9d-cf43ebdab305
+# ╠═15212fb8-61c5-11eb-3da9-1771b96ed95e
+# ╠═00e899f0-61c5-11eb-0059-05161dcc95f7
+# ╠═5e24eb88-61a9-11eb-14af-0be9a467b6d8
 # ╟─405440e6-61a0-11eb-0e48-1f5e52c251ae
 # ╟─46401a5e-61a8-11eb-3570-f72b09b69b01
-# ╠═a67a38d0-61a0-11eb-0ba1-29e8cfd56945
-# ╟─57e7fc3e-61a0-11eb-321c-d5bec1235449
+# ╟─a67a38d0-61a0-11eb-0ba1-29e8cfd56945
+# ╠═57e7fc3e-61a0-11eb-321c-d5bec1235449
 # ╟─6704b952-619e-11eb-3a4d-bf899c82657c
-# ╟─0827eab0-61a0-11eb-295f-ad0b7462dc5c
+# ╠═0827eab0-61a0-11eb-295f-ad0b7462dc5c
+# ╠═61fba8fa-61c4-11eb-1ee4-315a48ed13e0
 # ╟─5c4a229a-619e-11eb-0ffb-d9d66c466081
 # ╟─7cabc3cc-619e-11eb-011d-0bdaa9fa1029
-# ╠═113f3666-61ab-11eb-1c4d-a7735a06246a
-# ╠═022e14fa-61ab-11eb-0469-5fa14c60214e
+# ╟─9e3c2cbc-61be-11eb-2c94-7b1f30fd5567
+# ╠═a13be67e-61c4-11eb-1dac-a5ee88fac2e8
+# ╠═58487650-61bd-11eb-223f-4d0e6dc6820e
 # ╟─d89aafaa-61aa-11eb-0ec6-d55941da2c7b
-# ╠═1d7a0d68-619d-11eb-23f8-e9d3f3e64670
+# ╟─728ccdb8-61bd-11eb-1fcb-cfc0a0790363
+# ╟─1d7a0d68-619d-11eb-23f8-e9d3f3e64670
 # ╟─6b6704fc-619c-11eb-2bec-c567d99716f3
 # ╟─9353d44a-619c-11eb-25c6-cf66bbbfc489
 # ╟─54100bc0-619f-11eb-199c-73f750aa2f76
