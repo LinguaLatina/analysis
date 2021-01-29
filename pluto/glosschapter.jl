@@ -51,10 +51,10 @@ hyginusurn = CtsUrn("urn:cts:latinLit:stoa1263.stoa001:")
 # ╔═╡ bed20180-624d-11eb-3d89-8b5d8e66a8a2
 md"""
 
->## Vocbulary needing glossing in Hyginus
+>## Vocabulary needing glossing in Hyginus
 >
 > - Select a passage.  
-> - Highlighted words do not parse to 250-word core vocabulary.
+> - Words not included in 250-word core vocabulary are highlighted.
 >
 """
 
