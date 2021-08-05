@@ -16,4 +16,9 @@ nav_order: 0
 
 ## Utilities in this repository
 
-- metrics for morphological content of a corpus
+Pluto notebooks analyzing vocabulary of Hyginus:
+
+
+- [Understanding vocabulary frequencies](https://lingualatina.github.io/analysis/notebooks/lexemepatterns-0.1.0.html) in Hyginus
+- Graph [coverage, by chapter of Hyginus, of core vocabulary list](https://lingualatina.github.io/analysis/notebooks/profilepsgs-0.1.0.html) 
+- See [vocabulary needing glossing](https://lingualatina.github.io/analysis/notebooks/glosschapter-0.1.0.html), by chapter of Hyginus
