@@ -28,4 +28,6 @@ Then, in this repository:
 
 
 - [Understanding vocabulary frequencies](https://lingualatina.github.io/analysis/notebooks/lexemepatterns-0.1.0.html) in Hyginus
+- Graph [coverage, by chapter, of core vocabulary list](https://lingualatina.github.io/analysis/notebooks/profilepsgs-0.1.0.html)
 - See [vocabulary needing glossing](https://lingualatina.github.io/analysis/notebooks/glosschapter-0.1.0.html), by chapter
+
