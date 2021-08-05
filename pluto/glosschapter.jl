@@ -23,7 +23,10 @@ begin
 	
 	using PlutoUI
 	
-	md"Notebook version:  **0.1.0**"
+	md"""Notebook version:  **0.1.0**
+	
+*Lingua Latina Legenda*: text analysis [web site](https://lingualatina.github.io/analysis/), and [github repository](https://github.com/lingualatina/analysis/)
+	"""
 end
 
 # ╔═╡ bed20180-624d-11eb-3d89-8b5d8e66a8a2

@@ -28,7 +28,10 @@ begin
 	using PlutoUI
 	
 	plotly()
-	md"Notebook version: **0.1.0**"
+		md"""Notebook version:  **0.1.0**
+	
+*Lingua Latina Legenda*: text analysis [web site](https://lingualatina.github.io/analysis/), and [github repository](https://github.com/lingualatina/analysis/)
+	"""
 end
 
 # ╔═╡ dfb69194-5fd8-11eb-2bad-e7e6201ff5aa
