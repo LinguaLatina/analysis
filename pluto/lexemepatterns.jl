@@ -34,7 +34,7 @@ end
 # ╔═╡ dfb69194-5fd8-11eb-2bad-e7e6201ff5aa
 md"""> ## Understanding vocabulary frequencies in Hyginus, *Fabulae*"
 >
-> 
+> - Summarize the relation of lexemes to coverage of the text of Hyginus.
 
 """
 
@@ -51,7 +51,7 @@ md"**3. Summary of coverage for `n` lexemes**"
 html"<br/><br/><br/><hr/>"
 
 # ╔═╡ a3e6cf7a-6010-11eb-0ffb-316b3fe61315
-md"> Graphing coverage"
+md"> Stuff you don't need to look at to use this notebook"
 
 # ╔═╡ a579d24d-8763-48e3-a423-b60dae8cbf87
 md"`x` and `y` ranges for plotting:"
