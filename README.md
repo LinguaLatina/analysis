@@ -23,3 +23,8 @@ Then, in this repository:
     - parse the word list (`fst-infl PARSER data/[pliny|hyginus]/[pliny|hyginus]-wordlist.txt | tee data/[pliny|hyginus]/[pliny|hyginus]-fst.txt`)
     - build a `LatinCorpus` from the FST output. (In scripts directory, `update[Pliny|Hyginus].sc`)
     - analyze a histogram of failed analyses (In scripts directory, `reviewVocab.sc`)
+
+## Pluto notebooks analyzing text of Hyginus
+
+
+- [Understanding vocabulary frequencies](https://lingualatina.github.io/analysis/notebooks/lexemepatterns-0.1.0.html) in Hyginus
