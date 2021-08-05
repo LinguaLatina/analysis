@@ -59,9 +59,6 @@ md"`x` and `y` ranges for plotting:"
 # ╔═╡ 54d1e082-5fd9-11eb-233b-39f68c5cbbc6
 md"> Compute overview of Hyginus"
 
-# ╔═╡ d216c3d2-60ec-11eb-04b2-1dc43271e68c
-#length(pos)
-
 # ╔═╡ 0b76083a-60ee-11eb-2b54-77337dff0a09
 md"\"Parts of speech\" (analytical patterns):"
 
@@ -1221,7 +1218,6 @@ version = "0.9.1+5"
 # ╟─b2ec0d80-6010-11eb-0f05-b9b38f4bdb8a
 # ╟─bd529052-6010-11eb-3fb5-9bfd390f722d
 # ╟─54d1e082-5fd9-11eb-233b-39f68c5cbbc6
-# ╠═d216c3d2-60ec-11eb-04b2-1dc43271e68c
 # ╠═2d9c2de0-60ec-11eb-2ce1-cd3b85a12a80
 # ╠═2dd83876-60ee-11eb-2b53-39e75f28c872
 # ╠═361c563c-60ee-11eb-24ec-17331d26a26c
