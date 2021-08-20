@@ -1,12 +1,21 @@
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CitableCorpus = "cf5ac11a-93ef-4a1a-97a3-f6af101603b5"
 CitableText = "41e66566-473b-49d4-85b7-da83b66615d8"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LatinOrthography = "1e3032c9-fa1e-4efb-a2df-a06f238f6146"
+Orthography = "0b4c9448-09b0-4e78-95ea-3eb3328be36d"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Tabulae = "a03c184b-2b42-4641-ae65-f14a9f5424c6"
 
 [compat]
 CSV = "0.8"
+CitableCorpus = "0.3"
+CitableText = "0.9"
 DataFrames = "1"
+LatinOrthography = "0.3"
+Orthography = "0.9"
 StatsBase = "0.33"
+Tabulae = "0.1"

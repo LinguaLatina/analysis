@@ -15,6 +15,11 @@ c31 = filter(cn -> urncontains(c31urn, cn.urn), c.corpus)
 # orthography with tokenizer
 selection = CitableTextCorpus([c30, c31])
 tkns = tokenize(latin23(), selection)
+alltkns = tokenize(latin23(), c)
 
 # Concordance of lexical items
 # Histogram of lexical items
+
+# Morphologicall parse lexical items
+# Concordance of lexemes
+# Histogram of lexemes
