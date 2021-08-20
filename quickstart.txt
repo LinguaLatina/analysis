@@ -1,0 +1,9 @@
+When you've built a new parser,
+
+1. reparse the corpus
+
+
+fst-infl  ../morphology/parsers/shared-shared-xls-lat23/latin.a data/hyginus/hyginus-wordlist.txt  | tee data/hyginus/hyginus-fst.txt
+
+
+2. build a new parsed corpus: from sbt console, load and use `scripts/updateHginus.sc`
