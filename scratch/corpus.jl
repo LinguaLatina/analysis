@@ -1,6 +1,8 @@
+# Work from a raw text corpus to compute token usage
 using CitableText
 using CitableCorpus
 using LatinOrthography, Orthography
+
 
 url = "https://raw.githubusercontent.com/LinguaLatina/texts/master/texts/latin23/hyginus.cex"
 
@@ -17,16 +19,11 @@ selection = combine(c30, c31)
 tkns = tokenize(latin23(), selection)
 alltkns = tokenize(latin23(), c)
 
-# Concordance of lexical items
-# Histogram of lexical items
+# Concordance of lexical tokens
+# Histogram of lexical tokens
 lexsel = filter(pr -> pr[2] == LexicalToken(), tkns)
 lcsel = map( pr -> lowercase(pr[1].text), lexsel)
 
 lex = filter(pr -> pr[2] == LexicalToken(), alltkns)
 lcwords =  map( pr -> lowercase(pr[1].text), lex)
 
-
-
-# Morphologicall parse lexical items
-# Concordance of lexemes
-# Histogram of lexemes
